@@ -1,3 +1,11 @@
 {
-    "files": []
+    "files": [
+        {
+            "sha256": "7323a23e4e98289a19e1e0e861e914eed37bddf4e407d732487958d2dc7e24a8",
+            "times_seen": 3,
+            "scan_result": "{'data': {'type': 'file', 'attributes': {'meaningful_name': '1mb.exe', 'names': ['1mb.exe', 'sample_file', 'sample.exe', '8.exe', 'mobile 1.2.0.exe', '1mb.pdf', '1740333416048-1mb.exe', '1740329582366-1mb.exe', '1740314604040-1mb.exe', '1740312257408-1mb.exe'], 'times_submitted': 290, 'type_extension': 'php', 'type_tag': 'php', 'first_seen_itw_date': 1739271265, 'unique_sources': 216, 'total_votes': {'harmless': 0, 'malicious': 0}, 'reputation': 0, 'first_submission_date': 1718020349, 'last_submission_date': 1746243455, 'magic': 'PHP script, ASCII text, with CRLF line terminators', 'type_tags': ['source', 'php'], 'size': 1048603, 'last_analysis_stats': {'malicious': 0, 'suspicious': 0, 'undetected': 61, 'harmless': 0, 'timeout': 0, 'confirmed-timeout': 0, 'failure': 0, 'type-unsupported': 15}, 'last_analysis_date': 1746243455, 'trid': [{'file_type': 'file seems to be plain text/ASCII', 'probability': 0.0}], 'type_description': 'PHP'}}}",
+            "categorization": "harmless",
+            "last_update": "2025-05-03 03:45:59"
+        }
+    ]
 }

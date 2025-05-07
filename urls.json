@@ -1,3 +1,8 @@
 {
+    "notes": [
+        "This dump may contain live malicious URLs. Please be careful when using them. I am not responsible for any damage caused by these URLs."
+    ],
+    "num_of_entries": 0,
+    "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": []
 }

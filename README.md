@@ -2,6 +2,9 @@
 
 This repository contains an automatically updated dump of Cockatoo's Threat Intelligence (CTI) database.
 
+## 🟣 Work in Progress
+This repo is currently not updated until the bot code is complete.
+
 ## About
 
 The goal of this repository is to provide a publicly accessible database with information collected by Cockatoo. The data is automatically updated and may serve as a resource for research, analysis, or educational purposes.

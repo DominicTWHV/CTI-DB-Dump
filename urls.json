@@ -1,29 +1,8 @@
 {
     "notes": [
-        "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
+        "This dump may contain live malicious URLs. Please be careful when using them. I am not responsible for any damage caused by these URLs."
     ],
-    "num_of_entries": 2,
+    "num_of_entries": 0,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
-    "links": [
-        {
-            "id": 8,
-            "url": "https://dieserbenni.ru/",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Malicious",
-            "is_redirect": 0,
-            "downstream_target": "https://dieserbenni.ru/",
-            "last_update": "2025-08-08 11:04:24"
-        },
-        {
-            "id": 7,
-            "url": "https://codebeautify.org/base64-to-image-converter",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "is_redirect": 0,
-            "downstream_target": "https://codebeautify.org/base64-to-image-converter",
-            "last_update": "2025-08-08 11:03:42"
-        }
-    ]
+    "links": []
 }

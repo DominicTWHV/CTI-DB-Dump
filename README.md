@@ -3,7 +3,7 @@
 This repository contains an automatically updated dump of Cockatoo's Threat Intelligence (CTI) database.
 
 > [!IMPORTANT]
-> Operational! Dumps will be made once per 12 hours.
+> Operational! Dumps will be made once per 24 hours.
 
 ## About
 

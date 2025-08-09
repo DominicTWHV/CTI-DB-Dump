@@ -1,8 +1,29 @@
 {
     "notes": [
-        "This dump may contain live malicious URLs. Please be careful when using them. I am not responsible for any damage caused by these URLs."
+        "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 0,
+    "num_of_entries": 2,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
-    "links": []
+    "links": [
+        {
+            "id": 1,
+            "url": "https://www.daehuaqian.com/web/?ckurl=https%3A%2F%2Fwww.daehuaqian.com%2Fic%2F",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.daehuaqian.com/web/?ckurl=https%3A%2F%2Fwww.daehuaqian.com%2Fic%2F",
+            "last_update": "2025-08-09 06:07:43"
+        },
+        {
+            "id": 2,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1403634386343170169/rapidsave.com_y85zrq9wkvhf1.gif?ex=689843e3&is=6896f263&hm=7dc925de8526bbd997699e1742c8f6d9c98889424e2b54c02680b6fffda61b0a&",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://cdn.discordapp.com/attachments/1077231862025551903/1403634386343170169/rapidsave.com_y85zrq9wkvhf1.gif?ex=689843e3&is=6896f263&hm=7dc925de8526bbd997699e1742c8f6d9c98889424e2b54c02680b6fffda61b0a&",
+            "last_update": "2025-08-09 07:02:17"
+        }
+    ]
 }

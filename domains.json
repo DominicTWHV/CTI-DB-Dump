@@ -2,7 +2,20 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 0,
+    "num_of_entries": 2,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
-    "domains": []
+    "domains": [
+        {
+            "domain": "daehuaqian.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Internet Services"
+        },
+        {
+            "domain": "discordapp.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Chatting"
+        }
+    ]
 }

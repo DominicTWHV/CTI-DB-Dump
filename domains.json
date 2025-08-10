@@ -2,9 +2,21 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 2,
+    "num_of_entries": 7,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
+        {
+            "domain": "aliexpress.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Shopping"
+        },
+        {
+            "domain": "crowdsec.net",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Internet Services"
+        },
         {
             "domain": "daehuaqian.com",
             "categorization": 1,
@@ -13,9 +25,27 @@
         },
         {
             "domain": "discordapp.com",
-            "categorization": 1,
+            "categorization": 3,
             "typing": "[DATA REDACTED]",
             "last_update": "Chatting"
+        },
+        {
+            "domain": "google.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Internet Services"
+        },
+        {
+            "domain": "tenor.com",
+            "categorization": 2,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Entertainment"
+        },
+        {
+            "domain": "youtube.com",
+            "categorization": 3,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Entertainment"
         }
     ]
 }

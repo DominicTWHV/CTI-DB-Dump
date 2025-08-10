@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 15,
+    "num_of_entries": 17,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -86,6 +86,16 @@
             "last_update": "2025-08-09 07:11:04"
         },
         {
+            "id": 16,
+            "url": "https://www.youtube.com/shorts/bHUH7dAZc0w",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": null,
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/shorts/bHUH7dAZc0w",
+            "last_update": "2025-08-10 10:41:37"
+        },
+        {
             "id": 1,
             "url": "https://www.daehuaqian.com/web/?ckurl=https%3A%2F%2Fwww.daehuaqian.com%2Fic%2F",
             "times_seen": 1,
@@ -114,6 +124,16 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1074993070174638162/1403735696702836827/ScreenRecording_02-09-2025_20-17-15_1.mov?ex=6898a23e&is=689750be&hm=f84289920bb49e82ac0aec08f3f67c5e8cd6556b13742374a935028032a4f149&",
             "last_update": "2025-08-09 13:45:03"
+        },
+        {
+            "id": 17,
+            "url": "https://a.aliexpress.com/_Ev5aE2I",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": null,
+            "is_redirect": 1,
+            "downstream_target": "https://www.aliexpress.com/item/1005008492347949.html?invitationCode=bG1CWVZON0JFVnFTbVo2ZnpIQnd4WjZSOWhlWHREMUpzM1NTVGFKTlo5ST0&srcSns=sns_Copy&spreadType=socialShare&social_params=61206769111&bizType=ProductDetail&spreadCode=bG1CWVZON0JFVnFTbVo2ZnpIQnd4WjZSOWhlWHREMUpzM1NTVGFKTlo5ST0&aff_fcid=567fd9271a95432fae944699c9187d76-1754823274891-03632-_Ev5aE2I&tt=MG&aff_fsk=_Ev5aE2I&aff_platform=default&sk=_Ev5aE2I&aff_trace_key=567fd9271a95432fae944699c9187d76-1754823274891-03632-_Ev5aE2I&shareId=61206769111&businessType=ProductDetail&platform=AE&terminal_id=2c9e376743e1420f82ceb494c40e2d63&afSmartRedirect=y",
+            "last_update": "2025-08-10 10:54:35"
         },
         {
             "id": 12,

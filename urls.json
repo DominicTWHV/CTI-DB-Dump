@@ -2,9 +2,59 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 2,
+    "num_of_entries": 12,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
+        {
+            "id": 10,
+            "url": "https://www.youtube.com/shorts/KQjGgKMnidY",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/shorts/KQjGgKMnidY",
+            "last_update": "2025-08-09 16:06:23"
+        },
+        {
+            "id": 6,
+            "url": "https://tenor.com/view/styropyro-mercury-hg-food-metal-gif-27568623",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://tenor.com/view/styropyro-mercury-hg-food-metal-gif-27568623",
+            "last_update": "2025-08-09 13:41:39"
+        },
+        {
+            "id": 8,
+            "url": "https://www.youtube.com/shorts/5_aVIK8MaOg",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/shorts/5_aVIK8MaOg",
+            "last_update": "2025-08-09 15:53:44"
+        },
+        {
+            "id": 11,
+            "url": "https://www.aliexpress.com/item/1005009592912669.html?spm=a2g0o.cart.0.0.39db38da3PDapI&mp=1&pdp_npi=5%40dis%21RON%21RON%208.72%21RON%205.73%21%21RON%205.73%21%21%21%40211b629217547650311523290e5b29%2112000049581572909%21ct%21RO%216269344177%21%211%210",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.aliexpress.com/item/1005009592912669.html?spm=a2g0o.cart.0.0.39db38da3PDapI&mp=1&pdp_npi=5%40dis%21RON%21RON%208.72%21RON%205.73%21%21RON%205.73%21%21%21%40211b629217547650311523290e5b29%2112000049581572909%21ct%21RO%216269344177%21%211%210",
+            "last_update": "2025-08-09 18:44:47"
+        },
+        {
+            "id": 3,
+            "url": "https://app.crowdsec.net/",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://app.crowdsec.net/",
+            "last_update": "2025-08-09 07:11:04"
+        },
         {
             "id": 1,
             "url": "https://www.daehuaqian.com/web/?ckurl=https%3A%2F%2Fwww.daehuaqian.com%2Fic%2F",
@@ -16,6 +66,46 @@
             "last_update": "2025-08-09 06:07:43"
         },
         {
+            "id": 4,
+            "url": "https://chromewebstore.google.com/category/extensions",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://chromewebstore.google.com/category/extensions",
+            "last_update": "2025-08-09 07:57:30"
+        },
+        {
+            "id": 7,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1403735696702836827/ScreenRecording_02-09-2025_20-17-15_1.mov?ex=6898a23e&is=689750be&hm=f84289920bb49e82ac0aec08f3f67c5e8cd6556b13742374a935028032a4f149&",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://cdn.discordapp.com/attachments/1074993070174638162/1403735696702836827/ScreenRecording_02-09-2025_20-17-15_1.mov?ex=6898a23e&is=689750be&hm=f84289920bb49e82ac0aec08f3f67c5e8cd6556b13742374a935028032a4f149&",
+            "last_update": "2025-08-09 13:45:03"
+        },
+        {
+            "id": 12,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1403827292232220923/VID_20250809_211542.mp4?ex=6898f78c&is=6897a60c&hm=d8bdf0b3014c783ff40f9e0b2714cf77866deb24008069a945426bd2dfd8e6cb&",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://cdn.discordapp.com/attachments/1114699489320644728/1403827292232220923/VID_20250809_211542.mp4?ex=6898f78c&is=6897a60c&hm=d8bdf0b3014c783ff40f9e0b2714cf77866deb24008069a945426bd2dfd8e6cb&",
+            "last_update": "2025-08-09 19:48:49"
+        },
+        {
+            "id": 5,
+            "url": "https://tenor.com/view/because-billy-on-the-street-gif-19193048",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://tenor.com/view/because-billy-on-the-street-gif-19193048",
+            "last_update": "2025-08-09 13:40:02"
+        },
+        {
             "id": 2,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1403634386343170169/rapidsave.com_y85zrq9wkvhf1.gif?ex=689843e3&is=6896f263&hm=7dc925de8526bbd997699e1742c8f6d9c98889424e2b54c02680b6fffda61b0a&",
             "times_seen": 1,
@@ -24,6 +114,16 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1077231862025551903/1403634386343170169/rapidsave.com_y85zrq9wkvhf1.gif?ex=689843e3&is=6896f263&hm=7dc925de8526bbd997699e1742c8f6d9c98889424e2b54c02680b6fffda61b0a&",
             "last_update": "2025-08-09 07:02:17"
+        },
+        {
+            "id": 9,
+            "url": "https://www.youtube.com/shorts/sHd1tJn1gFs",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/shorts/sHd1tJn1gFs",
+            "last_update": "2025-08-09 16:04:43"
         }
     ]
 }

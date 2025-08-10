@@ -2,12 +2,12 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 7,
+    "num_of_entries": 9,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
             "domain": "aliexpress.com",
-            "categorization": 1,
+            "categorization": 4,
             "typing": "[DATA REDACTED]",
             "last_update": "Shopping"
         },
@@ -36,14 +36,26 @@
             "last_update": "Internet Services"
         },
         {
+            "domain": "kaizerpowerelectronics.dk",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Knowledge"
+        },
+        {
             "domain": "tenor.com",
             "categorization": 4,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         },
         {
+            "domain": "youtu.be",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Entertainment"
+        },
+        {
             "domain": "youtube.com",
-            "categorization": 4,
+            "categorization": 8,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         }

@@ -37,13 +37,13 @@
         },
         {
             "domain": "tenor.com",
-            "categorization": 2,
+            "categorization": 4,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         },
         {
             "domain": "youtube.com",
-            "categorization": 3,
+            "categorization": 4,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         }

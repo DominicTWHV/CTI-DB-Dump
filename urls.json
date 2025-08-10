@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 17,
+    "num_of_entries": 19,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -14,6 +14,16 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/the-hell-are-you-doing-what-are-you-doing-whats-going-on-confused-whats-happening-gif-15659185",
             "last_update": "2025-08-10 09:55:54"
+        },
+        {
+            "id": 21,
+            "url": "https://youtu.be/LOIVrVVYBfA",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/watch?v=LOIVrVVYBfA&feature=youtu.be",
+            "last_update": "2025-08-10 14:55:48"
         },
         {
             "id": 14,
@@ -90,10 +100,10 @@
             "url": "https://www.youtube.com/shorts/bHUH7dAZc0w",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": null,
+            "categorization": "Harmless",
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/bHUH7dAZc0w",
-            "last_update": "2025-08-10 10:41:37"
+            "last_update": "2025-08-10 11:23:00"
         },
         {
             "id": 1,
@@ -130,10 +140,10 @@
             "url": "https://a.aliexpress.com/_Ev5aE2I",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": null,
+            "categorization": "Harmless",
             "is_redirect": 1,
-            "downstream_target": "https://www.aliexpress.com/item/1005008492347949.html?invitationCode=bG1CWVZON0JFVnFTbVo2ZnpIQnd4WjZSOWhlWHREMUpzM1NTVGFKTlo5ST0&srcSns=sns_Copy&spreadType=socialShare&social_params=61206769111&bizType=ProductDetail&spreadCode=bG1CWVZON0JFVnFTbVo2ZnpIQnd4WjZSOWhlWHREMUpzM1NTVGFKTlo5ST0&aff_fcid=567fd9271a95432fae944699c9187d76-1754823274891-03632-_Ev5aE2I&tt=MG&aff_fsk=_Ev5aE2I&aff_platform=default&sk=_Ev5aE2I&aff_trace_key=567fd9271a95432fae944699c9187d76-1754823274891-03632-_Ev5aE2I&shareId=61206769111&businessType=ProductDetail&platform=AE&terminal_id=2c9e376743e1420f82ceb494c40e2d63&afSmartRedirect=y",
-            "last_update": "2025-08-10 10:54:35"
+            "downstream_target": "https://www.aliexpress.com/item/1005008492347949.html?invitationCode=bG1CWVZON0JFVnFTbVo2ZnpIQnd4WjZSOWhlWHREMUpzM1NTVGFKTlo5ST0&srcSns=sns_Copy&spreadType=socialShare&social_params=61206769111&bizType=ProductDetail&spreadCode=bG1CWVZON0JFVnFTbVo2ZnpIQnd4WjZSOWhlWHREMUpzM1NTVGFKTlo5ST0&aff_fcid=456c5ab83860406c88801ca6f6b2df8b-1754825008904-02819-_Ev5aE2I&tt=MG&aff_fsk=_Ev5aE2I&aff_platform=default&sk=_Ev5aE2I&aff_trace_key=456c5ab83860406c88801ca6f6b2df8b-1754825008904-02819-_Ev5aE2I&shareId=61206769111&businessType=ProductDetail&platform=AE&terminal_id=8303128c378b4698b35faf8e29565f5d&afSmartRedirect=y",
+            "last_update": "2025-08-10 11:23:32"
         },
         {
             "id": 12,
@@ -154,6 +164,16 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/because-billy-on-the-street-gif-19193048",
             "last_update": "2025-08-09 13:40:02"
+        },
+        {
+            "id": 19,
+            "url": "https://kaizerpowerelectronics.dk/",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://kaizerpowerelectronics.dk/",
+            "last_update": "2025-08-10 11:19:59"
         },
         {
             "id": 2,

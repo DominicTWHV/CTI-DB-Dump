@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 9,
+    "num_of_entries": 15,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -25,9 +25,21 @@
         },
         {
             "domain": "discordapp.com",
-            "categorization": 3,
+            "categorization": 4,
             "typing": "[DATA REDACTED]",
             "last_update": "Chatting"
+        },
+        {
+            "domain": "gerbview.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Information Provider"
+        },
+        {
+            "domain": "github.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Information Provider"
         },
         {
             "domain": "google.com",
@@ -36,16 +48,40 @@
             "last_update": "Internet Services"
         },
         {
+            "domain": "jeffgeerling.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Blog"
+        },
+        {
             "domain": "kaizerpowerelectronics.dk",
             "categorization": 1,
             "typing": "[DATA REDACTED]",
             "last_update": "Knowledge"
         },
         {
+            "domain": "openai.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Internet Services"
+        },
+        {
             "domain": "tenor.com",
-            "categorization": 4,
+            "categorization": 6,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
+        },
+        {
+            "domain": "tiktok.com",
+            "categorization": 6,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Social Media"
+        },
+        {
+            "domain": "wikipedia.org",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Knowledge"
         },
         {
             "domain": "youtu.be",
@@ -55,7 +91,7 @@
         },
         {
             "domain": "youtube.com",
-            "categorization": 8,
+            "categorization": 11,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         }

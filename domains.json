@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 15,
+    "num_of_entries": 18,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -25,9 +25,15 @@
         },
         {
             "domain": "discordapp.com",
-            "categorization": 4,
+            "categorization": 5,
             "typing": "[DATA REDACTED]",
             "last_update": "Chatting"
+        },
+        {
+            "domain": "fixupx.com",
+            "categorization": 2,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Unknown"
         },
         {
             "domain": "gerbview.com",
@@ -60,6 +66,18 @@
             "last_update": "Knowledge"
         },
         {
+            "domain": "learnopengl.com",
+            "categorization": 2,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Education"
+        },
+        {
+            "domain": "ngrok.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Information Provider"
+        },
+        {
             "domain": "openai.com",
             "categorization": 1,
             "typing": "[DATA REDACTED]",
@@ -85,13 +103,13 @@
         },
         {
             "domain": "youtu.be",
-            "categorization": 1,
+            "categorization": 2,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         },
         {
             "domain": "youtube.com",
-            "categorization": 11,
+            "categorization": 13,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         }

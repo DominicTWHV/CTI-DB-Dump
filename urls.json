@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 36,
+    "num_of_entries": 41,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -44,6 +44,16 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/the-hell-are-you-doing-what-are-you-doing-whats-going-on-confused-whats-happening-gif-15659185",
             "last_update": "2025-08-10 09:55:54"
+        },
+        {
+            "id": 46,
+            "url": "https://learnopengl.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://learnopengl.com",
+            "last_update": "2025-08-12 14:46:09"
         },
         {
             "id": 21,
@@ -106,6 +116,16 @@
             "last_update": "2025-08-11 07:49:38"
         },
         {
+            "id": 40,
+            "url": "https://cdn.discordapp.com/attachments/1080026923209609286/1404590504955351062/snaptik_6983813347858861318.mov?ex=689bbe58&is=689a6cd8&hm=9a268af894ecc701a3cb88af28e0e3f84eeb70c8b58d6ef76f800ff632a5f3d4&",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://cdn.discordapp.com/attachments/1080026923209609286/1404590504955351062/snaptik_6983813347858861318.mov?ex=689bbe58&is=689a6cd8&hm=9a268af894ecc701a3cb88af28e0e3f84eeb70c8b58d6ef76f800ff632a5f3d4&",
+            "last_update": "2025-08-11 22:21:33"
+        },
+        {
             "id": 10,
             "url": "https://www.youtube.com/shorts/KQjGgKMnidY",
             "times_seen": 1,
@@ -114,6 +134,16 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/KQjGgKMnidY",
             "last_update": "2025-08-09 16:06:23"
+        },
+        {
+            "id": 43,
+            "url": "https://fixupx.com/AnaviTechnology/status/1954528146528592219",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Suspicious",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/AnaviTechnology/status/1954528146528592219",
+            "last_update": "2025-08-12 12:00:25"
         },
         {
             "id": 6,
@@ -226,6 +256,16 @@
             "last_update": "2025-08-09 06:07:43"
         },
         {
+            "id": 42,
+            "url": "https://fixupx.com/morchel/status/1954875505091695086",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/morchel/status/1954875505091695086",
+            "last_update": "2025-08-12 10:57:11"
+        },
+        {
             "id": 38,
             "url": "https://www.tiktok.com/@1antondaniels/video/7535730480755379487",
             "times_seen": 1,
@@ -274,6 +314,16 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1074993070174638162/1403735696702836827/ScreenRecording_02-09-2025_20-17-15_1.mov?ex=6898a23e&is=689750be&hm=f84289920bb49e82ac0aec08f3f67c5e8cd6556b13742374a935028032a4f149&",
             "last_update": "2025-08-09 13:45:03"
+        },
+        {
+            "id": 47,
+            "url": "https://ngrok.com/",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://ngrok.com/",
+            "last_update": "2025-08-12 19:51:04"
         },
         {
             "id": 24,

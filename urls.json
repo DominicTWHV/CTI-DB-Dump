@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 41,
+    "num_of_entries": 47,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -116,6 +116,16 @@
             "last_update": "2025-08-11 07:49:38"
         },
         {
+            "id": 50,
+            "url": "https://www.youtube.com/watch?v=Uw605nfvN0E",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/watch?v=Uw605nfvN0E",
+            "last_update": "2025-08-13 11:58:15"
+        },
+        {
             "id": 40,
             "url": "https://cdn.discordapp.com/attachments/1080026923209609286/1404590504955351062/snaptik_6983813347858861318.mov?ex=689bbe58&is=689a6cd8&hm=9a268af894ecc701a3cb88af28e0e3f84eeb70c8b58d6ef76f800ff632a5f3d4&",
             "times_seen": 1,
@@ -140,7 +150,7 @@
             "url": "https://fixupx.com/AnaviTechnology/status/1954528146528592219",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Suspicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/AnaviTechnology/status/1954528146528592219",
             "last_update": "2025-08-12 12:00:25"
@@ -204,6 +214,16 @@
             "is_redirect": 0,
             "downstream_target": "https://www.aliexpress.com/item/1005009592912669.html?spm=a2g0o.cart.0.0.39db38da3PDapI&mp=1&pdp_npi=5%40dis%21RON%21RON%208.72%21RON%205.73%21%21RON%205.73%21%21%21%40211b629217547650311523290e5b29%2112000049581572909%21ct%21RO%216269344177%21%211%210",
             "last_update": "2025-08-09 18:44:47"
+        },
+        {
+            "id": 53,
+            "url": "https://www.aliexpress.us/item/3256807742450514.html).",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.aliexpress.com/p/error/404.html",
+            "last_update": "2025-08-13 18:15:45"
         },
         {
             "id": 3,
@@ -326,6 +346,36 @@
             "last_update": "2025-08-12 19:51:04"
         },
         {
+            "id": 49,
+            "url": "https://www.youtube.com/watch?v=80keU03BsIU",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/watch?v=80keU03BsIU",
+            "last_update": "2025-08-13 00:03:38"
+        },
+        {
+            "id": 52,
+            "url": "https://www.youtube.com/shorts/6dRaiUue6i8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/shorts/6dRaiUue6i8",
+            "last_update": "2025-08-13 16:59:28"
+        },
+        {
+            "id": 51,
+            "url": "https://tenor.com/view/big-brain-markiplier-gif-14835823",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://tenor.com/view/big-brain-markiplier-gif-14835823",
+            "last_update": "2025-08-13 16:44:13"
+        },
+        {
             "id": 24,
             "url": "https://www.gerbview.com/",
             "times_seen": 1,
@@ -404,6 +454,16 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1077231862025551903/1403634386343170169/rapidsave.com_y85zrq9wkvhf1.gif?ex=689843e3&is=6896f263&hm=7dc925de8526bbd997699e1742c8f6d9c98889424e2b54c02680b6fffda61b0a&",
             "last_update": "2025-08-09 07:02:17"
+        },
+        {
+            "id": 48,
+            "url": "https://cdn.discordapp.com/attachments/1127844754961473647/1404945391530545222/The-funny-part-is-the-jersey-with-equality-on-it-1755035181743.mp4?ex=689d08db&is=689bb75b&hm=e9a1779af26146a4098428bee2333775956dd5e6cdf35adfc195da43ef73c506&",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://cdn.discordapp.com/attachments/1127844754961473647/1404945391530545222/The-funny-part-is-the-jersey-with-equality-on-it-1755035181743.mp4?ex=689d08db&is=689bb75b&hm=e9a1779af26146a4098428bee2333775956dd5e6cdf35adfc195da43ef73c506&",
+            "last_update": "2025-08-12 21:51:46"
         },
         {
             "id": 9,

@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 20,
+    "num_of_entries": 23,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -36,10 +36,22 @@
             "last_update": "Chatting"
         },
         {
+            "domain": "discordapp.net",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": null
+        },
+        {
             "domain": "fixupx.com",
             "categorization": 2,
             "typing": "[DATA REDACTED]",
             "last_update": "Unknown"
+        },
+        {
+            "domain": "fxtwitter.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Social Media"
         },
         {
             "domain": "gerbview.com",
@@ -106,6 +118,12 @@
             "categorization": 6,
             "typing": "[DATA REDACTED]",
             "last_update": "Social Media"
+        },
+        {
+            "domain": "we-online.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Information Provider"
         },
         {
             "domain": "wikipedia.org",

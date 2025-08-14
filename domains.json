@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 19,
+    "num_of_entries": 20,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -31,7 +31,7 @@
         },
         {
             "domain": "discordapp.com",
-            "categorization": 6,
+            "categorization": 7,
             "typing": "[DATA REDACTED]",
             "last_update": "Chatting"
         },
@@ -90,8 +90,14 @@
             "last_update": "Internet Services"
         },
         {
+            "domain": "raspberrypi.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Information Provider"
+        },
+        {
             "domain": "tenor.com",
-            "categorization": 7,
+            "categorization": 8,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         },

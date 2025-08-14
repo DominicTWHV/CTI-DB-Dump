@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 50,
+    "num_of_entries": 52,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -216,6 +216,16 @@
             "last_update": "2025-08-11 05:39:46"
         },
         {
+            "id": 58,
+            "url": "https://fxtwitter.com/paintaya/status/1955765998214373440",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fxtwitter.com/paintaya/status/1955765998214373440",
+            "last_update": "2025-08-14 14:24:26"
+        },
+        {
             "id": 13,
             "url": "https://www.youtube.com/shorts/nMfJaCdXAPU",
             "times_seen": 1,
@@ -414,6 +424,16 @@
             "is_redirect": 0,
             "downstream_target": "https://www.gerbview.com/",
             "last_update": "2025-08-10 21:27:42"
+        },
+        {
+            "id": 57,
+            "url": "https://www.we-online.com/en/components/products/WL-ICLED",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.we-online.com/en/components/products/WL-ICLED",
+            "last_update": "2025-08-14 06:18:19"
         },
         {
             "id": 17,

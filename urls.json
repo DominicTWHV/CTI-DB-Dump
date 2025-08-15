@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 52,
+    "num_of_entries": 57,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -16,6 +16,16 @@
             "last_update": "2025-08-11 04:54:45"
         },
         {
+            "id": 63,
+            "url": "https://cdn.discordapp.com/attachments/993597912938451056/1405914122654060707/V10702-172318.mp4?ex=68a08f0f&is=689f3d8f&hm=e99505d300c0547c27fc1ff7b924fc80ed39a1e39b1d02e45fa4ffc8bd8f6855&",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://cdn.discordapp.com/attachments/993597912938451056/1405914122654060707/V10702-172318.mp4?ex=68a08f0f&is=689f3d8f&hm=e99505d300c0547c27fc1ff7b924fc80ed39a1e39b1d02e45fa4ffc8bd8f6855&",
+            "last_update": "2025-08-15 14:01:08"
+        },
+        {
             "id": 32,
             "url": "https://platform.openai.com/docs/guides/moderation",
             "times_seen": 1,
@@ -24,6 +34,16 @@
             "is_redirect": 0,
             "downstream_target": "https://platform.openai.com/docs/guides/moderation",
             "last_update": "2025-08-11 06:01:26"
+        },
+        {
+            "id": 61,
+            "url": "https://www.kkinstagram.com/reel/DNLM-UAxQmU/?igsh=aG5qYzRqZG9lenQ3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://www.kkinstagram.com/reel/DNLM-UAxQmU/?igsh=aG5qYzRqZG9lenQ3",
+            "last_update": "2025-08-15 10:11:30"
         },
         {
             "id": 28,
@@ -96,6 +116,16 @@
             "last_update": "2025-08-10 23:20:23"
         },
         {
+            "id": 64,
+            "url": "https://youtu.be/PlHf5JjOwbA",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/watch?v=PlHf5JjOwbA&feature=youtu.be",
+            "last_update": "2025-08-15 14:37:18"
+        },
+        {
             "id": 36,
             "url": "https://www.tiktok.com/@marianamegyeri/video/7524394405692706079",
             "times_seen": 1,
@@ -104,6 +134,16 @@
             "is_redirect": 0,
             "downstream_target": "https://www.tiktok.com/@marianamegyeri/video/7524394405692706079",
             "last_update": "2025-08-11 08:07:35"
+        },
+        {
+            "id": 60,
+            "url": "https://tenor.com/view/sweeping-charles-barkley-gif-18506616",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://tenor.com/view/sweeping-charles-barkley-gif-18506616",
+            "last_update": "2025-08-15 01:00:13"
         },
         {
             "id": 54,
@@ -274,6 +314,16 @@
             "is_redirect": 0,
             "downstream_target": "https://app.crowdsec.net/",
             "last_update": "2025-08-09 07:11:04"
+        },
+        {
+            "id": 62,
+            "url": "https://www.instagram.com/reel/DNLM-UAxQmU/?igsh=aG5qYzRqZG9lenQ3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.instagram.com/reel/DNLM-UAxQmU/?igsh=aG5qYzRqZG9lenQ3",
+            "last_update": "2025-08-15 10:13:40"
         },
         {
             "id": 29,

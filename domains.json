@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 23,
+    "num_of_entries": 25,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -31,7 +31,7 @@
         },
         {
             "domain": "discordapp.com",
-            "categorization": 7,
+            "categorization": 8,
             "typing": "[DATA REDACTED]",
             "last_update": "Chatting"
         },
@@ -72,6 +72,12 @@
             "last_update": "Internet Services"
         },
         {
+            "domain": "instagram.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Social Media"
+        },
+        {
             "domain": "jeffgeerling.com",
             "categorization": 1,
             "typing": "[DATA REDACTED]",
@@ -82,6 +88,12 @@
             "categorization": 1,
             "typing": "[DATA REDACTED]",
             "last_update": "Knowledge"
+        },
+        {
+            "domain": "kkinstagram.com",
+            "categorization": 1,
+            "typing": "[DATA REDACTED]",
+            "last_update": "Unknown"
         },
         {
             "domain": "learnopengl.com",
@@ -109,7 +121,7 @@
         },
         {
             "domain": "tenor.com",
-            "categorization": 8,
+            "categorization": 9,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         },
@@ -133,7 +145,7 @@
         },
         {
             "domain": "youtu.be",
-            "categorization": 2,
+            "categorization": 3,
             "typing": "[DATA REDACTED]",
             "last_update": "Entertainment"
         },

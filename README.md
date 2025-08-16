@@ -5,6 +5,8 @@ This repository contains an automatically updated dump of Cockatoo's Threat Inte
 > [!IMPORTANT]
 > Operational! Dumps will be made once per 24 hours.
 
+I'm also working to provide some information instead of the `[REDACTED]` field, will update when the new code is in production.
+
 ## About
 
 The goal of this repository is to provide a publicly accessible database with information collected by Cockatoo. The data is automatically updated and may serve as a resource for research, analysis, or educational purposes.

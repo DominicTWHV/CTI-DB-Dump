@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 57,
+    "num_of_entries": 59,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -34,6 +34,16 @@
             "is_redirect": 0,
             "downstream_target": "https://platform.openai.com/docs/guides/moderation",
             "last_update": "2025-08-11 06:01:26"
+        },
+        {
+            "id": 65,
+            "url": "https://www.youtube.com/watch?v=TYMQ4SHdNoM",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/watch?v=TYMQ4SHdNoM",
+            "last_update": "2025-08-15 22:04:55"
         },
         {
             "id": 61,
@@ -334,6 +344,16 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/DmvQbaKmHLA",
             "last_update": "2025-08-11 03:24:36"
+        },
+        {
+            "id": 66,
+            "url": "https://www.youtube.com/watch?v=lbFKDNOYW3w",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/watch?v=lbFKDNOYW3w",
+            "last_update": "2025-08-16 02:01:32"
         },
         {
             "id": 37,

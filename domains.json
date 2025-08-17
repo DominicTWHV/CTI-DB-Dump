@@ -2,158 +2,288 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 25,
+    "num_of_entries": 35,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
             "domain": "aliexpress.com",
-            "categorization": 4,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Shopping"
+            "times_seen": 5,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-09 18:44:43"
         },
         {
             "domain": "aliexpress.us",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Shopping"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-13 18:15:41"
+        },
+        {
+            "domain": "amazon.ca",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-16 13:41:36"
+        },
+        {
+            "domain": "appcargo.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-16 09:17:07"
+        },
+        {
+            "domain": "cloudflare.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-16 23:16:02"
         },
         {
             "domain": "crowdsec.net",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Internet Services"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-09 07:11:00"
         },
         {
             "domain": "daehuaqian.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Internet Services"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-09 06:07:38"
+        },
+        {
+            "domain": "discord.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Chatting",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-16 04:36:57"
         },
         {
             "domain": "discordapp.com",
-            "categorization": 8,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Chatting"
+            "times_seen": 9,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Chatting",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-09 07:02:14"
         },
         {
             "domain": "discordapp.net",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": null
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Chatting",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-14 14:37:06"
+        },
+        {
+            "domain": "dontasktoask.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-17 05:48:56"
+        },
+        {
+            "domain": "example.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-08-17 06:56:04"
+        },
+        {
+            "domain": "fightchatcontrol.eu",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-08-17 16:08:28"
         },
         {
             "domain": "fixupx.com",
-            "categorization": 2,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Unknown"
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-12 10:57:07"
         },
         {
             "domain": "fxtwitter.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Social Media"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-14 14:24:22"
         },
         {
             "domain": "gerbview.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Information Provider"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Information Provider",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-10 21:27:39"
         },
         {
             "domain": "github.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Information Provider"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Information Provider",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-11 06:09:53"
         },
         {
             "domain": "google.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Internet Services"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-09 07:57:26"
         },
         {
             "domain": "instagram.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Social Media"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-15 10:13:36"
         },
         {
             "domain": "jeffgeerling.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Blog"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-10 21:32:08"
         },
         {
             "domain": "kaizerpowerelectronics.dk",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Knowledge"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-10 11:19:55"
         },
         {
             "domain": "kkinstagram.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Unknown"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-15 10:11:16"
         },
         {
             "domain": "learnopengl.com",
-            "categorization": 2,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Education"
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Education",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-12 14:45:52"
         },
         {
             "domain": "ngrok.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Information Provider"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Information Provider",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-12 19:51:01"
         },
         {
             "domain": "openai.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Internet Services"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-11 06:01:24"
         },
         {
             "domain": "raspberrypi.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Information Provider"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Information Provider",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-14 05:05:06"
+        },
+        {
+            "domain": "renesas.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-16 11:36:50"
         },
         {
             "domain": "tenor.com",
-            "categorization": 9,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Entertainment"
+            "times_seen": 26,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Entertainment",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-09 13:39:59"
         },
         {
             "domain": "tiktok.com",
-            "categorization": 6,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Social Media"
+            "times_seen": 6,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-11 04:54:40"
+        },
+        {
+            "domain": "twitter.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-17 09:40:41"
         },
         {
             "domain": "we-online.com",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Information Provider"
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Information Provider",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-14 06:18:15"
         },
         {
             "domain": "wikipedia.org",
-            "categorization": 1,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Knowledge"
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-10 21:22:44"
+        },
+        {
+            "domain": "x.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-17 09:38:25"
         },
         {
             "domain": "youtu.be",
-            "categorization": 3,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Entertainment"
+            "times_seen": 5,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Entertainment",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-10 14:55:44"
         },
         {
             "domain": "youtube.com",
-            "categorization": 18,
-            "typing": "[DATA REDACTED]",
-            "last_update": "Entertainment"
+            "times_seen": 20,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Entertainment",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-09 15:53:39"
         }
     ]
 }

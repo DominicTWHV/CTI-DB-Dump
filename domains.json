@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 35,
+    "num_of_entries": 39,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -54,6 +54,14 @@
             "last_update": "2025-08-09 07:11:00"
         },
         {
+            "domain": "curseforge.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Gaming",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-18 18:54:55"
+        },
+        {
             "domain": "daehuaqian.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -71,7 +79,7 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 9,
+            "times_seen": 12,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
@@ -97,15 +105,15 @@
             "domain": "example.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
-            "is_whitelisted": 0,
+            "typing": "Internet Services",
+            "is_whitelisted": 1,
             "last_update": "2025-08-17 06:56:04"
         },
         {
             "domain": "fightchatcontrol.eu",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Unknown",
             "is_whitelisted": 0,
             "last_update": "2025-08-17 16:08:28"
         },
@@ -116,6 +124,14 @@
             "typing": "Unknown",
             "is_whitelisted": 0,
             "last_update": "2025-08-12 10:57:07"
+        },
+        {
+            "domain": "freedium.cfd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-18 20:36:59"
         },
         {
             "domain": "fxtwitter.com",
@@ -143,7 +159,7 @@
         },
         {
             "domain": "google.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Internet Services",
             "is_whitelisted": 1,
@@ -154,7 +170,7 @@
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
-            "is_whitelisted": 0,
+            "is_whitelisted": 1,
             "last_update": "2025-08-15 10:13:36"
         },
         {
@@ -190,6 +206,14 @@
             "last_update": "2025-08-12 14:45:52"
         },
         {
+            "domain": "localsend.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-18 00:42:33"
+        },
+        {
             "domain": "ngrok.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -223,7 +247,7 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 26,
+            "times_seen": 29,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
@@ -234,7 +258,7 @@
             "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
-            "is_whitelisted": 0,
+            "is_whitelisted": 1,
             "last_update": "2025-08-11 04:54:40"
         },
         {
@@ -246,6 +270,14 @@
             "last_update": "2025-08-17 09:40:41"
         },
         {
+            "domain": "vch.ca",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Health",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-17 21:54:36"
+        },
+        {
             "domain": "we-online.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -255,7 +287,7 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
@@ -265,13 +297,13 @@
             "domain": "x.com",
             "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
-            "is_whitelisted": 0,
+            "typing": "Social Media",
+            "is_whitelisted": 1,
             "last_update": "2025-08-17 09:38:25"
         },
         {
             "domain": "youtu.be",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
@@ -279,7 +311,7 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 20,
+            "times_seen": 22,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,

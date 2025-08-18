@@ -2,9 +2,20 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 92,
+    "num_of_entries": 106,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
+        {
+            "id": 103,
+            "url": "https://en.wikipedia.org/wiki/Thermal_energy_storage",
+            "url_hash": "01283d9ad55bd014291efb303ce6c1d89331b443612d0138ca82f28c4a3a884d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 00:04:35"
+        },
         {
             "id": 30,
             "url": "https://www.tiktok.com/@americanfreedomdefenders/video/7535919918068387086",
@@ -26,6 +37,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/993597912938451056/1405914122654060707/V10702-172318.mp4?ex=68a08f0f&is=689f3d8f&hm=e99505d300c0547c27fc1ff7b924fc80ed39a1e39b1d02e45fa4ffc8bd8f6855&",
             "last_update": "2025-08-15 14:01:08"
+        },
+        {
+            "id": 104,
+            "url": "https://www.youtube.com/watch?v=15ga4KMSWqU",
+            "url_hash": "0be761f121c008437e0089afb1b7042c3f6ee0f2e2652cd4353c048b4db39cb8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 00:08:45"
         },
         {
             "id": 32,
@@ -81,6 +103,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=TYMQ4SHdNoM",
             "last_update": "2025-08-15 22:04:55"
+        },
+        {
+            "id": 109,
+            "url": "https://tenor.com/view/horse-spinning-water-water-hose-horsey-gif-5575530196590168122",
+            "url_hash": "18c5b133caf46cd623fd0b9e4e9ef88e2fd280365f4defe7d9e703fc8d4b3e0c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 13:25:29"
         },
         {
             "id": 61,
@@ -187,7 +220,7 @@
             "url_hash": "285dd519c39001142c01208f891bbb7dc008bdf678242f91c563b593fe2ea68f",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Suspicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://x.com/tatapomn/status/1956923958751850949",
             "last_update": "2025-08-17 09:38:37"
@@ -215,6 +248,17 @@
             "last_update": "2025-08-11 08:07:35"
         },
         {
+            "id": 108,
+            "url": "https://tenor.com/view/cheese-james-may-gif-19266123",
+            "url_hash": "31c72bbe7c979be55dd8e1774d3271d39c0319e297e73c7bd9353dcbde94b5cd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 13:24:50"
+        },
+        {
             "id": 70,
             "url": "https://www.youtube.com/shorts/6WmWRb9bWU0",
             "url_hash": "32b7c27a33e2cd8ddba5afe90335ab1cc093c22a6345c367b82c81b832720db6",
@@ -224,6 +268,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/6WmWRb9bWU0",
             "last_update": "2025-08-16 07:45:14"
+        },
+        {
+            "id": 110,
+            "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1406992402517983364/RPReplay_Final1697161733.mov?ex=68a47b49&is=68a329c9&hm=231ca508c1e3316e53aff70ff313d4b30721dd1a5f4d687f5dc3f630d0fe97f9&",
+            "url_hash": "3448c9d6a140ce9f6763c9081d45efd2653b64cba0808a74b3ef11d48d5edc35",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 13:25:30"
         },
         {
             "id": 60,
@@ -319,7 +374,7 @@
             "url_hash": "4ade82c8c32b2cb329ebed8437eebd27deeeeb32db959899af6bb8e6d81a748f",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Suspicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://x.com",
             "last_update": "2025-08-17 09:39:39"
@@ -435,6 +490,17 @@
             "last_update": "2025-08-14 14:24:26"
         },
         {
+            "id": 113,
+            "url": "https://youtu.be/zfDJ3jFS0-M?si=BHfyKtfS4bo0FAeZ",
+            "url_hash": "67267237c2098c8f538b7b2e6a4c744c84c9a78944c75833c3a254fc7142e3b6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Suspicious",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 18:34:06"
+        },
+        {
             "id": 13,
             "url": "https://www.youtube.com/shorts/nMfJaCdXAPU",
             "url_hash": "6d58a169fa52c3f9bea8fccefe582128d7481d92a67ed2a1254756d28805f49f",
@@ -466,6 +532,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1101586623206019223/1406413174583988385/AQMBwHLIL_RMMVkUQxHnb70SxVxupKMu8A09SSwJGv1XWPQH6omq_pUZFF6JlRwDUKjfA0CLE1V_Jtids6QDKfR4O7hEL1ahk0OFEntYRXHbvA.mp4?ex=68a25fd6&is=68a10e56&hm=1030190766745e30678f1122aacd205c6e182be814c445684e644912fdfadb13&",
             "last_update": "2025-08-16 23:04:05"
+        },
+        {
+            "id": 102,
+            "url": "https://www.vch.ca/en",
+            "url_hash": "7452f0c6804e97ebf10ec70af4cf34d581987388c3a467ccc47484818f5f0bdb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.vch.ca/en",
+            "last_update": "2025-08-17 21:54:45"
         },
         {
             "id": 89,
@@ -532,6 +609,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:30:29"
+        },
+        {
+            "id": 105,
+            "url": "https://localsend.org/ru",
+            "url_hash": "8a6414312d08aafb0c4e764cabf8f10e234a7b31facae4bc6f3dc63ba4f5ed95",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://localsend.org/ru",
+            "last_update": "2025-08-18 00:42:42"
         },
         {
             "id": 62,
@@ -658,12 +746,12 @@
             "id": 77,
             "url": "https://tenor.com/view/mickey-mouse-thinking-cartoon-gif-5259286850071296165",
             "url_hash": "a6db4a0d159e618ea70e3dbedd35209d61e203f2e721e33fca1cb3b3d87c20bd",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-08-17 07:31:45"
+            "last_update": "2025-08-18 10:00:11"
         },
         {
             "id": 39,
@@ -721,6 +809,17 @@
             "last_update": "2025-08-17 07:27:39"
         },
         {
+            "id": 112,
+            "url": "https://drive.google.com/drive/folders/1rdwypYFoP7Ytl7oKWhqTIJ9o86fpRF3z",
+            "url_hash": "b6c3b769e05ba9d2489096713e2b15a9768018eedc60e03054c69522f30f65fd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 15:01:10"
+        },
+        {
             "id": 47,
             "url": "https://ngrok.com/",
             "url_hash": "bbc842f2d46c62717d28f26b87a26eb113070d07847eb3ac202abb875b2d5636",
@@ -752,6 +851,17 @@
             "is_redirect": 0,
             "downstream_target": "https://discord.com/channels/1074967630357725204/1089941811751043122/1406109258574987295",
             "last_update": "2025-08-16 04:37:00"
+        },
+        {
+            "id": 114,
+            "url": "https://www.curseforge.com/minecraft/mc-mods/mythic-mounts",
+            "url_hash": "c3a5b5d57db8580cd815da7aeddb8f1c284f8a7d776ff0c0c2576fb2a4579f5d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.curseforge.com/minecraft/mc-mods/mythic-mounts",
+            "last_update": "2025-08-18 18:55:04"
         },
         {
             "id": 49,
@@ -829,6 +939,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.we-online.com/en/components/products/WL-ICLED",
             "last_update": "2025-08-14 06:18:19"
+        },
+        {
+            "id": 107,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1406986882960855154/IMG_6480.mov?ex=68a47625&is=68a324a5&hm=989d285a46de25a5066f2334263d3b9fa275062dd78d1d7d57f2632a255dad20&",
+            "url_hash": "d2ab0ef574c90de6466a3df15db6ce5f0f679c5148304f6e6830b4b1eb1db3ce",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 13:03:35"
         },
         {
             "id": 17,
@@ -963,6 +1084,17 @@
             "last_update": "2025-08-10 11:19:59"
         },
         {
+            "id": 115,
+            "url": "https://freedium.cfd/38d1e0070fbf",
+            "url_hash": "f1e24ac9565a564d33f3a95986d8cc3283b48759f94e316717f28c76099ba637",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://freedium.cfd/38d1e0070fbf",
+            "last_update": "2025-08-18 20:37:21"
+        },
+        {
             "id": 100,
             "url": "https://twitter.com",
             "url_hash": "f3e57dc69a267b95b412c9de909042c68742c25591038c6bd7e03e75b8b91052",
@@ -996,6 +1128,17 @@
             "last_update": "2025-08-09 07:02:17"
         },
         {
+            "id": 106,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1406985587461718077/RPReplay_Final1715954746.mov?ex=68a474f0&is=68a32370&hm=6004f7605ac571f1ee5e89e5e10f0997fbbeaef0fe221183d946c137bf20b459&",
+            "url_hash": "f6dea976147d4176fce28881eb5b1f202b59e83cbd46a3c29debf15f8caa2013",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 12:58:26"
+        },
+        {
             "id": 48,
             "url": "https://cdn.discordapp.com/attachments/1127844754961473647/1404945391530545222/The-funny-part-is-the-jersey-with-equality-on-it-1755035181743.mp4?ex=689d08db&is=689bb75b&hm=e9a1779af26146a4098428bee2333775956dd5e6cdf35adfc195da43ef73c506&",
             "url_hash": "f90518e7a9ce9e9e38c298e730af7098c6521610023e57f22ec046fe72855339",
@@ -1005,6 +1148,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1127844754961473647/1404945391530545222/The-funny-part-is-the-jersey-with-equality-on-it-1755035181743.mp4?ex=689d08db&is=689bb75b&hm=e9a1779af26146a4098428bee2333775956dd5e6cdf35adfc195da43ef73c506&",
             "last_update": "2025-08-12 21:51:46"
+        },
+        {
+            "id": 111,
+            "url": "https://www.youtube.com/watch?v=4e4iMAU0DDM",
+            "url_hash": "fb83b03364480ec25a89640d512c805247beaafa57db245ff09d45e9c313290d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-18 14:31:56"
         },
         {
             "id": 9,

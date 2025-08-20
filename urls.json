@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 106,
+    "num_of_entries": 112,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -479,6 +479,17 @@
             "last_update": "2025-08-11 05:39:46"
         },
         {
+            "id": 119,
+            "url": "https://youtu.be/447yaU_4DF8",
+            "url_hash": "60a49f52f44a924187fc086afb7c20c28c1005868b2bf932e15df39ffd4fa867",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-19 05:54:24"
+        },
+        {
             "id": 58,
             "url": "https://fxtwitter.com/paintaya/status/1955765998214373440",
             "url_hash": "63f1be2761a1caa8ea1c14df212dc900bd0d40f477fc3f93117096e1b9dac8fb",
@@ -495,7 +506,7 @@
             "url_hash": "67267237c2098c8f538b7b2e6a4c744c84c9a78944c75833c3a254fc7142e3b6",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Suspicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 18:34:06"
@@ -719,6 +730,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:34:41"
+        },
+        {
+            "id": 120,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1407432583750357012/20250819_2127331.mp4?ex=68a6153c&is=68a4c3bc&hm=da433900fd4af88ec1eaac1503348c50d29e40d9b42196056320da114d1f171b&",
+            "url_hash": "96247c8a67121f438156138d29587197b6997b29c6c43b669725cd0f3e355edd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-19 18:34:39"
         },
         {
             "id": 42,
@@ -999,12 +1021,12 @@
             "id": 33,
             "url": "https://github.com/DominicTWHV/CTI-DB-Dump",
             "url_hash": "dbba780f2e4fd435fc78098988dab48371a880202eb9e0f720704f9bcb6060de",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://github.com/DominicTWHV/CTI-DB-Dump",
-            "last_update": "2025-08-11 06:09:55"
+            "last_update": "2025-08-20 03:59:40"
         },
         {
             "id": 12,
@@ -1040,6 +1062,17 @@
             "last_update": "2025-08-17 03:08:54"
         },
         {
+            "id": 121,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1407440070738186350/20250819_2159241.mp4?ex=68a61c35&is=68a4cab5&hm=b6ce59d717f18c3c630b2aa363f53ca28e056d340bf5cefeae4870a01c69b7a4&",
+            "url_hash": "e0982030a7b1a09e5a3ba0d05c62b083b72bd9bc96b7d8ffd1df1ef9cc401279",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-19 19:04:24"
+        },
+        {
             "id": 73,
             "url": "https://www.renesas.com/en/document/scd/cm-410-aap-file?language=en&r=25565932",
             "url_hash": "e0afb58cfba052165f63ab8e0be42494499c75cc53fce06c666c4a85ad64b9e2",
@@ -1060,6 +1093,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/because-billy-on-the-street-gif-19193048",
             "last_update": "2025-08-09 13:40:02"
+        },
+        {
+            "id": 116,
+            "url": "https://twitter.com/xavoto_fox/status/1957134970989744624",
+            "url_hash": "ebf8a73b390d5721313d1749ff9c1d5a8ec621ee218f9c70b7669cfd506786e0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-19 00:04:31"
         },
         {
             "id": 84,
@@ -1139,6 +1183,17 @@
             "last_update": "2025-08-18 12:58:26"
         },
         {
+            "id": 117,
+            "url": "https://www.youtube.com/shorts/zpPYO9MrJhY",
+            "url_hash": "f9019a6d8101a84f9265f37eb8b36d21e37fa4eff3592572e95ed049385a1efc",
+            "times_seen": 3,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-19 05:53:20"
+        },
+        {
             "id": 48,
             "url": "https://cdn.discordapp.com/attachments/1127844754961473647/1404945391530545222/The-funny-part-is-the-jersey-with-equality-on-it-1755035181743.mp4?ex=689d08db&is=689bb75b&hm=e9a1779af26146a4098428bee2333775956dd5e6cdf35adfc195da43ef73c506&",
             "url_hash": "f90518e7a9ce9e9e38c298e730af7098c6521610023e57f22ec046fe72855339",
@@ -1170,6 +1225,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/sHd1tJn1gFs",
             "last_update": "2025-08-09 16:04:43"
+        },
+        {
+            "id": 118,
+            "url": "https://cdn.discordapp.com/attachments/1234259655941947435/1407207918134362183/SPOILER_Sequence_01.mp4?ex=68a54400&is=68a3f280&hm=e6a49e3c804c6a8d8a2d9585a7e5c03db4fd59421c878741c6f0c300232837bf&",
+            "url_hash": "fe6535df69e59432b76f87703cdbef5ceed787f8cb41e3212413653a15c3d093",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-19 03:41:54"
         }
     ]
 }

@@ -79,7 +79,7 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 12,
+            "times_seen": 15,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
@@ -151,7 +151,7 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Information Provider",
             "is_whitelisted": 0,
@@ -263,7 +263,7 @@
         },
         {
             "domain": "twitter.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
@@ -303,7 +303,7 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 6,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
@@ -311,7 +311,7 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 22,
+            "times_seen": 25,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,

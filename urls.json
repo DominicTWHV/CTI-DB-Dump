@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 112,
+    "num_of_entries": 126,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -15,6 +15,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 00:04:35"
+        },
+        {
+            "id": 123,
+            "url": "https://imgur.com/sKvEFi4",
+            "url_hash": "037c6ff6d17814dccbc10d5b957a3b2e2faad748476c28df757c03cb76ed2aff",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://imgur.com/sKvEFi4",
+            "last_update": "2025-08-20 09:09:10"
         },
         {
             "id": 30,
@@ -37,6 +48,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/993597912938451056/1405914122654060707/V10702-172318.mp4?ex=68a08f0f&is=689f3d8f&hm=e99505d300c0547c27fc1ff7b924fc80ed39a1e39b1d02e45fa4ffc8bd8f6855&",
             "last_update": "2025-08-15 14:01:08"
+        },
+        {
+            "id": 129,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1407814425637031946/VID_20250820_225017_686.mp4?ex=68a778da&is=68a6275a&hm=b1efa830672a6d510b6da3d55a303c89e4c80971839e4691ab3f726aae80ed31&",
+            "url_hash": "098ebda9c3e32901f3d63e8d360b3bad7fa011381e58b2d8e70787492e26abf9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-20 19:51:57"
         },
         {
             "id": 104,
@@ -292,6 +314,28 @@
             "last_update": "2025-08-15 01:00:13"
         },
         {
+            "id": 134,
+            "url": "https://www.youtube.com/watch?v=FxpvUhYb8gs&t=57s",
+            "url_hash": "3762c4de0e27aa787192a91cbb117437c657d30107a9fed4f1d04b2fecf94cdc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-21 02:30:22"
+        },
+        {
+            "id": 132,
+            "url": "https://www.reddit.com/r/soldering/s/PQqlgVtA78)",
+            "url_hash": "38cbd361cfa25eac91788d9681b3f444c2335bc3c11f0073dd0e8fc20d99f135",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/soldering/",
+            "last_update": "2025-08-20 21:16:40"
+        },
+        {
             "id": 71,
             "url": "https://appcargo.com",
             "url_hash": "390cdd46f09c053691350de14de6bbf70f5f22d385031bfe79d41c0e22147781",
@@ -334,6 +378,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/elmo-fire-flames-hell-dying-gif-4796519",
             "last_update": "2025-08-10 09:01:55"
+        },
+        {
+            "id": 127,
+            "url": "https://tenor.com/view/wire-tailed-manakin-silly-bird-manakin-bird-jumpy-bird-gif-15358237574435400801",
+            "url_hash": "40680657146bec756f4ae7f265d7801d6378232c74907d67f1afc9257333a79a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-20 16:41:56"
         },
         {
             "id": 34,
@@ -644,6 +699,17 @@
             "last_update": "2025-08-15 10:13:40"
         },
         {
+            "id": 126,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1407763955082068069/20250820_202652.mp4?ex=68a749d9&is=68a5f859&hm=be4853942e3ff54a02e4847b72c1960a9c5c6a4d8df3c0373642bcc6b66aa362&",
+            "url_hash": "8c2272052212683fc12952366051d1363491cbd83a6d5d43863b3bff553e29c9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-20 16:31:24"
+        },
+        {
             "id": 97,
             "url": "https://www.aliexpress.com/item/1005008790325250.html?",
             "url_hash": "8c9a37089b6ea78c1c43c884a7d0ac0e62eb5dda7b427da5a11361302b323ebf",
@@ -831,6 +897,28 @@
             "last_update": "2025-08-17 07:27:39"
         },
         {
+            "id": 128,
+            "url": "https://guthib.com",
+            "url_hash": "afa40909b6aca3a5394a0ea0823313f039abf62e44b5a9c09d19ad673e7f8a6f",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://guthib.com",
+            "last_update": "2025-08-20 19:09:46"
+        },
+        {
+            "id": 130,
+            "url": "https://www.printables.com/@Magmabow/models?ordering=downloads",
+            "url_hash": "b12fbf479f07b47fe1ca74ecc475047a27ea71febdb8f44d9049310c21ff6fb5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.printables.com/@Magmabow/models?ordering=downloads",
+            "last_update": "2025-08-20 20:35:47"
+        },
+        {
             "id": 112,
             "url": "https://drive.google.com/drive/folders/1rdwypYFoP7Ytl7oKWhqTIJ9o86fpRF3z",
             "url_hash": "b6c3b769e05ba9d2489096713e2b15a9768018eedc60e03054c69522f30f65fd",
@@ -906,6 +994,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/6dRaiUue6i8",
             "last_update": "2025-08-13 16:59:28"
+        },
+        {
+            "id": 124,
+            "url": "https://youtu.be/OzFAtCZh_fM?si=qNSPTonoYRaLTSsl",
+            "url_hash": "c7c268c5e81cff52c57b0a427423f5fa60c7365a91a7dfc64ba1753fa86c5f42",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-20 10:20:56"
         },
         {
             "id": 90,
@@ -996,6 +1095,17 @@
             "last_update": "2025-08-10 21:22:49"
         },
         {
+            "id": 135,
+            "url": "https://fxtwitter.com/sanwadirect/status/1958121986221379727",
+            "url_hash": "d6872b53c409c974cbea766cdf8499ce063382ebd394f1cd8d9691bd59c4e07d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fxtwitter.com/sanwadirect/status/1958121986221379727",
+            "last_update": "2025-08-21 04:41:38"
+        },
+        {
             "id": 72,
             "url": "https://www.renesas.com/en/document/apn/cm-410-voltmeter-3-digit-7-segment-indicator?srsltid=AfmBOoqZb_BXsJKPrf1YXjahnfl1cmDnoawCMYfwIEKxWslbi2IRUZKI",
             "url_hash": "da2a8138721e1bda624162d3781d92a544659207d617b416d4f90cbffe5f3693",
@@ -1016,6 +1126,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 00:43:05"
+        },
+        {
+            "id": 133,
+            "url": "https://electronics.stackexchange.com/questions/551581/detecting-chess-pieces-on-the-board",
+            "url_hash": "db433e351c2c385983cb91fa681dd8fa5c17ec9db65ff678784608271827b6b3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://electronics.stackexchange.com/questions/551581/detecting-chess-pieces-on-the-board",
+            "last_update": "2025-08-21 02:26:06"
         },
         {
             "id": 33,
@@ -1095,6 +1216,28 @@
             "last_update": "2025-08-09 13:40:02"
         },
         {
+            "id": 122,
+            "url": "https://discord.com/channels/1074967630357725204/1089941811751043122/1407520492302237706",
+            "url_hash": "e7ed5979214806ca0efdf0865e5f0ef191ee4e5a06f03b10b3d088ffa7794706",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-20 05:32:00"
+        },
+        {
+            "id": 131,
+            "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1407835652921491628/RDT_20250821_001420.mp4?ex=68a78c9f&is=68a63b1f&hm=0de6d5b611530f91d66e320762e64596202802a72f3e84e905e3b06f929017f7&",
+            "url_hash": "e9bbdd318b37d261daecb812fabe5f8cc2f81d0969029765726c95c7c6bac9f8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-20 21:16:18"
+        },
+        {
             "id": 116,
             "url": "https://twitter.com/xavoto_fox/status/1957134970989744624",
             "url_hash": "ebf8a73b390d5721313d1749ff9c1d5a8ec621ee218f9c70b7669cfd506786e0",
@@ -1170,6 +1313,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1077231862025551903/1403634386343170169/rapidsave.com_y85zrq9wkvhf1.gif?ex=689843e3&is=6896f263&hm=7dc925de8526bbd997699e1742c8f6d9c98889424e2b54c02680b6fffda61b0a&",
             "last_update": "2025-08-09 07:02:17"
+        },
+        {
+            "id": 125,
+            "url": "https://www.kkinstagram.com/reel/DLhWwYFsfIS/?igsh=MTJ0b2U2aGpjY2d5bA==",
+            "url_hash": "f64aea1c3f2e464de2603156ac125ef2b3b877dcb76061547fed73d062eb4117",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://www.kkinstagram.com/reel/DLhWwYFsfIS/?igsh=MTJ0b2U2aGpjY2d5bA==",
+            "last_update": "2025-08-20 14:09:03"
         },
         {
             "id": 106,

@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 39,
+    "num_of_entries": 44,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -71,7 +71,7 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
@@ -79,7 +79,7 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 15,
+            "times_seen": 18,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
@@ -135,7 +135,7 @@
         },
         {
             "domain": "fxtwitter.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
@@ -166,6 +166,22 @@
             "last_update": "2025-08-09 07:57:26"
         },
         {
+            "domain": "guthib.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-20 19:09:12"
+        },
+        {
+            "domain": "imgur.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Entertainment",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-20 09:08:51"
+        },
+        {
             "domain": "instagram.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -191,9 +207,9 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
+            "typing": "Social Media",
             "is_whitelisted": 0,
             "last_update": "2025-08-15 10:11:16"
         },
@@ -230,12 +246,28 @@
             "last_update": "2025-08-11 06:01:24"
         },
         {
+            "domain": "printables.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-20 20:35:25"
+        },
+        {
             "domain": "raspberrypi.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "typing": "Information Provider",
             "is_whitelisted": 1,
             "last_update": "2025-08-14 05:05:06"
+        },
+        {
+            "domain": "reddit.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-20 21:16:19"
         },
         {
             "domain": "renesas.com",
@@ -246,8 +278,16 @@
             "last_update": "2025-08-16 11:36:50"
         },
         {
+            "domain": "stackexchange.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-21 02:25:46"
+        },
+        {
             "domain": "tenor.com",
-            "times_seen": 29,
+            "times_seen": 30,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
@@ -303,7 +343,7 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
@@ -311,7 +351,7 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 25,
+            "times_seen": 26,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,

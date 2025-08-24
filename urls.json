@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 153,
+    "num_of_entries": 158,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -853,6 +853,17 @@
             "last_update": "2025-08-21 05:35:15"
         },
         {
+            "id": 164,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1408740988813574184/2025-08-23-131020448.mp4?ex=68aad7c8&is=68a98648&hm=afe8dd2f8676c489a8bb334589aa3fccbc645bf9848a887197ae283f1ae4398d&",
+            "url_hash": "87ffd5d9714d9f47a6b51de010718c7178ea1dfa9a7c7c2ae6aba58f6e116f0f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-23 09:13:47"
+        },
+        {
             "id": 146,
             "url": "https://cdn.discordapp.com/attachments/948432396326404138/1407911694201782453/fpwhoops_dc.mp4?ex=68a7d371&is=68a681f1&hm=dff46fa9e9ab21386b3cfbfc133945dda92fd3a01043b5d04da24a85337d7d29&",
             "url_hash": "89f0b9d3e30cf255c31dba1378ae75bbbc0efd513b7b17d1e0305abb3d5ab516",
@@ -1016,6 +1027,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 23:32:18"
+        },
+        {
+            "id": 163,
+            "url": "https://tenor.com/view/loading-cat-thinking-wait-what-gif-15922897",
+            "url_hash": "9e825177bac6d80eacd2aef4f39a88ab7a703da838dd11ec187fdfbfda58f3ba",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-23 07:13:26"
         },
         {
             "id": 151,
@@ -1258,6 +1280,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:25:17"
+        },
+        {
+            "id": 167,
+            "url": "https://electronics.stackexchange.com/questions/752816/why-is-my-74hc595-working-without-vcc)",
+            "url_hash": "cb2dd881bfccf1f031dc3c2116f4e426ae28a6fab06180e3baa18dad160e9fff",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-24 01:30:41"
         },
         {
             "id": 51,
@@ -1546,6 +1579,17 @@
             "last_update": "2025-08-17 05:49:05"
         },
         {
+            "id": 165,
+            "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1408807211647500469/Harry_lime.mov?ex=68ab1575&is=68a9c3f5&hm=21f84e5438ae4c2a938657c427de9c36bea4c3a53121c630b97b143cd2ed515e&",
+            "url_hash": "ee8ac683417f3264d269446ec30580c95daede42fed3d545bcdc70eebabcbd5f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-23 13:36:56"
+        },
+        {
             "id": 19,
             "url": "https://kaizerpowerelectronics.dk/",
             "url_hash": "eea5a9089b1b6e611e0c9a1e879c4d8ac6f1135795301d73cb0a70d97a76dc49",
@@ -1643,6 +1687,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1127844754961473647/1404945391530545222/The-funny-part-is-the-jersey-with-equality-on-it-1755035181743.mp4?ex=689d08db&is=689bb75b&hm=e9a1779af26146a4098428bee2333775956dd5e6cdf35adfc195da43ef73c506&",
             "last_update": "2025-08-12 21:51:46"
+        },
+        {
+            "id": 166,
+            "url": "https://www.aliexpress.com/item/1005007587261704.html",
+            "url_hash": "f9f567dfa968c3c52c99b4e5711a664c10fe3b91468f832e499f879ba1598e4c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-23 17:40:52"
         },
         {
             "id": 111,

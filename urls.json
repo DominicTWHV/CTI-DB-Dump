@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 158,
+    "num_of_entries": 167,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -187,10 +187,21 @@
             "url_hash": "1c11b965352c9bb1cdb4aea1bbd42b6a487bc415b502c9d22a504a1f29a3aea5",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Malicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://www.kkinstagram.com/reel/DNLM-UAxQmU/?igsh=aG5qYzRqZG9lenQ3",
             "last_update": "2025-08-15 10:11:30"
+        },
+        {
+            "id": 175,
+            "url": "https://tenor.com/view/death-gif-21917172",
+            "url_hash": "1c15927c702d56f33aacd8e0e51b2ad3e3eba0246f12983217829124587cacea",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-26 00:27:23"
         },
         {
             "id": 28,
@@ -312,6 +323,17 @@
             "is_redirect": 0,
             "downstream_target": "https://x.com/tatapomn/status/1956923958751850949",
             "last_update": "2025-08-17 09:38:37"
+        },
+        {
+            "id": 171,
+            "url": "https://www.tinkercad.com",
+            "url_hash": "29ced9f6a816a6abba8c2bd8fd5ad8d98b38a14fe426d279b685eca2a6753777",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.tinkercad.com",
+            "last_update": "2025-08-25 11:32:42"
         },
         {
             "id": 64,
@@ -611,6 +633,17 @@
             "last_update": "2025-08-22 03:40:25"
         },
         {
+            "id": 168,
+            "url": "https://youtu.be/D86an4uN7FE",
+            "url_hash": "5722c6c8ea97ce603d82be4ad0e95261ce98934343b5f5741a9186e3ebcf1021",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-24 14:54:00"
+        },
+        {
             "id": 140,
             "url": "https://www.youtube.com/watch?v=HYK7iMCSatw",
             "url_hash": "589859136e73a736bb5cc9e0e47e64fae5f4ba86a8fd6633a4d51d08f5f59721",
@@ -631,6 +664,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/grammy-gif-13672713058137170936",
             "last_update": "2025-08-16 20:02:02"
+        },
+        {
+            "id": 173,
+            "url": "https://www.tiktok.com/@thetruwire/video/7540696354717273399",
+            "url_hash": "5b697abaf019a77a1f2f89f8fe4025bbd56bee63491044ec9df4ff4e9e83ad2b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-25 12:31:54"
         },
         {
             "id": 8,
@@ -708,6 +752,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 18:34:06"
+        },
+        {
+            "id": 169,
+            "url": "https://discord.com/channels/986011010295025754/1375476660500959363/1409438683093925919",
+            "url_hash": "6cd54e145c0c9b5fba5eed89ec77ab2cb63ad3da39cb8e3d4fe6c1c816bc3b23",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-25 07:49:17"
         },
         {
             "id": 13,
@@ -853,6 +908,17 @@
             "last_update": "2025-08-21 05:35:15"
         },
         {
+            "id": 172,
+            "url": "https://youtu.be/_HZ-EQ8Hc8E",
+            "url_hash": "8693967aa9608d58937a43bc52d15d7b6ee8b01493915176e0f279b1db9c4172",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-25 11:53:04"
+        },
+        {
             "id": 164,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1408740988813574184/2025-08-23-131020448.mp4?ex=68aad7c8&is=68a98648&hm=afe8dd2f8676c489a8bb334589aa3fccbc645bf9848a887197ae283f1ae4398d&",
             "url_hash": "87ffd5d9714d9f47a6b51de010718c7178ea1dfa9a7c7c2ae6aba58f6e116f0f",
@@ -983,6 +1049,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.daehuaqian.com/web/?ckurl=https%3A%2F%2Fwww.daehuaqian.com%2Fic%2F",
             "last_update": "2025-08-09 06:07:43"
+        },
+        {
+            "id": 170,
+            "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwidn9m47qWPAxXWXGwGHbHuJocQFnoECBkQAQ&url=https%3A%2F%2Fwww.tinkercad.com%2F&usg=AOvVaw1JxBDMj3J4tH5_HVKfRPhY&opi=89978449",
+            "url_hash": "930f952bffb93959843becfae30305a8fb1d8127ec6af08a1c661c0d3f398a49",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-25 11:32:15"
         },
         {
             "id": 96,
@@ -1155,7 +1232,7 @@
             "url_hash": "afa40909b6aca3a5394a0ea0823313f039abf62e44b5a9c09d19ad673e7f8a6f",
             "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Malicious",
+            "categorization": "Suspicious",
             "is_redirect": 0,
             "downstream_target": "https://guthib.com",
             "last_update": "2025-08-20 19:09:46"
@@ -1346,6 +1423,28 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 10:05:06"
+        },
+        {
+            "id": 176,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1409699989461926000/IMG_0834.mov?ex=68ae54ec&is=68ad036c&hm=966fab3d77da5eab73c42600a76fff08d522c85b4fd46cba7d5538180ba132dd&",
+            "url_hash": "d114b87c99c1036c4d9b724fd2d782b8a561e4166c665dfc4b11c4f9214d5ff8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-26 00:44:30"
+        },
+        {
+            "id": 174,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1409685721413058660/IMG_0828.mov?ex=68ae47a2&is=68acf622&hm=4e17f1454b613413381ee00eebe89e950ef3a7aecae857987b8b9ab8881979fe&",
+            "url_hash": "d16542b411d89aeb755716a83a2a5e653f2790502a2784989df19cc76e8ca855",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-25 23:47:49"
         },
         {
             "id": 107,
@@ -1650,7 +1749,7 @@
             "url_hash": "f64aea1c3f2e464de2603156ac125ef2b3b877dcb76061547fed73d062eb4117",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Malicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://www.kkinstagram.com/reel/DLhWwYFsfIS/?igsh=MTJ0b2U2aGpjY2d5bA==",
             "last_update": "2025-08-20 14:09:03"

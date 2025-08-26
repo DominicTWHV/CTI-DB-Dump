@@ -2,12 +2,12 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 44,
+    "num_of_entries": 47,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
             "domain": "aliexpress.com",
-            "times_seen": 5,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
@@ -58,7 +58,7 @@
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "typing": "Gaming",
-            "is_whitelisted": 0,
+            "is_whitelisted": 1,
             "last_update": "2025-08-18 18:54:55"
         },
         {
@@ -71,7 +71,7 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 3,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
@@ -79,7 +79,7 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 18,
+            "times_seen": 32,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
@@ -98,8 +98,16 @@
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "typing": "Blog",
-            "is_whitelisted": 0,
+            "is_whitelisted": 1,
             "last_update": "2025-08-17 05:48:56"
+        },
+        {
+            "domain": "ebay.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-21 10:37:02"
         },
         {
             "domain": "example.com",
@@ -129,7 +137,7 @@
             "domain": "freedium.cfd",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
+            "typing": "Blog",
             "is_whitelisted": 0,
             "last_update": "2025-08-18 20:36:59"
         },
@@ -159,7 +167,7 @@
         },
         {
             "domain": "google.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Internet Services",
             "is_whitelisted": 1,
@@ -183,7 +191,7 @@
         },
         {
             "domain": "instagram.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
@@ -210,7 +218,7 @@
             "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
-            "is_whitelisted": 0,
+            "is_whitelisted": 1,
             "last_update": "2025-08-15 10:11:16"
         },
         {
@@ -246,11 +254,19 @@
             "last_update": "2025-08-11 06:01:24"
         },
         {
+            "domain": "pcpartpicker.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-21 09:47:44"
+        },
+        {
             "domain": "printables.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
-            "is_whitelisted": 0,
+            "is_whitelisted": 1,
             "last_update": "2025-08-20 20:35:25"
         },
         {
@@ -279,7 +295,7 @@
         },
         {
             "domain": "stackexchange.com",
-            "times_seen": 1,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
@@ -287,7 +303,7 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 30,
+            "times_seen": 37,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
@@ -295,11 +311,19 @@
         },
         {
             "domain": "tiktok.com",
-            "times_seen": 6,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
             "last_update": "2025-08-11 04:54:40"
+        },
+        {
+            "domain": "tinkercad.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Education",
+            "is_whitelisted": 1,
+            "last_update": "2025-08-25 11:32:34"
         },
         {
             "domain": "twitter.com",
@@ -314,7 +338,7 @@
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "typing": "Health",
-            "is_whitelisted": 0,
+            "is_whitelisted": 1,
             "last_update": "2025-08-17 21:54:36"
         },
         {
@@ -335,7 +359,7 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 2,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
@@ -343,7 +367,7 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 8,
+            "times_seen": 12,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
@@ -351,7 +375,7 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 26,
+            "times_seen": 30,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,

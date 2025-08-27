@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 47,
+    "num_of_entries": 48,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -110,6 +110,14 @@
             "last_update": "2025-08-21 10:37:02"
         },
         {
+            "domain": "ebay.us",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2025-08-26 16:41:42"
+        },
+        {
             "domain": "example.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -127,7 +135,7 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
@@ -303,7 +311,7 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 37,
+            "times_seen": 39,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,

@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 170,
+    "num_of_entries": 180,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -235,6 +235,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 04:51:54"
+        },
+        {
+            "id": 183,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1410247187497226381/lv_0_20250827165629.mp4?ex=68b0528a&is=68af010a&hm=4e10f6235451dc94439bbbda5594f00e47ad5276826e254b1b1aa1fc499ebac1&",
+            "url_hash": "1f5c4cfc7f5a4d296f380b2b29a4d73763ea82947eca6033dff6b9f66d18c984",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-27 12:58:51"
         },
         {
             "id": 68,
@@ -512,6 +523,17 @@
             "last_update": "2025-08-22 17:12:18"
         },
         {
+            "id": 184,
+            "url": "https://tenor.com/view/happy-laughing-haha-joy-looking-up-gif-15760080",
+            "url_hash": "42a234e37f290935ea27125b88cc7afbda4965e4c7ab7a5d1b2762163123bead",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-27 13:44:15"
+        },
+        {
             "id": 34,
             "url": "https://tenor.com/view/drachen-drachenlord-rainer-winkler-lacoste-gif-20766761",
             "url_hash": "4461d930dfb1c5d546afd5675ea04e6076b1c28b51a454b05f441248b8046e99",
@@ -521,6 +543,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/drachen-drachenlord-rainer-winkler-lacoste-gif-20766761",
             "last_update": "2025-08-11 07:49:38"
+        },
+        {
+            "id": 189,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1410638688588664892/20250828_172531.mp4?ex=68b1bf27&is=68b06da7&hm=557cab7bee8992382a76bc9fb88d2c0dda48b664b52682c80a60edcbe99cf183&",
+            "url_hash": "4560ad0ae03677fbb0ab3b52e0422c8c3cece205d7894302214fdfb77af00315",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-28 14:54:33"
         },
         {
             "id": 88,
@@ -642,6 +675,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-26 23:48:31"
+        },
+        {
+            "id": 181,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1410194024115081389/20250827_125047.mp4?ex=68b02107&is=68aecf87&hm=1a2e50e1c5c5f98070f02ada6addd35aae959a95710400f0f1129d69cce8434e&",
+            "url_hash": "5594deb0e44df1f9f6a41bfd5c987b360d5127695e966f26e8c4385dbfd84b24",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-27 09:27:37"
         },
         {
             "id": 153,
@@ -796,6 +840,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/nMfJaCdXAPU",
             "last_update": "2025-08-10 08:58:13"
+        },
+        {
+            "id": 187,
+            "url": "https://tenor.com/view/rsx4-gif-21328683",
+            "url_hash": "6d94346009e7c885dce240ef909ddde6157ae8570154f47f0051b025cb65819c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-28 11:42:37"
         },
         {
             "id": 11,
@@ -1106,6 +1161,17 @@
             "last_update": "2025-08-17 07:34:41"
         },
         {
+            "id": 182,
+            "url": "https://youtu.be/TpnBQ9bW4K8?t=325",
+            "url_hash": "942cb0e8c99a7ea8cda622554160e8d4816660ef8cdd7b53a6f894a5eb2cfcf9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-27 12:40:40"
+        },
+        {
             "id": 120,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1407432583750357012/20250819_2127331.mp4?ex=68a6153c&is=68a4c3bc&hm=da433900fd4af88ec1eaac1503348c50d29e40d9b42196056320da114d1f171b&",
             "url_hash": "96247c8a67121f438156138d29587197b6997b29c6c43b669725cd0f3e355edd",
@@ -1126,6 +1192,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/morchel/status/1954875505091695086",
             "last_update": "2025-08-12 10:57:11"
+        },
+        {
+            "id": 188,
+            "url": "https://www.kkinstagram.com/reel/DNTY-JmCf5U/?igsh=MTd0dWVpY25iZnFraA==",
+            "url_hash": "9c4917473810c6d8d21747941c228756a596b2605aac8668e55932e4af341600",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-28 14:47:16"
         },
         {
             "id": 162,
@@ -1269,6 +1346,17 @@
             "is_redirect": 0,
             "downstream_target": "https://guthib.com",
             "last_update": "2025-08-20 19:09:46"
+        },
+        {
+            "id": 186,
+            "url": "https://fixupx.com/Prairie20210108/status/1960676934628860240",
+            "url_hash": "afc94413b95c33d8359cc5637a8ab8aa86faf9192ec09b18700ec3fd08688d22",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Prairie20210108/status/1960676934628860240",
+            "last_update": "2025-08-28 10:44:56"
         },
         {
             "id": 130,
@@ -1733,6 +1821,17 @@
             "last_update": "2025-08-10 11:19:59"
         },
         {
+            "id": 180,
+            "url": "https://www.reddit.com/r/theydidthemath/s/nvj5tOGlAD",
+            "url_hash": "f0c053b779d3a5a7eca59493486199194bc7505eb7eb600e0e288860978287a5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/theydidthemath/comments/1n0l4lr/request_what_is_the_actual_speed/?share_id=Yzjn3fgIZ1fO8wIKasdtL&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
+            "last_update": "2025-08-27 08:02:39"
+        },
+        {
             "id": 115,
             "url": "https://freedium.cfd/38d1e0070fbf",
             "url_hash": "f1e24ac9565a564d33f3a95986d8cc3283b48759f94e316717f28c76099ba637",
@@ -1742,6 +1841,17 @@
             "is_redirect": 0,
             "downstream_target": "https://freedium.cfd/38d1e0070fbf",
             "last_update": "2025-08-18 20:37:21"
+        },
+        {
+            "id": 185,
+            "url": "https://cdn.discordapp.com/attachments/466574859280056322/1220729728378343424/RDT_20240322_094208.mp4?ex=68b05d27&is=68af0ba7&hm=2995b9603a708db11b66afb58ad32c98668e318d116b572d54551d3dd2b6fedf&",
+            "url_hash": "f23f0c7fb7f28286c1b04c5505d1182019c57e2908261f954345f1c9e3fa78a4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-27 23:58:32"
         },
         {
             "id": 100,

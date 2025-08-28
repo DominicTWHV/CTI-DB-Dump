@@ -79,11 +79,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 32,
+            "times_seen": 36,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-08-09 07:02:14"
+            "last_update": "2025-08-28 14:54:33"
         },
         {
             "domain": "discordapp.net",
@@ -135,11 +135,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-08-12 10:57:07"
+            "last_update": "2025-08-28 10:44:43"
         },
         {
             "domain": "freedium.cfd",
@@ -223,11 +223,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-08-15 10:11:16"
+            "last_update": "2025-08-28 14:47:16"
         },
         {
             "domain": "learnopengl.com",
@@ -287,7 +287,7 @@
         },
         {
             "domain": "reddit.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
@@ -311,11 +311,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 39,
+            "times_seen": 41,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-08-09 13:39:59"
+            "last_update": "2025-08-28 11:42:37"
         },
         {
             "domain": "tiktok.com",
@@ -375,7 +375,7 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 12,
+            "times_seen": 13,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,

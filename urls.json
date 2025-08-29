@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 180,
+    "num_of_entries": 189,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -314,6 +314,17 @@
             "last_update": "2025-08-14 01:09:09"
         },
         {
+            "id": 193,
+            "url": "https://cdn.discordapp.com/attachments/900499908115693625/1410919302827343917/20250828_181308.mp4?ex=68b2c47f&is=68b172ff&hm=4ec7a03a1b0cfe2f609230bcd6ef08fb0048928af9258b228f3f59a787765ba8&",
+            "url_hash": "255ee74e6e8d8188bb941bfb093fd62fda7cb38b6c1ac1e27f14efeb6a719227",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-29 09:29:36"
+        },
+        {
             "id": 27,
             "url": "https://www.youtube.com/watch?v=MLqqa8YbVrA",
             "url_hash": "26eb7a864cbc535c85957f08998a41a9f7d1e46aa304f922a2bc110c4d5318cd",
@@ -356,6 +367,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=PlHf5JjOwbA&feature=youtu.be",
             "last_update": "2025-08-15 14:37:18"
+        },
+        {
+            "id": 197,
+            "url": "https://nl.aliexpress.com/item/1005006909948695.html",
+            "url_hash": "2f170f6ab42d00543af1b84576e92588154b6af87ef15ef63ef6451f6f1ac6a7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-29 13:15:31"
         },
         {
             "id": 138,
@@ -796,6 +818,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fxtwitter.com/paintaya/status/1955765998214373440",
             "last_update": "2025-08-14 14:24:26"
+        },
+        {
+            "id": 192,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1410918337847758868/lv_0_20250828192429.mp4?ex=68b2c399&is=68b17219&hm=2166a207e897355a56cdbbfb7b161c7857920222a7bcd1be40751fad2b7afa05&",
+            "url_hash": "6425bbed951a45fa72eebd44550464a4cbf9d69524ee34ba5cb48396994af239",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-29 09:25:46"
         },
         {
             "id": 157,
@@ -1249,6 +1282,28 @@
             "last_update": "2025-08-11 12:30:26"
         },
         {
+            "id": 190,
+            "url": "https://youtu.be/aotlEpmAFVQ",
+            "url_hash": "a3f27adc28b7cbe1c78dfd566662b2faeadc02ddb92f6208968faf52c2d0897f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-28 20:49:00"
+        },
+        {
+            "id": 198,
+            "url": "https://github.com/wagiminator/CH32X035-USB-PD-Adapter",
+            "url_hash": "a4913e13c4700975f7f3ebb5da66d3b6fe3fc2d773d4abc48a25f7a071673284",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://github.com/wagiminator/CH32X035-USB-PD-Adapter",
+            "last_update": "2025-08-29 13:15:55"
+        },
+        {
             "id": 77,
             "url": "https://tenor.com/view/mickey-mouse-thinking-cartoon-gif-5259286850071296165",
             "url_hash": "a6db4a0d159e618ea70e3dbedd35209d61e203f2e721e33fca1cb3b3d87c20bd",
@@ -1414,6 +1469,17 @@
             "last_update": "2025-08-21 10:37:25"
         },
         {
+            "id": 196,
+            "url": "https://tenor.com/view/hellen-mirren-darwin-award-selfish-coward-gif-16488295",
+            "url_hash": "c34ffe3e31e2d879f63f4b7b48729545371093ca0d099b340961c0cde7b37da2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-29 13:12:45"
+        },
+        {
             "id": 67,
             "url": "https://discord.com/channels/1074967630357725204/1089941811751043122/1406109258574987295",
             "url_hash": "c38d222dac068dada1b592c2e8c7e7920498069f8d54883d1387d5f55f112a40",
@@ -1434,6 +1500,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.curseforge.com/minecraft/mc-mods/mythic-mounts",
             "last_update": "2025-08-18 18:55:04"
+        },
+        {
+            "id": 195,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1410956781387255932/20250829_142130.mp4?ex=68b2e766&is=68b195e6&hm=09ac8321a65e4bae457bfd52fc262a4db4892a353901bd95f75dd7eccb2507b4&",
+            "url_hash": "c5e6406453e388c609c00992afabaa5d37eddd6ce5b9f98275a9fb6054ead575",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-29 11:58:33"
         },
         {
             "id": 49,
@@ -1621,6 +1698,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 13:55:05"
+        },
+        {
+            "id": 191,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1410764270303580230/AQMAfyXmOBLPDuOH6x7pB1ki3T1t7FRjZCg9aHvEhOlBpCDOm0FVnCLQOCvOmA1tWusU4KHnMWger2WEVWHwSv_Dy3eJ4aJffzK9K7OsXwt1Yg.mp4?ex=68b2341c&is=68b0e29c&hm=48f2fe0d1fe3ecb84a39f3e53b254b10d42429beaf3fb41c99ea5e79056eadfe&",
+            "url_hash": "d6d371312e2be492fd71e54876293125d9351efe6b809d87cddac27f3ebdd1b2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-28 23:13:34"
         },
         {
             "id": 72,
@@ -1819,6 +1907,17 @@
             "is_redirect": 0,
             "downstream_target": "https://kaizerpowerelectronics.dk/",
             "last_update": "2025-08-10 11:19:59"
+        },
+        {
+            "id": 194,
+            "url": "https://cdn.discordapp.com/attachments/900499908115693625/1410919335886721094/20250828_181702.mp4?ex=68b2c487&is=68b17307&hm=7e5494cff35dd09c2b02688689919168a587282b690d99e2e82afcd689b3cbfb&",
+            "url_hash": "eeb2e2a0c300ed7ee58e6892194765f984159b39e7893458b44468bf21a1c2fd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-29 09:29:44"
         },
         {
             "id": 180,

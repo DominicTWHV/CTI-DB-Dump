@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 189,
+    "num_of_entries": 198,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -413,6 +413,17 @@
             "last_update": "2025-08-18 13:24:50"
         },
         {
+            "id": 204,
+            "url": "https://youtu.be/5rVQGT01Kzg",
+            "url_hash": "321e098faa62ed4e9416c17044f6dc78d13f0a08ffe9ce6bea3c4a98c08850fe",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 12:18:11"
+        },
+        {
             "id": 70,
             "url": "https://www.youtube.com/shorts/6WmWRb9bWU0",
             "url_hash": "32b7c27a33e2cd8ddba5afe90335ab1cc093c22a6345c367b82c81b832720db6",
@@ -633,6 +644,17 @@
             "last_update": "2025-08-11 22:21:33"
         },
         {
+            "id": 202,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1411302544638214287/lv_0_20250830124955.mp4?ex=68b4296b&is=68b2d7eb&hm=6634f273fcdc09cc12aec64de61fd4bcef93e1a00aa43c8311060740e66af676&",
+            "url_hash": "4b86ec115245e95b3d64a28a3665c5d77f5eef35eaa92db1bb605fe3a7f96f89",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 10:52:28"
+        },
+        {
             "id": 10,
             "url": "https://www.youtube.com/shorts/KQjGgKMnidY",
             "url_hash": "4c2e4de318b159a0bf2fcf150d1f75ee23b5fb95dc12f04204811184400a3e05",
@@ -752,6 +774,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/grammy-gif-13672713058137170936",
             "last_update": "2025-08-16 20:02:02"
+        },
+        {
+            "id": 207,
+            "url": "https://tenor.com/view/stonks-up-stongs-meme-stocks-gif-15715298",
+            "url_hash": "5b61de7a90c9d0c350f5262bd2624ac2547edaa5a644128c7959aa1fdf652446",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 18:58:10"
         },
         {
             "id": 173,
@@ -1007,6 +1040,17 @@
             "last_update": "2025-08-09 07:11:04"
         },
         {
+            "id": 201,
+            "url": "https://tenor.com/view/%E4%B8%9C%E7%99%BE%E5%BE%80%E4%BA%8B-gif-25824541",
+            "url_hash": "8377dee1405d1bbe3a852ea3adfd6cdfa880a15d52758b69769fa453f0be9d1b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 08:41:41"
+        },
+        {
             "id": 94,
             "url": "https://tenor.com/view/confused-what-huh-gif-13526427",
             "url_hash": "85a68e8422143b79ee6fd3af943dfb94b19a3da0d86eea84f0870f67dc1d62e4",
@@ -1016,6 +1060,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:30:29"
+        },
+        {
+            "id": 206,
+            "url": "https://www.youtube.com/watch?v=rC1m8rB7jCY",
+            "url_hash": "85a7d316b8cfd94595edf7155a1ac2edc979911593aad407357665a19ae7126b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 17:40:56"
         },
         {
             "id": 136,
@@ -1049,6 +1104,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-23 09:13:47"
+        },
+        {
+            "id": 200,
+            "url": "https://tenor.com/view/skeleton-gif-26185840",
+            "url_hash": "8800f82e91321210886166fa446e54e4625c84b15d7d75d652687426eb56177f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 08:36:52"
         },
         {
             "id": 146,
@@ -1307,12 +1373,12 @@
             "id": 77,
             "url": "https://tenor.com/view/mickey-mouse-thinking-cartoon-gif-5259286850071296165",
             "url_hash": "a6db4a0d159e618ea70e3dbedd35209d61e203f2e721e33fca1cb3b3d87c20bd",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-08-26 07:57:27"
+            "last_update": "2025-08-30 18:57:44"
         },
         {
             "id": 39,
@@ -1368,6 +1434,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.tiktok.com/@lissaapooh/video/7485154858195012894",
             "last_update": "2025-08-11 08:02:34"
+        },
+        {
+            "id": 203,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1411302711827366001/lv_0_20250830124955.mp4?ex=68b42993&is=68b2d813&hm=66778fa0955c10001d86a76a73318e361e9ccd4bcee3dd44056b6a37ed36f9ea&",
+            "url_hash": "ac1a28a51194ef80e53afe0edb78eefaea575fa7f1e2d169f75598e5950ec053",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 10:53:08"
         },
         {
             "id": 7,
@@ -1678,6 +1755,17 @@
             "last_update": "2025-08-10 21:22:49"
         },
         {
+            "id": 205,
+            "url": "https://www.youtube.com/shorts/TOOEYx2fmZM",
+            "url_hash": "d65338eb3f49242fb7c23814e67927349e0a1b0a84d211d43947d824caaba2c3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 16:33:50"
+        },
+        {
             "id": 135,
             "url": "https://fxtwitter.com/sanwadirect/status/1958121986221379727",
             "url_hash": "d6872b53c409c974cbea766cdf8499ce063382ebd394f1cd8d9691bd59c4e07d",
@@ -1929,6 +2017,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/theydidthemath/comments/1n0l4lr/request_what_is_the_actual_speed/?share_id=Yzjn3fgIZ1fO8wIKasdtL&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
             "last_update": "2025-08-27 08:02:39"
+        },
+        {
+            "id": 199,
+            "url": "https://tenor.com/view/evil-mermaid-man-spongebob-squarepants-yell-oh-no-gif-17867154",
+            "url_hash": "f11ee266d066432ffff74157b81e139e34da0e0fa398188f5fe269ff04df48f0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-30 00:31:17"
         },
         {
             "id": 115,

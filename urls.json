@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 198,
+    "num_of_entries": 205,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -367,6 +367,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=PlHf5JjOwbA&feature=youtu.be",
             "last_update": "2025-08-15 14:37:18"
+        },
+        {
+            "id": 212,
+            "url": "https://github.com/isXander/Zoomify/issues/238#issuecomment-3172436779",
+            "url_hash": "2e901045d3004848a828ece9c5f6cbda860216c5af9a9025116df45e4b67cdd4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-31 09:41:28"
         },
         {
             "id": 197,
@@ -798,6 +809,17 @@
             "last_update": "2025-08-25 12:31:54"
         },
         {
+            "id": 209,
+            "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1411584233239220234/20250831_004224.mp4?ex=68b52fc3&is=68b3de43&hm=ba49a12b197360707a3d14dff7622ce30129db3b3bd80f6971f9777b8698fab3&",
+            "url_hash": "5bfdda1552ea075c9fbb0a6d1cacfa349ec7448b2dd688c384330454919a14ba",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-31 05:31:49"
+        },
+        {
             "id": 8,
             "url": "https://www.youtube.com/shorts/5_aVIK8MaOg",
             "url_hash": "5c220dab5808cbc2fe7d3ba6b7283c1b71042ec467a6080df186fd5f747f6959",
@@ -1109,12 +1131,12 @@
             "id": 200,
             "url": "https://tenor.com/view/skeleton-gif-26185840",
             "url_hash": "8800f82e91321210886166fa446e54e4625c84b15d7d75d652687426eb56177f",
-            "times_seen": 1,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-08-30 08:36:52"
+            "last_update": "2025-08-31 09:17:00"
         },
         {
             "id": 146,
@@ -1126,6 +1148,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 15:13:23"
+        },
+        {
+            "id": 210,
+            "url": "https://docs.ros.org/en/jazzy/Installation.html",
+            "url_hash": "8a3d649223c46e1f1fc42e24885d513678c12fb5ef297d873b87b16a82c9a228",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://docs.ros.org/en/jazzy/Installation.html",
+            "last_update": "2025-08-31 05:51:59"
         },
         {
             "id": 105,
@@ -1291,6 +1324,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/morchel/status/1954875505091695086",
             "last_update": "2025-08-12 10:57:11"
+        },
+        {
+            "id": 213,
+            "url": "https://tenor.com/view/perfection-perfect-michael-fassbender-magneto-x-men-first-class-gif-2260686001358167676",
+            "url_hash": "995a95dcf33f494d923e6d9537a2dd11fbdce5c36b1cfa758fb49acd93f2b316",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-31 10:16:36"
         },
         {
             "id": 188,
@@ -1513,6 +1557,17 @@
             "last_update": "2025-08-18 15:01:10"
         },
         {
+            "id": 211,
+            "url": "https://youtu.be/B2482h_TNwg",
+            "url_hash": "b84eca7e1a1c69269c03d5f0da135533a913b443f503a45552b4bf8bf1d92c92",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-31 08:57:15"
+        },
+        {
             "id": 47,
             "url": "https://ngrok.com/",
             "url_hash": "bbc842f2d46c62717d28f26b87a26eb113070d07847eb3ac202abb875b2d5636",
@@ -1577,6 +1632,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.curseforge.com/minecraft/mc-mods/mythic-mounts",
             "last_update": "2025-08-18 18:55:04"
+        },
+        {
+            "id": 208,
+            "url": "https://www.transfernow.net/dl/20250831LMxeKUv6",
+            "url_hash": "c3e0395107ae92ff7eaee06fbd0f5683ae4259a67debdbec9d68f5edf52152ea",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.transfernow.net/en/cld?utm_source=20250831LMxeKUv6",
+            "last_update": "2025-08-31 03:52:45"
         },
         {
             "id": 195,
@@ -2149,6 +2215,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 14:31:56"
+        },
+        {
+            "id": 214,
+            "url": "https://tenor.com/view/raccoon-cute-cotton-candy-wash-dissolve-gif-17832451",
+            "url_hash": "fbca6b8b2910a42f955aff1e1269658348229e1454ff67310ac8124e5716c985",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-08-31 15:44:13"
         },
         {
             "id": 9,

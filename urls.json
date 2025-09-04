@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 215,
+    "num_of_entries": 226,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -358,6 +358,17 @@
             "last_update": "2025-08-25 11:32:42"
         },
         {
+            "id": 231,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1412836051785093130/20250903_202304.mp4?ex=68b9bd9b&is=68b86c1b&hm=345665eec82955a2a3adb2166a647cc829e922526a9d5ab87a4faee84c2e8acf&",
+            "url_hash": "2b8a4684ffd3e13d3d7a4c4aba74f8dcd1ceb40321fee0ec51db5a8756d1acde",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-03 16:26:06"
+        },
+        {
             "id": 64,
             "url": "https://youtu.be/PlHf5JjOwbA",
             "url_hash": "2db72f75fc186b015c7fd0193d66f4f9fef07d609c478286bd023f499ed51bef",
@@ -699,6 +710,17 @@
             "last_update": "2025-08-09 16:06:23"
         },
         {
+            "id": 226,
+            "url": "https://tenor.com/view/derp-goober-drool-gif-17538924573027322012",
+            "url_hash": "4c84438ebcb9517d63fde8066a3502f754b402aff8b34deb432b21773848f2cf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-02 22:09:41"
+        },
+        {
             "id": 43,
             "url": "https://fixupx.com/AnaviTechnology/status/1954528146528592219",
             "url_hash": "4e64d8e3ff83246a33b02a1dd1002918358d778526afb62e5e2e44a73410aa4d",
@@ -886,6 +908,17 @@
             "last_update": "2025-08-11 05:39:46"
         },
         {
+            "id": 234,
+            "url": "https://github.com/M-Marvin/APP-SerialPortUtility",
+            "url_hash": "5efb7dc7b3f1a89a4235a2d5a4b1f3edc156814467ffda4e556e6eec43020c88",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-03 18:16:19"
+        },
+        {
             "id": 119,
             "url": "https://youtu.be/447yaU_4DF8",
             "url_hash": "60a49f52f44a924187fc086afb7c20c28c1005868b2bf932e15df39ffd4fa867",
@@ -939,6 +972,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 18:34:06"
+        },
+        {
+            "id": 230,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1412726203475034252/VID_20250903_143723.mp4?ex=68b9574e&is=68b805ce&hm=1a7fdf1eb8c5b084a86270a36879a232f38d77e8583179308e15cae1b3883fee&",
+            "url_hash": "6848bb2c0410480035e6f74ef9137fdcd8d016a9caf7f63359a20b5a724e3108",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-03 09:09:35"
         },
         {
             "id": 225,
@@ -1126,6 +1170,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-30 08:41:41"
+        },
+        {
+            "id": 235,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1413158776713908376/lv_0_20250904174543.mp4?ex=68baea2b&is=68b998ab&hm=18fa094c0d586a80d20121a6082b26b6a8bc254f69eaacf06f4fea7527ea38fe&",
+            "url_hash": "8452d160c33a2e46ce02c5e8815e99d46372a41362dbff24c160966daecf8fe7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-04 13:48:30"
         },
         {
             "id": 94,
@@ -1491,6 +1546,17 @@
             "last_update": "2025-08-28 20:49:00"
         },
         {
+            "id": 236,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1413158810981367848/lv_0_20250904174543.mp4?ex=68baea33&is=68b998b3&hm=faa6a0691896a010dc7c2927b575a3c9794b73a88ae92f5399a4e63680ffdbd5&",
+            "url_hash": "a4090ff46b5dfa1ac27414de682805eab8418cf1e29b96f9617adfe84097c90f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-04 13:48:36"
+        },
+        {
             "id": 198,
             "url": "https://github.com/wagiminator/CH32X035-USB-PD-Adapter",
             "url_hash": "a4913e13c4700975f7f3ebb5da66d3b6fe3fc2d773d4abc48a25f7a071673284",
@@ -1505,12 +1571,12 @@
             "id": 77,
             "url": "https://tenor.com/view/mickey-mouse-thinking-cartoon-gif-5259286850071296165",
             "url_hash": "a6db4a0d159e618ea70e3dbedd35209d61e203f2e721e33fca1cb3b3d87c20bd",
-            "times_seen": 6,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-08-30 18:57:44"
+            "last_update": "2025-09-03 04:43:16"
         },
         {
             "id": 39,
@@ -1645,6 +1711,17 @@
             "last_update": "2025-08-18 15:01:10"
         },
         {
+            "id": 227,
+            "url": "https://tenor.com/view/electroboom-electric-shock-electricity-kiss-electric-gif-24592346",
+            "url_hash": "b818066fa61eec5bea087fc572069646b628e13521fb8666828eadce5f2215fc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-02 22:49:09"
+        },
+        {
             "id": 211,
             "url": "https://youtu.be/B2482h_TNwg",
             "url_hash": "b84eca7e1a1c69269c03d5f0da135533a913b443f503a45552b4bf8bf1d92c92",
@@ -1654,6 +1731,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-31 08:57:15"
+        },
+        {
+            "id": 228,
+            "url": "https://www.ctvnews.ca/calgary/article/queen-elizabeth-high-school-students-deal-with-extreme-heat-amid-cupe-strike/",
+            "url_hash": "bb9824f8b3188013b286de06610a190fc12ea859259626e752593fb0de1fd45e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.ctvnews.ca/calgary/article/queen-elizabeth-high-school-students-deal-with-extreme-heat-amid-cupe-strike/",
+            "last_update": "2025-09-03 04:54:46"
         },
         {
             "id": 47,
@@ -1687,6 +1775,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 03:22:32"
+        },
+        {
+            "id": 233,
+            "url": "https://tenor.com/view/boom-gif-14144727",
+            "url_hash": "bf9dcc04f17d63a530033d3bba1187d4753cb69b6a09413025409d4490b7ba02",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-03 16:42:17"
         },
         {
             "id": 142,
@@ -2063,6 +2162,17 @@
             "last_update": "2025-08-19 19:04:24"
         },
         {
+            "id": 229,
+            "url": "https://potwex.com/",
+            "url_hash": "e0a4dd9d5cb2399e4b7472e1ddb3c048ab900e417e35656ce58f67eb2b131cfc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://potwex.com/",
+            "last_update": "2025-09-03 08:35:37"
+        },
+        {
             "id": 73,
             "url": "https://www.renesas.com/en/document/scd/cm-410-aap-file?language=en&r=25565932",
             "url_hash": "e0afb58cfba052165f63ab8e0be42494499c75cc53fce06c666c4a85ad64b9e2",
@@ -2314,6 +2424,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-23 17:40:52"
+        },
+        {
+            "id": 232,
+            "url": "https://tenor.com/view/stan-twitter-spongebob-miss-puff-spongebob-meme-crazy-lady-mental-hospital-gif-14983639013285995624",
+            "url_hash": "fa7d1ce7a14a6242f0382d95ba987cfd30c60a59f0d1942e072478ac43db9300",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-03 16:36:53"
         },
         {
             "id": 111,

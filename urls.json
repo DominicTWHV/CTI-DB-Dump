@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 239,
+    "num_of_entries": 256,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -347,6 +347,17 @@
             "last_update": "2025-08-17 09:38:37"
         },
         {
+            "id": 256,
+            "url": "https://en.wikipedia.org/wiki/Protection_ring",
+            "url_hash": "295cc4d9f1108d4177b5c78a313340f8655c6457ddad58ea8a2717a2d6a735b4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 02:13:01"
+        },
+        {
             "id": 171,
             "url": "https://www.tinkercad.com",
             "url_hash": "29ced9f6a816a6abba8c2bd8fd5ad8d98b38a14fe426d279b685eca2a6753777",
@@ -501,6 +512,17 @@
             "last_update": "2025-08-18 13:25:30"
         },
         {
+            "id": 263,
+            "url": "https://tenor.com/view/joke-funny-seinfeld-george-insult-gif-24109136",
+            "url_hash": "346e660a611a9cf336c025142c600e074ec887344adaa4a763cbaf6ed237df0c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 15:57:49"
+        },
+        {
             "id": 148,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1408211693821235250/Screen_Recording_20250822_021002_CapCut.mp4?ex=68a8ead7&is=68a79957&hm=e6d785eb7fafdc6e5053a3b7f76cd9de038f6f11908d1ac6d2e6483c172080f9&",
             "url_hash": "3519640a7f71969a6044fd1831c81ce7ab84fb5588410e9c9f594e5cce78eab3",
@@ -620,6 +642,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-27 13:44:15"
+        },
+        {
+            "id": 250,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1413743437567496273/AQMZnJhzTL3ZVxtVGxd1kQVo88lULOSieeT2GSs9l1rMX5m5t7fvrd8c7JYgIeNsDbnSMy3CtmcR_PMRHgoDBPPaCd09Hmn2_xPAa6yEnAtIiA.mp4?ex=68bd0aad&is=68bbb92d&hm=331266410b9e1ebb46614e0f6e3e822b0d9ee5ec83665f114160a1b754a6fab0&",
+            "url_hash": "42b038806599efb24a782b6d463b936e59f6e1be40bb80174abd90045041b9db",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-06 04:31:42"
         },
         {
             "id": 222,
@@ -787,6 +820,17 @@
             "last_update": "2025-08-10 21:32:10"
         },
         {
+            "id": 266,
+            "url": "https://tenor.com/view/do-not-redeem-don%27t-redeem-scammer-kitboga-do-not-redeem-the-card-gif-11900855712098613254",
+            "url_hash": "54948e8799a19d04fc8d93bd4bc50fb534ca437e984bc2dc7dbe11a6bae46ac8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 21:13:22"
+        },
+        {
             "id": 179,
             "url": "https://tenor.com/view/oof-monsters-inc-sully-meme-gif-24167879",
             "url_hash": "54ff13479c7c2586f152f1d17f62f7dd1be563ab7dcb3ce7de0e79613bf7ab8c",
@@ -933,12 +977,12 @@
             "id": 31,
             "url": "https://tenor.com/view/cat-funny-cat-cat-funny-cat-flashbang-flashbang-gif-8479999063609699416",
             "url_hash": "5d150eda7d726431ffb42cabdc4e993f43cd1b6141e41c778e2fa9b1be3f573d",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/cat-funny-cat-cat-funny-cat-flashbang-flashbang-gif-8479999063609699416",
-            "last_update": "2025-08-11 05:39:46"
+            "last_update": "2025-09-07 15:08:13"
         },
         {
             "id": 234,
@@ -1018,6 +1062,17 @@
             "last_update": "2025-08-18 18:34:06"
         },
         {
+            "id": 257,
+            "url": "https://en.wikipedia.org/wiki/System_Management_Mode",
+            "url_hash": "680e03ca6d2af78604e64a45b08aeb0f7f0d886a6e6eda65b9116dc091c3e98d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 02:18:00"
+        },
+        {
             "id": 230,
             "url": "https://cdn.discordapp.com/attachments/771109314059305002/1412726203475034252/VID_20250903_143723.mp4?ex=68b9574e&is=68b805ce&hm=1a7fdf1eb8c5b084a86270a36879a232f38d77e8583179308e15cae1b3883fee&",
             "url_hash": "6848bb2c0410480035e6f74ef9137fdcd8d016a9caf7f63359a20b5a724e3108",
@@ -1084,6 +1139,17 @@
             "last_update": "2025-08-28 11:42:37"
         },
         {
+            "id": 264,
+            "url": "https://tenor.com/view/kill-remove-everything-everyone-delete-gif-12055159",
+            "url_hash": "6ddec4437efeb6640c28e661fac770d496d46bbf98f0513848d5a2bff2ce2bc3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 19:53:02"
+        },
+        {
             "id": 11,
             "url": "https://www.aliexpress.com/item/1005009592912669.html?spm=a2g0o.cart.0.0.39db38da3PDapI&mp=1&pdp_npi=5%40dis%21RON%21RON%208.72%21RON%205.73%21%21RON%205.73%21%21%21%40211b629217547650311523290e5b29%2112000049581572909%21ct%21RO%216269344177%21%211%210",
             "url_hash": "6e0e0c0dc990471e406b427026ca7be0fa13793faf99425debfa3f7077283a41",
@@ -1115,6 +1181,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1101586623206019223/1406413174583988385/AQMBwHLIL_RMMVkUQxHnb70SxVxupKMu8A09SSwJGv1XWPQH6omq_pUZFF6JlRwDUKjfA0CLE1V_Jtids6QDKfR4O7hEL1ahk0OFEntYRXHbvA.mp4?ex=68a25fd6&is=68a10e56&hm=1030190766745e30678f1122aacd205c6e182be814c445684e644912fdfadb13&",
             "last_update": "2025-08-16 23:04:05"
+        },
+        {
+            "id": 254,
+            "url": "https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/",
+            "url_hash": "706276f1a8e8abef88f7708fb3402cdf75719f8d7c8cdd78764b4ae03894098f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/",
+            "last_update": "2025-09-07 01:23:28"
         },
         {
             "id": 177,
@@ -1236,6 +1313,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-04 13:48:30"
+        },
+        {
+            "id": 262,
+            "url": "https://tenor.com/view/now-you-know-the-more-you-know-no-kidding-no-shit-obviously-gif-1342210079425559607",
+            "url_hash": "855d69f8b57be18a17b505eaf358cb5420918a49fedf236f18695b684a30e0f9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 15:46:08"
         },
         {
             "id": 94,
@@ -1546,6 +1634,28 @@
             "last_update": "2025-08-31 10:16:36"
         },
         {
+            "id": 255,
+            "url": "https://en.wikipedia.org/wiki/Intel_Management_Engine",
+            "url_hash": "9a8c2577f82fa2c634108782a53b2e25e6d0d00b196f9af247b71ee05c5df16b",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 02:31:06"
+        },
+        {
+            "id": 259,
+            "url": "https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface",
+            "url_hash": "9b12381e283b694d28f64d0b28d0ed43a944dcc7511e4ca520ad2e3458b0239f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 02:31:06"
+        },
+        {
             "id": 188,
             "url": "https://www.kkinstagram.com/reel/DNTY-JmCf5U/?igsh=MTd0dWVpY25iZnFraA==",
             "url_hash": "9c4917473810c6d8d21747941c228756a596b2605aac8668e55932e4af341600",
@@ -1687,6 +1797,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 18:26:47"
+        },
+        {
+            "id": 265,
+            "url": "https://tenor.com/view/grogu-star-wars-mandalorian-baby-yoda-gif-9168999412781595068",
+            "url_hash": "ab6257388e817833a9e4bf46401447b4133d34f117961a70eec552de9533a455",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 20:12:18"
         },
         {
             "id": 35,
@@ -1854,6 +1975,17 @@
             "last_update": "2025-09-01 17:10:31"
         },
         {
+            "id": 260,
+            "url": "https://aliexpress.com/item/1005005609823940.html",
+            "url_hash": "bd324d36b07499ee66750ea21434043772d7bcc47cb67efef6c440448c8d7117",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 03:55:39"
+        },
+        {
             "id": 83,
             "url": "https://en.wikipedia.org/wiki/Dead_man%27s_switch",
             "url_hash": "bda2b9e5ffb35b39bf5c94082d8aebda6e7c35186f0820bf308f5af84b0dea6a",
@@ -1896,6 +2028,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-29 13:12:45"
+        },
+        {
+            "id": 252,
+            "url": "https://www.aliexpress.com/item/1005008975678529.html?pdp_npi=4%40dis%21USD%2193.03%2133.43%21%21%21659.30%21236.94%21%40%2112000047432587355%21affd%21%21%21&aff_fcid=0df7e1c3e0784becb0a7a6bbec752276-1757193589816-02982-_opskLBr&aff_fsk=_opskLBr&aff_platform=portals-special-offer&sk=_opskLBr&aff_trace_key=0df7e1c3e0784becb0a7a6bbec752276-1757193589816-02982-_opskLBr&terminal_id=b0d1358215604b40b99e877ca5c35bb4&afSmartRedirect=y#nav-specification",
+            "url_hash": "c3635bceef47525e22080433e40a50d5ecfc2ced70f8868a190ae3cb187b6390",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-06 21:50:08"
         },
         {
             "id": 67,
@@ -2041,6 +2184,17 @@
             "last_update": "2025-08-14 06:18:19"
         },
         {
+            "id": 261,
+            "url": "https://youtu.be/_R7HFDz1AdU",
+            "url_hash": "d0f3945e593a110b8e7304adf0f98727b1533f171edf13676ba08f0ca7c1e229",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 14:57:35"
+        },
+        {
             "id": 139,
             "url": "https://www.aliexpress.com/item/1005009051799838.html",
             "url_hash": "d0fbe348e77839ab14acc0b7ec511ac5236fbd7ddf588cfdd1b51b6eec6614dd",
@@ -2160,6 +2314,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-28 23:13:34"
+        },
+        {
+            "id": 253,
+            "url": "https://www.valvesoftware.com/en/",
+            "url_hash": "d8dfaa84db93ea6ad6f62363048c07510eacf72ed6722266ceece966f93014d1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.valvesoftware.com/en/",
+            "last_update": "2025-09-06 22:38:31"
         },
         {
             "id": 246,
@@ -2292,6 +2457,17 @@
             "is_redirect": 1,
             "downstream_target": "https://renesasweb.s3.us-west-2.amazonaws.com/prod/docs/X014/X0148670/an-cm-410_voltmeter_with_3-digit_7-segment_indicator.zip?response-content-disposition=attachment%3B%20filename%3D%22an-cm-410_voltmeter_with_3-digit_7-segment_indicator.zip%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3WXFIBJWSDVTHJX3%2F20250816%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250816T114108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86700&X-Amz-Signature=2157290d6d08c2e86ef0ed7c70402e6520c02438c5d8374ae1eac3dc3689cb80",
             "last_update": "2025-08-16 11:41:09"
+        },
+        {
+            "id": 258,
+            "url": "https://en.wikipedia.org/wiki/Brandolini%27s_law",
+            "url_hash": "e3bcb3a673c80ef43763938e0854c730997dea8182a120541e4ce8a32e558339",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-07 02:19:33"
         },
         {
             "id": 156,
@@ -2512,6 +2688,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 12:58:26"
+        },
+        {
+            "id": 251,
+            "url": "https://www.kkinstagram.com/reel/DONYfQfDRST/?igsh=MWQ1cHEyN3QzMjBqMQ==",
+            "url_hash": "f744477ae7e891230ad0ec09c4a31788bcd7005ef3db78614068de25ba008552",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-06 15:37:33"
         },
         {
             "id": 117,

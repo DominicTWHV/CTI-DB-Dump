@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 256,
+    "num_of_entries": 260,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -92,6 +92,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 00:08:45"
+        },
+        {
+            "id": 269,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1414661470620483604/IMG_8481.mov?ex=68c061a9&is=68bf1029&hm=10242cb08b68bf136a6a96d6385c15f82f8c7c6e4ebb0396cb53ede628613176&",
+            "url_hash": "0ecc93e0f596a7f61edb6519aa5f75e744876540982a9c0593e7629a5398c35d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-08 17:19:40"
         },
         {
             "id": 32,
@@ -1216,6 +1227,17 @@
             "last_update": "2025-08-17 21:54:45"
         },
         {
+            "id": 268,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1414606947453370388/lv_0_20250908153523.mp4?ex=68c02ee2&is=68bedd62&hm=8c0042d3dc68747945c81b3941227b8ab6a2efc3fce0dbf2b145f0180142f3c9&",
+            "url_hash": "76306b5e78b43aa20609501cd96e07110180138cf7984be4bd696875eef28f2b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-08 13:43:00"
+        },
+        {
             "id": 240,
             "url": "https://opulencedeveloper.com",
             "url_hash": "799cbdc807c644ac8ee18ba080a4240c986b67c25c2a9ed70d3c65925ac4a0fa",
@@ -1643,6 +1665,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-07 02:31:06"
+        },
+        {
+            "id": 270,
+            "url": "https://en.wikipedia.org/wiki/Lesbian_Space_Princess",
+            "url_hash": "9ac7818b846683d6e63d5dd6a7f3f7497f8bc0d12e5ce333ed43c40579e114e0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-08 20:30:38"
         },
         {
             "id": 259,
@@ -2248,6 +2281,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-05 18:27:13"
+        },
+        {
+            "id": 267,
+            "url": "https://www.youtube.com/watch?v=K8d5JBJLJ8k",
+            "url_hash": "d409c8b8b74efc8a49c50a6c38f7a132c2673b2221eea361395b7fba0d4bdc8b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-08 07:27:55"
         },
         {
             "id": 17,

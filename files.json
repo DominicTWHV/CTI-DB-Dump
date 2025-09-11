@@ -2,9 +2,23 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 4,
+    "num_of_entries": 6,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "files": [
+        {
+            "sha256": "0120dd7afd73d63b31866ba4fe0732a333f5b929a529b485f787b8523afb0b1c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-09-01 17:16:50"
+        },
+        {
+            "sha256": "6e2e24c2f800c911859d629795745032470349f7324b53c32cb86a4c62268fe6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-09-10 16:27:46"
+        },
         {
             "sha256": "91835435c62baa99c826a6030ef04e077a57dccd14bf7960e01be4d8f088cfcc",
             "times_seen": 1,

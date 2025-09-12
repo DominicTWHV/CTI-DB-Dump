@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 285,
+    "num_of_entries": 299,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -103,6 +103,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 00:08:45"
+        },
+        {
+            "id": 298,
+            "url": "https://www.youtube.com/watch?v=Y5M6YKR7wUw",
+            "url_hash": "0d376b6094132a5712f3adca4c8d3b9bfd721df251eddebbf280f193cd7c40f8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-11 15:16:12"
         },
         {
             "id": 269,
@@ -246,6 +257,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-26 00:27:23"
+        },
+        {
+            "id": 307,
+            "url": "https://tenor.com/view/gilgamesh-kunai-gate-of-babylon-fate-stay-night-gif-14427496",
+            "url_hash": "1c665ddb9c05a5160053b0b9ccccce81acf5b58eb42224ccc042ed93068aedc1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-12 11:02:10"
         },
         {
             "id": 28,
@@ -787,6 +809,17 @@
             "last_update": "2025-08-26 16:42:04"
         },
         {
+            "id": 310,
+            "url": "https://cdn.discordapp.com/attachments/1237581474275004457/1416174212833349683/snapins-ai_3653438069044385483.mp4?ex=68c5e283&is=68c49103&hm=9deca7ca496ba384404b8fa4b2fe523173a24efd4d3658b0fd335c649077415a&",
+            "url_hash": "492b37c4ce1b8034460983f62cf391b8dae6ed4944ba655c0208bf2032d0adad",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-12 22:10:57"
+        },
+        {
             "id": 50,
             "url": "https://www.youtube.com/watch?v=Uw605nfvN0E",
             "url_hash": "4a0fbac7207ea9539c0380cf08064ff55ecc76e1850b484ec099f9e79b1b4afb",
@@ -1084,6 +1117,28 @@
             "last_update": "2025-09-07 15:08:13"
         },
         {
+            "id": 299,
+            "url": "https://a.aliexpress.com/_EJmSmYS",
+            "url_hash": "5d1d399fea719762445eaf4f58a00eb975d183eea92cf3fe95b42d595bd97741",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-11 16:35:29"
+        },
+        {
+            "id": 308,
+            "url": "https://tenor.com/view/unlimited-blade-works-archer-fate-zero-time-laps-gif-16525908",
+            "url_hash": "5e9f4bb81eebf7d42826dc0d26c09876c619744451874e8bb625d89723c4c34d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-12 17:51:31"
+        },
+        {
             "id": 234,
             "url": "https://github.com/M-Marvin/APP-SerialPortUtility",
             "url_hash": "5efb7dc7b3f1a89a4235a2d5a4b1f3edc156814467ffda4e556e6eec43020c88",
@@ -1148,6 +1203,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-29 09:25:46"
+        },
+        {
+            "id": 297,
+            "url": "https://www.youtube.com/watch?v=iHkKTGYc6aA",
+            "url_hash": "656ab4bae3f54f3506dcb04b6bc65c979de85377937575c63f4376102f309142",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-11 15:16:12"
         },
         {
             "id": 296,
@@ -1326,6 +1392,17 @@
             "last_update": "2025-09-07 01:23:28"
         },
         {
+            "id": 306,
+            "url": "https://i.imgur.io/J2HJQlR.mp4",
+            "url_hash": "70a6578006dc9722e468d529b23f4e871fe42afdd1bddf3a6d26519176af9d48",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://i.imgur.io/J2HJQlR.mp4",
+            "last_update": "2025-09-12 03:23:00"
+        },
+        {
             "id": 177,
             "url": "https://fixupx.com/Yu_Um0209/status/1959888034494874051",
             "url_hash": "716eafb0f2806b06479a39e9d4e3d4b20a0b1431e0bbf2f56d3fabf32907f841",
@@ -1381,6 +1458,17 @@
             "last_update": "2025-09-10 01:24:41"
         },
         {
+            "id": 303,
+            "url": "https://tenor.com/view/wizard-magic-hagrid-harry-potter-hogwarts-gif-5453410",
+            "url_hash": "790b3dd5339b21cc4dc34dbccc926417112503c8ec2b3dc811151722268c90aa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-11 23:33:53"
+        },
+        {
             "id": 240,
             "url": "https://opulencedeveloper.com",
             "url_hash": "799cbdc807c644ac8ee18ba080a4240c986b67c25c2a9ed70d3c65925ac4a0fa",
@@ -1401,6 +1489,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:25:15"
+        },
+        {
+            "id": 309,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1416161484857151648/20250912_133146.mp4?ex=68c5d6a8&is=68c48528&hm=a6967e210176ec2f3cd8b84310fb2ccca6096ad7d4b55d1da85f15e4ccab2b06&",
+            "url_hash": "7cfb56f300cc46a245ebcd4c3c5644e534e15b8e4dfa03b48244ceb12ed15efb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-12 20:40:09"
         },
         {
             "id": 53,
@@ -1544,6 +1643,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-25 11:53:04"
+        },
+        {
+            "id": 304,
+            "url": "https://tenor.com/view/spongebob-technology-patrick-hung-gif-5567497",
+            "url_hash": "86c1ca2ccee55c2c888e085a664e7954bf3d7c2dead4e1c03fc6a05b374b6cd4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-12 00:19:22"
         },
         {
             "id": 164,
@@ -2019,6 +2129,17 @@
             "last_update": "2025-08-22 18:26:47"
         },
         {
+            "id": 301,
+            "url": "https://cdn.discordapp.com/attachments/645768514438955044/1326365718555660359/Xe0_L8G4HltYMXyd.mp4?ex=68c37ad5&is=68c22955&hm=5acab2e0e64bb591424b6b4fc5317f656d5811b9caa950603d9a6180b822faa6&",
+            "url_hash": "aa96ca52e4c654adfb9669fc55a14224f2631f9b844b3350f448c5a5e819dca2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-11 23:15:11"
+        },
+        {
             "id": 265,
             "url": "https://tenor.com/view/grogu-star-wars-mandalorian-baby-yoda-gif-9168999412781595068",
             "url_hash": "ab6257388e817833a9e4bf46401447b4133d34f117961a70eec552de9533a455",
@@ -2028,6 +2149,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-07 20:12:18"
+        },
+        {
+            "id": 300,
+            "url": "https://www.servethehome.com/this-is-the-nvidia-mgx-pcie-switch-board-with-connectx-8-for-8x-pcie-gpu-servers/",
+            "url_hash": "ab935346c994550df71be0fc549e54f1593697f5fc4063b7d4d8771a7181bdc7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.servethehome.com/this-is-the-nvidia-mgx-pcie-switch-board-with-connectx-8-for-8x-pcie-gpu-servers/",
+            "last_update": "2025-09-11 23:12:32"
         },
         {
             "id": 35,
@@ -2176,12 +2308,12 @@
             "id": 286,
             "url": "https://tenor.com/view/patrick-stupid-stupid-town-hey-buddy-spongebob-gif-6574682199670721484",
             "url_hash": "b8b4a795da3c56793c0ab119c58e1b9f8adaf84073f6e30ca25be812db0a726f",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-09 16:24:29"
+            "last_update": "2025-09-11 14:45:42"
         },
         {
             "id": 228,
@@ -2338,6 +2470,17 @@
             "last_update": "2025-09-09 15:30:35"
         },
         {
+            "id": 302,
+            "url": "https://www.reddit.com/r/guitarpedals/comments/1im8avw/can_somebody_explain_q_curves_to_me_as_how_they/",
+            "url_hash": "c5ceb86f4b222c0d3f950ed510bddbd116336f314cab5e9b4391cb5c06087089",
+            "times_seen": 4,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/guitarpedals/comments/1im8avw/can_somebody_explain_q_curves_to_me_as_how_they/",
+            "last_update": "2025-09-11 23:26:47"
+        },
+        {
             "id": 195,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1410956781387255932/20250829_142130.mp4?ex=68b2e766&is=68b195e6&hm=09ac8321a65e4bae457bfd52fc262a4db4892a353901bd95f75dd7eccb2507b4&",
             "url_hash": "c5e6406453e388c609c00992afabaa5d37eddd6ce5b9f98275a9fb6054ead575",
@@ -2413,6 +2556,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/big-brain-markiplier-gif-14835823",
             "last_update": "2025-08-13 16:44:13"
+        },
+        {
+            "id": 305,
+            "url": "https://tenor.com/view/sealyx-naked-gun-the-naked-gun-facepalm-facepalm-meme-gif-11743768702765397589",
+            "url_hash": "cd6bd5a72e2c7699d238bd32d240af3a6a7a5e64aa6370e1f7105d7a95b58024",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-12 21:41:24"
         },
         {
             "id": 74,

@@ -2,16 +2,16 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 61,
+    "num_of_entries": 62,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
             "domain": "aliexpress.com",
-            "times_seen": 11,
+            "times_seen": 12,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-09-07 03:55:38"
+            "last_update": "2025-09-11 16:35:29"
         },
         {
             "domain": "aliexpress.us",
@@ -103,11 +103,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 65,
+            "times_seen": 71,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-09-10 17:59:44"
+            "last_update": "2025-09-13 15:18:28"
         },
         {
             "domain": "discordapp.net",
@@ -159,11 +159,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 6,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-09-09 11:30:21"
+            "last_update": "2025-09-14 01:33:46"
         },
         {
             "domain": "freedium.cfd",
@@ -223,11 +223,11 @@
         },
         {
             "domain": "imgur.io",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-09-06 00:10:01"
+            "last_update": "2025-09-12 03:22:40"
         },
         {
             "domain": "instagram.com",
@@ -359,11 +359,11 @@
         },
         {
             "domain": "reddit.com",
-            "times_seen": 3,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-09-09 14:34:15"
+            "last_update": "2025-09-11 23:26:47"
         },
         {
             "domain": "renesas.com",
@@ -382,6 +382,14 @@
             "last_update": "2025-08-31 05:51:59"
         },
         {
+            "domain": "servethehome.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 1,
+            "last_update": "2025-09-11 23:16:12"
+        },
+        {
             "domain": "stackexchange.com",
             "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
@@ -391,11 +399,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 75,
+            "times_seen": 85,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-10 19:03:52"
+            "last_update": "2025-09-13 11:32:13"
         },
         {
             "domain": "tiktok.com",
@@ -471,19 +479,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 19,
+            "times_seen": 20,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-07 14:57:35"
+            "last_update": "2025-09-14 00:06:26"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 44,
+            "times_seen": 47,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-09 14:26:09"
+            "last_update": "2025-09-13 17:33:25"
         },
         {
             "domain": "zdnet.com",

@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 299,
+    "num_of_entries": 307,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -114,6 +114,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-11 15:16:12"
+        },
+        {
+            "id": 314,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1416410845457416294/20250913-1309-52.8877077.mp4?ex=68c6bee5&is=68c56d65&hm=03f5b5993ffd2da6c6c6b736ed2e022c0065a9ee63ab56a8bbd01ead4009433a&",
+            "url_hash": "0d766d3fe06b13ef55e4df29fad36fdd1f4d6c0df997cf75c29bcefe886944d3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-13 13:11:04"
         },
         {
             "id": 269,
@@ -457,6 +468,17 @@
             "last_update": "2025-08-25 11:32:42"
         },
         {
+            "id": 311,
+            "url": "https://tenor.com/view/watching-you-observe-seeing-i-saw-you-gif-5740825",
+            "url_hash": "2a90b01d54bf4803bdd02360d89dbc70dbe6175a836bacd1a355df7e1dd8b0f2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-13 10:13:19"
+        },
+        {
             "id": 231,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1412836051785093130/20250903_202304.mp4?ex=68b9bd9b&is=68b86c1b&hm=345665eec82955a2a3adb2166a647cc829e922526a9d5ab87a4faee84c2e8acf&",
             "url_hash": "2b8a4684ffd3e13d3d7a4c4aba74f8dcd1ceb40321fee0ec51db5a8756d1acde",
@@ -710,6 +732,17 @@
             "last_update": "2025-08-13 23:11:00"
         },
         {
+            "id": 313,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1416398788993617992/20250913_162239.mp4?ex=68c6b3aa&is=68c5622a&hm=009969b0fed78b1aaabd0bdfa7af4ec91ae99e456269a16190ae07c7c6912667&",
+            "url_hash": "3e12908f30dca80f848b17cd52dc4192e2c17b14edf1bd9a2fba64f0f62c9f3d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-13 12:23:09"
+        },
+        {
             "id": 14,
             "url": "https://tenor.com/view/elmo-fire-flames-hell-dying-gif-4796519",
             "url_hash": "3f8443fe75c9861dced394eef00a5c4d213a7ada251414d47d7dbc5e67c8d66b",
@@ -785,6 +818,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-28 14:54:33"
+        },
+        {
+            "id": 316,
+            "url": "https://www.youtube.com/watch?v=mHJm5xqcuOk",
+            "url_hash": "4624f7fb352706ab77e8d883703480e70db54b21aaa324d1fafe68f315c82aca",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-13 17:33:25"
         },
         {
             "id": 88,
@@ -1172,6 +1216,17 @@
             "last_update": "2025-08-19 05:54:24"
         },
         {
+            "id": 312,
+            "url": "https://tenor.com/view/the-s-impsons-bush-homer-simpsons-homer-hiding-gif-4325800",
+            "url_hash": "62feb0c168ef26a0a86c65c3f16a11d3883ca7d58791139afba14bef3ce41573",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-13 11:32:13"
+        },
+        {
             "id": 281,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1414962603742072972/Gay.mov?ex=68c17a1d&is=68c0289d&hm=159ca9538ecc1b07fcecd7e831695f3e3ab7d3898ca55b4e2e14bee4acb028af&",
             "url_hash": "63062a1aa0d635307d58a39d1688798069c8f20eebd90cdcb385ec0215da5214",
@@ -1302,6 +1357,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-02 13:05:35"
+        },
+        {
+            "id": 317,
+            "url": "https://youtu.be/n7yjRrHE-SI",
+            "url_hash": "6b1fe7f8ced3db6a347544c584b3280b6f386da5192b4e4faac3f343f7c30f39",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-14 00:06:26"
         },
         {
             "id": 169,
@@ -2602,6 +2668,17 @@
             "last_update": "2025-08-14 06:18:19"
         },
         {
+            "id": 318,
+            "url": "https://fixupx.com/k41bvtsv/status/1966954262929555577",
+            "url_hash": "d09677a970dbc1cba1f15b34d64841014faef2dd3c9a83cacb156e7dbf5f205b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/k41bvtsv/status/1966954262929555577",
+            "last_update": "2025-09-14 01:33:59"
+        },
+        {
             "id": 261,
             "url": "https://youtu.be/_R7HFDz1AdU",
             "url_hash": "d0f3945e593a110b8e7304adf0f98727b1533f171edf13676ba08f0ca7c1e229",
@@ -3293,6 +3370,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 15:10:43"
+        },
+        {
+            "id": 315,
+            "url": "https://cdn.discordapp.com/attachments/900499908115693625/1416442918109184070/VID_20250913_221016.mp4?ex=68c6dcc3&is=68c58b43&hm=2290a97d3b8cbf0231fa89e7abed444b0c17dfcdbd8e946a9f2cf608a3bd7843&",
+            "url_hash": "ffd577344d65468880ac01d59562676274d93009e17c9fb3f8e65ee5383a0109",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-13 15:18:29"
         }
     ]
 }

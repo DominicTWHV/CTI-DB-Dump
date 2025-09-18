@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 330,
+    "num_of_entries": 346,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -70,6 +70,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 08:01:55"
+        },
+        {
+            "id": 350,
+            "url": "https://tenor.com/view/dr-evil-gif-26373585",
+            "url_hash": "08caf4655af733b534343296203678509fca048a3c20155267e6cf14b225bfa4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-17 05:41:17"
         },
         {
             "id": 63,
@@ -215,6 +226,17 @@
             "last_update": "2025-08-22 03:40:01"
         },
         {
+            "id": 344,
+            "url": "https://youtube.com/shorts/zc4d3vGYSwU?si=EnMDAi1w9ruOgWen",
+            "url_hash": "17a2dadc8421cbf1e71fc9a6de717d7102753054cbf224b8a532d0aefc82ff74",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-16 10:03:11"
+        },
+        {
             "id": 65,
             "url": "https://www.youtube.com/watch?v=TYMQ4SHdNoM",
             "url_hash": "184650c51917729891467c3742da9a58da9fd046c7957d2bf1cb1917ee1340f8",
@@ -235,6 +257,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 13:25:29"
+        },
+        {
+            "id": 352,
+            "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1417826689551171675/AQPGIQ3WZLooq43aAVAEBRzYS6cSYNnGRqY8i12rM41zpC5_45ZCq9F8YA8fSosWd8wdSQ0AtdodCwsEkO1L2qIIsEIDCbjzn62lhspjzcd4wQ.mp4?ex=68cbe580&is=68ca9400&hm=ba5016f3512f91aea992efaf709174b7cff730a24ee690903a88bd571c3ee02a&",
+            "url_hash": "1a276ed50267c430d7c95beb42e82f02396eb7d6000c47e5c4ddc1816116a6fa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-17 10:57:07"
         },
         {
             "id": 160,
@@ -864,6 +897,17 @@
             "last_update": "2025-09-02 12:45:05"
         },
         {
+            "id": 356,
+            "url": "https://youtube.com/shorts/2vbH__JfHjM?si=Yv8pJaih1tDt4cll",
+            "url_hash": "443b818471254355504219af7f79a6bc10fddc24cdd6eec048d7e42932fe1352",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-17 23:46:04"
+        },
+        {
             "id": 34,
             "url": "https://tenor.com/view/drachen-drachenlord-rainer-winkler-lacoste-gif-20766761",
             "url_hash": "4461d930dfb1c5d546afd5675ea04e6076b1c28b51a454b05f441248b8046e99",
@@ -1005,6 +1049,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-02 22:09:41"
+        },
+        {
+            "id": 346,
+            "url": "https://a.aliexpress.com/_Exq0iMS",
+            "url_hash": "4e5ef442dd304e6553fa087efe14c6b8aac8fd9bb77663505e9a6a14eb128c68",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-16 12:37:23"
         },
         {
             "id": 43,
@@ -1590,6 +1645,17 @@
             "last_update": "2025-08-26 11:22:34"
         },
         {
+            "id": 347,
+            "url": "https://tenor.com/view/hello-gif-13062150862685254762",
+            "url_hash": "722a879eaac98f5b3e930a7d7fe83232673c53f92ca5081f2758714b963489dd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-16 15:26:46"
+        },
+        {
             "id": 102,
             "url": "https://www.vch.ca/en",
             "url_hash": "7452f0c6804e97ebf10ec70af4cf34d581987388c3a467ccc47484818f5f0bdb",
@@ -1621,6 +1687,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-09 08:41:41"
+        },
+        {
+            "id": 342,
+            "url": "https://www.youtube.com/watch?v=tHj0-Gzvbeo",
+            "url_hash": "760addb6abb6013d689dc060aff44956174302c1440d3946ec63c93cb3da69f3",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-16 11:55:21"
         },
         {
             "id": 268,
@@ -1865,6 +1942,17 @@
             "last_update": "2025-09-15 19:35:35"
         },
         {
+            "id": 354,
+            "url": "https://discord.com/channels/1074967630357725204/1078035386217017504/1417965872156512398",
+            "url_hash": "87f85ef4c1f1115a03f0f4d6a9fe7674fff7549b7ab353431f09c0b50f086492",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-17 20:10:18"
+        },
+        {
             "id": 164,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1408740988813574184/2025-08-23-131020448.mp4?ex=68aad7c8&is=68a98648&hm=afe8dd2f8676c489a8bb334589aa3fccbc645bf9848a887197ae283f1ae4398d&",
             "url_hash": "87ffd5d9714d9f47a6b51de010718c7178ea1dfa9a7c7c2ae6aba58f6e116f0f",
@@ -2094,6 +2182,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-27 12:40:40"
+        },
+        {
+            "id": 349,
+            "url": "https://www.youtube.com/watch?v=ip641WmY4pA",
+            "url_hash": "9443abe7787230d6de61b2e0c38771546accf67802449476fac09a3e853afefb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-16 23:11:32"
         },
         {
             "id": 120,
@@ -2371,6 +2470,17 @@
             "last_update": "2025-09-11 23:15:11"
         },
         {
+            "id": 355,
+            "url": "https://hackaday.com/2025/09/16/2025-hackaday-component-abuse-challenge-let-the-games-begin/",
+            "url_hash": "aac658addd23d95b466f361bc36600a937e90e5d935ef0c3f618300446bb2dd7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://hackaday.com/2025/09/16/2025-hackaday-component-abuse-challenge-let-the-games-begin/",
+            "last_update": "2025-09-17 22:19:14"
+        },
+        {
             "id": 265,
             "url": "https://tenor.com/view/grogu-star-wars-mandalorian-baby-yoda-gif-9168999412781595068",
             "url_hash": "ab6257388e817833a9e4bf46401447b4133d34f117961a70eec552de9533a455",
@@ -2418,12 +2528,12 @@
             "id": 238,
             "url": "https://tenor.com/view/galaxy-brain-gif-62870316450580206",
             "url_hash": "adc0c38faee6cea0a393900bb7b743e945e20d69ccb1db2d1d0e0b51fcee4873",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-05 04:11:12"
+            "last_update": "2025-09-16 05:52:06"
         },
         {
             "id": 7,
@@ -2479,6 +2589,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Prairie20210108/status/1960676934628860240",
             "last_update": "2025-08-28 10:44:56"
+        },
+        {
+            "id": 353,
+            "url": "https://cdn.discordapp.com/attachments/424394851170385923/1411495619398205571/VID_20250831_013858791.mp4?ex=68cbef7b&is=68ca9dfb&hm=f2339df75b0a502b360185c1dd374a90d195f5b8de69324dfedb3a1942d278b7&",
+            "url_hash": "b0a1755036a14a4065d760d40db668201a566af1e6a56c00981e918ea985e1a0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-17 20:10:09"
         },
         {
             "id": 130,
@@ -2998,6 +3119,17 @@
             "last_update": "2025-08-10 11:23:32"
         },
         {
+            "id": 348,
+            "url": "https://cdn.discordapp.com/attachments/749825904519413830/1417605417411809431/v14044g50000d2q46jvog65h4hlcf3mg.mov?ex=68cb176d&is=68c9c5ed&hm=45ec7f1811246117eb0359ac0f9f0c2eee0da4c070fd1f0bf98dcba50a475645&",
+            "url_hash": "d53638630f4a89eb1c5b5dc8457fdd5b2bd9c5cf112727b16f2750a2edf5474f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-16 22:07:03"
+        },
+        {
             "id": 23,
             "url": "https://en.wikipedia.org/wiki/Betavoltaic_device",
             "url_hash": "d5f34634a5e0a7a092fe42324bac2412de6bcfd536b93add7732c438b08c54ec",
@@ -3119,6 +3251,17 @@
             "last_update": "2025-08-21 02:26:06"
         },
         {
+            "id": 343,
+            "url": "https://www.tiktok.com/@foxnews/video/7537788622485867806",
+            "url_hash": "db7dad5192dca1f8c70d85e142a7fe2e58fecb5554290bfafd5096dbffd5b3b4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-16 07:08:27"
+        },
+        {
             "id": 33,
             "url": "https://github.com/DominicTWHV/CTI-DB-Dump",
             "url_hash": "dbba780f2e4fd435fc78098988dab48371a880202eb9e0f720704f9bcb6060de",
@@ -3205,6 +3348,17 @@
             "is_redirect": 1,
             "downstream_target": "https://renesasweb.s3.us-west-2.amazonaws.com/prod/docs/X014/X0148670/an-cm-410_voltmeter_with_3-digit_7-segment_indicator.zip?response-content-disposition=attachment%3B%20filename%3D%22an-cm-410_voltmeter_with_3-digit_7-segment_indicator.zip%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3WXFIBJWSDVTHJX3%2F20250816%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250816T114108Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86700&X-Amz-Signature=2157290d6d08c2e86ef0ed7c70402e6520c02438c5d8374ae1eac3dc3689cb80",
             "last_update": "2025-08-16 11:41:09"
+        },
+        {
+            "id": 357,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1418024635001475213/VID_20250918_070110.mp4?ex=68cc9dda&is=68cb4c5a&hm=1fc8cbcedc5ca671ec3c489b46e3adaacb2785a0b0d789cf34c4eb03922f73de&",
+            "url_hash": "e0d2c066002313c82c4cf35e7e769f52a7b8572f8d38507e67d3c93569ced37b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-18 00:03:40"
         },
         {
             "id": 328,
@@ -3372,6 +3526,17 @@
             "last_update": "2025-08-30 00:31:17"
         },
         {
+            "id": 351,
+            "url": "https://www.kkinstagram.com/reel/DOof-RTEqGa/?igsh=MTh4MnA5ZjlqcHVyeg==",
+            "url_hash": "f1348bfe98a4243a264f2c14eaeb4d99d7ef73e78b3c07efd5b86d30b6d7d629",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-17 08:37:18"
+        },
+        {
             "id": 282,
             "url": "https://cdn.discordapp.com/attachments/1127844754961473647/1414978289197645834/Oi-Do-you-have-a-Muppet-license-for-that-1757427482737.mp4?ex=68c188b9&is=68c03739&hm=3a933652d2aa48489e6576ee8e7520b8bb9bb3a88a26600369fb7a6ffac1b08b&",
             "url_hash": "f1aa2cfe5fc613d4203e52f049828f7686e4f7f49be5bbe492e09f14804a09c1",
@@ -3425,6 +3590,17 @@
             "is_redirect": 0,
             "downstream_target": "https://twitter.com",
             "last_update": "2025-08-17 09:40:49"
+        },
+        {
+            "id": 345,
+            "url": "https://tenor.com/view/fsh-spin-gif-14400153594659663270",
+            "url_hash": "f40958dd9cba339015bf246a867c76dbad32e007e348104cb51525dba0679818",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-16 10:03:38"
         },
         {
             "id": 86,

@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 8,
+    "num_of_entries": 11,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "files": [
         {
@@ -13,11 +13,25 @@
             "last_update": "2025-09-01 17:16:50"
         },
         {
+            "sha256": "53faec53aef01befed365a3295a74577ac66f9abed7e2d8eb331af905280a001",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-09-18 19:37:14"
+        },
+        {
             "sha256": "6e2e24c2f800c911859d629795745032470349f7324b53c32cb86a4c62268fe6",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-09-10 16:27:46"
+        },
+        {
+            "sha256": "707f415d7d581edd9bce99a0429ad4629d3be0316c329e8b9ebd576f7ab50b71",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-09-18 02:37:23"
         },
         {
             "sha256": "8e28212868dfeedbf72af38897bd4902a31e91ac794a4b54375489b2ef6e75ad",
@@ -53,6 +67,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Malicious",
             "last_update": "2025-08-15 20:19:41"
+        },
+        {
+            "sha256": "c4d136b8783c1b3e47bb35b8181204b5523c32a768aba59ac901fba58c228090",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-09-18 19:36:48"
         },
         {
             "sha256": "ede697600933ea8d72393e89c1ab625de126f5b69783bdf0d60893f25d6b2aa3",

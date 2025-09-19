@@ -2,9 +2,20 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 346,
+    "num_of_entries": 357,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
+        {
+            "id": 367,
+            "url": "https://www.youtube.com/watch?v=v81xm6o8wkw",
+            "url_hash": "001d595c472b0bd96d7905139a13d5fb0d2158f540870231dbec673f3cdb6abd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 02:10:59"
+        },
         {
             "id": 103,
             "url": "https://en.wikipedia.org/wiki/Thermal_energy_storage",
@@ -37,6 +48,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/sKvEFi4",
             "last_update": "2025-08-20 09:09:10"
+        },
+        {
+            "id": 363,
+            "url": "https://youtu.be/hCQCP-5g5bo?t=1046",
+            "url_hash": "0437d3f07cf05fe3ce6a206a874d54e4c3119aa7880f010de61d89f2ff040e3c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-18 11:21:54"
         },
         {
             "id": 283,
@@ -158,6 +180,17 @@
             "is_redirect": 0,
             "downstream_target": "https://platform.openai.com/docs/guides/moderation",
             "last_update": "2025-08-11 06:01:26"
+        },
+        {
+            "id": 360,
+            "url": "https://www.youtube.com/shorts/XfiSDGsmrDE",
+            "url_hash": "103b577edb0d31463afe11c5107e410d257f87ac4d974db0894824e72f861150",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-18 03:57:55"
         },
         {
             "id": 95,
@@ -1513,6 +1546,17 @@
             "last_update": "2025-09-02 14:44:54"
         },
         {
+            "id": 368,
+            "url": "https://www.youtube.com/watch?v=TwIvUbOhcKE",
+            "url_hash": "693cd603531d6dab12dd61fad1c9d07eb7e0fee9c956bd5f6d8c6b0e035e0bfc",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 02:38:28"
+        },
+        {
             "id": 223,
             "url": "https://youtube.com/shorts/8yPPL9WCx5A?si=XnnQVjNT3drYp78X",
             "url_hash": "6a9cc1c6ed8aaa677dc5e30fb7036445c47f525f8b518086989a993a01d04950",
@@ -1588,6 +1632,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.aliexpress.com/item/1005009592912669.html?spm=a2g0o.cart.0.0.39db38da3PDapI&mp=1&pdp_npi=5%40dis%21RON%21RON%208.72%21RON%205.73%21%21RON%205.73%21%21%21%40211b629217547650311523290e5b29%2112000049581572909%21ct%21RO%216269344177%21%211%210",
             "last_update": "2025-08-09 18:44:47"
+        },
+        {
+            "id": 362,
+            "url": "https://www.kkinstagram.com/reel/DN-64ChE95I/?utm_source=ig_web_copy_link",
+            "url_hash": "6ed3b6563dd4441d38d4caeb5f2669055607608941c086dc0e539dadc594ee81",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-18 10:13:04"
         },
         {
             "id": 149,
@@ -1986,6 +2041,17 @@
             "last_update": "2025-09-02 11:56:11"
         },
         {
+            "id": 359,
+            "url": "https://cdn.discordapp.com/attachments/1060076115563118642/1418033953595719812/AQODf2iY0SJOJI1NDnnMbAXg8k4SmuHGtMkDwjkpze_q63t_ng0SkdinRRGliTkDZ.mp4?ex=68cca688&is=68cb5508&hm=257d8b19f7a1964e7542ba92b3b76a7b928b018778fc445fe76d262603f50a7e&",
+            "url_hash": "897e3d92c7f55bc209650172c1c13f58fbae427046ed73b43e8e3270350df010",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-18 02:41:20"
+        },
+        {
             "id": 146,
             "url": "https://cdn.discordapp.com/attachments/948432396326404138/1407911694201782453/fpwhoops_dc.mp4?ex=68a7d371&is=68a681f1&hm=dff46fa9e9ab21386b3cfbfc133945dda92fd3a01043b5d04da24a85337d7d29&",
             "url_hash": "89f0b9d3e30cf255c31dba1378ae75bbbc0efd513b7b17d1e0305abb3d5ab516",
@@ -2083,6 +2149,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-31 22:42:20"
+        },
+        {
+            "id": 358,
+            "url": "https://www.reddit.com/r/computers/comments/1ngc0z7/what_do_i_do/",
+            "url_hash": "8d564e3e090889379716a2d4ffed0f2b3af49c10ad3f851d0f31bdb618bee4e6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/computers/comments/1ngc0z7/what_do_i_do/",
+            "last_update": "2025-09-18 02:36:46"
         },
         {
             "id": 66,
@@ -2217,6 +2294,17 @@
             "last_update": "2025-09-01 03:28:59"
         },
         {
+            "id": 366,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1418411104014434355/undefined_-_Imgur_1.mp4?ex=68ce05c8&is=68ccb448&hm=ce7eb073af40fb05a4e87bcf54169f95ab906f204ca7f96327178711eb109713&",
+            "url_hash": "984684a6276c5366f6506acbae381e4fdb6ed04cce96bb22434c309db98ab237",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 01:55:05"
+        },
+        {
             "id": 42,
             "url": "https://fixupx.com/morchel/status/1954875505091695086",
             "url_hash": "98c090c5b1040883740cd8f11ba1de0d9db957b206a5d5cc65db064c9a5642a2",
@@ -2226,6 +2314,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/morchel/status/1954875505091695086",
             "last_update": "2025-08-12 10:57:11"
+        },
+        {
+            "id": 364,
+            "url": "https://www.twitchorterrorist.com/",
+            "url_hash": "98ca927e25eb5c3d922fe48cbdde0957ed0003f4ee98765e3124b1f19c6b739c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Suspicious",
+            "is_redirect": 0,
+            "downstream_target": "https://www.twitchorterrorist.com/",
+            "last_update": "2025-09-18 18:09:28"
         },
         {
             "id": 333,
@@ -2523,6 +2622,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-30 10:53:08"
+        },
+        {
+            "id": 365,
+            "url": "https://tenor.com/view/hmm-interesting-watching-you-curious-stare-anime-girl-looking-at-screen-gif-4083899612055226371",
+            "url_hash": "ac1dd460776824e97ca79f66a57ec211270c086400f3d78e78dd6cbadb5c4bbd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-18 18:16:01"
         },
         {
             "id": 238,
@@ -2941,6 +3051,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:25:17"
+        },
+        {
+            "id": 361,
+            "url": "https://www.youtube.com/shorts/qw-6a5mzUj4",
+            "url_hash": "c7f412714f0d579086c3a0046c7fae89a3fa7becdd9b4c72572fc04cbecbbe99",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-18 04:17:49"
         },
         {
             "id": 167,

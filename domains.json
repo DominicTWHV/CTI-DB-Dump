@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 66,
+    "num_of_entries": 67,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -103,11 +103,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 85,
+            "times_seen": 87,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-09-18 00:03:40"
+            "last_update": "2025-09-19 01:55:05"
         },
         {
             "domain": "discordapp.net",
@@ -271,11 +271,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-09-17 08:37:18"
+            "last_update": "2025-09-18 10:13:04"
         },
         {
             "domain": "lcsc.com",
@@ -383,11 +383,11 @@
         },
         {
             "domain": "reddit.com",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-09-11 23:26:47"
+            "last_update": "2025-09-18 02:36:25"
         },
         {
             "domain": "renesas.com",
@@ -423,11 +423,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 91,
+            "times_seen": 92,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-17 05:41:17"
+            "last_update": "2025-09-18 18:16:01"
         },
         {
             "domain": "tiktok.com",
@@ -460,6 +460,14 @@
             "typing": "Shopping",
             "is_whitelisted": 0,
             "last_update": "2025-09-14 03:04:01"
+        },
+        {
+            "domain": "twitchorterrorist.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-09-18 18:09:28"
         },
         {
             "domain": "twitter.com",
@@ -511,19 +519,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 20,
+            "times_seen": 21,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-14 00:06:26"
+            "last_update": "2025-09-18 11:21:54"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 55,
+            "times_seen": 60,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-17 23:46:04"
+            "last_update": "2025-09-19 02:38:28"
         },
         {
             "domain": "zdnet.com",

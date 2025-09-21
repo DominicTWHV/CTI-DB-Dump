@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 357,
+    "num_of_entries": 376,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -127,6 +127,17 @@
             "last_update": "2025-08-20 19:51:57"
         },
         {
+            "id": 386,
+            "url": "https://tenor.com/view/get-a-load-of-this-gif-2218387369813418815",
+            "url_hash": "0a8cfade1b29932f81b421f0b3b7752e8d289fce03b62255cd13ea35a4070efa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-20 21:00:11"
+        },
+        {
             "id": 104,
             "url": "https://www.youtube.com/watch?v=15ga4KMSWqU",
             "url_hash": "0be761f121c008437e0089afb1b7042c3f6ee0f2e2652cd4353c048b4db39cb8",
@@ -136,6 +147,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 00:08:45"
+        },
+        {
+            "id": 381,
+            "url": "https://tenor.com/view/stepping-back-zach-jobe-donut-media-leaving-escape-gif-21567904",
+            "url_hash": "0cb200d1494a834ad4b7b477cc0236df94034d471aaa3483318dcaf65940b438",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 18:29:03"
         },
         {
             "id": 298,
@@ -435,6 +457,17 @@
             "last_update": "2025-08-22 18:55:21"
         },
         {
+            "id": 376,
+            "url": "https://www.facebook.com/groups/PackoutHangout/posts/1323958555203801/",
+            "url_hash": "21ad48d182062a8745389c215d11ac1edd73da28767c833dcbd79035d8efc14f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.facebook.com/groups/PackoutHangout/posts/1323958555203801/",
+            "last_update": "2025-09-19 14:18:08"
+        },
+        {
             "id": 46,
             "url": "https://learnopengl.com",
             "url_hash": "23874e8acde452b9c036456622afd5bde06995bf7e82f3cb297d6497d72d401f",
@@ -677,6 +710,17 @@
             "last_update": "2025-09-09 08:44:39"
         },
         {
+            "id": 373,
+            "url": "https://fixupx.com/realMaalouf/status/1968759972855943559",
+            "url_hash": "31a2bdf63ee3038c802219813133e3033879e2cc5ea5f782b0be56ef8ca0b7f8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/realMaalouf/status/1968759972855943559",
+            "last_update": "2025-09-19 11:34:31"
+        },
+        {
             "id": 108,
             "url": "https://tenor.com/view/cheese-james-may-gif-19266123",
             "url_hash": "31c72bbe7c979be55dd8e1774d3271d39c0319e297e73c7bd9353dcbde94b5cd",
@@ -840,6 +884,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 22:12:40"
+        },
+        {
+            "id": 370,
+            "url": "https://youtu.be/mjlsSYLLOSE",
+            "url_hash": "3ba0d2846fdede63ae08bb386be744e059660120359079587ab3c6578653a8f4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 04:01:51"
         },
         {
             "id": 54,
@@ -1082,6 +1137,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-02 22:09:41"
+        },
+        {
+            "id": 387,
+            "url": "https://tenor.com/view/sorry-gif-43566467168609839",
+            "url_hash": "4cf355c6e6f81b08eb73d92528bd67a30e14fbdb4d4be12384802cd99883b63a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-20 21:02:08"
         },
         {
             "id": 346,
@@ -1390,6 +1456,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-19 05:54:24"
+        },
+        {
+            "id": 369,
+            "url": "https://fixupx.com/TheGabriel72/status/1968164407181258929",
+            "url_hash": "625c55d40364eb103053dd0bbfd4c4e2053821f0ec3ae0a641d2c121b698bcd2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/TheGabriel72/status/1968164407181258929",
+            "last_update": "2025-09-19 03:13:00"
         },
         {
             "id": 312,
@@ -1709,6 +1786,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-16 15:26:46"
+        },
+        {
+            "id": 374,
+            "url": "https://fixupx.com/Viralvid_89/status/1968769737908699487",
+            "url_hash": "7277e29caeab0b1201e9951f0fd81c22c1e3996c8e8fbbb9a80cca02d62c2a11",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Viralvid_89/status/1968769737908699487",
+            "last_update": "2025-09-19 11:35:40"
         },
         {
             "id": 102,
@@ -2272,6 +2360,17 @@
             "last_update": "2025-09-16 23:11:32"
         },
         {
+            "id": 375,
+            "url": "https://youtube.com/shorts/-T91aG2TB-c?si=ghBhMb4XZPvEcuBS",
+            "url_hash": "961cdc149f1312ba8fa395df801d6aebd239b2dccea2c115d593f5fec43d43a7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 11:57:28"
+        },
+        {
             "id": 120,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1407432583750357012/20250819_2127331.mp4?ex=68a6153c&is=68a4c3bc&hm=da433900fd4af88ec1eaac1503348c50d29e40d9b42196056320da114d1f171b&",
             "url_hash": "96247c8a67121f438156138d29587197b6997b29c6c43b669725cd0f3e355edd",
@@ -2382,6 +2481,17 @@
             "last_update": "2025-09-07 02:31:06"
         },
         {
+            "id": 371,
+            "url": "https://tenor.com/view/crane-service-crane-mohammad-galib-crane-operator-crane-15-gif-15913077333841102900",
+            "url_hash": "9bb9ab01eed2c0dfe69502f25f654140ae571b7851138266ec757cd7edbd82a0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 08:20:40"
+        },
+        {
             "id": 188,
             "url": "https://www.kkinstagram.com/reel/DNTY-JmCf5U/?igsh=MTd0dWVpY25iZnFraA==",
             "url_hash": "9c4917473810c6d8d21747941c228756a596b2605aac8668e55932e4af341600",
@@ -2435,6 +2545,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.tiktok.com/@1antondaniels/video/7535730480755379487",
             "last_update": "2025-08-11 12:30:26"
+        },
+        {
+            "id": 377,
+            "url": "https://www.youtube.com/watch?v=g8b5naNvqac,",
+            "url_hash": "a3ca5d872742e4e2b11d34544f86c181b13f0967930abc2af8105b0ac8081e43",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 15:29:36"
         },
         {
             "id": 190,
@@ -2627,12 +2748,12 @@
             "id": 365,
             "url": "https://tenor.com/view/hmm-interesting-watching-you-curious-stare-anime-girl-looking-at-screen-gif-4083899612055226371",
             "url_hash": "ac1dd460776824e97ca79f66a57ec211270c086400f3d78e78dd6cbadb5c4bbd",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-18 18:16:01"
+            "last_update": "2025-09-20 06:21:16"
         },
         {
             "id": 238,
@@ -2756,6 +2877,17 @@
             "last_update": "2025-09-14 20:32:57"
         },
         {
+            "id": 378,
+            "url": "https://discord.com/channels/986011010295025754/1418620040944549999",
+            "url_hash": "b4e3f5252565b85f023bf3ce916c6d20a31af5cf4b02720cd1d49ed43d319315",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 15:38:35"
+        },
+        {
             "id": 112,
             "url": "https://drive.google.com/drive/folders/1rdwypYFoP7Ytl7oKWhqTIJ9o86fpRF3z",
             "url_hash": "b6c3b769e05ba9d2489096713e2b15a9768018eedc60e03054c69522f30f65fd",
@@ -2875,6 +3007,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-07 03:55:39"
+        },
+        {
+            "id": 384,
+            "url": "https://tenor.com/view/oichoclatcho-minahoshi-classic-ef-life-is-meaningless-what-is-life-gif-23665596",
+            "url_hash": "bd42bb4d2893d1b87fd2a200a1523bd96f0145a978c49b0bde8638bf887a76e2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-20 06:25:41"
         },
         {
             "id": 83,
@@ -3218,6 +3361,17 @@
             "last_update": "2025-09-05 18:27:13"
         },
         {
+            "id": 380,
+            "url": "https://tenor.com/view/waste-of-money-michael-rosen-ytp-youtube-poop-youtube-gif-4736861942084600343",
+            "url_hash": "d2d005feef8e75a74a92d318885e68a1f00ccb00659f56ba83400b700f2d3afd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 18:05:52"
+        },
+        {
             "id": 267,
             "url": "https://www.youtube.com/watch?v=K8d5JBJLJ8k",
             "url_hash": "d409c8b8b74efc8a49c50a6c38f7a132c2673b2221eea361395b7fba0d4bdc8b",
@@ -3493,6 +3647,17 @@
             "last_update": "2025-09-14 14:36:52"
         },
         {
+            "id": 382,
+            "url": "https://www.tiktok.com/@pan_afrikan/video/7550358342330305810",
+            "url_hash": "e2db0211d04450c9d8bd38e98f886f9c6407d5e2163b7e4f079139df5d7f2512",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 20:33:32"
+        },
+        {
             "id": 258,
             "url": "https://en.wikipedia.org/wiki/Brandolini%27s_law",
             "url_hash": "e3bcb3a673c80ef43763938e0854c730997dea8182a120541e4ce8a32e558339",
@@ -3524,6 +3689,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/because-billy-on-the-street-gif-19193048",
             "last_update": "2025-08-09 13:40:02"
+        },
+        {
+            "id": 372,
+            "url": "https://tenor.com/view/walking-chip-ne555-555-intergrated-circuit-gif-3483868900612198631",
+            "url_hash": "e662383a86f5aeb52348389811a670ce0d17e67dcff971c593dca8e45647b33e",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-20 20:40:20"
         },
         {
             "id": 276,
@@ -3702,6 +3878,17 @@
             "last_update": "2025-08-27 23:58:32"
         },
         {
+            "id": 379,
+            "url": "https://tenor.com/view/spongebob-squarepants-grouchy-squidward-everybodys-an-idiot-except-for-me-sand-boarding-gif-20411106",
+            "url_hash": "f3394bc4a1caf14418600b1c034d46ff01d33d90e2eabc1c35e4156e9e64ac64",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 17:01:02"
+        },
+        {
             "id": 100,
             "url": "https://twitter.com",
             "url_hash": "f3e57dc69a267b95b412c9de909042c68742c25591038c6bd7e03e75b8b91052",
@@ -3733,6 +3920,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:19:03"
+        },
+        {
+            "id": 383,
+            "url": "https://tenor.com/view/smoking-smoking-anime-anime-anime-girl-depressed-gif-9939923659937449982",
+            "url_hash": "f4c757af646fcd9004b8bfc22624fc265f11551b33426dc21b2ae0aa9b89d408",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-19 23:48:39"
         },
         {
             "id": 220,
@@ -3788,6 +3986,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-06 15:37:33"
+        },
+        {
+            "id": 385,
+            "url": "https://tenor.com/view/facepalm-really-stressed-mad-angry-gif-16109475",
+            "url_hash": "f7ebb3dac2156d3f6f66b49883aeb0997d062e34ece488cd9f605d1f65cf9a08",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-20 20:38:57"
         },
         {
             "id": 117,

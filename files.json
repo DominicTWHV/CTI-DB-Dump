@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 11,
+    "num_of_entries": 14,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "files": [
         {
@@ -11,6 +11,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-09-01 17:16:50"
+        },
+        {
+            "sha256": "4ca9850c907e326f829c212ede462e8f974eb5abff8f88d867ddf714dd706a19",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-09-19 21:39:14"
         },
         {
             "sha256": "53faec53aef01befed365a3295a74577ac66f9abed7e2d8eb331af905280a001",
@@ -60,6 +67,20 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-08-09 19:57:55"
+        },
+        {
+            "sha256": "a58ce531b50491d2783c7d64d80cf12d8dfb78bfbe7b5d44832550dfdb59e969",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-09-22 11:47:13"
+        },
+        {
+            "sha256": "a7a583c3d30d9faaeb8e6905f1adc5f23b0e2ba69e3466e00e9b5124d5dd5a66",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-09-22 04:31:19"
         },
         {
             "sha256": "aff206b0376de909083df38c4b348866c71ef6076f92042bccb416c4e25e2d51",

@@ -2,7 +2,7 @@
     "notes": [
         "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
     ],
-    "num_of_entries": 408,
+    "num_of_entries": 429,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "links": [
         {
@@ -215,6 +215,17 @@
             "last_update": "2025-09-08 17:19:40"
         },
         {
+            "id": 437,
+            "url": "https://fixupx.com/jimbotrump/status/1970615118636712011",
+            "url_hash": "0f54c13f53486814f656e02132162b7b0dbe283fc6108082d41f44aec5007bbb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/jimbotrump/status/1970615118636712011",
+            "last_update": "2025-09-24 18:05:41"
+        },
+        {
             "id": 32,
             "url": "https://platform.openai.com/docs/guides/moderation",
             "url_hash": "0feda4972685bbba316e101b136f0c817d9b8342696f4a021eb372cbef605e1b",
@@ -257,6 +268,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-09 08:47:31"
+        },
+        {
+            "id": 427,
+            "url": "https://fixupx.com/NoContextCrap/status/1970152608632320157",
+            "url_hash": "151fe4e445676e4b852a05ac07f5b106ccea2f03102436293fe04edbba179478",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/NoContextCrap/status/1970152608632320157",
+            "last_update": "2025-09-23 11:30:28"
         },
         {
             "id": 284,
@@ -400,6 +422,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-12 11:02:10"
+        },
+        {
+            "id": 425,
+            "url": "https://www.tiktok.com/@lizzy4more/video/7362591378976656683",
+            "url_hash": "1c6fecbdbb2b41855f02b3d4acb981865ec023f908ea69fffd5ed5b2798f821c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 04:58:34"
         },
         {
             "id": 28,
@@ -598,6 +631,17 @@
             "is_redirect": 0,
             "downstream_target": "https://x.com/tatapomn/status/1956923958751850949",
             "last_update": "2025-08-17 09:38:37"
+        },
+        {
+            "id": 438,
+            "url": "https://github.com/M-Marvin/APP-LogicOptimizer",
+            "url_hash": "294402139cf7b6e8e76315ac6f93daa73274fec6d1ea9ed5627f328a4132e94d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-24 18:56:33"
         },
         {
             "id": 256,
@@ -875,6 +919,17 @@
             "last_update": "2025-08-21 22:10:33"
         },
         {
+            "id": 426,
+            "url": "https://www.youtube.com/watch?v=yFqF_HynFWM",
+            "url_hash": "36ff3f9cb2c4c33171096f88f4a8b5f51f1c6aad3382d0ad595c2a18b032b9cf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 08:26:55"
+        },
+        {
             "id": 60,
             "url": "https://tenor.com/view/sweeping-charles-barkley-gif-18506616",
             "url_hash": "37520e45432ff78f720b3271aa571859f280ea3ce589d4ccb64285b4c8968009",
@@ -952,6 +1007,17 @@
             "last_update": "2025-08-17 07:20:18"
         },
         {
+            "id": 422,
+            "url": "https://tenor.com/view/yall-got-anymore-of-them-robocrafts-robocraft-gif-26980580",
+            "url_hash": "3a3b64e5b03ea8ef8e706f5b9c1ed6e8c47693ee634161f16533f95fe9767563",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 04:17:06"
+        },
+        {
             "id": 150,
             "url": "https://cdn.discordapp.com/attachments/426116061415342080/1408204681024503959/RDT_20250821_164133.mp4?ex=68a8e44f&is=68a792cf&hm=bf6b054a2cb13981ad4b30b3cde129ccdac373f7545bf5a0047986a5850e2fe9&",
             "url_hash": "3b21525cc85d23ce8f8d0978ecbd8fca1b73ee252fef86cc720f9f8a808a5185",
@@ -983,6 +1049,28 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1074993070174638162/1405327725140377700/ScreenRecording_08-13-2025_19-08-49_1.mov?ex=689e6cef&is=689d1b6f&hm=f916b457bd2e86d4724c02543417d6cccc9eca65a5153ad5ea83653c5b028577&",
             "last_update": "2025-08-13 23:11:00"
+        },
+        {
+            "id": 432,
+            "url": "https://electronics.stackexchange.com/questions/213806/arduino-input-with-cny17-to-sense-12v-input",
+            "url_hash": "3c806eeb05cba8c7086463ee8e4779a85b4b0beb95e2345ec84c9eb68f261c7b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 18:12:16"
+        },
+        {
+            "id": 433,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1419694501915529338/RPReplay_Final1722613728.mov?ex=68d40289&is=68d2b109&hm=983164b2735e1a0e3aa689a8ae0aa54ba8419b90cb13b4b194c7ef4b501df0ab&",
+            "url_hash": "3d3c6fca8f67b7e080bc4a9059c201fa4fd2b7b14b5b87dcdace5fec1e379b7e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-24 01:30:02"
         },
         {
             "id": 313,
@@ -1348,6 +1436,17 @@
             "last_update": "2025-08-26 23:48:31"
         },
         {
+            "id": 441,
+            "url": "https://www.mcgill.ca/oss/article/student-contributors-did-you-know-general-science/unintelligent-design-recurrent-laryngeal-nerve",
+            "url_hash": "55606bbb7eac44c7bf4bbc3ffe7c2b2a38cfaf352493c6183442f6d95ea03285",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.mcgill.ca/oss/article/student-contributors-did-you-know-general-science/unintelligent-design-recurrent-laryngeal-nerve",
+            "last_update": "2025-09-25 02:29:12"
+        },
+        {
             "id": 181,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1410194024115081389/20250827_125047.mp4?ex=68b02107&is=68aecf87&hm=1a2e50e1c5c5f98070f02ada6addd35aae959a95710400f0f1129d69cce8434e&",
             "url_hash": "5594deb0e44df1f9f6a41bfd5c987b360d5127695e966f26e8c4385dbfd84b24",
@@ -1601,6 +1700,17 @@
             "last_update": "2025-08-19 05:54:24"
         },
         {
+            "id": 424,
+            "url": "https://www.youtube.com/watch?v=0_xGYzWXjmQ",
+            "url_hash": "60ca99fea5699f64a2599b5db7e82ab0d4b517f65e370993c2d7ba6e55886aa5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 04:29:11"
+        },
+        {
             "id": 369,
             "url": "https://fixupx.com/TheGabriel72/status/1968164407181258929",
             "url_hash": "625c55d40364eb103053dd0bbfd4c4e2053821f0ec3ae0a641d2c121b698bcd2",
@@ -1670,12 +1780,12 @@
             "id": 406,
             "url": "https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html",
             "url_hash": "649a61a92f98aead128c230296fdc8c27e1cc2b4b13cd66192f5660e000e249c",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html",
-            "last_update": "2025-09-22 12:55:57"
+            "last_update": "2025-09-25 02:31:18"
         },
         {
             "id": 297,
@@ -1962,6 +2072,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Viralvid_89/status/1968769737908699487",
             "last_update": "2025-09-19 11:35:40"
+        },
+        {
+            "id": 439,
+            "url": "https://fixupx.com/LangmanVince/status/1949597541437219166",
+            "url_hash": "72a67a080d7684036005a60969151428992568ef4c7d7180d7ce6d23c7443474",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/LangmanVince/status/1949597541437219166",
+            "last_update": "2025-09-24 19:43:35"
         },
         {
             "id": 102,
@@ -2382,6 +2503,17 @@
             "last_update": "2025-08-20 16:31:24"
         },
         {
+            "id": 430,
+            "url": "https://youtube.com/shorts/lqCYXLDR9U0",
+            "url_hash": "8c80e371b4e06a85ee9ff03fa857509306b049401777fb060362f1ebf4314e75",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 17:40:30"
+        },
+        {
             "id": 97,
             "url": "https://www.aliexpress.com/item/1005008790325250.html?",
             "url_hash": "8c9a37089b6ea78c1c43c884a7d0ac0e62eb5dda7b427da5a11361302b323ebf",
@@ -2556,6 +2688,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-16 23:11:32"
+        },
+        {
+            "id": 436,
+            "url": "https://fixupx.com/oliviakrolczyk_/status/1970607966958309404",
+            "url_hash": "951105dc1a58a87f2e22f743c6da0d80cd80c0febcea9598ea6e11a6ceccc197",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/oliviakrolczyk_/status/1970607966958309404",
+            "last_update": "2025-09-24 18:02:35"
         },
         {
             "id": 375,
@@ -2979,12 +3122,12 @@
             "id": 365,
             "url": "https://tenor.com/view/hmm-interesting-watching-you-curious-stare-anime-girl-looking-at-screen-gif-4083899612055226371",
             "url_hash": "ac1dd460776824e97ca79f66a57ec211270c086400f3d78e78dd6cbadb5c4bbd",
-            "times_seen": 2,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-20 06:21:16"
+            "last_update": "2025-09-24 05:22:11"
         },
         {
             "id": 238,
@@ -3295,6 +3438,17 @@
             "last_update": "2025-09-03 16:42:17"
         },
         {
+            "id": 431,
+            "url": "https://youtube.com/shorts/wKySbeMTvWk",
+            "url_hash": "c0a62279ee1bf43b57242d699f12a8db78847c8fd525588f2a4b5b0c16b67b8b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 17:43:04"
+        },
+        {
             "id": 142,
             "url": "https://www.ebay.com/itm/296273626060",
             "url_hash": "c1fef6927ae7003f0214bb5ab3f782e232003b5e4732052cd1873719b93015ef",
@@ -3491,6 +3645,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-24 01:30:41"
+        },
+        {
+            "id": 423,
+            "url": "https://tenor.com/view/no-pixels-cant-see-ben-chang-community-ken-jeong-gif-17361588",
+            "url_hash": "cbf9916a2fedc59d226fa39d672ab4a7267bd25eff56323d48a9e14c162020d8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 04:17:55"
         },
         {
             "id": 51,
@@ -4021,6 +4186,17 @@
             "last_update": "2025-08-09 13:40:02"
         },
         {
+            "id": 435,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1420407679830065203/IMG_8114.mov?ex=68d5493c&is=68d3f7bc&hm=ccb684d9dd0c3a3514c2f91f969d5625953036683487c4e85c4bc82322d6dd92&",
+            "url_hash": "e5e0198cfc7ae54bbb9e37c62321b61efdfbbf33bc14860b255071094e024815",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-24 13:53:02"
+        },
+        {
             "id": 372,
             "url": "https://tenor.com/view/walking-chip-ne555-555-intergrated-circuit-gif-3483868900612198631",
             "url_hash": "e662383a86f5aeb52348389811a670ce0d17e67dcff971c593dca8e45647b33e",
@@ -4041,6 +4217,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-09 08:49:39"
+        },
+        {
+            "id": 440,
+            "url": "https://fixupx.com/AndrewMohawk/status/1970868412848165194",
+            "url_hash": "e7b5cdda6d3adc35f6cca1d3ada7cdac8fc7d9910e51c21aea234bb82309a0fc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/AndrewMohawk/status/1970868412848165194",
+            "last_update": "2025-09-25 00:12:41"
         },
         {
             "id": 122,
@@ -4074,6 +4261,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-20 21:16:18"
+        },
+        {
+            "id": 434,
+            "url": "https://en.wikipedia.org/wiki/Current_loop",
+            "url_hash": "ea583bd96efe0f944a57bb3d98537bd4ece3694d37cdeebdb96cf3709821e001",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-24 01:56:12"
         },
         {
             "id": 390,
@@ -4120,6 +4318,17 @@
             "last_update": "2025-09-05 22:13:34"
         },
         {
+            "id": 429,
+            "url": "https://www.youtube.com/shorts/HnhGhl0DLHk",
+            "url_hash": "edc2567b364f2d1dd88ba0f6cc4d51b983d00edc94e1d13b4d797cdcf59eeed2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 15:48:41"
+        },
+        {
             "id": 165,
             "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1408807211647500469/Harry_lime.mov?ex=68ab1575&is=68a9c3f5&hm=21f84e5438ae4c2a938657c427de9c36bea4c3a53121c630b97b143cd2ed515e&",
             "url_hash": "ee8ac683417f3264d269446ec30580c95daede42fed3d545bcdc70eebabcbd5f",
@@ -4162,6 +4371,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/theydidthemath/comments/1n0l4lr/request_what_is_the_actual_speed/?share_id=Yzjn3fgIZ1fO8wIKasdtL&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
             "last_update": "2025-08-27 08:02:39"
+        },
+        {
+            "id": 421,
+            "url": "https://www.amazon.com/PJPSAA-Disposable-Birthday-Anniversary-Supplies/dp/B0CZXQW8B6/ref=asc_df_B0CZXQW8B6?tag=bingshoppinga-20&linkCode=df0&hvadid=80401979225238&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=105035&hvtargid=pla-4584001443422202&psc=1&msclkid=a4ad6c9758ad1ba307110445517893b5",
+            "url_hash": "f0c16a1d27251be400010bae4f59f3841edbab9b316c55803aa3c9a9f8e591ca",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.amazon.com/PJPSAA-Disposable-Birthday-Anniversary-Supplies/dp/B0CZXQW8B6",
+            "last_update": "2025-09-23 02:49:16"
         },
         {
             "id": 199,
@@ -4492,6 +4712,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-13 15:18:29"
+        },
+        {
+            "id": 428,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1420064352891048076/Spiciest_Memelord_V2.mov?ex=68d4097d&is=68d2b7fd&hm=2e6733df224d230ac193789a65fa5a4f1f248bc462969239481a035297987c5a&",
+            "url_hash": "ffd93fd3f2bd32e0f60774619fceb56a97e368c098db5b2cf3c85ef6fa49ae0e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-23 15:08:46"
         }
     ]
 }

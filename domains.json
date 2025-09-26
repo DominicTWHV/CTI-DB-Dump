@@ -2,7 +2,7 @@
     "notes": [
         ""
     ],
-    "num_of_entries": 75,
+    "num_of_entries": 76,
     "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
@@ -135,11 +135,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 96,
+            "times_seen": 98,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-09-24 13:53:02"
+            "last_update": "2025-09-25 14:13:06"
         },
         {
             "domain": "discordapp.net",
@@ -207,11 +207,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 21,
+            "times_seen": 22,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-09-25 00:12:20"
+            "last_update": "2025-09-26 03:36:09"
         },
         {
             "domain": "freedium.cfd",
@@ -311,11 +311,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-09-21 22:54:36"
+            "last_update": "2025-09-25 11:19:44"
         },
         {
             "domain": "lcsc.com",
@@ -446,12 +446,20 @@
             "last_update": "2025-08-14 05:05:06"
         },
         {
-            "domain": "reddit.com",
-            "times_seen": 8,
+            "domain": "redd.it",
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-09-18 02:36:25"
+            "last_update": "2025-09-26 00:10:59"
+        },
+        {
+            "domain": "reddit.com",
+            "times_seen": 9,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 0,
+            "last_update": "2025-09-25 21:06:33"
         },
         {
             "domain": "renesas.com",
@@ -487,19 +495,19 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 112,
+            "times_seen": 114,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-24 05:22:11"
+            "last_update": "2025-09-25 20:13:48"
         },
         {
             "domain": "tiktok.com",
-            "times_seen": 10,
+            "times_seen": 11,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-09-23 04:58:34"
+            "last_update": "2025-09-25 07:15:17"
         },
         {
             "domain": "tinkercad.com",
@@ -567,19 +575,19 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 13,
+            "times_seen": 14,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-09-24 01:56:12"
+            "last_update": "2025-09-25 19:47:32"
         },
         {
             "domain": "x.com",
-            "times_seen": 6,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-09-14 07:10:22"
+            "last_update": "2025-09-25 08:35:49"
         },
         {
             "domain": "youtu.be",

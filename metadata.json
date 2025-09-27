@@ -1,0 +1,29 @@
+{
+    "last_update": "2025-09-27T05:23:00.132131+00:00",
+    "remote_update_interval_minutes": 1440,
+    "dataset_format": "cockatoo-core",
+    "dataset_author": "DominicTWHV",
+    "licensing": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
+    "notes": [
+        {
+            "url_dataset": [
+                "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
+            ]
+        },
+        {
+            "file_dataset": [
+                ""
+            ]
+        },
+        {
+            "domain_dataset": [
+                ""
+            ]
+        },
+        {
+            "invite_dataset": [
+                "The invite has been hashed in sha256 for privacy reasons. You can still hash it on your side and compare both.\nThe server name has been partially obfuscated."
+            ]
+        }
+    ]
+}

@@ -1,9 +1,5 @@
 {
-    "notes": [
-        "The invite has been hashed in sha256 for privacy reasons. You can still hash it on your side and compare both.\nThe server name has been partially obfuscated."
-    ],
     "num_of_entries": 7,
-    "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "invites": [
         {
             "invite": "b1b2eab4950adb7358cecedc9904b1bae1882df599b97a9e608becf0f3fbead9",

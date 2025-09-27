@@ -1,9 +1,5 @@
 {
-    "notes": [
-        ""
-    ],
     "num_of_entries": 76,
-    "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
     "domains": [
         {
             "domain": "agmcn.com",
@@ -127,19 +123,19 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-09-19 15:38:35"
+            "last_update": "2025-09-27 00:07:59"
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 98,
+            "times_seen": 99,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-09-25 14:13:06"
+            "last_update": "2025-09-26 04:53:22"
         },
         {
             "domain": "discordapp.net",
@@ -447,19 +443,19 @@
         },
         {
             "domain": "redd.it",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-09-26 00:10:59"
+            "last_update": "2025-09-26 03:51:57"
         },
         {
             "domain": "reddit.com",
-            "times_seen": 9,
+            "times_seen": 10,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-09-25 21:06:33"
+            "last_update": "2025-09-26 03:52:17"
         },
         {
             "domain": "renesas.com",
@@ -495,11 +491,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 114,
+            "times_seen": 115,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-25 20:13:48"
+            "last_update": "2025-09-26 21:02:41"
         },
         {
             "domain": "tiktok.com",
@@ -583,11 +579,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 8,
+            "times_seen": 10,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-09-25 08:35:49"
+            "last_update": "2025-09-27 00:29:00"
         },
         {
             "domain": "youtu.be",

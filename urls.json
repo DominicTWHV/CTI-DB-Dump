@@ -1,9 +1,5 @@
 {
-    "notes": [
-        "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
-    ],
-    "num_of_entries": 442,
-    "license": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
+    "num_of_entries": 449,
     "links": [
         {
             "id": 367,
@@ -444,6 +440,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-23 04:58:34"
+        },
+        {
+            "id": 456,
+            "url": "https://www.reddit.com/r/batteries/s/mXBj4m8Gqz",
+            "url_hash": "1c8bc502a08c9be9331b6417c7a29bfc7e2013cb1ed3b20960c718d351f2a6f4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/batteries/comments/1nqfyf8/we_ct_scanned_1000_batteries_from_10_brands_here/?share_id=uDPyl3iExsgAlc0HrkD9I&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
+            "last_update": "2025-09-26 03:52:38"
         },
         {
             "id": 28,
@@ -950,6 +957,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 22:10:33"
+        },
+        {
+            "id": 459,
+            "url": "https://tenor.com/view/gogo-big-hero6-gif-13663054",
+            "url_hash": "366027b47111c5ede8202cf9cdb43a9ac6d142d616e1424612e4e1a8c19e8352",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-26 21:02:41"
         },
         {
             "id": 426,
@@ -1599,6 +1617,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.espressif.com/en/products/modules",
             "last_update": "2025-09-14 21:38:34"
+        },
+        {
+            "id": 461,
+            "url": "https://x.com/lashIndustries/status/1971679891763675396",
+            "url_hash": "5a534a9462270920a587cd1430d6e5fb94e082bfeaccb6c20ac8d1b40334312f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 00:29:00"
         },
         {
             "id": 75,
@@ -2910,6 +2939,17 @@
             "last_update": "2025-09-19 08:20:40"
         },
         {
+            "id": 458,
+            "url": "https://x.com/ShadowofEzra/status/1971566414642450921",
+            "url_hash": "9c2af5e14f3f9749d8f684b68d13f61cb0b9b0b45f1fa24272d8e290ac825c7f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-26 20:56:10"
+        },
+        {
             "id": 188,
             "url": "https://www.kkinstagram.com/reel/DNTY-JmCf5U/?igsh=MTd0dWVpY25iZnFraA==",
             "url_hash": "9c4917473810c6d8d21747941c228756a596b2605aac8668e55932e4af341600",
@@ -2941,6 +2981,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Aelthemplaer/status/1971014406407676035",
             "last_update": "2025-09-26 03:36:31"
+        },
+        {
+            "id": 460,
+            "url": "https://discord.com/channels/986011010295025754/1206332684872454177/1421271243163832361",
+            "url_hash": "9e43b3d13033ff2fdbf0e9e2ee79112a56cbeef8854a3d0b5e69e3a371b17b19",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 00:07:59"
         },
         {
             "id": 163,
@@ -3139,6 +3190,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-22 22:18:54"
+        },
+        {
+            "id": 457,
+            "url": "https://cdn.discordapp.com/attachments/1060076115563118642/1420979417030590474/AQOhdQVJLv210XXRKgOHJV7fRWXukVNjH-3p8H74naeipZ-cQvpNwtO0KN_Lik4Q0qPxDqC_0ZrCmmj4NtjpWD0kY1V9Q9c_7oeeH8Y.mov?ex=68d75db5&is=68d60c35&hm=8fb3036b12d8e5af4a07baf12a36caef5ef3b1177665c6cefe487fcc110ef5e2&",
+            "url_hash": "aa7b60f841de5fdc1973e0b97ef9a5fc30240e65ec45f077358a7c23ca882391",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-26 04:53:22"
         },
         {
             "id": 301,
@@ -4415,6 +4477,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-24 01:56:12"
+        },
+        {
+            "id": 455,
+            "url": "https://share.redd.it/preview/post/1nqfyf8",
+            "url_hash": "eb83c105734cdb3c9843f5b3bee8c9c851867a711d583a32e003dc44692c3bf4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://share.redd.it/preview/post/1nqfyf8",
+            "last_update": "2025-09-26 03:52:16"
         },
         {
             "id": 390,

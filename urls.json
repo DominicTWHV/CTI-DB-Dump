@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 449,
+    "num_of_entries": 466,
     "links": [
         {
             "id": 367,
@@ -220,6 +220,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/jimbotrump/status/1970615118636712011",
             "last_update": "2025-09-24 18:05:41"
+        },
+        {
+            "id": 471,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1421662221737656460/8dosahldsadRED.mp4?ex=68d9d99e&is=68d8881e&hm=3923d21bac7a8bae58043b441d222e2e4027d2327640880e68d231a51d4cb318&",
+            "url_hash": "0fbd523131be3319154e2434b67d8f4897ab0539febcc2ece106d2227cf6cb1f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-28 00:58:08"
         },
         {
             "id": 32,
@@ -497,6 +508,28 @@
             "last_update": "2025-08-10 09:55:54"
         },
         {
+            "id": 474,
+            "url": "https://tenor.com/view/dies-cat-dead-died-gif-13827091",
+            "url_hash": "1d8ea9c01e56f03bfbe332c3e0e84fa4965e79619f6dc00e1d8b489d41c86081",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-28 13:28:40"
+        },
+        {
+            "id": 463,
+            "url": "https://www.kkinstagram.com/reel/DOGQ2HMEs7v/?igsh=eXBicWJiY2pkbDFi",
+            "url_hash": "1d9d5dfbf3265fc203746b4532d6d7e11c76a29212e300f69a0ea0a7b39ae019",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 09:15:59"
+        },
+        {
             "id": 154,
             "url": "https://tenor.com/view/%D0%B1%D0%BE%D0%B6%D0%B5-%D0%B1%D0%BE%D0%B3-%D0%B1%D0%BE%D0%B6%D0%B5-%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D1%83%D0%B9-%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D1%83%D0%B9-%D0%B1%D0%BE%D0%B6%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0-gif-11804428844742541975",
             "url_hash": "1e34da1bb173ef15c5d42feff6e0c11b0c0facb5c5823e5fdaa09c3f47037d1a",
@@ -506,6 +539,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 04:51:54"
+        },
+        {
+            "id": 466,
+            "url": "https://www.youtube.com/shorts/JgqfCuJkRls",
+            "url_hash": "1f550a6015aa89f0646119176abed785594c13b1fabec6de601f6d97b7f4a599",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 15:24:34"
         },
         {
             "id": 183,
@@ -627,6 +671,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-29 09:29:36"
+        },
+        {
+            "id": 465,
+            "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1421493611177967728/IMG_8302.mov?ex=68d93c96&is=68d7eb16&hm=155675a282a7533e977a719cf31f99111c98381d2bc8dfa46e4eb925f154e380&",
+            "url_hash": "25b5c979c23e838b72871771b69645600832ec764daa68bcbe7c787517cd9936",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 13:48:09"
         },
         {
             "id": 274,
@@ -836,6 +891,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-05 10:55:23"
+        },
+        {
+            "id": 477,
+            "url": "https://tenor.com/view/dancing-cowboy-finger-gun-pointing-moves-gif-17170914",
+            "url_hash": "2fca412655900bf1e276171535fc186957f69cf5adbc0657704b49b857328639",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-28 13:53:01"
         },
         {
             "id": 36,
@@ -1058,6 +1124,17 @@
             "last_update": "2025-08-17 07:20:18"
         },
         {
+            "id": 467,
+            "url": "https://fixupx.com/EricLDaugh/status/1971952526724669556",
+            "url_hash": "3a1d93d8db628b187a4d10113e42daddca2bc2ad7b0cd81e05c458bdb315d150",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/EricLDaugh/status/1971952526724669556",
+            "last_update": "2025-09-27 19:52:12"
+        },
+        {
             "id": 422,
             "url": "https://tenor.com/view/yall-got-anymore-of-them-robocrafts-robocraft-gif-26980580",
             "url_hash": "3a3b64e5b03ea8ef8e706f5b9c1ed6e8c47693ee634161f16533f95fe9767563",
@@ -1221,6 +1298,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-02 12:45:05"
+        },
+        {
+            "id": 473,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1421821895115931729/20250928_143137.mp4?ex=68da6e53&is=68d91cd3&hm=57b2f10ef6e0cc56824318de6f3ca6d36bf708bba4ab50bb335fca7f408c7899&",
+            "url_hash": "4408798e5a4f0a7e3b88940ef949fcc25420ab3b248c759bbaae38a6b18f206c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-28 11:32:38"
         },
         {
             "id": 356,
@@ -1413,12 +1501,12 @@
             "id": 387,
             "url": "https://tenor.com/view/sorry-gif-43566467168609839",
             "url_hash": "4cf355c6e6f81b08eb73d92528bd67a30e14fbdb4d4be12384802cd99883b63a",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-20 21:02:08"
+            "last_update": "2025-09-27 15:31:12"
         },
         {
             "id": 346,
@@ -1828,6 +1916,17 @@
             "last_update": "2025-09-09 13:16:14"
         },
         {
+            "id": 472,
+            "url": "https://gofund.me/99244ba67",
+            "url_hash": "63a62b460fd322e454c6317b5cda0d7015dcd300a3c86a241d36549dad8fafdd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.gofundme.com/f/angelo-afford-his-back-surgery/cl/s?attribution_id=sl:34aeb862-e2d9-4d5c-a788-fd190c219061&lang=en_US&ts=1759055118&utm_campaign=fp_sharesheet&utm_content=amp13_t1&utm_medium=customer&utm_source=copy_link",
+            "last_update": "2025-09-28 10:31:20"
+        },
+        {
             "id": 58,
             "url": "https://fxtwitter.com/paintaya/status/1955765998214373440",
             "url_hash": "63f1be2761a1caa8ea1c14df212dc900bd0d40f477fc3f93117096e1b9dac8fb",
@@ -1980,6 +2079,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-19 02:38:28"
+        },
+        {
+            "id": 478,
+            "url": "https://x.com/OneBadDude_/status/1972137699386736924",
+            "url_hash": "6a63d095c61757c6f9bb4d6c4e9013cf2f31e39268dcd17a2d12bec121bfb245",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-28 16:10:04"
         },
         {
             "id": 223,
@@ -2398,6 +2508,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-04 13:48:30"
+        },
+        {
+            "id": 475,
+            "url": "https://tenor.com/view/bane-no-banned-and-you-are-explode-gif-16047504",
+            "url_hash": "84fcad6e6706c607363166050e211244e10364c22a2e3aca7f472bb8cc98f358",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-28 13:42:49"
         },
         {
             "id": 262,
@@ -3280,6 +3401,28 @@
             "last_update": "2025-09-24 05:22:11"
         },
         {
+            "id": 469,
+            "url": "https://fixupx.com/YossiBenYakar/status/1970322114545959226",
+            "url_hash": "acdbdc0caa3fdf3611cafdd1f061f0485e33d011fc23dc01476a927eeba0d881",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/YossiBenYakar/status/1970322114545959226",
+            "last_update": "2025-09-27 20:33:05"
+        },
+        {
+            "id": 464,
+            "url": "https://discord.com/channels/986011010295025754/1412824811435982868/1413280901969743892",
+            "url_hash": "ad0397b8dc573d49e6bc2ae58bf07b7c8bc91b963e857374571e64778854bc60",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 10:17:11"
+        },
+        {
             "id": 238,
             "url": "https://tenor.com/view/galaxy-brain-gif-62870316450580206",
             "url_hash": "adc0c38faee6cea0a393900bb7b743e945e20d69ccb1db2d1d0e0b51fcee4873",
@@ -3305,12 +3448,12 @@
             "id": 244,
             "url": "https://tenor.com/view/portal-glados-robot-gaming-gameplay-gif-17551452",
             "url_hash": "ae21372016aa45efadec11f65db7fa07e93fcfe5f8ebc32689e1d92e1ce36c98",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-05 17:22:27"
+            "last_update": "2025-09-28 17:17:59"
         },
         {
             "id": 91,
@@ -3487,6 +3630,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-11 14:45:42"
+        },
+        {
+            "id": 470,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1421606945864810506/IMG_0868.mov?ex=68d9a624&is=68d854a4&hm=43afb9475fbb8ffd63e2304111b5a1ea5341c2720c512dbdcc2a35daed5d75a7&",
+            "url_hash": "b8cd2d798c78abe6baa1cde80ec8196f00e2cb3b5520878a7405610b3117c8e4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 21:18:29"
         },
         {
             "id": 332,
@@ -3830,6 +3984,17 @@
             "last_update": "2025-09-23 04:17:55"
         },
         {
+            "id": 468,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1421592957374562334/Mentionlistalwayssupportlocals_2dbc764e961ed10063faf8b68678c41f1.mp4?ex=68d9991c&is=68d8479c&hm=0e00b6451d2c2e0e5347848ec5268ea5a407a21283138d5d856a349d74672aa6&",
+            "url_hash": "cc57016e280da4964eba894317f3033cc56df023c179937ba7af28b09e0e4b54",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 20:22:53"
+        },
+        {
             "id": 51,
             "url": "https://tenor.com/view/big-brain-markiplier-gif-14835823",
             "url_hash": "cc77ed6b430ba445372d3535d3ab88485d97d03f876c8784d85a651f58b436d1",
@@ -3839,6 +4004,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/big-brain-markiplier-gif-14835823",
             "last_update": "2025-08-13 16:44:13"
+        },
+        {
+            "id": 476,
+            "url": "https://tenor.com/view/zero-two-002-darling-in-the-franxx-pink-hair-anime-gif-17236485",
+            "url_hash": "ccb13be5cecd382c0aa56d459be3a911dd09b85773eaa4a9f5e3bfc02eb5d438",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-28 13:43:20"
         },
         {
             "id": 305,
@@ -4103,6 +4279,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-21 22:54:36"
+        },
+        {
+            "id": 462,
+            "url": "https://www.youtube.com/watch?v=csswLSf4glI",
+            "url_hash": "d8a5f755efe8c0d8bc993d7d87d7495eaba7c2c220806fef2fc336287d0bd600",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-27 08:32:28"
         },
         {
             "id": 253,

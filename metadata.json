@@ -1,5 +1,5 @@
 {
-    "last_update": "2025-09-27T05:23:00.132131+00:00",
+    "last_update": "2025-09-28T17:20:57.047332+00:00",
     "remote_update_interval_minutes": 1440,
     "dataset_format": "cockatoo-core",
     "dataset_author": "DominicTWHV",
@@ -22,7 +22,8 @@
         },
         {
             "invite_dataset": [
-                "The invite has been hashed in sha256 for privacy reasons. You can still hash it on your side and compare both.\nThe server name has been partially obfuscated."
+                "The invite has been hashed in sha256 for privacy reasons. You can still hash it on your side and compare both values.",
+                "Resolution of the invite is partially masked for privacy reasons."
             ]
         }
     ]

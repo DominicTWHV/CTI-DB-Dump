@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 77,
+    "num_of_entries": 79,
     "domains": [
         {
             "domain": "agmcn.com",
@@ -11,11 +11,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 19,
+            "times_seen": 20,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-09-22 21:27:37"
+            "last_update": "2025-09-28 19:00:21"
         },
         {
             "domain": "aliexpress.us",
@@ -24,6 +24,14 @@
             "typing": "Shopping",
             "is_whitelisted": 1,
             "last_update": "2025-08-13 18:15:41"
+        },
+        {
+            "domain": "alldatasheet.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Information Provider",
+            "is_whitelisted": 0,
+            "last_update": "2025-09-29 03:06:07"
         },
         {
             "domain": "amazon.ca",
@@ -131,11 +139,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 104,
+            "times_seen": 107,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-09-28 11:32:38"
+            "last_update": "2025-09-29 23:29:50"
         },
         {
             "domain": "discordapp.net",
@@ -203,11 +211,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 24,
+            "times_seen": 27,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-09-27 20:32:46"
+            "last_update": "2025-09-29 09:25:37"
         },
         {
             "domain": "freedium.cfd",
@@ -235,11 +243,19 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 8,
+            "times_seen": 9,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-09-24 18:56:33"
+            "last_update": "2025-09-29 16:23:02"
+        },
+        {
+            "domain": "githubassets.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-09-29 16:22:47"
         },
         {
             "domain": "gofund.me",
@@ -275,11 +291,11 @@
         },
         {
             "domain": "imgur.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-08-20 09:08:51"
+            "last_update": "2025-09-30 00:15:56"
         },
         {
             "domain": "imgur.io",
@@ -499,11 +515,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 121,
+            "times_seen": 124,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-28 17:17:59"
+            "last_update": "2025-09-30 01:18:32"
         },
         {
             "domain": "tiktok.com",
@@ -603,11 +619,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 72,
+            "times_seen": 73,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-27 15:24:34"
+            "last_update": "2025-09-29 16:23:03"
         },
         {
             "domain": "zdnet.com",

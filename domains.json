@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 79,
+    "num_of_entries": 80,
     "domains": [
         {
             "domain": "agmcn.com",
@@ -139,11 +139,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 107,
+            "times_seen": 110,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-09-29 23:29:50"
+            "last_update": "2025-10-01 23:24:29"
         },
         {
             "domain": "discordapp.net",
@@ -211,11 +211,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 27,
+            "times_seen": 28,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-09-29 09:25:37"
+            "last_update": "2025-10-01 12:55:08"
         },
         {
             "domain": "freedium.cfd",
@@ -515,11 +515,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 124,
+            "times_seen": 130,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-30 01:18:32"
+            "last_update": "2025-10-02 04:14:50"
         },
         {
             "domain": "tiktok.com",
@@ -536,6 +536,14 @@
             "typing": "Education",
             "is_whitelisted": 1,
             "last_update": "2025-08-25 11:32:34"
+        },
+        {
+            "domain": "top500.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 1,
+            "last_update": "2025-10-01 06:06:57"
         },
         {
             "domain": "transfernow.net",
@@ -603,11 +611,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 11,
+            "times_seen": 12,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-09-28 16:10:04"
+            "last_update": "2025-10-01 08:35:42"
         },
         {
             "domain": "youtu.be",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 479,
+    "num_of_entries": 488,
     "links": [
         {
             "id": 367,
@@ -275,6 +275,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-28 19:00:21"
+        },
+        {
+            "id": 493,
+            "url": "https://tenor.com/view/noodles-eating-noodles-eating-delicious-gif-12264131",
+            "url_hash": "12eb7ee2350ebe471e3153d0d8fbc2a5a5188fa3e7a8496f98151d41c9432b2c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-30 15:56:35"
         },
         {
             "id": 275,
@@ -715,6 +726,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=MLqqa8YbVrA",
             "last_update": "2025-08-10 23:20:23"
+        },
+        {
+            "id": 494,
+            "url": "https://tenor.com/view/panik-kalm-calm-meme-memer-gif-20895926",
+            "url_hash": "26f021d0d20509a630fe19f3f572a8bb985e05fc85a97445526601bd33ed0829",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-30 19:33:48"
         },
         {
             "id": 98,
@@ -1166,6 +1188,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-23 04:17:06"
+        },
+        {
+            "id": 496,
+            "url": "https://top500.org/lists/top500/2025/06/",
+            "url_hash": "3af957971b6b9d7b7aec764a5f6b5e2b2dab06339e9c3e003ccc500a71d8ecbf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://top500.org/lists/top500/2025/06/",
+            "last_update": "2025-10-01 06:06:57"
         },
         {
             "id": 150,
@@ -1892,6 +1925,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-05 09:06:54"
+        },
+        {
+            "id": 497,
+            "url": "https://x.com/HopalongAsks/status/1973231400691311032",
+            "url_hash": "5f4c39605459c551ce80f04ffb20df87bed22cc267c0aa8efe3f97a3fdca3d91",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-01 08:35:42"
         },
         {
             "id": 119,
@@ -3316,12 +3360,12 @@
             "id": 77,
             "url": "https://tenor.com/view/mickey-mouse-thinking-cartoon-gif-5259286850071296165",
             "url_hash": "a6db4a0d159e618ea70e3dbedd35209d61e203f2e721e33fca1cb3b3d87c20bd",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-03 04:43:16"
+            "last_update": "2025-10-02 04:14:50"
         },
         {
             "id": 39,
@@ -3470,12 +3514,12 @@
             "id": 365,
             "url": "https://tenor.com/view/hmm-interesting-watching-you-curious-stare-anime-girl-looking-at-screen-gif-4083899612055226371",
             "url_hash": "ac1dd460776824e97ca79f66a57ec211270c086400f3d78e78dd6cbadb5c4bbd",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-24 05:22:11"
+            "last_update": "2025-09-30 19:39:19"
         },
         {
             "id": 469,
@@ -3729,6 +3773,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-27 21:18:29"
+        },
+        {
+            "id": 500,
+            "url": "https://tenor.com/view/minor-alarm-minors-minors-alarm-minor-alarm-gif-17774090573133584982",
+            "url_hash": "b9887a42f882ef9d39f5fba3ff393c639726e20b579f5f7c20777be0f0ae8d55",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-01 14:06:00"
         },
         {
             "id": 332,
@@ -4435,6 +4490,17 @@
             "last_update": "2025-09-05 19:14:35"
         },
         {
+            "id": 495,
+            "url": "https://cdn.discordapp.com/attachments/1106657985528352808/1422679260145123448/IMG_6305.mov?ex=68dd8ccf&is=68dc3b4f&hm=67df1a7c83f973ec20fea0b917a5dfdb0fa205b026a4ba994a104c9162a52671&",
+            "url_hash": "d9b53a6d1b27fcba2fd14a6895a23a220c0a5bc9ed6e5212a568f5cecc0072f2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-09-30 20:19:28"
+        },
+        {
             "id": 278,
             "url": "https://www.youtube.com/shorts/viWp2NE2C_0",
             "url_hash": "da21a4273bbd483358d586b11a0f142c18bd64b8a41f6152d6bb49dae382944a",
@@ -4488,6 +4554,17 @@
             "is_redirect": 0,
             "downstream_target": "https://electronics.stackexchange.com/questions/551581/detecting-chess-pieces-on-the-board",
             "last_update": "2025-08-21 02:26:06"
+        },
+        {
+            "id": 498,
+            "url": "https://fixupx.com/Standarsihh/status/1973214252904386925",
+            "url_hash": "db5bf4ae8156f2d1b2c7460fa7e7eeda81259737a04504dc4962a6b78783645d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Standarsihh/status/1973214252904386925",
+            "last_update": "2025-10-01 12:55:31"
         },
         {
             "id": 343,
@@ -5087,12 +5164,23 @@
             "id": 385,
             "url": "https://tenor.com/view/facepalm-really-stressed-mad-angry-gif-16109475",
             "url_hash": "f7ebb3dac2156d3f6f66b49883aeb0997d062e34ece488cd9f605d1f65cf9a08",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-20 20:38:57"
+            "last_update": "2025-10-02 00:44:52"
+        },
+        {
+            "id": 501,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1422880480952324096/RDT_20251001_005110.mp4?ex=68def0f6&is=68dd9f76&hm=94f0e788d6f6414290e578472a19cdcba680d2dbc50bdfec7e505b3eaffb6125&",
+            "url_hash": "f8e978007da79ef36b179ab6b432d19ea123e721fa079095368195817c9373e4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-01 23:24:29"
         },
         {
             "id": 117,
@@ -5214,6 +5302,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-30 01:18:32"
+        },
+        {
+            "id": 499,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1422937837585563658/IMG_8537.mov?ex=68de7da1&is=68dd2c21&hm=577c211efd0d871cedbe6ab375e2d901cd738fdf1bf3db7bbf9a6a339c281b77&",
+            "url_hash": "ff6b2452bbf71b93f3b37a83ac37fa6fb6e266b690e690e5fde118811231d1d6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-01 13:26:59"
         },
         {
             "id": 271,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 80,
+    "num_of_entries": 83,
     "domains": [
         {
             "domain": "agmcn.com",
@@ -139,11 +139,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 110,
+            "times_seen": 111,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-10-01 23:24:29"
+            "last_update": "2025-10-03 12:46:36"
         },
         {
             "domain": "discordapp.net",
@@ -176,6 +176,14 @@
             "typing": "Shopping",
             "is_whitelisted": 0,
             "last_update": "2025-08-26 16:41:42"
+        },
+        {
+            "domain": "element14.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 1,
+            "last_update": "2025-10-03 04:24:49"
         },
         {
             "domain": "espressif.com",
@@ -211,11 +219,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 28,
+            "times_seen": 29,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-10-01 12:55:08"
+            "last_update": "2025-10-02 12:33:16"
         },
         {
             "domain": "freedium.cfd",
@@ -352,6 +360,14 @@
             "typing": "Education",
             "is_whitelisted": 1,
             "last_update": "2025-08-12 14:45:52"
+        },
+        {
+            "domain": "lnkd.in",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 1,
+            "last_update": "2025-10-03 13:33:15"
         },
         {
             "domain": "localsend.org",
@@ -515,11 +531,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 130,
+            "times_seen": 134,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-02 04:14:50"
+            "last_update": "2025-10-03 13:23:51"
         },
         {
             "domain": "tiktok.com",
@@ -560,6 +576,14 @@
             "typing": "Shopping",
             "is_whitelisted": 0,
             "last_update": "2025-09-14 03:04:01"
+        },
+        {
+            "domain": "twimg.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-10-04 07:01:52"
         },
         {
             "domain": "twitchorterrorist.com",
@@ -611,11 +635,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 12,
+            "times_seen": 14,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-10-01 08:35:42"
+            "last_update": "2025-10-04 06:46:08"
         },
         {
             "domain": "youtu.be",
@@ -627,11 +651,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 73,
+            "times_seen": 75,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-09-29 16:23:03"
+            "last_update": "2025-10-03 05:56:40"
         },
         {
             "domain": "zdnet.com",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 488,
+    "num_of_entries": 499,
     "links": [
         {
             "id": 367,
@@ -33,6 +33,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 20:57:39"
+        },
+        {
+            "id": 510,
+            "url": "https://lnkd.in/d5k9kHfv",
+            "url_hash": "0251ea109934a279ca6a0e52f391411be70cad6e5a1ec6141f9e90cdbf1e7966",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://offerpilotai.com/job/riot-games-software-engineering-inte-52aszgul5h?utm_source=linkedin&utm_medium=posts&utm_campaign=2025_internship_or_new_grad_opportunity&utm_content=K_riot_games",
+            "last_update": "2025-10-03 13:33:15"
         },
         {
             "id": 123,
@@ -88,6 +99,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 08:01:55"
+        },
+        {
+            "id": 506,
+            "url": "https://community.element14.com/members-area/personalblogs/b/nico-tewinkel-s-blog/posts/ender-3-pro-broken-extruder-arm",
+            "url_hash": "0854ff3a809a9e7ff8ebcd8b3b02127594e3b3838a0ae99a1d84273cf98f8df3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://community.element14.com/members-area/personalblogs/b/nico-tewinkel-s-blog/posts/ender-3-pro-broken-extruder-arm",
+            "last_update": "2025-10-03 04:24:49"
         },
         {
             "id": 350,
@@ -838,6 +860,17 @@
             "last_update": "2025-09-03 16:26:06"
         },
         {
+            "id": 504,
+            "url": "https://tenor.com/view/smartphone-smoke-hot-battery-samsung-gif-27530139",
+            "url_hash": "2bdcca57bf72a1595328e391a1cd59c9d895d5980f914655ca5e79a350ea033b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-03 00:53:44"
+        },
+        {
             "id": 321,
             "url": "https://cdn.pe-basics.com/media/143758ee65fb29d30caa170c0db0ed36.mp4",
             "url_hash": "2d2bab721319bb31358d607b66a032bc773798fcde2b9e8d5cd0b9434d729586",
@@ -1320,6 +1353,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-27 13:44:15"
+        },
+        {
+            "id": 502,
+            "url": "https://fixupx.com/TBreadk1ng/status/1973493890306154711",
+            "url_hash": "42a47797cf6d6dfba6dd8aa3381f06981befcf4269958ffcf563a0a02c6432a6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/TBreadk1ng/status/1973493890306154711",
+            "last_update": "2025-10-02 12:33:36"
         },
         {
             "id": 250,
@@ -2708,6 +2752,17 @@
             "last_update": "2025-08-31 09:17:00"
         },
         {
+            "id": 511,
+            "url": "https://x.com/CollinRugg/status/1974135012611273218",
+            "url_hash": "88166a65596dd4f8dafe1837b43c607c43ab6b8ddce9df7cbe4174e8a7c288b6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-03 18:57:06"
+        },
+        {
             "id": 221,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1412405737640038562/lv_0_20250806124850.mp4?ex=68b82cd9&is=68b6db59&hm=51dbcada1d10b596776cf99b2246d1cea09e0ff7bc84efeada2188f18ec53d75&",
             "url_hash": "881d466436d709ebfe6385dda8516bea80b22f8cc0b259b9d2ded2c1fdda9be7",
@@ -3148,6 +3203,17 @@
             "last_update": "2025-09-07 02:31:06"
         },
         {
+            "id": 508,
+            "url": "https://cdn.discordapp.com/attachments/1198566315338764308/1423652456805433415/IMG_8295.mov?ex=68e1172b&is=68dfc5ab&hm=fa7439a132c5411767cea4f3fa80b69b091a549d88c5ddce87752e98c655341d&",
+            "url_hash": "9b9b7cc985abec6c5c24761194a6ab01a2a38d6f2571f3aa1566ea75a1834b71",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-03 12:46:36"
+        },
+        {
             "id": 371,
             "url": "https://tenor.com/view/crane-service-crane-mohammad-galib-crane-operator-crane-15-gif-15913077333841102900",
             "url_hash": "9bb9ab01eed2c0dfe69502f25f654140ae571b7851138266ec757cd7edbd82a0",
@@ -3514,12 +3580,12 @@
             "id": 365,
             "url": "https://tenor.com/view/hmm-interesting-watching-you-curious-stare-anime-girl-looking-at-screen-gif-4083899612055226371",
             "url_hash": "ac1dd460776824e97ca79f66a57ec211270c086400f3d78e78dd6cbadb5c4bbd",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-30 19:39:19"
+            "last_update": "2025-10-02 15:39:35"
         },
         {
             "id": 469,
@@ -3652,6 +3718,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-21 14:52:21"
+        },
+        {
+            "id": 503,
+            "url": "https://tenor.com/view/electroboom-mehdi-fail-shock-shocked-gif-23833246",
+            "url_hash": "b2703270ad8dfd6c86ef9f9e0b5e146fed1ded4bbf3c97491b22c0e2eaec8b9b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-03 00:52:39"
         },
         {
             "id": 279,
@@ -4202,6 +4279,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-14 13:29:57"
+        },
+        {
+            "id": 505,
+            "url": "https://www.youtube.com/watch?v=wdgiTQffiwk",
+            "url_hash": "cefe820ff0f100a5c318164becca1c45ad000fc9840dd3c5eecd631a8e2707d9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-03 01:00:25"
         },
         {
             "id": 24,
@@ -4886,6 +4974,17 @@
             "last_update": "2025-09-22 03:41:15"
         },
         {
+            "id": 512,
+            "url": "https://x.com/ImtiazMadmood/status/1973855514242240796",
+            "url_hash": "ebe42bfe9e16d24c91abcbffbe3958110f05686af6f6a5dc2cc8c599132d5d0e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-04 06:46:08"
+        },
+        {
             "id": 116,
             "url": "https://twitter.com/xavoto_fox/status/1957134970989744624",
             "url_hash": "ebf8a73b390d5721313d1749ff9c1d5a8ec621ee218f9c70b7669cfd506786e0",
@@ -5051,6 +5150,17 @@
             "last_update": "2025-08-27 23:58:32"
         },
         {
+            "id": 509,
+            "url": "https://tenor.com/view/harvey-specter-suits-suits-tv-suits-usa-gif-10288979072017216359",
+            "url_hash": "f276c49894de1f489a15ed740c7a01abc7ca5c4bd44c3a70b1374badedc91c00",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-03 13:23:51"
+        },
+        {
             "id": 379,
             "url": "https://tenor.com/view/spongebob-squarepants-grouchy-squidward-everybodys-an-idiot-except-for-me-sand-boarding-gif-20411106",
             "url_hash": "f3394bc4a1caf14418600b1c034d46ff01d33d90e2eabc1c35e4156e9e64ac64",
@@ -5148,6 +5258,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 12:58:26"
+        },
+        {
+            "id": 507,
+            "url": "https://www.youtube.com/shorts/GfgxG3rypGo",
+            "url_hash": "f7041169f1e129b8e9497a36ad7bb35c281a83f7df8c962add5f23e00bc90e44",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-03 05:56:40"
         },
         {
             "id": 251,

@@ -1,9 +1,16 @@
 {
-    "last_update": "2025-10-08T07:02:29.604615+00:00",
+    "last_update": "2025-10-09T08:09:10.930406+00:00",
     "remote_update_interval_minutes": 1440,
     "dataset_format": "cockatoo-core",
     "dataset_author": "DominicTWHV",
     "licensing": "Copyright (c) 2025-present DominicTWHV\n\nThis work is licensed under the MIT License.",
+    "relevent_files": [
+        "urls.json",
+        "files.json",
+        "domains.json",
+        "invites.json",
+        "metadata.json"
+    ],
     "notes": [
         {
             "url_dataset": [

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 89,
+    "num_of_entries": 94,
     "domains": [
         {
             "domain": "agmcn.com",
@@ -11,11 +11,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 24,
+            "times_seen": 28,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-10-08 05:55:54"
+            "last_update": "2025-10-08 16:56:30"
         },
         {
             "domain": "aliexpress.us",
@@ -147,11 +147,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 120,
+            "times_seen": 143,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-10-08 05:59:55"
+            "last_update": "2025-10-09 05:01:59"
         },
         {
             "domain": "discordapp.net",
@@ -227,11 +227,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 36,
+            "times_seen": 40,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-10-08 01:44:35"
+            "last_update": "2025-10-08 22:45:15"
         },
         {
             "domain": "freedium.cfd",
@@ -259,11 +259,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 11,
+            "times_seen": 13,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-10-08 06:33:58"
+            "last_update": "2025-10-08 13:27:39"
         },
         {
             "domain": "githubassets.com",
@@ -378,6 +378,14 @@
             "last_update": "2025-10-05 10:16:55"
         },
         {
+            "domain": "kicanvas.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-10-08 08:01:03"
+        },
+        {
             "domain": "kkinstagram.com",
             "times_seen": 12,
             "scan_result": "[DATA REDACTED]",
@@ -434,6 +442,14 @@
             "last_update": "2025-09-22 13:10:09"
         },
         {
+            "domain": "michaels.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2025-10-09 04:56:18"
+        },
+        {
             "domain": "ngrok.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -443,11 +459,19 @@
         },
         {
             "domain": "nomial.co.uk",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Blog",
             "is_whitelisted": 0,
-            "last_update": "2025-09-25 02:31:18"
+            "last_update": "2025-10-08 08:01:42"
+        },
+        {
+            "domain": "npr.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "News",
+            "is_whitelisted": 1,
+            "last_update": "2025-10-08 22:02:14"
         },
         {
             "domain": "openai.com",
@@ -546,6 +570,14 @@
             "last_update": "2025-08-16 11:36:50"
         },
         {
+            "domain": "reneweconomy.com.au",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-10-09 04:23:51"
+        },
+        {
             "domain": "ros.org",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -571,11 +603,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 146,
+            "times_seen": 149,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-08 05:27:57"
+            "last_update": "2025-10-09 04:17:04"
         },
         {
             "domain": "tiktok.com",
@@ -587,11 +619,11 @@
         },
         {
             "domain": "tinkercad.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Education",
             "is_whitelisted": 1,
-            "last_update": "2025-08-25 11:32:34"
+            "last_update": "2025-10-09 04:20:27"
         },
         {
             "domain": "top500.org",
@@ -675,35 +707,43 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 14,
+            "times_seen": 15,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-09-25 19:47:32"
+            "last_update": "2025-10-09 00:27:54"
         },
         {
             "domain": "x.com",
-            "times_seen": 19,
+            "times_seen": 22,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-10-07 04:29:20"
+            "last_update": "2025-10-08 20:39:28"
+        },
+        {
+            "domain": "xda-developers.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 0,
+            "last_update": "2025-10-08 14:14:05"
         },
         {
             "domain": "youtu.be",
-            "times_seen": 29,
+            "times_seen": 31,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-08 00:13:59"
+            "last_update": "2025-10-08 18:51:43"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 79,
+            "times_seen": 83,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-08 06:13:13"
+            "last_update": "2025-10-09 06:49:52"
         },
         {
             "domain": "zdnet.com",

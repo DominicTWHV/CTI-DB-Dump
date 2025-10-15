@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 648,
+    "num_of_entries": 664,
     "links": [
         {
             "id": 367,
@@ -1795,6 +1795,17 @@
             "last_update": "2025-08-22 17:12:18"
         },
         {
+            "id": 677,
+            "url": "https://x.com/libsoftiktok/status/1977176526274658332",
+            "url_hash": "410a611dae8c0d7bde566aaaa30c83ce48ce8c41cad70aa99ad2dc72385927c4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-13 14:35:13"
+        },
+        {
             "id": 550,
             "url": "https://x.com/SlimerSlimy/status/1975312692463517779",
             "url_hash": "41b71dee4fdc88c030d8bdd16cca1dce307c275c34ca3c81673d5b4c74b6ac2c",
@@ -2708,6 +2719,17 @@
             "last_update": "2025-10-08 14:14:05"
         },
         {
+            "id": 674,
+            "url": "https://youtube.com/shorts/oW6YwSUyfzw",
+            "url_hash": "6213cf6a132421ea497b150cb19d326dcabdfe2e41d26676741a3085b89a1725",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-13 10:48:14"
+        },
+        {
             "id": 369,
             "url": "https://fixupx.com/TheGabriel72/status/1968164407181258929",
             "url_hash": "625c55d40364eb103053dd0bbfd4c4e2053821f0ec3ae0a641d2c121b698bcd2",
@@ -2937,6 +2959,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-19 02:38:28"
+        },
+        {
+            "id": 684,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1427621899290279958/VID_20251014_162846.mp4?ex=68ef8800&is=68ee3680&hm=b517a3a6412a86d55d29126a8691561676c477679dbe3b4bb91f58b2b571d9e5&",
+            "url_hash": "6998b226494178db219e312f58f9f71a7a0d1ebc59bde3235872f7db9dddddbf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-14 11:39:45"
         },
         {
             "id": 478,
@@ -3225,6 +3258,17 @@
             "last_update": "2025-10-08 16:59:08"
         },
         {
+            "id": 676,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1427294175040245934/What_the_fuck.mov?ex=68ee56c9&is=68ed0549&hm=2cd9dbb66ca1e883de6e741328545939aafdd3a0bd30c5e491e4673e02d816d2&",
+            "url_hash": "7336473722156db2ec4635eb765cea0d949fb466f1ef6c848c6b907768101ca4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-13 13:57:31"
+        },
+        {
             "id": 102,
             "url": "https://www.vch.ca/en",
             "url_hash": "7452f0c6804e97ebf10ec70af4cf34d581987388c3a467ccc47484818f5f0bdb",
@@ -3355,6 +3399,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-21 15:55:11"
+        },
+        {
+            "id": 687,
+            "url": "https://www.youtube.com/watch?v=8uS90jakOuw",
+            "url_hash": "7aa4484d6a082cde96085751f9634a299518ac6481a6871f623c8bdd10a7e9a7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-15 05:45:22"
         },
         {
             "id": 89,
@@ -4006,6 +4061,17 @@
             "last_update": "2025-09-29 16:23:02"
         },
         {
+            "id": 683,
+            "url": "https://tenor.com/view/votv-voices-of-the-void-ariral-gif-1758984744133069901",
+            "url_hash": "92659507242515bf9a4424f77b261ae25a493162a0025723e4247eb3152387dc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-14 07:27:39"
+        },
+        {
             "id": 590,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1425477580332732457/ScreenRecording_10-08-2025_08-37-39_1.mov?ex=68e7baf3&is=68e66973&hm=2557c8f3c6ee8b80657c9234879198491912d284edee7de90390246db795a3db&",
             "url_hash": "92bc66f7e4ff54cb57aa32406ba1db391cda3d918812b60539e7c6870c31fa8e",
@@ -4347,6 +4413,17 @@
             "last_update": "2025-09-19 08:20:40"
         },
         {
+            "id": 682,
+            "url": "https://fixupx.com/libsoftiktok/status/1977762391392678231",
+            "url_hash": "9bd5fee4f579020d719e4c851413b1d499e403bb711cf540fa3943baa1430ffc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/libsoftiktok/status/1977762391392678231",
+            "last_update": "2025-10-14 01:42:39"
+        },
+        {
             "id": 575,
             "url": "https://fixupx.com/officer_Lew/status/1975563415159775510",
             "url_hash": "9c2343ad223a6631832e9f7ca4347e4ce1ab27547ae08ffbb09ac60bb7c25042",
@@ -4411,6 +4488,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/libsoftiktok/status/1974229239357395197",
             "last_update": "2025-10-12 23:42:26"
+        },
+        {
+            "id": 681,
+            "url": "https://tenor.com/view/johnny-test-dukey-wrong-again-wrong-gif-13686533770638145115",
+            "url_hash": "9e2fa17cfad292225fabed6d3bd3c40de98c5291186b56acee4965ce5475cc09",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-13 19:22:55"
         },
         {
             "id": 460,
@@ -5150,6 +5238,17 @@
             "last_update": "2025-08-12 19:51:04"
         },
         {
+            "id": 678,
+            "url": "https://fixupx.com/PDXReal1/status/1977500239541268611",
+            "url_hash": "bbedfd89d1252e4414a49f2e7fb7bddac486d8d23dff5527d25e4e2318b58ae5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/PDXReal1/status/1977500239541268611",
+            "last_update": "2025-10-13 14:36:52"
+        },
+        {
             "id": 616,
             "url": "https://www.tinkercad.com/dashboard",
             "url_hash": "bbf65451aa98baf80183e763abffb49bcb07e364b9f31e5d575a3ba68284a4e2",
@@ -5159,6 +5258,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-09 04:20:27"
+        },
+        {
+            "id": 675,
+            "url": "https://www.kkinstagram.com/reel/DPfkXy5k5xA/?igsh=NTMzMThsbWw2Z2Fj",
+            "url_hash": "bc146359824642caf4c6aafde9d8ad0571d2fa7e62627e695233df7c2914192d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-13 13:02:13"
         },
         {
             "id": 336,
@@ -5390,6 +5500,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.transfernow.net/en/cld?utm_source=20250831LMxeKUv6",
             "last_update": "2025-08-31 03:52:45"
+        },
+        {
+            "id": 688,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1427907946846879847/Piggies.mov?ex=68f09267&is=68ef40e7&hm=5948945118e3db51feafb0331e13b8086920417c9018734d43167f29d3fd7e30&",
+            "url_hash": "c480582698389c557a2799cb603152293ffff8c18dbcedd964a02fe60370e090",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-15 06:36:24"
         },
         {
             "id": 637,
@@ -5821,6 +5942,17 @@
             "last_update": "2025-09-19 18:05:52"
         },
         {
+            "id": 686,
+            "url": "https://tenor.com/view/press-f-mg-salute-gif-15543929",
+            "url_hash": "d3e43f8e850685f2aaaed50ec4ad1575fe885350ca9db4144d2aa9e29b3b91d8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-15 05:35:15"
+        },
+        {
             "id": 267,
             "url": "https://www.youtube.com/watch?v=K8d5JBJLJ8k",
             "url_hash": "d409c8b8b74efc8a49c50a6c38f7a132c2673b2221eea361395b7fba0d4bdc8b",
@@ -5852,6 +5984,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 14:01:47"
+        },
+        {
+            "id": 685,
+            "url": "https://fixupx.com/teortaxesTex/status/1977909836806291696",
+            "url_hash": "d4eea3de98c108e3e67ad9bbee16084291864213a192ab32ae11cc422b49c45d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/teortaxesTex/status/1977909836806291696",
+            "last_update": "2025-10-15 02:28:37"
         },
         {
             "id": 348,
@@ -5929,6 +6072,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-28 23:13:34"
+        },
+        {
+            "id": 680,
+            "url": "https://www.youtube.com/watch?v=NnuyT8FgSpA",
+            "url_hash": "d7ba6ec0d13127e4368c33923326d19e31ff026fe8a6f8c3bde6f1da02c2929d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-13 15:42:16"
         },
         {
             "id": 398,
@@ -6613,6 +6767,17 @@
             "last_update": "2025-10-04 08:52:08"
         },
         {
+            "id": 673,
+            "url": "https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)",
+            "url_hash": "efbe036ef25287f5aad42826486b502b810555e2c9e27afff8908e2957f5d7b5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)",
+            "last_update": "2025-10-13 08:44:40"
+        },
+        {
             "id": 180,
             "url": "https://www.reddit.com/r/theydidthemath/s/nvj5tOGlAD",
             "url_hash": "f0c053b779d3a5a7eca59493486199194bc7505eb7eb600e0e288860978287a5",
@@ -6633,6 +6798,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.amazon.com/PJPSAA-Disposable-Birthday-Anniversary-Supplies/dp/B0CZXQW8B6",
             "last_update": "2025-09-23 02:49:16"
+        },
+        {
+            "id": 679,
+            "url": "https://fixupx.com/LangmanVince/status/1977391320550232201",
+            "url_hash": "f0e653818419240e9edbe3952f753173fda162bee15f1989f1f92b2e0ae2e5d2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/LangmanVince/status/1977391320550232201",
+            "last_update": "2025-10-13 14:49:32"
         },
         {
             "id": 199,

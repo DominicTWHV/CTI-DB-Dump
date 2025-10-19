@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 689,
+    "num_of_entries": 714,
     "links": [
         {
             "id": 367,
@@ -176,6 +176,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 08:50:30"
+        },
+        {
+            "id": 725,
+            "url": "https://tenor.com/view/welding-breaking-bobby-bones-welder-soldering-building-something-gif-21963638",
+            "url_hash": "07e535ded0687dbc55e6fab59d061390a62060f0403dbaa61d6d1e28ec8e2c6c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 22:56:21"
         },
         {
             "id": 564,
@@ -585,6 +596,17 @@
             "last_update": "2025-08-22 03:40:01"
         },
         {
+            "id": 736,
+            "url": "https://www.tensorflow.org/tensorboard",
+            "url_hash": "17509831184b7aba1c772f4a609e43ca29502c5e18127acbd9ce6b4d836932e4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.tensorflow.org/tensorboard",
+            "last_update": "2025-10-19 06:07:42"
+        },
+        {
             "id": 344,
             "url": "https://youtube.com/shorts/zc4d3vGYSwU?si=EnMDAi1w9ruOgWen",
             "url_hash": "17a2dadc8421cbf1e71fc9a6de717d7102753054cbf224b8a532d0aefc82ff74",
@@ -684,6 +706,28 @@
             "last_update": "2025-10-16 19:09:15"
         },
         {
+            "id": 716,
+            "url": "https://extkits.co.uk/why-solenoids-are-a-ridiculous-choice-for-an-engine/",
+            "url_hash": "1a7a5b9988dda1ffcf4f1444cb030936ea31444553303e80e892230f0287ce7e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://extkits.co.uk/why-solenoids-are-a-ridiculous-choice-for-an-engine/",
+            "last_update": "2025-10-17 10:30:53"
+        },
+        {
+            "id": 724,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1428819372939546674/VID_20251017_145626_162.mp4?ex=68f3e33c&is=68f291bc&hm=7bf949af87ebc1b34be4cf141f7292fefcc3c8b84090562737294592253e75b5&",
+            "url_hash": "1aee7289e40ac8021d16c399d3b013056c6db7f33b402fc8675f474e1574b0f9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 22:25:59"
+        },
+        {
             "id": 160,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1408555735968645161/IMG_3615.mov?ex=68aa2b41&is=68a8d9c1&hm=85fa89e883959fec98d597efd4fd77fb092ccea7d7230e818b3b9587bfa1621c&",
             "url_hash": "1b2beb5de8f875ecc8de3bf2750455c33eecb1b508a0a985177e9a2a7ca7d7e6",
@@ -737,6 +781,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-26 00:27:23"
+        },
+        {
+            "id": 729,
+            "url": "https://youtu.be/0MqHR6cU_y0",
+            "url_hash": "1c36489766a2815c0c9b63f7b9a38214d336e304a5177dbc8c78dcec60bece1a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-18 11:02:00"
         },
         {
             "id": 307,
@@ -1784,6 +1839,17 @@
             "last_update": "2025-09-23 18:12:16"
         },
         {
+            "id": 730,
+            "url": "https://tenor.com/view/trollge-uncanny-depressed-sad-trollface-gif-24958563",
+            "url_hash": "3ccf016c6c7c2ff458e6ee37bcf91dee7c621cead0df8682deff2ff3cd0d1255",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-18 11:02:21"
+        },
+        {
             "id": 433,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1419694501915529338/RPReplay_Final1722613728.mov?ex=68d40289&is=68d2b109&hm=983164b2735e1a0e3aa689a8ae0aa54ba8419b90cb13b4b194c7ef4b501df0ab&",
             "url_hash": "3d3c6fca8f67b7e080bc4a9059c201fa4fd2b7b14b5b87dcdace5fec1e379b7e",
@@ -2257,6 +2323,17 @@
             "last_update": "2025-10-10 04:16:42"
         },
         {
+            "id": 718,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1428710770153361458/out.mp4?ex=68f37e17&is=68f22c97&hm=c26a3151dcce6b49f030abedbc2ad142441059c3ad93345ba90eb49ec39e1c10&",
+            "url_hash": "49afcc11d82d7247efb882e23dd5bde0c5f03f1e018401ea7bf2da33aa0ae6cf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 11:46:32"
+        },
+        {
             "id": 656,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1426752512534249603/ac3a0456f11cc952.mp4?ex=68ec5e52&is=68eb0cd2&hm=60d5c887f7c2b4d7b3306de9d73aa379d226fdb84496b664aa5a06fb15813a4b&",
             "url_hash": "49be5a1ba809877fc1c87a4cbaedcfb81a7cca3483eb65252937870b986ba749",
@@ -2475,6 +2552,28 @@
             "is_redirect": 0,
             "downstream_target": "https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings",
             "last_update": "2025-08-10 21:32:10"
+        },
+        {
+            "id": 737,
+            "url": "https://fixupx.com/barbmundt1/status/1979610374577037670",
+            "url_hash": "52d7f9e6ca04f9a3362116a4a0b024b83eca1a206c588fd5168970e0bb5c2b7e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/barbmundt1/status/1979610374577037670",
+            "last_update": "2025-10-19 06:53:39"
+        },
+        {
+            "id": 735,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1429272369981165739/getBlob.mov?ex=68f5891f&is=68f4379f&hm=8e74bf33f219406c4437a8995a8145c1014e4ea5fba0acf7b032e92720c2d0eb&",
+            "url_hash": "53e742a7ac72ba4ff7bd907b053b99ca5185732fc3e5df50d393f8cc348967f3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 03:52:25"
         },
         {
             "id": 266,
@@ -3047,6 +3146,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.turbosquid.com/3d-models/golden-eagle-animated-1442542",
             "last_update": "2025-09-14 03:04:01"
+        },
+        {
+            "id": 739,
+            "url": "https://youtu.be/yflTGwu-OHA?t=1999",
+            "url_hash": "67edc45e706ac26d9229f07105eb1e63fb904abbfb831b60382c31b7e211e608",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 07:07:25"
         },
         {
             "id": 257,
@@ -3962,6 +4072,17 @@
             "last_update": "2025-09-02 11:56:11"
         },
         {
+            "id": 726,
+            "url": "https://tenor.com/view/neco-arc-neko-arc-explode-neco-arc-explode-neko-arc-explode-gif-2214027073538915230",
+            "url_hash": "8820a4b97ce31f54f96abf0bff7a883acf020e72069ceb100c1f4d32bb7fd196",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 22:58:54"
+        },
+        {
             "id": 606,
             "url": "https://www.aliexpress.com/item/1005009705899202.html",
             "url_hash": "88bd9a2607ee17a13ec6ec4d1fc56612c8c1b1e28a3964ec823c597910731fb4",
@@ -4004,6 +4125,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 15:13:23"
+        },
+        {
+            "id": 717,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1428700214377713805/ScreenRecording_10-16-2025_13-38-54_1.mov?ex=68f37443&is=68f222c3&hm=0ab9a70142269b5975abe162c106204bf1f84a16687aba42d32d71da1a830d30&",
+            "url_hash": "8a0865d68eb02950b7ed42a222d677a710436cec000b61c88dcd359a15c0b377",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 11:04:35"
         },
         {
             "id": 210,
@@ -4820,6 +4952,17 @@
             "last_update": "2025-09-10 01:26:42"
         },
         {
+            "id": 731,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1429109890785214634/The_First_Step_to_Locking_In_732frWDQU_8.mp4?ex=68f4f1cd&is=68f3a04d&hm=62f34502cc1f3f5ec254ae47c35fdaab2e6b68c7616795a439c5471a0e4fe759&",
+            "url_hash": "a62d3b09d487daa59ccffbf70d79b35d40064fb02713c3422393ec85e2727c50",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-18 14:12:30"
+        },
+        {
             "id": 272,
             "url": "https://www.youtube.com/watch?v=Hk4ueY9wVtA",
             "url_hash": "a6bb54f000b607d7edb64f4e15b4d0b956c6f2b2ee0adee81e68d7808afa7725",
@@ -4941,6 +5084,17 @@
             "last_update": "2025-08-22 18:26:47"
         },
         {
+            "id": 723,
+            "url": "https://tenor.com/view/ffxiv-ff14-final-fantasy-14-final-fantasy-xiv-nuke-gif-2656600494704360689",
+            "url_hash": "aa5806a10479d6684a2d374eb44180f4a784da97abdf7a73761e9070f9748b53",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 22:20:05"
+        },
+        {
             "id": 420,
             "url": "https://cdn.discordapp.com/attachments/835645409765621761/1419412578580566026/video_2024-10-25_16-34-33.mov?ex=68d2fbfa&is=68d1aa7a&hm=7450abe281cde2b8e843b26b19640401a4a6c488ff45aaa8a1a6552cfea6fef6&",
             "url_hash": "aa619b8806a761d60cc8541d8115afccced8567f56582b39fcdf3883b1d1c268",
@@ -5054,12 +5208,12 @@
             "id": 365,
             "url": "https://tenor.com/view/hmm-interesting-watching-you-curious-stare-anime-girl-looking-at-screen-gif-4083899612055226371",
             "url_hash": "ac1dd460776824e97ca79f66a57ec211270c086400f3d78e78dd6cbadb5c4bbd",
-            "times_seen": 10,
+            "times_seen": 11,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-10-10 03:43:02"
+            "last_update": "2025-10-18 14:18:39"
         },
         {
             "id": 469,
@@ -5082,6 +5236,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-27 10:17:11"
+        },
+        {
+            "id": 714,
+            "url": "https://tenor.com/view/work-out-gif-8535218911762412413",
+            "url_hash": "adbab89cea48b31c35f68e2097bf2d645ac63bf3a2ff5d706d4125c72787f48d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 10:22:16"
         },
         {
             "id": 238,
@@ -5170,6 +5335,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Prairie20210108/status/1960676934628860240",
             "last_update": "2025-08-28 10:44:56"
+        },
+        {
+            "id": 734,
+            "url": "https://cdn.discordapp.com/attachments/918660849973997659/1428934796188319915/1157578c25e472bacb12231e236d59e35315748e5468b271c5071aef0c9d3bdc_1.mp4?ex=68f5a03b&is=68f44ebb&hm=6fc727f686f3399ba7732d25c9049a0f4e3b04779b274645a10981ea154d6f06&",
+            "url_hash": "afd1331e951dc4b219782463610017be297826c4dd22d4c3b99658ca25b4d1ab",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 03:52:13"
         },
         {
             "id": 651,
@@ -5436,6 +5612,17 @@
             "last_update": "2025-08-12 19:51:04"
         },
         {
+            "id": 732,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1429111371261284443/RPReplay_Final1689263165.mov?ex=68f4f32e&is=68f3a1ae&hm=5c2fd443b792b8ac3679eebe76787f96c0d5fe6de32e95e98010296f7b5d4c77&",
+            "url_hash": "bbcaf0f7330094e472488a743c2f33937e8edccb268f2a06cf93cdd32a5799bc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-18 14:18:23"
+        },
+        {
             "id": 678,
             "url": "https://fixupx.com/PDXReal1/status/1977500239541268611",
             "url_hash": "bbedfd89d1252e4414a49f2e7fb7bddac486d8d23dff5527d25e4e2318b58ae5",
@@ -5500,6 +5687,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-29 23:29:50"
+        },
+        {
+            "id": 722,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1428765226819649678/uZTb0Gt.mp4?ex=68f3b0cf&is=68f25f4f&hm=d8924dcc2e302a505552e0bdf41b7340936bbe4167dd4f7f33c46eb7eb0c75e4&",
+            "url_hash": "bd0ae79df43ff7f53909aff3decc78e628a8606e70cc663fb418047e08753a85",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 15:22:56"
         },
         {
             "id": 260,
@@ -5852,6 +6050,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-18 04:17:49"
+        },
+        {
+            "id": 721,
+            "url": "https://tenor.com/view/can-i-just-float-big-bag-of-seeds-float-bird-gif-19942598",
+            "url_hash": "c80aa5b34f47ef1505e27fb8120ccff673b3e35f426cdef8c0c441a5968c49af",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 15:21:06"
         },
         {
             "id": 565,
@@ -6569,6 +6778,17 @@
             "last_update": "2025-10-08 20:39:28"
         },
         {
+            "id": 728,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1429025807552090393/ScreenRecording_10-11-2025_08-55-07_1.mov?ex=68f4a37e&is=68f351fe&hm=6339353a868fa52f54b3d4c7d836c579e987515f697166ab4ece037291c0683e&",
+            "url_hash": "dc87f4b0604abaaffee783d79d2072658552d9b6f8640e15200a24031f1ef65b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-18 08:38:23"
+        },
+        {
             "id": 12,
             "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1403827292232220923/VID_20250809_211542.mp4?ex=6898f78c&is=6897a60c&hm=d8bdf0b3014c783ff40f9e0b2714cf77866deb24008069a945426bd2dfd8e6cb&",
             "url_hash": "dd034e79cafb77727971696d15a9dc0651419508c949c4122e8ab39f50c8664c",
@@ -6589,6 +6809,28 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 10:13:14"
+        },
+        {
+            "id": 719,
+            "url": "https://fixupx.com/GrageDustin/status/1978965321265615205",
+            "url_hash": "dd4750a769173775dc95cfaede3430934ff6342f29552facaff681aaefbd4a49",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/GrageDustin/status/1978965321265615205",
+            "last_update": "2025-10-17 11:50:19"
+        },
+        {
+            "id": 715,
+            "url": "https://www.pelonistechnologies.com/blog/comparing-the-efficiency-of-different-electric-motor-types",
+            "url_hash": "dd655c5ba994c14311ff88dcc9a84a1df4bab4bf68e80270ebb2300cd88644c1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.pelonistechnologies.com/blog/comparing-the-efficiency-of-different-electric-motor-types",
+            "last_update": "2025-10-17 10:29:54"
         },
         {
             "id": 415,
@@ -6721,6 +6963,28 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-07 02:19:33"
+        },
+        {
+            "id": 738,
+            "url": "https://www.youtube.com/watch?v=_zfN9wnPvU0",
+            "url_hash": "e3cd67a891c0f6180ac82804336112071adcc312bfe39ff8d030d05da84e11c0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 06:55:08"
+        },
+        {
+            "id": 720,
+            "url": "https://tenor.com/view/alex-northridge-northridgefix-gif-9458116584234310221",
+            "url_hash": "e432fc440370317a23a5fcc74dab1ef544863f670a5ac5b9ec4504635675d961",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-17 14:40:33"
         },
         {
             "id": 156,
@@ -6886,6 +7150,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 14:36:03"
+        },
+        {
+            "id": 733,
+            "url": "https://tenor.com/view/blahaj-gif-27048745",
+            "url_hash": "eb33de9ea1354342687a082d4fb930eda0a744f85e3fbd3308d2a86769e2a2a4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-18 14:44:08"
         },
         {
             "id": 455,
@@ -7320,12 +7595,12 @@
             "id": 385,
             "url": "https://tenor.com/view/facepalm-really-stressed-mad-angry-gif-16109475",
             "url_hash": "f7ebb3dac2156d3f6f66b49883aeb0997d062e34ece488cd9f605d1f65cf9a08",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-10-02 00:44:52"
+            "last_update": "2025-10-17 22:52:58"
         },
         {
             "id": 501,

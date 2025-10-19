@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 109,
+    "num_of_entries": 113,
     "domains": [
         {
             "domain": "adafruit.com",
@@ -146,6 +146,14 @@
             "last_update": "2025-08-09 06:07:38"
         },
         {
+            "domain": "ddinstagram.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-10-18 06:37:27"
+        },
+        {
             "domain": "discord.com",
             "times_seen": 10,
             "scan_result": "[DATA REDACTED]",
@@ -155,11 +163,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 165,
+            "times_seen": 174,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-10-16 00:05:15"
+            "last_update": "2025-10-19 03:52:25"
         },
         {
             "domain": "discordapp.net",
@@ -218,6 +226,14 @@
             "last_update": "2025-08-17 06:56:04"
         },
         {
+            "domain": "extkits.co.uk",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2025-10-17 10:30:53"
+        },
+        {
             "domain": "facebook.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -235,11 +251,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 52,
+            "times_seen": 54,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-10-17 05:04:00"
+            "last_update": "2025-10-19 06:53:20"
         },
         {
             "domain": "freedium.cfd",
@@ -578,6 +594,14 @@
             "last_update": "2025-10-08 05:38:05"
         },
         {
+            "domain": "pelonistechnologies.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 0,
+            "last_update": "2025-10-17 10:29:54"
+        },
+        {
             "domain": "pine64.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -683,11 +707,19 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 177,
+            "times_seen": 187,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-16 19:32:39"
+            "last_update": "2025-10-18 14:44:08"
+        },
+        {
+            "domain": "tensorflow.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Education",
+            "is_whitelisted": 1,
+            "last_update": "2025-10-19 06:07:42"
         },
         {
             "domain": "tiktok.com",
@@ -843,19 +875,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 33,
+            "times_seen": 35,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-16 22:53:23"
+            "last_update": "2025-10-19 07:07:25"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 87,
+            "times_seen": 88,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-16 22:36:40"
+            "last_update": "2025-10-19 06:55:08"
         },
         {
             "domain": "yxtwitter.com",

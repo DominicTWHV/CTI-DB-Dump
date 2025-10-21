@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 714,
+    "num_of_entries": 736,
     "links": [
         {
             "id": 367,
@@ -22,6 +22,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-15 10:13:09"
+        },
+        {
+            "id": 747,
+            "url": "https://x.com/WindowsLatest/status/1979635547921646058",
+            "url_hash": "00a254dda9709db0a3267cc1fed160c6f98d5cfa719d6fb5dbeb4df58d0f73de",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 23:43:47"
         },
         {
             "id": 659,
@@ -110,6 +121,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/EricLDaugh/status/1978552973576847765",
             "last_update": "2025-10-16 06:34:27"
+        },
+        {
+            "id": 753,
+            "url": "https://www.forbes.com/sites/daveywinder/2025/07/20/amazon-ring-doorbell-may-28-mass-hacking-claim-goes-viral/",
+            "url_hash": "060b9b7dc0d1f89fd1fc5a001dc09bd1ea3f392fc4a1a3524a5e2de5e9a5ecc1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.forbes.com/sites/daveywinder/2025/07/20/amazon-ring-doorbell-may-28-mass-hacking-claim-goes-viral/",
+            "last_update": "2025-10-20 06:34:52"
         },
         {
             "id": 283,
@@ -255,6 +277,17 @@
             "last_update": "2025-09-20 21:00:11"
         },
         {
+            "id": 746,
+            "url": "https://electronics.stackexchange.com/questions/85828/what-is-this-electronics-symbol-four-triangles",
+            "url_hash": "0ac62e84e3dd488957c71e49f9ce6580466fc1133c1d1f386bcccc18db0398ac",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 19:56:00"
+        },
+        {
             "id": 407,
             "url": "https://asana.com/resources/sunk-cost-fallacy",
             "url_hash": "0ae9195f3b0b46dae56ebf3e2dcadf4f8a8a18d07208b9d2f56b85ed098a4566",
@@ -275,6 +308,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 06:13:13"
+        },
+        {
+            "id": 741,
+            "url": "https://tenor.com/view/pibble-pibble-dog-pibble-gmail-gmail-dog-gmail-gif-1592494038181494840",
+            "url_hash": "0b7a0a7850a22306064f481b9ee9b8b8e74842d41962c5506b18ed6aa5375f99",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 11:52:50"
         },
         {
             "id": 104,
@@ -849,6 +893,17 @@
             "last_update": "2025-08-10 23:20:40"
         },
         {
+            "id": 758,
+            "url": "https://fixupx.com/1109Patricia/status/1980158030953000999",
+            "url_hash": "1cd0bed6fb9e06c5065a75cfa76f3d429ffb2624b9592578f7e1e13778810eed",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/1109Patricia/status/1980158030953000999",
+            "last_update": "2025-10-21 03:59:15"
+        },
+        {
             "id": 277,
             "url": "https://www.youtube.com/watch?v=gg6KGJ-tn0w&t=1145s",
             "url_hash": "1ced0c59a2e2a4949a9ce0cb5821b6ec4e2ff7f7d671012a2d5fe79fa8f91415",
@@ -1188,6 +1243,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-07 02:13:01"
+        },
+        {
+            "id": 743,
+            "url": "https://youtu.be/lsW8Q_ECXOE",
+            "url_hash": "29a08fd253871167fcd456f22ff0623c4e0d58839e77cf43aea6b41f56485262",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 15:00:10"
         },
         {
             "id": 171,
@@ -1732,12 +1798,12 @@
             "id": 87,
             "url": "https://tenor.com/view/spamton-based-department-spamton-neo-deltarune-based-gif-23194326",
             "url_hash": "390dbc68079f231c7e07765d0382870a9a2e5ae80c1cdbe84cef155fbd4c855e",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-08-17 07:20:18"
+            "last_update": "2025-10-19 18:01:23"
         },
         {
             "id": 635,
@@ -1749,6 +1815,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-10 14:05:01"
+        },
+        {
+            "id": 750,
+            "url": "https://tenor.com/view/printer-shredder-fax-machine-spam-customer-service-gif-25361577",
+            "url_hash": "39a617d12737f14a7d72f3393c6d87a03bb64edb0258ca93685a25f0c56a14a8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-20 05:56:12"
         },
         {
             "id": 467,
@@ -1793,6 +1870,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-21 22:12:40"
+        },
+        {
+            "id": 761,
+            "url": "https://www.youtube.com/shorts/ng7ATnV51PM",
+            "url_hash": "3b67daa6935ca3c5300b8299a5ae9ea6850c9691646e9387e8e499d0aeffee07",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-21 06:38:58"
         },
         {
             "id": 370,
@@ -2213,6 +2301,17 @@
             "last_update": "2025-09-13 17:33:25"
         },
         {
+            "id": 749,
+            "url": "https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html",
+            "url_hash": "4645137b5300999c7313252dc4d904eac8be11fb52c4745dd0ee7cc9686b0dd9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html",
+            "last_update": "2025-10-20 05:11:21"
+        },
+        {
             "id": 666,
             "url": "https://github.com/cheops/JC1060P470C_I_W",
             "url_hash": "479e5fe0af892397828cd075ee10c231411660379a6ca4822e6ba9f53050fb7e",
@@ -2486,6 +2585,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/AnaviTechnology/status/1954528146528592219",
             "last_update": "2025-08-12 12:00:25"
+        },
+        {
+            "id": 752,
+            "url": "https://tenor.com/view/dinosaur-gif-19565864",
+            "url_hash": "4eee0938c42f7d75dde2e7f71798906393d290df5c44f3ee43b4ec7fdcddf9ad",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-20 06:07:01"
         },
         {
             "id": 6,
@@ -2871,6 +2981,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/TheImmortal007/status/1969612207093924350",
             "last_update": "2025-09-21 22:34:58"
+        },
+        {
+            "id": 742,
+            "url": "https://www.youtube.com/watch?v=lsW8Q_ECXOE",
+            "url_hash": "5e3a2b38dc04b138722cef663ff728ba78a54cd53358c526408673f9ad36705a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 14:59:32"
         },
         {
             "id": 396,
@@ -3355,6 +3476,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-28 11:42:37"
+        },
+        {
+            "id": 744,
+            "url": "https://tenor.com/view/the-simpsons-homer-simpson-good-bye-bye-no-gif-5173989",
+            "url_hash": "6dd201156bee4fb80939b8ab57a27599ffca2e5df4098314f40dbbcef43f2e1f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 18:02:34"
         },
         {
             "id": 264,
@@ -4336,6 +4468,17 @@
             "last_update": "2025-10-08 12:28:27"
         },
         {
+            "id": 755,
+            "url": "https://cdn.discordapp.com/attachments/1106657985528352808/1429944647333187674/IMG_4871.mov?ex=68f7fb3b&is=68f6a9bb&hm=f14289f6ec85cbb054e833159ee08aa1252ba1dc548de85bb9f387dc6f5d6573&",
+            "url_hash": "8edeb24bf9ce57ba2f7bb9bf9f02cf686590e79de5fdd9dabf37bf59e48f7fe8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-20 21:29:32"
+        },
+        {
             "id": 66,
             "url": "https://www.youtube.com/watch?v=lbFKDNOYW3w",
             "url_hash": "8f55d96eb2dbe1d81692ec6a558dffdbd2ef34a1b0857da9518c65904dd2f535",
@@ -4345,6 +4488,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=lbFKDNOYW3w",
             "last_update": "2025-08-16 02:01:32"
+        },
+        {
+            "id": 740,
+            "url": "https://www.youtube.com/watch?v=-IhuFgiWNS4",
+            "url_hash": "8f77e183a2c3f4fb4b808c0ae1460d36f493c8a121251958eb231e610b3947fb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 09:58:28"
         },
         {
             "id": 37,
@@ -4776,6 +4930,17 @@
             "last_update": "2025-08-22 23:32:18"
         },
         {
+            "id": 760,
+            "url": "https://fixupx.com/WallStreetApes/status/1980227496525361178",
+            "url_hash": "9ca67474740fe07c0b656e5f1a63f3015773bee641397c8eeaf7fba02b0b1cef",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/WallStreetApes/status/1980227496525361178",
+            "last_update": "2025-10-21 06:04:08"
+        },
+        {
             "id": 454,
             "url": "https://fixupx.com/Aelthemplaer/status/1971014406407676035",
             "url_hash": "9d0790f82175decc44a49a897a7a634865f64dbd97733501574c688d89c354bc",
@@ -4829,6 +4994,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-23 07:13:26"
+        },
+        {
+            "id": 759,
+            "url": "https://fixupx.com/the_jefferymead/status/1979381963506225484",
+            "url_hash": "9f5df7ffe80aa904c233d10868ac1bac03362f30dc3073053f120e1c0cd0ae18",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/the_jefferymead/status/1979381963506225484",
+            "last_update": "2025-10-21 05:10:32"
         },
         {
             "id": 488,
@@ -5313,6 +5489,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/amuse/status/1972289207193260442",
             "last_update": "2025-09-28 19:49:32"
+        },
+        {
+            "id": 745,
+            "url": "https://tenor.com/view/wowgrape-gif-25173788",
+            "url_hash": "af72ead74fabdfb52a0552bb359b8844afbbcec743a3ea27305f0e6dcdae7b6f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-19 18:42:47"
         },
         {
             "id": 128,
@@ -6228,6 +6415,17 @@
             "last_update": "2025-10-03 01:00:25"
         },
         {
+            "id": 748,
+            "url": "https://t.co/tQW4oZv9Fi",
+            "url_hash": "cf407b3e158f7bfd8d93c2333cf3af21eb2ff10d59bb48a51086008158ef5512",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://m.youtube.com/watch?v=diDj1aOWe7I",
+            "last_update": "2025-10-20 03:42:11"
+        },
+        {
             "id": 24,
             "url": "https://www.gerbview.com/",
             "url_hash": "d04250de38f9cd9cdd6f7a45dced13214a0ca229545068e5bc30d1c34c8bbb89",
@@ -6303,6 +6501,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-26 00:44:30"
+        },
+        {
+            "id": 757,
+            "url": "https://i.imgur.io/wL1i6hp.mp4",
+            "url_hash": "d14bb8f360e0a4506059fd7c1fb14d8bcab5af223cc29168c2baae23e7a094fe",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://i.imgur.io/wL1i6hp.mp4",
+            "last_update": "2025-10-21 02:47:48"
         },
         {
             "id": 174,
@@ -6910,6 +7119,17 @@
             "last_update": "2025-08-16 11:41:09"
         },
         {
+            "id": 751,
+            "url": "https://tenor.com/view/michael-reeves-popcorn-crackhead-nightmare-stinky-gif-20231191",
+            "url_hash": "e0b10f891bfa6f255dc310fbac966f83e10b2922f1b949d0ace1770500e674c0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-20 05:57:50"
+        },
+        {
             "id": 357,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1418024635001475213/VID_20250918_070110.mp4?ex=68cc9dda&is=68cb4c5a&hm=1fc8cbcedc5ca671ec3c489b46e3adaacb2785a0b0d789cf34c4eb03922f73de&",
             "url_hash": "e0d2c066002313c82c4cf35e7e769f52a7b8572f8d38507e67d3c93569ced37b",
@@ -7062,6 +7282,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-20 05:32:00"
+        },
+        {
+            "id": 754,
+            "url": "https://www.youtube.com/shorts/bz_wnsYOYLc",
+            "url_hash": "e8241b27074b7b193d11a9683b8a540b1977c160cf894d60fcb22079aac84dc5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-20 11:30:24"
         },
         {
             "id": 450,
@@ -7667,6 +7898,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 15:02:35"
+        },
+        {
+            "id": 762,
+            "url": "https://tenor.com/view/demon-core-beloved-locket-nonagon-gif-26043045",
+            "url_hash": "f9e0bbdc861f7c2b47d0bce6cb8d2281279942c0310a01b57fdca865319954bb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-21 08:01:18"
         },
         {
             "id": 166,

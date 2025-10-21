@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 113,
+    "num_of_entries": 117,
     "domains": [
         {
             "domain": "adafruit.com",
@@ -114,6 +114,14 @@
             "last_update": "2025-08-16 23:16:02"
         },
         {
+            "domain": "cnbc.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "News",
+            "is_whitelisted": 1,
+            "last_update": "2025-10-20 05:11:21"
+        },
+        {
             "domain": "crowdsec.net",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -163,11 +171,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 174,
+            "times_seen": 175,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-10-19 03:52:25"
+            "last_update": "2025-10-20 21:29:32"
         },
         {
             "domain": "discordapp.net",
@@ -251,11 +259,19 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 54,
+            "times_seen": 57,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-10-19 06:53:20"
+            "last_update": "2025-10-21 06:03:49"
+        },
+        {
+            "domain": "forbes.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "News",
+            "is_whitelisted": 1,
+            "last_update": "2025-10-20 06:34:52"
         },
         {
             "domain": "freedium.cfd",
@@ -272,6 +288,14 @@
             "typing": "Social Media",
             "is_whitelisted": 0,
             "last_update": "2025-08-14 14:24:22"
+        },
+        {
+            "domain": "gadgetcity.com.au",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-10-21 01:28:01"
         },
         {
             "domain": "gerbview.com",
@@ -371,11 +395,11 @@
         },
         {
             "domain": "imgur.io",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-09-12 03:22:40"
+            "last_update": "2025-10-21 02:47:28"
         },
         {
             "domain": "infineon.com",
@@ -699,19 +723,27 @@
         },
         {
             "domain": "stackexchange.com",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-09-23 18:12:16"
+            "last_update": "2025-10-19 19:56:00"
+        },
+        {
+            "domain": "t.co",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 0,
+            "last_update": "2025-10-20 03:42:11"
         },
         {
             "domain": "tenor.com",
-            "times_seen": 187,
+            "times_seen": 195,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-18 14:44:08"
+            "last_update": "2025-10-21 08:01:18"
         },
         {
             "domain": "tensorflow.org",
@@ -859,11 +891,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 25,
+            "times_seen": 26,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-10-16 07:30:05"
+            "last_update": "2025-10-19 23:43:47"
         },
         {
             "domain": "xda-developers.com",
@@ -875,19 +907,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 35,
+            "times_seen": 37,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-19 07:07:25"
+            "last_update": "2025-10-19 15:00:10"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 88,
+            "times_seen": 92,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-19 06:55:08"
+            "last_update": "2025-10-21 06:38:58"
         },
         {
             "domain": "yxtwitter.com",

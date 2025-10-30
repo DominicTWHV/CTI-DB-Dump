@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 814,
+    "num_of_entries": 819,
     "links": [
         {
             "id": 367,
@@ -1133,6 +1133,17 @@
             "is_redirect": 0,
             "downstream_target": "https://discord.com/channels/1074967630357725204/1076846589085229076/1406109216065978550",
             "last_update": "2025-08-16 04:37:17"
+        },
+        {
+            "id": 852,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1433008365327355904/VID_20251029092317.mp4?ex=6903208a&is=6901cf0a&hm=6b7c3705cfeacf8d4964948ab23431589bcd131e5ce61451f9009346efaeddad&",
+            "url_hash": "1fcbf59c91c27ad8b939aec2bae28f2031fc104becf8494889aab1ab1bca6e26",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-29 08:23:39"
         },
         {
             "id": 159,
@@ -4433,6 +4444,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-24 16:39:16"
+        },
+        {
+            "id": 853,
+            "url": "https://cdn.discordapp.com/attachments/1106657985528352808/1433071883947085904/IMG_9855.mov?ex=69035bb2&is=69020a32&hm=df111b22d04504e3fbb0148c5d7c3e2c8da07d564911e80e4bb5c9d749fbdb3b&",
+            "url_hash": "830e9f24e944a8ca6356c19218273e233e4d35e72310b45d729d71852df17a3b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-29 12:36:03"
         },
         {
             "id": 831,
@@ -7944,6 +7966,17 @@
             "last_update": "2025-09-14 14:36:52"
         },
         {
+            "id": 855,
+            "url": "https://tenor.com/view/april-fools-joke-dog-its-fine-this-is-not-gif-1750056094467610487",
+            "url_hash": "e2d3a7aeca08c9b92b68d136f506cdce99d85f7bc3274010a8aa9d2e89bd4524",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-29 15:02:29"
+        },
+        {
             "id": 382,
             "url": "https://www.tiktok.com/@pan_afrikan/video/7550358342330305810",
             "url_hash": "e2db0211d04450c9d8bd38e98f886f9c6407d5e2163b7e4f079139df5d7f2512",
@@ -8505,6 +8538,17 @@
             "last_update": "2025-09-19 17:01:02"
         },
         {
+            "id": 856,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1433109636852089002/RPReplay_Final1724158030.mov?ex=69037edb&is=69022d5b&hm=92e830eddc0787bcbd420afd3250f84626a5009cedea87f6fa4f46d0e4667d54&",
+            "url_hash": "f36e1625ed06b6bf1863eb664bd9a037a91ef5531daf3ee56f2a0e89be0803d0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-29 15:06:04"
+        },
+        {
             "id": 827,
             "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1432406846127210607/VID20251027173204.mp4?ex=6900f054&is=68ff9ed4&hm=910e3322c6f79ebd7bf7f43987f7a48854bf23d2594e80723c6214a3c8d3a465&",
             "url_hash": "f398ed289bc7d54ece2a76d07000847b425212d14560d4c79718f3927faffdc6",
@@ -8701,6 +8745,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-12 13:31:21"
+        },
+        {
+            "id": 854,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1433071982294863902/ScreenRecording_10-29-2025_07-15-44_1.mov?ex=69035bc9&is=69020a49&hm=a2dce15bc5d0f6a9e1648bae32bc22680bbc49be19ba89f878c898966e561b96&",
+            "url_hash": "f9408978328a8c1ab91dbf19bde004b3a23e5e974c5f7cfe68b3bd2e371df2f2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-29 12:36:26"
         },
         {
             "id": 632,

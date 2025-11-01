@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 819,
+    "num_of_entries": 828,
     "links": [
         {
             "id": 367,
@@ -673,6 +673,17 @@
             "last_update": "2025-09-09 08:47:31"
         },
         {
+            "id": 861,
+            "url": "https://www.kkinstagram.com/reel/DPfqX3TCnMc/?igsh=YmpnYjU4Zm44NnZx",
+            "url_hash": "13d4b0925a9f3237b315dcae3f85a6c90d11f947c35321a73cc027d74ea2a75d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-31 14:52:41"
+        },
+        {
             "id": 645,
             "url": "https://tenor.com/view/rb2g-ruben-thinking-hmm-interesting-gif-17975457834768816111",
             "url_hash": "148c8608dc818dc4401bf73dac41869cb0cbfcc3a5d7fd31f76fdf18f42e6375",
@@ -803,6 +814,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-07 00:11:34"
+        },
+        {
+            "id": 865,
+            "url": "https://a.aliexpress.com/_EGdt92o",
+            "url_hash": "19949f5389d77489b6ba5ef8e9a44e9a8e00e3aa42d07aec352749e4cf7e52cb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-31 20:20:13"
         },
         {
             "id": 393,
@@ -1674,6 +1696,17 @@
             "last_update": "2025-09-19 11:34:31"
         },
         {
+            "id": 858,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1433728485460807791/20251030_181921_1.mp4?ex=6905bf34&is=69046db4&hm=f07f6bc0cde86e69428e78001abacca8a63692f426d25a8072833d63002786a0&",
+            "url_hash": "31aa03f955398ad9898066d5d3a74e93e757da1e56b641a23639be45f42eed77",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-31 08:05:10"
+        },
+        {
             "id": 108,
             "url": "https://tenor.com/view/cheese-james-may-gif-19266123",
             "url_hash": "31c72bbe7c979be55dd8e1774d3271d39c0319e297e73c7bd9353dcbde94b5cd",
@@ -1683,6 +1716,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 13:24:50"
+        },
+        {
+            "id": 857,
+            "url": "https://fixupx.com/cqcqcqdx/status/1983349525608837256",
+            "url_hash": "31e674a690ed6e0ed8e34669570308ab83470f75c8bb9bd93158972822f0e72a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/cqcqcqdx/status/1983349525608837256",
+            "last_update": "2025-10-30 03:59:25"
         },
         {
             "id": 652,
@@ -1958,6 +2002,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-10 13:00:50"
+        },
+        {
+            "id": 859,
+            "url": "https://tenor.com/view/minecraft-a-minecraft-movie-absolute-cinema-absolute-cinema-meme-meme-gif-1766642590037461419",
+            "url_hash": "389aa2bde7495c39b66729e635cc5e9c596926e8c801ac0c473890033f12f9cc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-31 09:10:16"
         },
         {
             "id": 132,
@@ -2238,12 +2293,12 @@
             "id": 516,
             "url": "https://tenor.com/view/madagscar-penguins-kaboom-gif-9833865",
             "url_hash": "401eb26726600eeff4d824fb66714037ce416a1c9d64f7932ad56344b751d70e",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-10-04 08:26:25"
+            "last_update": "2025-10-31 09:37:17"
         },
         {
             "id": 127,
@@ -5040,6 +5095,17 @@
             "last_update": "2025-09-29 16:23:02"
         },
         {
+            "id": 864,
+            "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1433901291549098104/snapsave-app_1488651912458972_hd.mp4?ex=69066024&is=69050ea4&hm=869c67dfe3801963c3438a892d51aa7db726602bedcb44cf3a3429fa71e7b1e2&",
+            "url_hash": "918edd6a728ee87cc43beaae51122d72776d27210fceb5084d7578978886a76d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-31 19:31:49"
+        },
+        {
             "id": 683,
             "url": "https://tenor.com/view/votv-voices-of-the-void-ariral-gif-1758984744133069901",
             "url_hash": "92659507242515bf9a4424f77b261ae25a493162a0025723e4247eb3152387dc",
@@ -5590,6 +5656,17 @@
             "last_update": "2025-08-23 07:13:26"
         },
         {
+            "id": 860,
+            "url": "https://fixupx.com/SteveLovesAmmo/status/1983992129077833761",
+            "url_hash": "9f154893ca437af1a5ebef5dddc00831e9cac1ea9d77da76cde24f2a61835bee",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/SteveLovesAmmo/status/1983992129077833761",
+            "last_update": "2025-10-31 11:50:26"
+        },
+        {
             "id": 759,
             "url": "https://fixupx.com/the_jefferymead/status/1979381963506225484",
             "url_hash": "9f5df7ffe80aa904c233d10868ac1bac03362f30dc3073053f120e1c0cd0ae18",
@@ -5874,6 +5951,17 @@
             "is_redirect": 0,
             "downstream_target": "https://chromewebstore.google.com/category/extensions",
             "last_update": "2025-08-09 07:57:30"
+        },
+        {
+            "id": 862,
+            "url": "https://x.com/OcrazioCornPop/status/1983694602541429207",
+            "url_hash": "aa009414812b37c014eda2f2cbc6866eba4f3c81e14332be54c73006efcb4b9a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-10-31 17:03:43"
         },
         {
             "id": 158,
@@ -7964,6 +8052,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-14 14:36:52"
+        },
+        {
+            "id": 863,
+            "url": "https://fixupx.com/WallStreetApes/status/1984213776502010221",
+            "url_hash": "e137cec0f9368928de97f38dc94f5a3b0091b82eb7962c133f05971f18ec900d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/WallStreetApes/status/1984213776502010221",
+            "last_update": "2025-10-31 19:03:42"
         },
         {
             "id": 855,

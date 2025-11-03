@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 10,
+    "num_of_entries": 11,
     "invites": [
         {
             "invite": "dc62e8bb29aef09ae7fe69b3070927166652909b5d4a14360b74c875a036eadc",
@@ -42,6 +42,13 @@
             "categorization": "Harmless",
             "resolution": "Autodesk Fusi************",
             "last_update": "2025-10-29 03:18:49"
+        },
+        {
+            "invite": "871c69c2739ec5fd87ac0b12628731aa2c0c0fba07c28c21600bd468dec43eda",
+            "times_seen": 1,
+            "categorization": "Harmless",
+            "resolution": "MINEC****",
+            "last_update": "2025-11-02 13:25:54"
         },
         {
             "invite": "83f984608075a0942b1382bb6265c82b18c50106a40f7f162821f618b014a3be",

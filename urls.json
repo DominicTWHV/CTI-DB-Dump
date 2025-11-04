@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 847,
+    "num_of_entries": 858,
     "links": [
         {
             "id": 367,
@@ -682,6 +682,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-09 08:47:31"
+        },
+        {
+            "id": 895,
+            "url": "https://www.reddit.com/r/CrazyFuckingVideos/s/YWwWbRAoM3",
+            "url_hash": "13915942611f07c3a9b6b4778bc4ba1c5b9b597f967db50cd6be600a40286ffa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/CrazyFuckingVideos/comments/1onppi5/crossway_blunder/?share_id=s2fXjk-B9mM37mACvJVpJ&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
+            "last_update": "2025-11-04 04:39:47"
         },
         {
             "id": 861,
@@ -1421,6 +1432,17 @@
             "last_update": "2025-09-30 19:33:48"
         },
         {
+            "id": 887,
+            "url": "https://fixupx.com/WallStreetApes/status/1985216549771518091",
+            "url_hash": "2768c88aa072ae9aa708441e72bf3b281ea671013c26b375cb79b2cff58f8410",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/WallStreetApes/status/1985216549771518091",
+            "last_update": "2025-11-03 09:29:54"
+        },
+        {
             "id": 98,
             "url": "https://x.com/tatapomn/status/1956923958751850949",
             "url_hash": "285dd519c39001142c01208f891bbb7dc008bdf678242f91c563b593fe2ea68f",
@@ -1958,6 +1980,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Rightanglenews/status/1966264506486853810",
             "last_update": "2025-09-14 07:11:27"
+        },
+        {
+            "id": 890,
+            "url": "https://discord.com/channels/1074967630357725204/1166189164971163729/1434899139120074774",
+            "url_hash": "37adab4c474aaf10ae75a7982135efa4931265ab85c67260e9ae538dc25fc579",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-03 13:43:25"
         },
         {
             "id": 646,
@@ -4061,6 +4094,17 @@
             "last_update": "2025-09-21 06:39:37"
         },
         {
+            "id": 888,
+            "url": "https://x.com/WindowsLatest/status/1985131372365934697",
+            "url_hash": "7185c860cc1633e5cbc24fbc1f0f8434267444ed013842951903c5d326d32c18",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-03 10:38:50"
+        },
+        {
             "id": 588,
             "url": "https://cdn.discordapp.com/attachments/1077234878166347887/1425476352798359652/IMG_8954.mov?ex=68e7b9ce&is=68e6684e&hm=24b0499c998ba62638eb17824d524678ce518f5b06c8c64bbac3c565a2907f01&",
             "url_hash": "71add3b35964cd9d49f7af2cecb1eca07549d3ea3ac517da31718e2a484c0c83",
@@ -4158,6 +4202,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.vch.ca/en",
             "last_update": "2025-08-17 21:54:45"
+        },
+        {
+            "id": 894,
+            "url": "https://share.redd.it/preview/post/1onppi5",
+            "url_hash": "7460be9231c8ad67064a99e78baf7bc98d852beaf3accb16fa14d9207989f38c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://share.redd.it/preview/post/1onppi5",
+            "last_update": "2025-11-04 04:39:27"
         },
         {
             "id": 765,
@@ -4455,6 +4510,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-27 17:28:13"
+        },
+        {
+            "id": 891,
+            "url": "https://www.bbc.com/news/articles/cpv1ddevk9go",
+            "url_hash": "7e0c22a0f929e08354bf97f046a4ef510f44bacbdf188ca2faae068b38e8c556",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.bbc.com/news/articles/cpv1ddevk9go",
+            "last_update": "2025-11-03 19:36:17"
         },
         {
             "id": 53,
@@ -5159,6 +5225,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-20 21:29:32"
+        },
+        {
+            "id": 885,
+            "url": "https://www.youtube.com/watch?v=1lYbvkWhQYA",
+            "url_hash": "8f2b3df06337f5a3f40139908b4e1e6106c87bd00bcea1f26574e104dfbf9b6d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-03 07:38:24"
         },
         {
             "id": 66,
@@ -6096,6 +6173,17 @@
             "last_update": "2025-10-10 09:31:04"
         },
         {
+            "id": 889,
+            "url": "https://randomnerdtutorials.com/esp32-websocket-server-arduino/",
+            "url_hash": "a94bbac6a5558c793ef94be80979616be01cf1b4b1dce56f6862d78eefe23ed1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://randomnerdtutorials.com/esp32-websocket-server-arduino/",
+            "last_update": "2025-11-03 13:38:52"
+        },
+        {
             "id": 4,
             "url": "https://chromewebstore.google.com/category/extensions",
             "url_hash": "a9e85ddffae5297afcd4401d78342537596819c4df08b689ab864cb0afff7d28",
@@ -6415,6 +6503,17 @@
             "last_update": "2025-10-19 03:52:13"
         },
         {
+            "id": 893,
+            "url": "https://cdn.discordapp.com/attachments/836619143246774333/1434615377517871236/VID_20251102_125553_049.mp4?ex=690a4aaf&is=6908f92f&hm=1888cf12ff83d6da40020f4d5f81822a813560c8b818cba2f2998401da94972e&",
+            "url_hash": "b04f0b19fb9bf0aa2a50837a5900887190c89b2573602796cdcac839e005f19b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-04 01:57:39"
+        },
+        {
             "id": 651,
             "url": "https://tenor.com/view/got-caught-you-got-caught-caught-gif-12837303",
             "url_hash": "b08f93b256ac7bad1e34c88fab787b6a770f489249624fb7169b59e98c6e63f1",
@@ -6710,6 +6809,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.ctvnews.ca/calgary/article/queen-elizabeth-high-school-students-deal-with-extreme-heat-amid-cupe-strike/",
             "last_update": "2025-09-03 04:54:46"
+        },
+        {
+            "id": 886,
+            "url": "https://cdn.discordapp.com/attachments/1430136238576242708/1434819596237406258/VID_20251029153231.mp4?ex=6909b761&is=690865e1&hm=f976865ad05f029b971543cd55fe211a25855845a03acbd8777a84bb60240219&",
+            "url_hash": "bbbc479c87a8d3ff0e87b6188fe624c62fdaa8f10f93d62edac35130c1194d5c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-03 08:20:50"
         },
         {
             "id": 47,
@@ -8162,6 +8272,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?t=617&v=b-ziDmnOFcU&feature=youtu.be",
             "last_update": "2025-08-17 02:49:46"
+        },
+        {
+            "id": 892,
+            "url": "https://x.com/saumotion/status/1985102397119607148",
+            "url_hash": "dfe14c353439afb7c5c833ec6aa6e5759898c066314aaa5b98976990d32cd0c7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-04 00:28:46"
         },
         {
             "id": 82,

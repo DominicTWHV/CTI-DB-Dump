@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 123,
+    "num_of_entries": 125,
     "domains": [
         {
             "domain": "adafruit.com",
@@ -90,6 +90,14 @@
             "last_update": "2025-09-22 01:53:43"
         },
         {
+            "domain": "bbc.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "News",
+            "is_whitelisted": 1,
+            "last_update": "2025-11-03 19:36:17"
+        },
+        {
             "domain": "best-microcontroller-projects.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -163,19 +171,19 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 10,
+            "times_seen": 11,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-10-15 14:26:22"
+            "last_update": "2025-11-03 13:43:25"
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 213,
+            "times_seen": 215,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-11-02 23:01:56"
+            "last_update": "2025-11-04 01:57:39"
         },
         {
             "domain": "discordapp.net",
@@ -267,11 +275,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 74,
+            "times_seen": 75,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-11-02 11:08:30"
+            "last_update": "2025-11-03 09:29:42"
         },
         {
             "domain": "forbes.com",
@@ -690,6 +698,14 @@
             "last_update": "2025-09-10 01:26:42"
         },
         {
+            "domain": "randomnerdtutorials.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2025-11-03 13:38:52"
+        },
+        {
             "domain": "raspberrypi.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -699,19 +715,19 @@
         },
         {
             "domain": "redd.it",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-10-28 04:35:18"
+            "last_update": "2025-11-04 04:39:04"
         },
         {
             "domain": "reddit.com",
-            "times_seen": 14,
+            "times_seen": 15,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-10-28 04:35:40"
+            "last_update": "2025-11-04 04:39:28"
         },
         {
             "domain": "renesas.com",
@@ -939,11 +955,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 28,
+            "times_seen": 30,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-10-31 17:03:43"
+            "last_update": "2025-11-04 00:28:46"
         },
         {
             "domain": "xda-developers.com",
@@ -963,11 +979,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 95,
+            "times_seen": 96,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-10-22 04:46:52"
+            "last_update": "2025-11-03 07:38:24"
         },
         {
             "domain": "yxtwitter.com",

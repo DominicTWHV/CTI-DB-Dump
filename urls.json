@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 858,
+    "num_of_entries": 866,
     "links": [
         {
             "id": 367,
@@ -726,6 +726,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/NoContextCrap/status/1970152608632320157",
             "last_update": "2025-09-23 11:30:28"
+        },
+        {
+            "id": 903,
+            "url": "https://infinityturbine.com/infinity-turbine-sco2-10mw-power-block.html",
+            "url_hash": "15259c8203547e47adcdcf6bfce64e3b3af800fe7a010e42829785491c75d11f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://infinityturbine.com/infinity-turbine-sco2-10mw-power-block.html",
+            "last_update": "2025-11-05 06:37:58"
         },
         {
             "id": 869,
@@ -1982,6 +1993,17 @@
             "last_update": "2025-09-14 07:11:27"
         },
         {
+            "id": 896,
+            "url": "https://youtu.be/ERytALCCSu8",
+            "url_hash": "3769bbb37c46fbb80a2e18e0e11b540dea7502e7ce59b7e6b45db757a074980b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-04 07:41:58"
+        },
+        {
             "id": 890,
             "url": "https://discord.com/channels/1074967630357725204/1166189164971163729/1434899139120074774",
             "url_hash": "37adab4c474aaf10ae75a7982135efa4931265ab85c67260e9ae538dc25fc579",
@@ -2222,6 +2244,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 04:54:33"
+        },
+        {
+            "id": 899,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1435213199858339883/VID20230618183705_2_1.mp4?ex=690b25f3&is=6909d473&hm=3ec930a406f14739134ae069b588a982e02dfabc477fd575e05a6d5dbfc20ebd&",
+            "url_hash": "3c1b6b5e2ec01a10a1e8262e7ff522a0a84ddaadff9f3f1345547b6f3828949d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-04 10:24:53"
         },
         {
             "id": 432,
@@ -3069,6 +3102,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-10 17:59:44"
+        },
+        {
+            "id": 898,
+            "url": "https://www.foodnetwork.com/recipes/ree-drummond/spicy-italian-meatballs.html",
+            "url_hash": "529d9c0d4b79ebe636f34f516accff7bffe2b96a34811e4fe5004df3f119d1c6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.foodnetwork.com/recipes/ree-drummond/spicy-italian-meatballs-2660163",
+            "last_update": "2025-11-04 08:41:08"
         },
         {
             "id": 25,
@@ -5535,6 +5579,17 @@
             "last_update": "2025-10-07 05:42:39"
         },
         {
+            "id": 900,
+            "url": "https://www.kkinstagram.com/reel/DQl1k70iZE2/?igsh=dWFsYWUydjd6azFm",
+            "url_hash": "97427d9592c6a110fba642de3000647f6c02623d160c5cc6ccb837e02f9df241",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-04 14:00:26"
+        },
+        {
             "id": 216,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1411915709528936498/2025-09-01-12-24-52-567.mp4?ex=68b66479&is=68b512f9&hm=996d0e781ce1a0b174846a7caa64fc56e846718fc138601db428a12aa85496be&",
             "url_hash": "978f0f797824d7e53aaeaee1107735169e468259ebc4bb6d5ab788e30a72acc9",
@@ -6765,6 +6820,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-14 07:02:35"
+        },
+        {
+            "id": 904,
+            "url": "https://fixupx.com/libsoftiktok/status/1985727847307092392",
+            "url_hash": "ba4dc306460df0229f083ee54c94c484ea183b9f2b4d8f128181e140d116c60f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/libsoftiktok/status/1985727847307092392",
+            "last_update": "2025-11-05 07:36:52"
         },
         {
             "id": 778,
@@ -8142,6 +8208,17 @@
             "last_update": "2025-10-01 12:55:31"
         },
         {
+            "id": 901,
+            "url": "https://cdn.discordapp.com/attachments/835645409765621761/1435174772442005525/VID_20251104_021901_683.mp4?ex=690baaea&is=690a596a&hm=83c9e0ec78e17ccc1f443218110405fe083393105c60f3d493f6be88351a074d&",
+            "url_hash": "db7aa22e9c5116a4f1add073c7a961f54abe8d0db936f3acf6d2b1408c3d8398",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-05 00:27:01"
+        },
+        {
             "id": 343,
             "url": "https://www.tiktok.com/@foxnews/video/7537788622485867806",
             "url_hash": "db7dad5192dca1f8c70d85e142a7fe2e58fecb5554290bfafd5096dbffd5b3b4",
@@ -9240,6 +9317,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-03 16:36:53"
+        },
+        {
+            "id": 902,
+            "url": "https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FCapnKernel%2FFugu2",
+            "url_hash": "fac0decc0935f2bca4008336ed1c7dec05f7c3249c0f7d9ed3d480bcf8f870df",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FCapnKernel%2FFugu2",
+            "last_update": "2025-11-05 05:59:35"
         },
         {
             "id": 111,

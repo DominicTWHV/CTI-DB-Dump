@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 85,
+    "num_of_entries": 92,
     "files": [
         {
             "sha256": "00211cc0421bfe4462c2da7331bb1d78e4c86bc19f7816b048e4964d08ed6cf8",
@@ -261,6 +261,13 @@
             "last_update": "2025-10-17 14:41:14"
         },
         {
+            "sha256": "8bbd7978caf86b0f17690586225e296123d6664916e40a4b02a65cc605e4692b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "last_update": "2025-11-04 08:31:35"
+        },
+        {
             "sha256": "8e28212868dfeedbf72af38897bd4902a31e91ac794a4b54375489b2ef6e75ad",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -443,6 +450,20 @@
             "last_update": "2025-10-28 13:10:49"
         },
         {
+            "sha256": "b39aef6b327e97517334e37a1eb7ee8581064ada7e4d9dfe1a6b3c66306d5d38",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-11-04 08:26:58"
+        },
+        {
+            "sha256": "b50681094c040883f3da8fe697bd3a9e35e62d1672f59d9f14e0db494f9d41c2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "last_update": "2025-11-04 08:39:13"
+        },
+        {
             "sha256": "ba8eda7feb7cffe8fbd510a5d212988ea8c21c2e2e4da1f20e6b58674d80ead2",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -483,6 +504,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-03 16:24:47"
+        },
+        {
+            "sha256": "c363177942406616582c9b14b2d871171e0532e490c2ee8cc1703968ea4fe613",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-11-04 07:42:25"
         },
         {
             "sha256": "c450a2c854cead243daceacd41516a1864b1c18ef533445b4f5769d8c4fa5cde",
@@ -548,6 +576,20 @@
             "last_update": "2025-10-26 19:53:32"
         },
         {
+            "sha256": "e9f0efd2f11c4da46ab9a7955b3a858f762beaf8ff555d79952b59bd64485b47",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "last_update": "2025-11-04 08:35:09"
+        },
+        {
+            "sha256": "ea5ddcded3464b6e9728c4b770d93a63d64b7fba0cfbb999b2093cd997cfbe33",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-11-04 08:21:27"
+        },
+        {
             "sha256": "ed065a2cc04a14ccd3874388483faf7e9663bf03fb30d78e1f937d5e4f1cd227",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -567,6 +609,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-10-28 02:31:01"
+        },
+        {
+            "sha256": "f662267f77f502a26fda4a0c6c97bb833c69f72045e21bda46b19e748fe4d4c6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-11-04 08:20:14"
         },
         {
             "sha256": "fa12071dbf343d07a148f5951236cbc49baa775803da59c34053aec2472bf7b2",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 885,
+    "num_of_entries": 898,
     "links": [
         {
             "id": 367,
@@ -1388,6 +1388,17 @@
             "last_update": "2025-08-29 09:29:36"
         },
         {
+            "id": 937,
+            "url": "https://youtu.be/mKGfvzCbAj4?t=78",
+            "url_hash": "2580715878a90acd7063b9d758979d8affb044813f133147e6949a0508542235",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-09 05:52:19"
+        },
+        {
             "id": 465,
             "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1421493611177967728/IMG_8302.mov?ex=68d93c96&is=68d7eb16&hm=155675a282a7533e977a719cf31f99111c98381d2bc8dfa46e4eb925f154e380&",
             "url_hash": "25b5c979c23e838b72871771b69645600832ec764daa68bcbe7c787517cd9936",
@@ -2510,6 +2521,17 @@
             "last_update": "2025-10-23 02:53:12"
         },
         {
+            "id": 936,
+            "url": "https://fixupx.com/Raindropsmedia1/status/1983702090661949893",
+            "url_hash": "426b3ef113ca61b310cf7b51a6ff4ad0b17b174e7fa7beaf0eaddcdefc5852b9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Raindropsmedia1/status/1983702090661949893",
+            "last_update": "2025-11-09 01:01:43"
+        },
+        {
             "id": 775,
             "url": "https://cdn.discordapp.com/attachments/1212740711271768094/1430520655811707021/VID_20251022_142900.mp4?ex=68fa13ae&is=68f8c22e&hm=529939671c4275abcf04846e12fc1662ab3f4b9f82067e770e0d0e8a4f93f011&",
             "url_hash": "42778773e61da8e0eb0351e2b452d65eef15448f46d95ecfdd7cba92505728f9",
@@ -2629,6 +2651,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-07 15:13:56"
+        },
+        {
+            "id": 932,
+            "url": "https://tenor.com/view/discord-gif-5727361848313473027",
+            "url_hash": "443b0b780c79ea175a3c50d032eb83cef646ea5070dd3381b1c1767eae902ddc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-08 12:06:16"
         },
         {
             "id": 356,
@@ -3003,6 +3036,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-30 10:52:28"
+        },
+        {
+            "id": 927,
+            "url": "https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&si=spzq8560pfCP031R",
+            "url_hash": "4b97c5c33390a18a7865212d671cd2aa385cf58dc5d58e51473970125e7e6c54",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-07 19:53:45"
         },
         {
             "id": 703,
@@ -3786,6 +3830,17 @@
             "last_update": "2025-08-29 09:25:46"
         },
         {
+            "id": 935,
+            "url": "https://tenor.com/view/cat-huh-cat-huh-etr-gif-15332443943609734737",
+            "url_hash": "643082349d0efd0fc819a1bc7383f05f0e7abf7befedbd603b8d7f44344cb1be",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-08 15:00:56"
+        },
+        {
             "id": 322,
             "url": "https://x.com/Rightanglenews/status/1966264506486853810",
             "url_hash": "6486d2f5d8dd4efb4725b925ac7df00587be7d0b1156d8f136b1fa49028cde1b",
@@ -4457,6 +4512,17 @@
             "last_update": "2025-09-10 01:24:41"
         },
         {
+            "id": 924,
+            "url": "https://x.com/PhoenixRedtail/status/1986558938607972574",
+            "url_hash": "778086da906683e5f1bf67c53240157ed9182ade5a2d220ce746bf4020f3d505",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-07 11:32:57"
+        },
+        {
             "id": 644,
             "url": "https://yxtwitter.com",
             "url_hash": "77ce38097a81f27d5c7f9e11b875464d88cc7f0451ea6a54746264c39941e78f",
@@ -4488,6 +4554,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-26 17:18:00"
+        },
+        {
+            "id": 928,
+            "url": "https://yt3.googleusercontent.com/ytc/AIdro_knyJw3jL_6AGomJmGe3VvfIYxWzZC9Y8z90Liru4G0UHM=s900-c-k-c0x00ffffff-no-rj",
+            "url_hash": "78ccfa532ced5314792fad8e7036b0083406f1e2fe8ca18ec73c332858bf3e71",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://yt3.googleusercontent.com/ytc/AIdro_knyJw3jL_6AGomJmGe3VvfIYxWzZC9Y8z90Liru4G0UHM=s900-c-k-c0x00ffffff-no-rj",
+            "last_update": "2025-11-07 19:54:34"
         },
         {
             "id": 303,
@@ -4785,6 +4862,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-07 08:46:18"
+        },
+        {
+            "id": 926,
+            "url": "https://youtu.be/WLwn_HTTNS8?si=2khkK3rSXT_hqEMz",
+            "url_hash": "816387a02d9ea6548635722d2f767f3c150d6ffd887fc70b30a873ac6b0495f0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-07 19:17:08"
         },
         {
             "id": 147,
@@ -6745,6 +6833,17 @@
             "last_update": "2025-09-21 14:52:21"
         },
         {
+            "id": 931,
+            "url": "https://fixupx.com/Real_RobN/status/1986885597978632318",
+            "url_hash": "b1df602c7457da47c749a63af23382b940f499b7acf5e182a46a164a672fb61a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Real_RobN/status/1986885597978632318",
+            "last_update": "2025-11-08 10:58:20"
+        },
+        {
             "id": 503,
             "url": "https://tenor.com/view/electroboom-mehdi-fail-shock-shocked-gif-23833246",
             "url_hash": "b2703270ad8dfd6c86ef9f9e0b5e146fed1ded4bbf3c97491b22c0e2eaec8b9b",
@@ -6866,6 +6965,17 @@
             "last_update": "2025-08-18 15:01:10"
         },
         {
+            "id": 929,
+            "url": "https://www.youtube.com/@SebastianLague",
+            "url_hash": "b72878e86213846235e22b7cf1bc82a22dab642736829e9438af1a1bf9ee1c38",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-07 19:54:34"
+        },
+        {
             "id": 533,
             "url": "https://share.redd.it/preview/post/1nyegf8",
             "url_hash": "b779070ba8c42f2abfdff4d0a590557a479573d794ac5eabffc338177ff75dec",
@@ -6941,6 +7051,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-01 14:06:00"
+        },
+        {
+            "id": 933,
+            "url": "https://www.youtube.com/shorts/Xn2QcWrV1gA",
+            "url_hash": "b999200591582024cd755c18092117dd143370794c2be085993a15a06c2e8e6e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-08 14:08:15"
         },
         {
             "id": 332,
@@ -7680,6 +7801,17 @@
             "last_update": "2025-09-28 13:43:20"
         },
         {
+            "id": 934,
+            "url": "https://youtu.be/BDvUprc8WsQ?si=ZPe8H1gaDhhdJShq",
+            "url_hash": "ccb1a5385d735f3c1cb1adf84089407ac49aa9df4e4de584dbb1daa91d836249",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-08 14:49:25"
+        },
+        {
             "id": 612,
             "url": "https://www.npr.org/sections/krulwich/2011/10/03/140815154/dissolve-my-nobel-prize-fast-a-true-story",
             "url_hash": "cd590dd81f20468bf4c2ade8fb6a6da19dac72a58a2f19b4a6dd0fd465842bdf",
@@ -7711,6 +7843,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/DOGE__news/status/1974847041496031290",
             "last_update": "2025-10-06 05:11:42"
+        },
+        {
+            "id": 925,
+            "url": "https://discord.com/channels/1074967630357725204/1228591606857469982/1436359364087644200",
+            "url_hash": "ce5846818969f7eb24a1551e72407c6803023523b4474ed1b4f05649edc6d1c2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-07 14:22:54"
         },
         {
             "id": 74,
@@ -8508,12 +8651,12 @@
             "id": 921,
             "url": "https://tenor.com/view/you%27ve-said-enough-shut-up-shut-it-stop-it-shut-gif-15799981703517838226",
             "url_hash": "dd7eb4b1a6dbde0c5a372a76db401438e99b7903d3cec9cdce77030ad44d695d",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-11-06 15:00:47"
+            "last_update": "2025-11-08 19:05:47"
         },
         {
             "id": 415,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 11,
+    "num_of_entries": 12,
     "invites": [
         {
             "invite": "dc62e8bb29aef09ae7fe69b3070927166652909b5d4a14360b74c875a036eadc",
@@ -14,6 +14,13 @@
             "categorization": "Harmless",
             "resolution": "Birding Int**********",
             "last_update": "2025-09-12 22:29:55"
+        },
+        {
+            "invite": "b67670d64d3023cb3b3929f3df40a3e7825f89b13653ffad5dbf26133643e7de",
+            "times_seen": 12,
+            "categorization": "Malicious",
+            "resolution": "Elonsi******",
+            "last_update": "2025-11-05 19:17:54"
         },
         {
             "invite": "c3aa586355b691fb2a720b5208b78616b0f7aaef1cea10c45a4e7ec72bb0ed4e",

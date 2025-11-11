@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 898,
+    "num_of_entries": 920,
     "links": [
         {
             "id": 367,
@@ -165,6 +165,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.forbes.com/sites/daveywinder/2025/07/20/amazon-ring-doorbell-may-28-mass-hacking-claim-goes-viral/",
             "last_update": "2025-10-20 06:34:52"
+        },
+        {
+            "id": 941,
+            "url": "https://tenor.com/view/comequee-gif-7368228",
+            "url_hash": "060e3ac6714b109fe2098c28deed200fc5711fbf40cd3a307c77af8d53ee5a89",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-09 15:36:25"
         },
         {
             "id": 283,
@@ -363,6 +374,17 @@
             "is_redirect": 0,
             "downstream_target": "https://asana.com/resources/sunk-cost-fallacy",
             "last_update": "2025-09-22 12:38:01"
+        },
+        {
+            "id": 954,
+            "url": "https://www.omc-stepperonline.com/de/buerstenloser-gleichstrommotor-mit-48v-250w-300rpm-6-43nm-910-56oz-in-10-1-stirnradgetriebe-f6b250-48gu-30s-6gu10k",
+            "url_hash": "0b26eb645b1d9f10edffadbcba9faaab247f60e01707b8d58ca3dc50435659e3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.omc-stepperonline.com/de/buerstenloser-gleichstrommotor-mit-48v-250w-300rpm-6-43nm-910-56oz-in-10-1-stirnradgetriebe-f6b250-48gu-30s-6gu10k",
+            "last_update": "2025-11-10 19:59:26"
         },
         {
             "id": 568,
@@ -717,6 +739,17 @@
             "last_update": "2025-10-11 20:26:51"
         },
         {
+            "id": 938,
+            "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:6585254-7393098430547415040?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAABO9lsABGFcY-9pWyFcAY-JfSxKG2OvbUKg&utm_campaign=share_via",
+            "url_hash": "14cfcff21c7f62632b7a9b2c06ae65e3e307f38eddd9415a01f5358dd3d79b79",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.linkedin.com/feed/update/urn:li:groupPost:6585254-7393098430547415040?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAABO9lsABGFcY-9pWyFcAY-JfSxKG2OvbUKg&utm_campaign=share_via",
+            "last_update": "2025-11-09 13:16:44"
+        },
+        {
             "id": 427,
             "url": "https://fixupx.com/NoContextCrap/status/1970152608632320157",
             "url_hash": "151fe4e445676e4b852a05ac07f5b106ccea2f03102436293fe04edbba179478",
@@ -792,6 +825,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 03:40:01"
+        },
+        {
+            "id": 959,
+            "url": "https://spoo.me/AD8uLH",
+            "url_hash": "16a6ed065c9eab9766878c9a810363308c7c237b9fb7356fcec3aa3ce0425a29",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://spoo.me/AD8uLH",
+            "last_update": "2025-11-11 04:58:13"
         },
         {
             "id": 736,
@@ -880,6 +924,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-21 15:30:48"
+        },
+        {
+            "id": 942,
+            "url": "https://techfun.sk",
+            "url_hash": "19c738bb246305b967d1e2871528073f1dd20f2f9ef6b9b5ad5d963f7d174d1e",
+            "times_seen": 3,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://techfun.sk",
+            "last_update": "2025-11-10 15:03:55"
         },
         {
             "id": 539,
@@ -1311,6 +1366,17 @@
             "last_update": "2025-08-12 14:46:09"
         },
         {
+            "id": 958,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1437582350581108826/SnapVideo.app_AQMz9a1LTMWV0CZbKpP7ktC6_xtcR3Wbro3vg9SCImpxlkP2MxESfjyTPeEh-iXoojIFud2ewOCRP8NxOt22jn-XYjDnG_y89znMIJ8.mp4?ex=6913c465&is=691272e5&hm=7546bd38198cd49429968fd87e5c4fb31350d5366f00c240a139bdd538b96e78&",
+            "url_hash": "23af65042eb57605fdfd759334ba0d07c6c1d3356008ee9bb298312f04995b7d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-11 01:50:26"
+        },
+        {
             "id": 604,
             "url": "https://www.aliexpress.com/item/1005007839963879.html",
             "url_hash": "23d91f3453504cc8658235ca1cec32a9b438d6e4f858c2801c17d5c8329a62de",
@@ -1630,6 +1696,17 @@
             "last_update": "2025-09-14 07:06:02"
         },
         {
+            "id": 945,
+            "url": "https://imgur.com/nbJ24Vl)",
+            "url_hash": "2db6067e3d2ddfd836e09b8fd15cf154099af2035a38a0cd899cc25217d3fa49",
+            "times_seen": 13,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://imgur.com/",
+            "last_update": "2025-11-10 04:48:53"
+        },
+        {
             "id": 64,
             "url": "https://youtu.be/PlHf5JjOwbA",
             "url_hash": "2db72f75fc186b015c7fd0193d66f4f9fef07d609c478286bd023f499ed51bef",
@@ -1672,6 +1749,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-22 21:45:58"
+        },
+        {
+            "id": 946,
+            "url": "https://imgur.com/xN2WLMt)",
+            "url_hash": "2ef85dae044c880bd6820c33c80c0134d703114975138e78a56fdb7785b1b7b7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://imgur.com/",
+            "last_update": "2025-11-10 04:49:05"
         },
         {
             "id": 197,
@@ -4644,6 +4732,17 @@
             "last_update": "2025-10-15 05:45:22"
         },
         {
+            "id": 944,
+            "url": "https://tenor.com/view/ipad-kid-playing-minecraft-and-watching-youtube-shorts-ipad-kid-thingstoryx-gif-4913695962410316975",
+            "url_hash": "7adc5000f2bffb740b4481192dc8d13be3a9d2cf68434887b3418d6f3fd3b26e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-09 19:57:54"
+        },
+        {
             "id": 89,
             "url": "https://tenor.com/view/ryo-yamada-thumbs-up-bocchi-the-rock-anime-smile-gif-27225579",
             "url_hash": "7aebca68ddf9dfadd3165d1d8607ed896bc2d61981fec534b283c06e8193f107",
@@ -5522,6 +5621,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.tiktok.com/@asmongoldclipz/video/7535542549411400991",
             "last_update": "2025-08-11 12:27:33"
+        },
+        {
+            "id": 950,
+            "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1437451063140679730/IMG_0205.mov?ex=69134a20&is=6911f8a0&hm=3450f9bf8fe20eb7b65b44395688cce539d52200bbc5c602f47ef45e1ddc1451&",
+            "url_hash": "910c4558f3e23c493399fd291542fad771f808dcb8b5dabd9c9370302ea5070b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-10 14:37:20"
         },
         {
             "id": 769,
@@ -6657,6 +6767,17 @@
             "last_update": "2025-09-27 10:17:11"
         },
         {
+            "id": 956,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1437562625637748746/IMG_0182.mov?ex=6913b206&is=69126086&hm=1ebd99b7eb4dd5565f33293dcc9c5ed8386a9740a2ccb8fd375edabd0d4b4197&",
+            "url_hash": "ada248bc08846d32bab8e3dfc3225027a626febc0108f64859c7c6fff9170d88",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-10 22:00:41"
+        },
+        {
             "id": 714,
             "url": "https://tenor.com/view/work-out-gif-8535218911762412413",
             "url_hash": "adbab89cea48b31c35f68e2097bf2d645ac63bf3a2ff5d706d4125c72787f48d",
@@ -6910,6 +7031,17 @@
             "last_update": "2025-09-25 19:47:32"
         },
         {
+            "id": 943,
+            "url": "https://youtube.com/shorts/HQQj9Qm3ZDU?si=uFulzHmX3pYK4ltT",
+            "url_hash": "b358bda7f367d9b91734c2005f2791384b519cd04b28f03d5f9ce89bd52b82fe",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-09 19:10:06"
+        },
+        {
             "id": 339,
             "url": "https://cdn.discordapp.com/attachments/849031301087494148/1417243920227631247/PXL_20250915_202022556.mp4?ex=68c9c6c1&is=68c87541&hm=aaa8c99a3be9914dcfeaf0bb6b40b70bf838775389e8baad76af2a18b5087428&",
             "url_hash": "b4a6159f4c499a664054741f3e1993684827039a4a07b9b68e6af425d391fcb4",
@@ -6996,6 +7128,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-25 22:17:52"
+        },
+        {
+            "id": 949,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1437372571988525149/resistors_in_blender.mp4?ex=69130106&is=6911af86&hm=8d8b01f2659dac57680099943c8f5eb28bdf9a316d296f9be5255bb12dcfd2df&",
+            "url_hash": "b7f600a9fd662dc1ba72d9015b796416a21919b95caa34a578027a3a20f30047",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-10 09:25:26"
         },
         {
             "id": 227,
@@ -7128,6 +7271,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/a/resistor-position-signal-swap-3WtWTUR",
             "last_update": "2025-10-05 08:58:25"
+        },
+        {
+            "id": 953,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1437525904061370449/AQPryeW0-4FpygxBVbgPg-ZP3M7zFpbS_Y2Qpj9N0Ww0L3H2wfi94cmppzLEJ35hl7cWrtS-UoR29HzgqAEDeoW3lpBLfOsL029k4Cu86K0GhQ.mp4?ex=69138fd3&is=69123e53&hm=a9aa6f32d23c1ffcffc9d156ff015a79934f08f4d1643cc8366df2849a4e5767&",
+            "url_hash": "bb6543abfa19135fe777792db1d15762c79a264dfb6490216824f6a91d10ba56",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-10 19:34:44"
         },
         {
             "id": 228,
@@ -7295,6 +7449,17 @@
             "last_update": "2025-08-17 03:22:32"
         },
         {
+            "id": 955,
+            "url": "https://www.omc-stepperonline.com/de/digitaler-buerstenloser-dc-motortreiber-24-48vdc-max-15a-400w-bld-515c",
+            "url_hash": "bdeec891244ab6e2ab519fc90fa32109d3c5b1d82f8771e4e5e7c35b164bd87a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.omc-stepperonline.com/de/digitaler-buerstenloser-dc-motortreiber-24-48vdc-max-15a-400w-bld-515c",
+            "last_update": "2025-11-10 19:59:43"
+        },
+        {
             "id": 233,
             "url": "https://tenor.com/view/boom-gif-14144727",
             "url_hash": "bf9dcc04f17d63a530033d3bba1187d4753cb69b6a09413025409d4490b7ba02",
@@ -7381,6 +7546,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 18:19:03"
+        },
+        {
+            "id": 957,
+            "url": "https://www.kkinstagram.com/reel/DQt1dg_jPln/?igsh=MTA2bWgzM21oYTI0MQ==",
+            "url_hash": "c1de280ab32dcd241f4a55d345b01c85e4b3f54135423772f43e483063d8f380",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-11 00:20:54"
         },
         {
             "id": 142,
@@ -8032,6 +8208,17 @@
             "last_update": "2025-10-15 14:26:22"
         },
         {
+            "id": 951,
+            "url": "https://tenor.com/view/skeptical-futurama-fry-hmmm-i-got-my-eyes-on-you-gif-17101711",
+            "url_hash": "d1db9042553ccb8d4215de39195fbdd69d767e9f2e1ffa56900246d399e8d612",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-10 15:12:51"
+        },
+        {
             "id": 414,
             "url": "https://fixupx.com/realMaalouf/status/1970148181817033056",
             "url_hash": "d20128eb1dd77d8643e3c2ff4a3dfe08e0c1ffb237d07a392e88fe091ea30a49",
@@ -8604,6 +8791,17 @@
             "last_update": "2025-10-18 08:38:23"
         },
         {
+            "id": 948,
+            "url": "https://imgur.com/EKtz1QA)",
+            "url_hash": "dcabca26f342fbb49fd01722ca66e8fe224e73a9bd63ffe62ad322e12981a040",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://imgur.com/",
+            "last_update": "2025-11-10 04:49:33"
+        },
+        {
             "id": 12,
             "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1403827292232220923/VID_20250809_211542.mp4?ex=6898f78c&is=6897a60c&hm=d8bdf0b3014c783ff40f9e0b2714cf77866deb24008069a945426bd2dfd8e6cb&",
             "url_hash": "dd034e79cafb77727971696d15a9dc0651419508c949c4122e8ab39f50c8664c",
@@ -8651,12 +8849,12 @@
             "id": 921,
             "url": "https://tenor.com/view/you%27ve-said-enough-shut-up-shut-it-stop-it-shut-gif-15799981703517838226",
             "url_hash": "dd7eb4b1a6dbde0c5a372a76db401438e99b7903d3cec9cdce77030ad44d695d",
-            "times_seen": 2,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-11-08 19:05:47"
+            "last_update": "2025-11-10 18:17:57"
         },
         {
             "id": 415,
@@ -8989,6 +9187,17 @@
             "last_update": "2025-09-22 15:04:12"
         },
         {
+            "id": 947,
+            "url": "https://imgur.com/2hX3GPc)",
+            "url_hash": "e8e1f2ca81ee14b7ea557bef8a69945403146844fdad6261fb9642ef3783f821",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://imgur.com/",
+            "last_update": "2025-11-10 04:49:17"
+        },
+        {
             "id": 611,
             "url": "https://cdn.discordapp.com/attachments/771109314059305002/1425593120489209867/Chime.mov?ex=68e8268e&is=68e6d50e&hm=0aa0ce35d4821de8b49117c3af5c7650a4634f522ec5134f62189da2e5854130&",
             "url_hash": "e954ebf5442bed7f3e4aa1299e25ea28c78620a1b5a903d8804a013a4c481503",
@@ -9053,6 +9262,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-18 14:44:08"
+        },
+        {
+            "id": 952,
+            "url": "https://cdn.discordapp.com/attachments/986022159631671307/1437501218489372776/IMG_0713.mp4?ex=691378d5&is=69122755&hm=656f2101dcc8530eddbca316533a56ebd292bce5e1b407fe8c4958f7c5b01b16&",
+            "url_hash": "eb47c6de590e6ba741aafae19ecee66de064a25ee5e8c93e9f489460dbde61b5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-10 17:56:39"
         },
         {
             "id": 455,
@@ -9330,6 +9550,17 @@
             "last_update": "2025-08-18 20:37:21"
         },
         {
+            "id": 940,
+            "url": "https://tenor.com/view/ba-dum-tuss-jokes-gotcha-burn-ouch-gif-5645546",
+            "url_hash": "f1f3bfff0da176fe2a986bcd99375699374495f7a82961a374b4bf3264990083",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-09 14:53:41"
+        },
+        {
             "id": 326,
             "url": "https://cdn.discordapp.com/attachments/900499908115693621/1416777420425531472/V9Compress_212713.mp4?ex=68c8144b&is=68c6c2cb&hm=1d38e606fc3c48f0add5eba775cd3f22763f431ba6ed92b3c127333f1a515fca&",
             "url_hash": "f211c8f5718804e5a9e22c814121db4af9e411c871e5bd3ae9a807e5705f393d",
@@ -9504,6 +9735,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.kkinstagram.com/reel/DLhWwYFsfIS/?igsh=MTJ0b2U2aGpjY2d5bA==",
             "last_update": "2025-08-20 14:09:03"
+        },
+        {
+            "id": 939,
+            "url": "https://a.aliexpress.com/_ExoweFq",
+            "url_hash": "f687fbfd6d6a023c3dafcd4b42cdbb573a66c6026781890d43cbbccc2b619b6f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-09 13:38:44"
         },
         {
             "id": 824,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 12,
+    "num_of_entries": 13,
     "invites": [
         {
             "invite": "dc62e8bb29aef09ae7fe69b3070927166652909b5d4a14360b74c875a036eadc",
@@ -63,6 +63,13 @@
             "categorization": "Malicious",
             "resolution": "INFE****",
             "last_update": "2025-10-29 03:05:39"
+        },
+        {
+            "invite": "b32d6330dd42c5ab24913200edb91e0cb5f9f5410cc220b2831b58ebd689fed3",
+            "times_seen": 1,
+            "categorization": "Harmless",
+            "resolution": "CCod***",
+            "last_update": "2025-11-12 06:07:38"
         },
         {
             "invite": "730a88dcc2493a2f58514042af6980b044bead0fa7905f8cdbbb521370acfd34",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 999,
+    "num_of_entries": 1020,
     "links": [
         {
             "id": 367,
@@ -649,6 +649,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-16 05:31:59"
+        },
+        {
+            "id": 1052,
+            "url": "https://www.toby.co.uk/powertoboard-connectors/dc-ac-jacks-plugs/kldpx-kycon-panel-mount-dc-power-jack/",
+            "url_hash": "10e346383aaabd29820f345183dfdbc18ac900123525b82d70d44320b1085093",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.toby.co.uk/powertoboard-connectors/dc-ac-jacks-plugs/kldpx-kycon-panel-mount-dc-power-jack/",
+            "last_update": "2025-11-18 07:00:54"
         },
         {
             "id": 710,
@@ -1507,6 +1518,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=LOIVrVVYBfA&feature=youtu.be",
             "last_update": "2025-08-10 14:55:48"
+        },
+        {
+            "id": 1050,
+            "url": "https://github.com/nikisalli/esp32-minecraft-server",
+            "url_hash": "24805a484e407b63991f885e214beb8e2a3d6cfb1a5cd045dc7f4824fe9c6774",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 01:18:03"
         },
         {
             "id": 403,
@@ -3115,6 +3137,17 @@
             "last_update": "2025-08-28 14:54:33"
         },
         {
+            "id": 1041,
+            "url": "https://tenor.com/view/hearingaids-gif-10416883811819095944",
+            "url_hash": "457bbfcc8b044784df804a83e492c5b40cbcd2740d6227cd72e6176008ce1e67",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-17 01:24:51"
+        },
+        {
             "id": 388,
             "url": "https://www.youtube.com/watch?v=twspmtz9UaE",
             "url_hash": "45dc6becb849915750261491e319aa0cd14b70e2301883132e3aad294342f8f5",
@@ -3335,6 +3368,17 @@
             "last_update": "2025-09-09 20:03:51"
         },
         {
+            "id": 1061,
+            "url": "https://youtu.be/JIJddTdueb4",
+            "url_hash": "4a32bfefb1fc73128c2e2417de18bfbfac90060f8b9f182864614aed1008fc95",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 22:39:08"
+        },
+        {
             "id": 851,
             "url": "https://tenor.com/view/pirates-yesbutno-gif-1502181837354549727",
             "url_hash": "4a7c0d028f7aa45f347ed9051095179aad6e9fc8ba71155dc1f42b65e7cb6bd4",
@@ -3531,6 +3575,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:29:08"
+        },
+        {
+            "id": 1060,
+            "url": "https://youtu.be/p-k5MPhBSjk",
+            "url_hash": "4fce4bd5055914cc927e30ba72b681a601009740552577a2c93402e24c476d7c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 22:39:08"
         },
         {
             "id": 822,
@@ -5139,6 +5194,17 @@
             "last_update": "2025-11-15 19:29:52"
         },
         {
+            "id": 1058,
+            "url": "https://tenor.com/view/meatriding-gif-27682103",
+            "url_hash": "7a42194d97043e007ea363f714ba5c1d42179ce0522ed4f1f4cde1a9c54ae6d4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 22:12:34"
+        },
+        {
             "id": 768,
             "url": "https://www.youtube.com/watch?v=PlXd3lLZ4vc",
             "url_hash": "7a5abdbb231257cecf1f058414eadf4eb25766846a517567ee6dd4609298e106",
@@ -5302,6 +5368,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-12 20:40:09"
+        },
+        {
+            "id": 1053,
+            "url": "https://www.sunrom.com/p/dc-socket-suitable-for-55x21mm-dc-pins-with-square-head-slit-panelpcb-mounting",
+            "url_hash": "7de6a6a1b5cf6ebc7046a77780d1d77f47672e6f74e59357399418abdc96b22e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.sunrom.com/p/dc-socket-suitable-for-55x21mm-dc-pins-with-square-head-slit-panelpcb-mounting",
+            "last_update": "2025-11-18 07:01:15"
         },
         {
             "id": 829,
@@ -5577,6 +5654,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-04 13:48:30"
+        },
+        {
+            "id": 1054,
+            "url": "https://www.printables.com/model/1485436-usb-pd-board-to-panel-mounted-dc-jack-adapter",
+            "url_hash": "84ef4c0b6be600da0a43ae2c5e0eddd84fe9a3c25c794da7c67eea480dc9b441",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 07:31:24"
         },
         {
             "id": 475,
@@ -6052,6 +6140,17 @@
             "last_update": "2025-11-02 06:38:29"
         },
         {
+            "id": 1062,
+            "url": "https://tenor.com/view/waow-based-wow-thinking-doodle-gif-12262272166408784207",
+            "url_hash": "8e5fc4b0aec245e00ebc86817bb3ef5c34672deb30c5083db62e29ddc05215c0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 23:55:29"
+        },
+        {
             "id": 447,
             "url": "https://tenor.com/view/puffwump-cos-creatures-of-sonaria-toshik-tosh-gif-18089122472482732452",
             "url_hash": "8e8e1ff644244dceccff7240a0b52795f40986666ff835af4347edf5d719d88b",
@@ -6138,6 +6237,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.tiktok.com/@asmongoldclipz/video/7535542549411400991",
             "last_update": "2025-08-11 12:27:33"
+        },
+        {
+            "id": 1042,
+            "url": "https://www.youtube.com/@Fursonified",
+            "url_hash": "9093583c5343211f764794439ef5efd48112dd912e59617dad5bc68d00041939",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-17 01:48:05"
         },
         {
             "id": 950,
@@ -6336,6 +6446,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-16 23:11:32"
+        },
+        {
+            "id": 1059,
+            "url": "https://a.co/d/d4mrwlb",
+            "url_hash": "948dd9bdaf2a82964fd08bd70b32564beffa5e760c356d8e1e8d32a4f7c6187f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.amazon.com/Replacement-Loudspeaker-Electronic-Compatible-BT-Speaker/dp/B09X1TF9ML",
+            "last_update": "2025-11-18 22:19:38"
         },
         {
             "id": 970,
@@ -6789,6 +6910,17 @@
             "last_update": "2025-11-12 08:02:02"
         },
         {
+            "id": 1045,
+            "url": "https://youtu.be/DKaIrS0I-C0",
+            "url_hash": "9e2b8525178deec426693d2804351c2cc8b2bab9bb7956e8659d34b76442e7bb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-17 21:02:11"
+        },
+        {
             "id": 681,
             "url": "https://tenor.com/view/johnny-test-dukey-wrong-again-wrong-gif-13686533770638145115",
             "url_hash": "9e2fa17cfad292225fabed6d3bd3c40de98c5291186b56acee4965ce5475cc09",
@@ -7172,6 +7304,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-31 17:03:43"
+        },
+        {
+            "id": 1046,
+            "url": "https://youtube.com/@fursonified",
+            "url_hash": "aa0855a7c8ad8e7e2198b22ba9a01774fa64d40b73ce7345f947415494f8ffe1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-17 21:05:57"
         },
         {
             "id": 980,
@@ -7581,6 +7724,17 @@
             "last_update": "2025-11-08 10:58:20"
         },
         {
+            "id": 1049,
+            "url": "https://youtu.be/R2S2RMNv7OU",
+            "url_hash": "b21b017bf1bae7a2272b2ecef87418236da990d2339f24b5c8155a105f915fdf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 01:16:32"
+        },
+        {
             "id": 503,
             "url": "https://tenor.com/view/electroboom-mehdi-fail-shock-shocked-gif-23833246",
             "url_hash": "b2703270ad8dfd6c86ef9f9e0b5e146fed1ded4bbf3c97491b22c0e2eaec8b9b",
@@ -7909,6 +8063,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/a/resistor-position-signal-swap-3WtWTUR",
             "last_update": "2025-10-05 08:58:25"
+        },
+        {
+            "id": 1055,
+            "url": "https://pe-basics.com",
+            "url_hash": "bb26f5c843b404d29162cbe7a76854e88cad9397afbc6ef2ea7826039b98fad3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://pe-basics.com",
+            "last_update": "2025-11-18 14:14:47"
         },
         {
             "id": 953,
@@ -8393,6 +8558,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-15 06:36:24"
+        },
+        {
+            "id": 1048,
+            "url": "https://tenor.com/view/metal-heads-cats-magnets-heads-meme-gif-27167350",
+            "url_hash": "c4865cbce9b503fa1437657451856a43c2afbd3584e1c0b399276d231e01ef11",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 01:00:16"
         },
         {
             "id": 637,
@@ -8976,6 +9152,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.reddit.com/r/interestingasfuck/comments/1nq6l32/battery_ejection_system_to_stop_cars_burning/",
             "last_update": "2025-09-25 21:06:42"
+        },
+        {
+            "id": 1047,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1439244191346462831/VID_20251114_182639_561.mp4?ex=691c731b&is=691b219b&hm=485f91e380d2799b974be525feaa4ee32195ad7c0ea9fc2e172013d580221285&",
+            "url_hash": "d2155e64a1f28347f12e0fe8c44b48852f38df1ed388c0473bb7dc807c117be6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 00:55:15"
         },
         {
             "id": 764,
@@ -10100,6 +10287,17 @@
             "last_update": "2025-11-10 17:56:39"
         },
         {
+            "id": 1043,
+            "url": "https://x.com/i/status/1989968654348542198",
+            "url_hash": "eb7f896f894b0d6c183f97c85d0b5e5555ddd5ac11a6ea6eaaef89c3018acdaf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-17 05:42:03"
+        },
+        {
             "id": 455,
             "url": "https://share.redd.it/preview/post/1nqfyf8",
             "url_hash": "eb83c105734cdb3c9843f5b3bee8c9c851867a711d583a32e003dc44692c3bf4",
@@ -10276,6 +10474,17 @@
             "last_update": "2025-10-13 08:44:40"
         },
         {
+            "id": 1057,
+            "url": "https://tenor.com/view/math-thinking-zach-galifianakis-formulas-numbers-gif-7715569",
+            "url_hash": "f02dec618ff3d57a4458165a018d782680ea4a771fb56d9a1dd8f1e27fa13ff5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 17:55:23"
+        },
+        {
             "id": 788,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1430892438142189659/Chicken-crop.mov?ex=68fb6ded&is=68fa1c6d&hm=70eeab2aeb791088fe43a6a849625265180ce820ddae65fcd6917d4eb25be114&",
             "url_hash": "f049009db14df5cec0546668b6c2dd6cba3b5d6cc89e30cb911301bc53f5f9e4",
@@ -10362,6 +10571,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-09 14:18:34"
+        },
+        {
+            "id": 1044,
+            "url": "https://x.com/Suffragent_/status/1989984788027986181",
+            "url_hash": "f1d46a1563507f48b27ce51971b83df984b1073acc9e6c78257b14ccc8051f95",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-17 11:34:32"
         },
         {
             "id": 115,
@@ -10780,6 +11000,17 @@
             "is_redirect": 0,
             "downstream_target": "https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FCapnKernel%2FFugu2",
             "last_update": "2025-11-05 05:59:35"
+        },
+        {
+            "id": 1051,
+            "url": "https://tenor.com/view/spongebob-eye-bleach-gif-11574607",
+            "url_hash": "fb16d6463b531e8a573d08c0e1e3671e7fcf327c7f2722e83eede883515f0ee1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-18 05:24:03"
         },
         {
             "id": 111,

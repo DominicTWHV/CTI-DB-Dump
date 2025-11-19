@@ -1,6 +1,14 @@
 {
-    "num_of_entries": 142,
+    "num_of_entries": 145,
     "domains": [
+        {
+            "domain": "a.co",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2025-11-18 22:19:38"
+        },
         {
             "domain": "adafruit.com",
             "times_seen": 3,
@@ -195,11 +203,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 254,
+            "times_seen": 255,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-11-16 19:46:11"
+            "last_update": "2025-11-18 00:55:15"
         },
         {
             "domain": "discordapp.net",
@@ -371,11 +379,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 19,
+            "times_seen": 20,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-11-16 05:31:59"
+            "last_update": "2025-11-18 01:18:03"
         },
         {
             "domain": "github.io",
@@ -731,11 +739,19 @@
         },
         {
             "domain": "pe-basics.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 0,
-            "last_update": "2025-10-08 05:38:05"
+            "last_update": "2025-11-18 14:14:36"
+        },
+        {
+            "domain": "peb.rs",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2025-11-18 14:14:42"
         },
         {
             "domain": "pelonistechnologies.com",
@@ -779,11 +795,11 @@
         },
         {
             "domain": "printables.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-11-16 10:06:18"
+            "last_update": "2025-11-18 07:31:24"
         },
         {
             "domain": "protosupplies.com",
@@ -890,6 +906,14 @@
             "last_update": "2025-11-15 10:20:35"
         },
         {
+            "domain": "sunrom.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2025-11-18 07:01:15"
+        },
+        {
             "domain": "t.co",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -907,11 +931,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 250,
+            "times_seen": 256,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-11-15 18:44:00"
+            "last_update": "2025-11-18 23:55:29"
         },
         {
             "domain": "tensorflow.org",
@@ -947,11 +971,11 @@
         },
         {
             "domain": "toby.co.uk",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-11-15 10:20:57"
+            "last_update": "2025-11-18 07:00:33"
         },
         {
             "domain": "tomshardware.com",
@@ -1091,11 +1115,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 36,
+            "times_seen": 38,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-11-12 06:49:39"
+            "last_update": "2025-11-17 11:34:32"
         },
         {
             "domain": "xda-developers.com",
@@ -1107,19 +1131,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 56,
+            "times_seen": 60,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-11-16 15:56:49"
+            "last_update": "2025-11-18 22:39:08"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 106,
+            "times_seen": 108,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-11-16 12:27:49"
+            "last_update": "2025-11-17 21:05:57"
         },
         {
             "domain": "yxtwitter.com",

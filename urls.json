@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1020,
+    "num_of_entries": 1037,
     "links": [
         {
             "id": 367,
@@ -946,6 +946,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.tensorflow.org/tensorboard",
             "last_update": "2025-10-19 06:07:42"
+        },
+        {
+            "id": 1078,
+            "url": "https://www.reddit.com/r/difyai/s/9YzAjOcKh8",
+            "url_hash": "175562d4d899c43dbfd1a1b1b785ba79cb9ad4afc31372372361770e265bbd8d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/difyai/comments/1p0gj5h/ai_may_already_pose_more_harm_than_good_in_the/?share_id=dOUm3x5RVqa79VgADaDri&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
+            "last_update": "2025-11-20 20:29:19"
         },
         {
             "id": 344,
@@ -2752,6 +2763,17 @@
             "last_update": "2025-11-12 04:21:41"
         },
         {
+            "id": 1072,
+            "url": "https://x.com/MarioNawfal/status/1991322559732937177",
+            "url_hash": "3f3689ab32ff9189d4a48c9c91db45cab8774e9cd90a919711b69b8e46034b90",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-20 04:57:18"
+        },
+        {
             "id": 548,
             "url": "https://fixupx.com/LostMemeArchive/status/1975185844630962420",
             "url_hash": "3f465ff3e6960d8fdce36fd34b7b056d0c5c90879c7dd61f6cfed1d7b7012b91",
@@ -3698,6 +3720,17 @@
             "last_update": "2025-10-19 06:53:39"
         },
         {
+            "id": 1071,
+            "url": "https://tenor.com/view/shark-bite-shark-bite-gif-26736927",
+            "url_hash": "538f3a5867110477ce6adfd20a1e330ca7bff3fc3330cbd300e92c24ccd67712",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-19 22:42:07"
+        },
+        {
             "id": 1028,
             "url": "https://www.printables.com/model/1482479-futuristic-esp8266-development-case-with-wagos",
             "url_hash": "5397e6277c6182fea849cc9f691d082db011e56270bd2a69a5be61e0c30dc872",
@@ -4171,6 +4204,17 @@
             "last_update": "2025-10-01 08:35:42"
         },
         {
+            "id": 1068,
+            "url": "https://github.com/thucon/rpi-pico-probe",
+            "url_hash": "6019704f776bc240c1ba05c59442c17e8404df809549e05d1701a2436ce36ba6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-19 16:33:18"
+        },
+        {
             "id": 912,
             "url": "https://github.com/rubsil/LOCALbum-Offline-Photo-Album",
             "url_hash": "60993b98b86d62bfebb3440e4fac9dfe12c2ab7dac89f3affd1f9fd34056cd4c",
@@ -4202,6 +4246,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-23 04:29:11"
+        },
+        {
+            "id": 1063,
+            "url": "https://x.com/tetsu_furry/status/1990669290916491268?s=20",
+            "url_hash": "6109460b757da136fe8581ace84a29b63d37188440022a7f847eae0a168291ee",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-19 00:38:10"
         },
         {
             "id": 810,
@@ -4719,6 +4774,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.aliexpress.com/item/1005009592912669.html?spm=a2g0o.cart.0.0.39db38da3PDapI&mp=1&pdp_npi=5%40dis%21RON%21RON%208.72%21RON%205.73%21%21RON%205.73%21%21%21%40211b629217547650311523290e5b29%2112000049581572909%21ct%21RO%216269344177%21%211%210",
             "last_update": "2025-08-09 18:44:47"
+        },
+        {
+            "id": 1065,
+            "url": "https://github.com/ranaumarnadeem/OpenTestability",
+            "url_hash": "6e7f69696bbe42874786553064eff6f3ac729a986c718dc4e082e57a2efc5932",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-19 06:47:00"
         },
         {
             "id": 362,
@@ -5370,6 +5436,17 @@
             "last_update": "2025-09-12 20:40:09"
         },
         {
+            "id": 1069,
+            "url": "https://www.youtube.com/watch?v=6Nxb3h2zd20",
+            "url_hash": "7d38891a17156934f9049c98ff7b52c0abb0cd965a861deb9498450bea64c31d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-19 17:25:18"
+        },
+        {
             "id": 1053,
             "url": "https://www.sunrom.com/p/dc-socket-suitable-for-55x21mm-dc-pins-with-square-head-slit-panelpcb-mounting",
             "url_hash": "7de6a6a1b5cf6ebc7046a77780d1d77f47672e6f74e59357399418abdc96b22e",
@@ -5731,6 +5808,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-28 16:48:14"
+        },
+        {
+            "id": 1075,
+            "url": "https://cdn.discordapp.com/attachments/812705161474605057/1441117476812357693/IMG_3576.mov?ex=6920a0bd&is=691f4f3d&hm=2d7210907ac4888cb0f22b5e8269a6ea41885bdce36deba37edae3ad65386c83&",
+            "url_hash": "8653877a7d7b9c8004ec425179d1aa6186d764c666c4eb5443fc06196553fae1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-20 17:26:21"
         },
         {
             "id": 814,
@@ -6932,6 +7020,17 @@
             "last_update": "2025-10-13 19:22:55"
         },
         {
+            "id": 1064,
+            "url": "https://fixupx.com/CollinRugg/status/1990910087058120857",
+            "url_hash": "9e4224546a2ec1ea618f9dd8a308ceea4bb26e559f7919d1cd6361464003103c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/CollinRugg/status/1990910087058120857",
+            "last_update": "2025-11-19 06:36:15"
+        },
+        {
             "id": 460,
             "url": "https://discord.com/channels/986011010295025754/1206332684872454177/1421271243163832361",
             "url_hash": "9e43b3d13033ff2fdbf0e9e2ee79112a56cbeef8854a3d0b5e69e3a371b17b19",
@@ -7042,6 +7141,17 @@
             "last_update": "2025-09-22 12:46:35"
         },
         {
+            "id": 1074,
+            "url": "https://cdn.discordapp.com/attachments/812705161474605057/1441117476468297940/IMG_3575.mov?ex=6920a0bd&is=691f4f3d&hm=d38a31b3a3e283ba42652ae690b3d2622baa25c01121b8986ddccb349b1351cb&",
+            "url_hash": "a249872d0876dfe4d66e1d6eb47ec2d103cbd931e26b41a83fce352987fcd1d7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-20 17:26:21"
+        },
+        {
             "id": 416,
             "url": "https://de.aliexpress.com/item/1005008748034292.html",
             "url_hash": "a30d46624f39fd7474a6722ed134fd6a288f27dc8d82087a1557013016c2980b",
@@ -7062,6 +7172,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.tiktok.com/@1antondaniels/video/7535730480755379487",
             "last_update": "2025-08-11 12:30:26"
+        },
+        {
+            "id": 1073,
+            "url": "https://tenor.com/view/trigglypuff-sjw-wtf-gif-7850695",
+            "url_hash": "a39f9f6cf664890affccfe9c80f5ce58c34f634a30b11c25b77770def5322e2b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-20 05:27:33"
         },
         {
             "id": 872,
@@ -7150,6 +7271,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-18 14:12:30"
+        },
+        {
+            "id": 1076,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1441148580856467527/IMG_0626.mov?ex=6920bdb4&is=691f6c34&hm=c328708857ad6465bc99a33584b5cc3bad6499385859dce67cbbe2663c84d112&",
+            "url_hash": "a6476663170664268a62feac0aecc81222248227ec4a1371b17cab4feecc5e88",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-20 19:29:57"
         },
         {
             "id": 272,
@@ -7458,6 +7590,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-03 00:33:50"
+        },
+        {
+            "id": 1066,
+            "url": "https://tenor.com/view/the-office-steve-carell-no-please-no-god-no-gif-5938426",
+            "url_hash": "abef8ddbd1db568e0e46e6cc21c1cd1807e48e59457f3b030cec87ec8d30d760",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-19 10:57:04"
         },
         {
             "id": 35,
@@ -7909,6 +8052,17 @@
             "is_redirect": 0,
             "downstream_target": "https://share.redd.it/preview/post/1nyegf8",
             "last_update": "2025-10-05 12:49:54"
+        },
+        {
+            "id": 1077,
+            "url": "https://share.redd.it/preview/post/1p0gj5h",
+            "url_hash": "b7d5478ddb0e233c378f8a35ea0a247d9cff3dbdde01c8acd739b961a7da9b9e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://share.redd.it/preview/post/1p0gj5h",
+            "last_update": "2025-11-20 20:28:59"
         },
         {
             "id": 811,
@@ -8921,6 +9075,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/DOGE__news/status/1974847041496031290",
             "last_update": "2025-10-06 05:11:42"
+        },
+        {
+            "id": 1067,
+            "url": "https://a.aliexpress.com/_EHsl5TW",
+            "url_hash": "ce2bbf09bc764e9daa3be460e908a9825e9e6c0f4edbae8bf4e0a3f242b2d2a9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-19 13:30:37"
         },
         {
             "id": 925,
@@ -10793,6 +10958,17 @@
             "last_update": "2025-08-20 14:09:03"
         },
         {
+            "id": 1070,
+            "url": "https://cdn.discordapp.com/attachments/927578626948493453/1440254724589883433/SPOILER_screen-20251118-0818282.mp4?ex=691f777c&is=691e25fc&hm=335238200ed9fc1cddcedaa0e7c95919f4d09c9113ce30d08ca03498f07e0b2f&",
+            "url_hash": "f67d4999c007d20f2d20c09508cc431c247de93259a6e090bef8ca19d8285ba2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-19 21:32:37"
+        },
+        {
             "id": 939,
             "url": "https://a.aliexpress.com/_ExoweFq",
             "url_hash": "f687fbfd6d6a023c3dafcd4b42cdbb573a66c6026781890d43cbbccc2b619b6f",
@@ -10956,6 +11132,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-21 08:01:18"
+        },
+        {
+            "id": 1079,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1441165842975821917/VID_20251120_152833_246.mp4?ex=6920cdc8&is=691f7c48&hm=3c2184889e5cdd1dd13b01a9f83acea6356ef5225944693fc763891c589b73be&",
+            "url_hash": "f9e93bcb7a8ed5badcdb83fb6f8f11a9d38d144205a7e0b3e2cdc681b0a7b582",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-21 00:03:53"
         },
         {
             "id": 166,

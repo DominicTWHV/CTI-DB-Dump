@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 13,
+    "num_of_entries": 14,
     "invites": [
         {
             "invite": "dc62e8bb29aef09ae7fe69b3070927166652909b5d4a14360b74c875a036eadc",
@@ -28,6 +28,13 @@
             "categorization": "Harmless",
             "resolution": "YouTube Cr**********",
             "last_update": "2025-08-17 06:56:58"
+        },
+        {
+            "invite": "23fb98485cf8b3a47554f993b0f94dfc7dd739911ea6eb87ad85a88c970d5132",
+            "times_seen": 5,
+            "categorization": "Harmless",
+            "resolution": "Jell****",
+            "last_update": "2025-11-22 02:17:55"
         },
         {
             "invite": "5d07c6c7abc4c34de593c900b36e7ec4c8b9dde4ce5fbb9975e54a5a534263a4",

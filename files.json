@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 144,
+    "num_of_entries": 147,
     "files": [
         {
             "sha256": "00211cc0421bfe4462c2da7331bb1d78e4c86bc19f7816b048e4964d08ed6cf8",
@@ -170,6 +170,13 @@
             "last_update": "2025-11-18 11:47:18"
         },
         {
+            "sha256": "3811a6ab25ba112dca47ec337feba4d8f439b93cd51609b6cd64d49465429b27",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-11-24 21:30:41"
+        },
+        {
             "sha256": "397256200f2d6ff6d1bc6373352ce38488b70aa5a47a50353b1a1bf0caa8cb9c",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -294,6 +301,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-15 19:30:59"
+        },
+        {
+            "sha256": "576489f5c6efb2d8cfc172d3b7ee2379116abb435f46f4a8cc0d31eda69d276f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-11-23 13:34:45"
         },
         {
             "sha256": "58c83e0b2b2ded9c588ece035b4b35d562f29228bed206e0f2a23f0533e928d4",
@@ -952,6 +966,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-10-28 02:31:01"
+        },
+        {
+            "sha256": "f42d0df32351d6a6013eed0023bd74b08d2987dd4086d2b002838eb45d0cc8be",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2025-11-23 13:35:26"
         },
         {
             "sha256": "f662267f77f502a26fda4a0c6c97bb833c69f72045e21bda46b19e748fe4d4c6",

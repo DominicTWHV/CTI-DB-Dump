@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1079,
+    "num_of_entries": 1109,
     "links": [
         {
             "id": 367,
@@ -66,6 +66,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 00:04:35"
+        },
+        {
+            "id": 1139,
+            "url": "https://x.com/MrAndyNgo/status/1993069429211517393",
+            "url_hash": "01a8e964422a93adc63262a2c352fa33f8656a1c17d999e334422005568f3df1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 10:41:33"
         },
         {
             "id": 161,
@@ -198,6 +209,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-23 01:17:51"
+        },
+        {
+            "id": 1154,
+            "url": "https://www.kkinstagram.com/reel/DQCalh0E7Bg/?igsh=MXBlZDhyODhxZXJ6ag==",
+            "url_hash": "05fab74a52b1bfdba86113a2a88df78f0c126da8f6d14ec8f656e7189dc52ff2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-26 23:40:14"
         },
         {
             "id": 753,
@@ -1201,6 +1223,17 @@
             "last_update": "2025-09-25 07:15:17"
         },
         {
+            "id": 1134,
+            "url": "https://photos.app.goo.gl/pnqkxRbKvXx1XzJY8",
+            "url_hash": "1beb055b0627606f1d92befc7cebd4b7a1b574f6c46a82da8dd6d2fda76c0b5b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://photos.google.com/share/AF1QipOyHvozUk22JFoNXxjRtxDTYLx4ZWvnKGUu04-L4JqHYzhjtDK_82RY0VjphMMHPA?key=UUdrbk16Q2JkdEd0VE5EejZ6M0Nrc3d5T0Nfal9R",
+            "last_update": "2025-11-25 05:17:35"
+        },
+        {
             "id": 61,
             "url": "https://www.kkinstagram.com/reel/DNLM-UAxQmU/?igsh=aG5qYzRqZG9lenQ3",
             "url_hash": "1c11b965352c9bb1cdb4aea1bbd42b6a487bc415b502c9d22a504a1f29a3aea5",
@@ -1388,6 +1421,17 @@
             "last_update": "2025-11-11 23:28:11"
         },
         {
+            "id": 1129,
+            "url": "https://en.wikipedia.org/wiki/Glass_transition",
+            "url_hash": "1ebf9e0557cc276118b71d14e076ea5cf6dd049ab7f213897d5aed53ee88230b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 04:57:46"
+        },
+        {
             "id": 466,
             "url": "https://www.youtube.com/shorts/JgqfCuJkRls",
             "url_hash": "1f550a6015aa89f0646119176abed785594c13b1fabec6de601f6d97b7f4a599",
@@ -1432,6 +1476,17 @@
             "last_update": "2025-10-29 08:23:39"
         },
         {
+            "id": 1124,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1442406076988260483/SnapVideo.app_AQPhJx45_zjj4TOowtXvin0dR7ADwPYrlRyf6cuz-DrrRT2bFqNPH1FAqjW3U0TFH4kRxWBvfTkfU0JrLf3eeXmAnlrnFFu0cr0yS6A.mp4?ex=6925f997&is=6924a817&hm=6c297f4e6a1bc5938bbcb1da13e481b303dfd30ba0ba3e62e22fc8fdff3a6de7&",
+            "url_hash": "202b1f0ba6d65dd92401bb5ad12c99c89e6d9b2289311de3b6cc3cccad64de7b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 02:33:57"
+        },
+        {
             "id": 159,
             "url": "https://www.youtube.com/shorts/RmVdI272Ts4",
             "url_hash": "20936d934797bf6f66e05aa86f06094de9fcdbc88e72a53da7d09587bd012526",
@@ -1463,6 +1518,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-05 18:47:20"
+        },
+        {
+            "id": 1140,
+            "url": "https://www.reddit.com/r/soldering/comments/1lz3z6k/vevor_am862d_a_model_to_close_to_the_atten_st862d/",
+            "url_hash": "21679db7654eae73ae8645492767d3fbf755c78e0ea3b3b05756d78c2dc6360e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/soldering/comments/1lz3z6k/vevor_am862d_a_model_to_close_to_the_atten_st862d/",
+            "last_update": "2025-11-25 21:00:56"
         },
         {
             "id": 376,
@@ -2466,6 +2532,17 @@
             "last_update": "2025-10-05 04:31:25"
         },
         {
+            "id": 1143,
+            "url": "https://x.com/BasilTheGreat/status/1993353170655854927",
+            "url_hash": "387fb3848450b4760d5ca090b753cb0d2a689a26053ebf1f11d8d7ecb016ec5f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-26 01:21:43"
+        },
+        {
             "id": 291,
             "url": "https://en.wikipedia.org/wiki/Solid-state_relay",
             "url_hash": "3880d3d634c63c7f1efc4398db8b39b56528d6f264d2a060b998913bdeadfa3c",
@@ -2805,6 +2882,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Dapper_Det/status/1988383295525253433",
             "last_update": "2025-11-12 04:21:41"
+        },
+        {
+            "id": 1150,
+            "url": "https://ambientweather.com/faqs/question/view/id/1599/",
+            "url_hash": "3f0fa5d17dfc32feb8d23ea540b03e86ac7c0ac10c39a00d26694270018d217a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://ambientweather.com/faqs/question/view/id/1599/",
+            "last_update": "2025-11-26 19:30:37"
         },
         {
             "id": 1072,
@@ -3267,6 +3355,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-23 11:42:24"
+        },
+        {
+            "id": 1148,
+            "url": "https://www.reddit.com/r/Damnthatsinteresting/s/Hv6YkuPUVL",
+            "url_hash": "476f7db832bed03acc9060a131b80d6896b1325de0b801aa605abe06e96e2e34",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p7a5qf/this_year_the_german_city_of_bremen_spent_3/?share_id=qmiHbhO84C0qDbCZDCrKA&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
+            "last_update": "2025-11-26 15:35:28"
         },
         {
             "id": 666,
@@ -3896,6 +3995,17 @@
             "last_update": "2025-08-22 03:40:25"
         },
         {
+            "id": 1147,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1443249760025841715/20251126_182719.mp4?ex=69286295&is=69271115&hm=e2dfcddb44fb909de4b2161cb3669f59f118a129e4e7488d8159ba197cdb15a8&",
+            "url_hash": "56125133c309af8a25d0a608ff998ed5c29faa38f5c5c8fd92f81b9f3b2e6ff7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-26 14:39:17"
+        },
+        {
             "id": 545,
             "url": "https://www.reddit.com/r/PrintedCircuitBoard/s/U0YUEd6HeO",
             "url_hash": "566e9e79402d0f1fed0e279fa1c2bf07281adfd41cb3cd2594d6de0fcbee1896",
@@ -4224,6 +4334,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-21 16:23:16"
+        },
+        {
+            "id": 1125,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1442691971096510625/20251007-2220-58.5849636.mp4?ex=69265b19&is=69250999&hm=8bc558b156d3616d283f761e6a406eefd2f86c5b63d3f828057c3df0d9ce757d&",
+            "url_hash": "5e5495c027a9632f2a9afac748340be0b89e73b982fe38ac32947340f8cfcd19",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 02:37:19"
         },
         {
             "id": 308,
@@ -4622,6 +4743,17 @@
             "last_update": "2025-09-14 03:04:01"
         },
         {
+            "id": 1128,
+            "url": "https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it",
+            "url_hash": "67b4edd5b218ef15e9ed859567f950f1d05db92c78ab89b065486d5205ec9b17",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 03:10:38"
+        },
+        {
             "id": 739,
             "url": "https://youtu.be/yflTGwu-OHA?t=1999",
             "url_hash": "67edc45e706ac26d9229f07105eb1e63fb904abbfb831b60382c31b7e211e608",
@@ -4730,6 +4862,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-14 11:39:45"
+        },
+        {
+            "id": 1138,
+            "url": "https://x.com/MrAndyNgo/status/1993069429211517393||",
+            "url_hash": "69e8d33dde351666b8ca3355382bfe9aba7ddf66da2f956a4fa81b3d8ff4966e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 10:41:23"
         },
         {
             "id": 1097,
@@ -5137,6 +5280,17 @@
             "is_redirect": 0,
             "downstream_target": "https://shop.pimoroni.com/products/flexypin-pack-of-100?variant=39915397611603",
             "last_update": "2025-11-15 10:21:46"
+        },
+        {
+            "id": 1132,
+            "url": "https://photos.app.goo.gl/ZYv7qzSN56RGoc4GA",
+            "url_hash": "74223c15f7be92a0bad3d979e745445d6b6ed014eef35f4afd0827370053dc7c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://photos.google.com/share/AF1QipP0WcZda2eV0synET-uoE7t2GJ3gh8_gjOqxc3cmzhIHSXLyova8JMUPyVz7EGUqQ?key=R2oxVUtCX1l1ZGx5TDZ6V1NISGxLakdhc2RBd0VB",
+            "last_update": "2025-11-25 05:06:35"
         },
         {
             "id": 102,
@@ -6217,6 +6371,17 @@
             "last_update": "2025-08-31 05:51:59"
         },
         {
+            "id": 1152,
+            "url": "https://www.carlsjr.com/menu/charbroiled-burgers/triple-el-diablo",
+            "url_hash": "8a62ec0e9e2ac1a67fe157b3f8c100a19a3f7ef70cbd9d4430ebecb679510ed5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.carlsjr.com/menu/charbroiled-burgers/triple-el-diablo",
+            "last_update": "2025-11-26 20:33:29"
+        },
+        {
             "id": 105,
             "url": "https://localsend.org/ru",
             "url_hash": "8a6414312d08aafb0c4e764cabf8f10e234a7b31facae4bc6f3dc63ba4f5ed95",
@@ -6404,6 +6569,17 @@
             "last_update": "2025-09-18 02:36:46"
         },
         {
+            "id": 1123,
+            "url": "https://cdn.discordapp.com/attachments/761264702797119528/1442682624538579089/qM5rEap.txt?ex=69265265&is=692500e5&hm=e881b43f09e87191f419dc3b8d36a58a8ba93a3e1803482337abf6b158b0392a&",
+            "url_hash": "8d9cafa2747f2f31ea1e7992969c8fe15a83e369b8e255a3c7543d1da349ba04",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 01:05:41"
+        },
+        {
             "id": 405,
             "url": "https://tenor.com/view/%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4-2000-%D1%8F%D1%80%D0%B4%D0%BE%D0%B2-%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-war-soldier-gif-3632617944134077161",
             "url_hash": "8e16a05ffe83252a156535a9b2da020686a7df594eab14b9f7360a1fb798f4d5",
@@ -6514,6 +6690,17 @@
             "last_update": "2025-08-11 12:27:33"
         },
         {
+            "id": 1133,
+            "url": "https://photos.app.goo.gl/7FmsWSinmscMX7bT8",
+            "url_hash": "8fe00a89a5c2857ef5a82144a866c0767480bbea7d585d17ac3252293229e933",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://photos.google.com/share/AF1QipP_1d_LmoqDW1goJTVL3Bt2xjIXQeEPAVU4CSovi6QXNoz7fpLNmi3MI1filQmaMw?key=ckw5SWMwTkpRakpyX2hXc1M3NGRBUEkxcXJLSGl3",
+            "last_update": "2025-11-25 05:13:05"
+        },
+        {
             "id": 1042,
             "url": "https://www.youtube.com/@Fursonified",
             "url_hash": "9093583c5343211f764794439ef5efd48112dd912e59617dad5bc68d00041939",
@@ -6556,6 +6743,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-29 16:23:02"
+        },
+        {
+            "id": 1126,
+            "url": "https://fr.aliexpress.com/item/32917052401.html",
+            "url_hash": "918ebd070542640fd3bc554d8164ae269c0ba3cc099ab64b7152b1d5e805bf52",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 02:43:39"
         },
         {
             "id": 864,
@@ -6666,6 +6864,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-02 23:01:56"
+        },
+        {
+            "id": 1149,
+            "url": "https://cdn.discordapp.com/attachments/1428337208519168120/1442606376101613699/20251124_210141.mp4?ex=692805a2&is=6926b422&hm=47f3e7be650ea37114eccc2bb21ac37c80c8a6073d8afd138fb67f1c86c2dcff&",
+            "url_hash": "93b83d201ca1576eb66cc1a89cae917b8362fce922907fe32ac6b16746f060f7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-26 18:51:33"
         },
         {
             "id": 602,
@@ -7262,6 +7471,17 @@
             "last_update": "2025-09-27 00:07:59"
         },
         {
+            "id": 1146,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1443249759501684786/20251126_193240.mp4?ex=69286294&is=69271114&hm=78267e6eae7d50cf5070c4edf075ff39c1bd32eae81047c9805c0350689d552c&",
+            "url_hash": "9e7be51a6167efd349f53264a4f26fe23882bcd7dab60e3b05626c0bb1868190",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-26 14:39:17"
+        },
+        {
             "id": 163,
             "url": "https://tenor.com/view/loading-cat-thinking-wait-what-gif-15922897",
             "url_hash": "9e825177bac6d80eacd2aef4f39a88ab7a703da838dd11ec187fdfbfda58f3ba",
@@ -7304,6 +7524,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-25 13:55:59"
+        },
+        {
+            "id": 1142,
+            "url": "https://eur.vevor.com/soldering-station-c_13551/vevor-hot-air-rework-station-1000w-led-digital-smd-rework-station-212-896--p_010504192873",
+            "url_hash": "a059154cf71eb565f10b3abd2937bbee71471b1cd7ef7004ef10114cfce9b40f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://eur.vevor.com/soldering-station-c_13551/vevor-hot-air-rework-station-1000w-led-digital-smd-rework-station-212-896--p_010504192873",
+            "last_update": "2025-11-25 21:03:40"
         },
         {
             "id": 488,
@@ -7480,6 +7711,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-28 17:55:53"
+        },
+        {
+            "id": 1137,
+            "url": "https://ph.shp.ee/EcDFLZ3",
+            "url_hash": "a53f5e64f19cab3329d756e80cd850f113f763d80f96217076b60251e412d01e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://shopee.ph/product/164579993/3638862266?d_id=0c269&uls_trackid=5499f19100ae&utm_content=MLA1NL7tc7goELZEfzczHYBobRR",
+            "last_update": "2025-11-25 07:29:58"
         },
         {
             "id": 1090,
@@ -8002,12 +8244,12 @@
             "id": 668,
             "url": "https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/",
             "url_hash": "ae5ab3da711523a8222b1612aa3bc2039aecd4d87a39e5bb2cf3df5622234bad",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/",
-            "last_update": "2025-10-12 16:30:36"
+            "last_update": "2025-11-25 07:00:02"
         },
         {
             "id": 482,
@@ -8030,6 +8272,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-19 18:42:47"
+        },
+        {
+            "id": 1136,
+            "url": "https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/",
+            "url_hash": "af965d6b993a14be040054046a3547d84e48e817153772305b43816fe239767f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 07:01:51"
         },
         {
             "id": 128,
@@ -9154,6 +9407,17 @@
             "last_update": "2025-11-23 23:51:25"
         },
         {
+            "id": 1145,
+            "url": "https://www.youtube.com/watch?v=wO61D9x6lNY",
+            "url_hash": "c65523bf27d80e307b12287956afb61d3b0920f800c414bca7e48fba35718fb2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-26 14:38:25"
+        },
+        {
             "id": 411,
             "url": "https://tenor.com/view/longcat-gif-23631623",
             "url_hash": "c67842115aeba78601783112c501c6c5220f93b119799d580028c44b6199112b",
@@ -9317,6 +9581,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-11 20:53:25"
+        },
+        {
+            "id": 1155,
+            "url": "https://www.kkinstagram.com/reel/DPFxf_kAbvB/?igsh=ZDJlbnN2ajNtb2lw",
+            "url_hash": "cb230661690e9658336794cbf3d92afbde184a9121bb355b5b55c372389b651d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-26 23:44:13"
         },
         {
             "id": 167,
@@ -9548,6 +9823,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-21 16:24:30"
+        },
+        {
+            "id": 1127,
+            "url": "https://www.lcsc.com/product-detail/C2671714.html",
+            "url_hash": "d0134278096129202b7ed6ca9015112fdecd4ad389f9a6a1a2664bebd7a68aee",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 02:43:54"
         },
         {
             "id": 24,
@@ -10166,6 +10452,17 @@
             "last_update": "2025-08-17 00:43:05"
         },
         {
+            "id": 1151,
+            "url": "https://github.com/warior456/fpga_project",
+            "url_hash": "dab79afe75f9571b1df3fe91befa6cf065f1f994181e69399e580a64db6bee41",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-26 20:23:22"
+        },
+        {
             "id": 485,
             "url": "https://fixupx.com/poibotta/status/1971452986032521256",
             "url_hash": "dad3aea231a689ab9a6d786810bff059739c74f11e6b7d9135a9e8bdb861e23a",
@@ -10309,6 +10606,17 @@
             "last_update": "2025-08-21 10:13:14"
         },
         {
+            "id": 1122,
+            "url": "https://cdn.discordapp.com/attachments/1077231960381984889/1442682196245741739/AeVt812.txt?ex=692651ff&is=6925007f&hm=10ce6e37ab7d0ccb53648a0cff6880ec87ad83d9f1c3dbcb0dc525537cb9d804&",
+            "url_hash": "dd3ead07b97386d850b517dc3923162f7b5af64df89438699575e656ac3188a9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-25 01:03:59"
+        },
+        {
             "id": 719,
             "url": "https://fixupx.com/GrageDustin/status/1978965321265615205",
             "url_hash": "dd4750a769173775dc95cfaede3430934ff6342f29552facaff681aaefbd4a49",
@@ -10334,12 +10642,12 @@
             "id": 921,
             "url": "https://tenor.com/view/you%27ve-said-enough-shut-up-shut-it-stop-it-shut-gif-15799981703517838226",
             "url_hash": "dd7eb4b1a6dbde0c5a372a76db401438e99b7903d3cec9cdce77030ad44d695d",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-11-10 18:17:57"
+            "last_update": "2025-11-26 12:26:32"
         },
         {
             "id": 1030,
@@ -10428,6 +10736,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-16 14:12:53"
+        },
+        {
+            "id": 1141,
+            "url": "https://www.newegg.com/p/2AC-00N9-01V92?item=9SIBF8AKGP4154",
+            "url_hash": "e02afb12124ef1ffbfb3e5031dd799beb84dc69b61b125407282f517a75b58e8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.newegg.com/p/2AC-00N9-01V92?item=9SIBF8AKGP4154",
+            "last_update": "2025-11-25 21:03:20"
         },
         {
             "id": 82,
@@ -11770,6 +12089,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Art_GeeWolf/status/1991268714742968834?s=20",
             "last_update": "2025-11-22 14:44:21"
+        },
+        {
+            "id": 1131,
+            "url": "https://photos.app.goo.gl/4qcrrMJD4KeyibgC6",
+            "url_hash": "fe991d8f1b090273fe596c4f6ef06a514ac4d31e5719037571e7565fef5063dc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://photos.google.com/share/AF1QipPE7xfoXZb1deiQkbKOU15OOxT1qC6gRBXxQowE-NgJFcoITwAlY7BWHmcafP7NWw?key=elRpUEQtUmJKQXFqcU5IaHZSMWRuNnh3UFhpcUhB",
+            "last_update": "2025-11-25 05:06:07"
         },
         {
             "id": 492,

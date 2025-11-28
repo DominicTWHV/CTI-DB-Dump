@@ -3,9 +3,9 @@
 This repository contains an automatically updated dump of Cockatoo's Threat Intelligence (CTI) database.
 
 > [!IMPORTANT]
-> Operational! Dumps will be made once per 24 hours.
+> Dumps will be made once per 24 hours.
 
-Due to licensing restrictions, I'm not able to provide data in the `[REDACTED]` field legally.
+Some data are `[REDACTED]` for privacy and legal reasons.
 
 ## About
 
@@ -13,7 +13,7 @@ The goal of this repository is to provide a publicly accessible database with in
 
 **Note:** While no sensitive information should be present in this dump, if you discover anything potentially dangerous (e.g., links containing plaintext JWTs), please [open an issue](https://github.com/DominicTWHV/CTI-DB-Dump/issues) so it can be promptly investigated and resolved. If you do not wish to make an issue, a post under Security also works.
 
-For privacy reasons, some data may be hashed in sha256 or be partially obfuscated. There will be notices about it in the affected files.
+See `metadata.json` for more information.
 
 ---
 

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1138,
+    "num_of_entries": 1154,
     "links": [
         {
             "id": 367,
@@ -1003,6 +1003,17 @@
             "last_update": "2025-11-24 11:00:11"
         },
         {
+            "id": 1191,
+            "url": "https://fixupx.com/nicksortor/status/1994835457658818845",
+            "url_hash": "165b98f1d8e2124b7322344a83e4764fda627a970d40cc3b09e104d3c48fa247",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/nicksortor/status/1994835457658818845",
+            "last_update": "2025-11-30 01:04:36"
+        },
+        {
             "id": 152,
             "url": "https://www.instagram.com/reel/DNf7qEgp-Yu/?igsh=MW52bWI3MDB6ZmFpMw==",
             "url_hash": "1673136da17ac565e6f3c2bfdf1c48611a41fc8d4b9623f02fce9d2794c8e116",
@@ -1023,6 +1034,17 @@
             "is_redirect": 0,
             "downstream_target": "https://spoo.me/AD8uLH",
             "last_update": "2025-11-11 04:58:13"
+        },
+        {
+            "id": 1194,
+            "url": "https://x.com/amuse/status/1994775004802658774",
+            "url_hash": "16cae29180829c3af3bf131a7d8eab246111afc9337f22b79e82ceb76e911d34",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-30 02:24:43"
         },
         {
             "id": 736,
@@ -1861,6 +1883,17 @@
             "last_update": "2025-09-07 02:13:01"
         },
         {
+            "id": 1190,
+            "url": "https://fixupx.com/nicksortor/status/1994485346965540969",
+            "url_hash": "2976adeef988f21716641a0775d5b7cbd6a127fc18d40e61e6c810b5c988e84f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/nicksortor/status/1994485346965540969",
+            "last_update": "2025-11-30 01:03:50"
+        },
+        {
             "id": 743,
             "url": "https://youtu.be/lsW8Q_ECXOE",
             "url_hash": "29a08fd253871167fcd456f22ff0623c4e0d58839e77cf43aea6b41f56485262",
@@ -2420,6 +2453,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-26 21:02:41"
+        },
+        {
+            "id": 1199,
+            "url": "https://discord.com/channels/1074967630357725204/1074993070174638162/1444593520706060349",
+            "url_hash": "3665858297614afe926f4fce7db5bb63cece0522427e06be4326d68de7df9f52",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-30 17:36:09"
         },
         {
             "id": 426,
@@ -3731,6 +3775,17 @@
             "last_update": "2025-10-06 23:37:15"
         },
         {
+            "id": 1195,
+            "url": "https://tenor.com/view/meme-what-the-hell-is-this-elephant-penguin-noah-gif-19238575",
+            "url_hash": "4e36475ee19b7c8b225b14f4eb970a13a8337de81781e582d7b7b4fff9cff14b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-30 08:27:05"
+        },
+        {
             "id": 346,
             "url": "https://a.aliexpress.com/_Exq0iMS",
             "url_hash": "4e5ef442dd304e6553fa087efe14c6b8aac8fd9bb77663505e9a6a14eb128c68",
@@ -3993,6 +4048,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-26 23:48:31"
+        },
+        {
+            "id": 1196,
+            "url": "https://youtu.be/nC0o99nN2D0",
+            "url_hash": "55177f5ce4ce745a4683b64732cee7f7691c5ffe0e2a83bc2dcb705741b5a47e",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-30 15:50:50"
         },
         {
             "id": 1010,
@@ -6426,6 +6492,17 @@
             "last_update": "2025-10-17 22:58:54"
         },
         {
+            "id": 1201,
+            "url": "https://youtu.be/ZeIqMQ2WDaY?t=324",
+            "url_hash": "88a9398ab228b4b7fbdc32b794ae42f67113650af83ef544b86a8a0c05e4ca70",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-30 20:36:45"
+        },
+        {
             "id": 606,
             "url": "https://www.aliexpress.com/item/1005009705899202.html",
             "url_hash": "88bd9a2607ee17a13ec6ec4d1fc56612c8c1b1e28a3964ec823c597910731fb4",
@@ -6844,6 +6921,17 @@
             "last_update": "2025-08-11 12:27:33"
         },
         {
+            "id": 1193,
+            "url": "https://fixupx.com/nicksortor/status/1994881897793716607",
+            "url_hash": "8fd2d2825d3c5fdd8aa56955eebbdfc77ba19220873e92abc081fc7de33018af",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/nicksortor/status/1994881897793716607",
+            "last_update": "2025-11-30 01:11:06"
+        },
+        {
             "id": 1133,
             "url": "https://photos.app.goo.gl/7FmsWSinmscMX7bT8",
             "url_hash": "8fe00a89a5c2857ef5a82144a866c0767480bbea7d585d17ac3252293229e933",
@@ -6985,6 +7073,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.daehuaqian.com/web/?ckurl=https%3A%2F%2Fwww.daehuaqian.com%2Fic%2F",
             "last_update": "2025-08-09 06:07:43"
+        },
+        {
+            "id": 1197,
+            "url": "https://esphome.io/components/packet_transport/",
+            "url_hash": "92f30beaa414bdbf117e966e55098d673d0aa4b52679a0874a3a44654b4107d8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://esphome.io/components/packet_transport/",
+            "last_update": "2025-11-30 16:46:05"
         },
         {
             "id": 324,
@@ -9671,6 +9770,17 @@
             "last_update": "2025-11-23 23:51:25"
         },
         {
+            "id": 1192,
+            "url": "https://fixupx.com/nicksortor/status/1994848774305587579",
+            "url_hash": "c650290b28a84d0cde87ace2e3025c9b47ae7da573f8111b463ccfff2c4fdd5e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/nicksortor/status/1994848774305587579",
+            "last_update": "2025-11-30 01:04:57"
+        },
+        {
             "id": 1145,
             "url": "https://www.youtube.com/watch?v=wO61D9x6lNY",
             "url_hash": "c65523bf27d80e307b12287956afb61d3b0920f800c414bca7e48fba35718fb2",
@@ -10485,6 +10595,17 @@
             "last_update": "2025-10-08 16:54:41"
         },
         {
+            "id": 1189,
+            "url": "https://fixupx.com/Xpert_things/status/1994483115172229224",
+            "url_hash": "d557347019dd8e7eeb01e23b62e79af26e7350db24f54cfbc1af14ad36720e16",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Xpert_things/status/1994483115172229224",
+            "last_update": "2025-11-30 01:03:24"
+        },
+        {
             "id": 699,
             "url": "https://fixupx.com/NathanielSami/status/1978147445633634537",
             "url_hash": "d5bb55822bc1ce2a430affda9c0d659701a3de9452dcbb60ce06639672678458",
@@ -10582,6 +10703,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-27 15:06:02"
+        },
+        {
+            "id": 1198,
+            "url": "https://en.wikipedia.org/wiki/2025_Chile_blackout",
+            "url_hash": "d7ba19220f9a05576630a1d6dc9038043d00be9a9e2d1d86f28c7c098fd01302",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-11-30 17:33:05"
         },
         {
             "id": 680,
@@ -11497,6 +11629,17 @@
             "last_update": "2025-11-10 17:56:39"
         },
         {
+            "id": 1188,
+            "url": "https://fixupx.com/nicksortor/status/1994463716486602760",
+            "url_hash": "eb62cc193d8e39ecc219116b030ce7c366e07487e9d484c8bef408a38678c13a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/nicksortor/status/1994463716486602760",
+            "last_update": "2025-11-30 01:03:09"
+        },
+        {
             "id": 1043,
             "url": "https://x.com/i/status/1989968654348542198",
             "url_hash": "eb7f896f894b0d6c183f97c85d0b5e5555ddd5ac11a6ea6eaaef89c3018acdaf",
@@ -11585,6 +11728,17 @@
             "last_update": "2025-09-05 22:13:34"
         },
         {
+            "id": 1187,
+            "url": "https://fixupx.com/jj_talking/status/1994485042761089300",
+            "url_hash": "ed3d613d65e5febf9c11f885ebffa3a881b7ac39a11eabc043aac6fa0b41c8e3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/jj_talking/status/1994485042761089300",
+            "last_update": "2025-11-30 01:02:52"
+        },
+        {
             "id": 866,
             "url": "https://youtu.be/hfs6ZQ6rmiU?si=IR7iR6UBMZulun-w",
             "url_hash": "ed71de43e74a777cfb7093efb752de85098dae4bb93a3b0e1ea7c2812a6ebb4f",
@@ -11660,6 +11814,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 13:36:57"
+        },
+        {
+            "id": 1200,
+            "url": "https://t.me/nsfwverify_robot?start=verify",
+            "url_hash": "ef8282919c5fa9cb4183ef27c144b818a21cd210df4de66e116c23e4572419f1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://t.me/nsfwverify_robot?start=verify",
+            "last_update": "2025-11-30 17:52:56"
         },
         {
             "id": 519,
@@ -12177,6 +12342,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-12 13:31:21"
+        },
+        {
+            "id": 1202,
+            "url": "https://fixupx.com/zackdfilms1/status/1995206843186982978?s=20",
+            "url_hash": "f92ec801d0386460094576fa0e41c868ab9a77fa5303e8dab481c8c024fc0df2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/zackdfilms1/status/1995206843186982978?s=20",
+            "last_update": "2025-12-01 00:36:52"
         },
         {
             "id": 854,

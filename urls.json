@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1168,
+    "num_of_entries": 1180,
     "links": [
         {
             "id": 367,
@@ -4765,6 +4765,17 @@
             "last_update": "2025-08-14 14:24:26"
         },
         {
+            "id": 1225,
+            "url": "https://x.com/i2cjak/status/1995911317882835126?s=20",
+            "url_hash": "641a1730aecead426b61f9307dca177f0b7028c640d773c1bfbc46fe29a929cd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-03 00:14:16"
+        },
+        {
             "id": 192,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1410918337847758868/lv_0_20250828192429.mp4?ex=68b2c399&is=68b17219&hm=2166a207e897355a56cdbbfb7b161c7857920222a7bcd1be40751fad2b7afa05&",
             "url_hash": "6425bbed951a45fa72eebd44550464a4cbf9d69524ee34ba5cb48396994af239",
@@ -5887,6 +5898,17 @@
             "last_update": "2025-11-02 09:06:55"
         },
         {
+            "id": 1217,
+            "url": "https://cdn.discordapp.com/attachments/826522818464055367/1445329137995616298/stupid_zigbee_curtain_switch_error_lower_quality_OPPA_DISCORD_STYLE.mp4?ex=692ff327&is=692ea1a7&hm=64d8fadefa92872875ba1d3121af155d817e26a9641c40d9ab8d1de7ff60b24f&",
+            "url_hash": "7b942f43d32625ac1b1690d2a4779eb0b3611bcd1b7c2341b3d441364912bb2f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-02 08:22:00"
+        },
+        {
             "id": 640,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1426404437467074640/166dde609dba4fbc8afaf22ea1bab511.mp4?ex=68eb1a27&is=68e9c8a7&hm=8b7350e52f1140f5567d7a598b2c36bc6700059480d3ff701d92898a860c8280&",
             "url_hash": "7b954a8c6c1097163b58fac544c6f4755b3ed7e2875fa9b2c531eb83f86ad660",
@@ -6061,6 +6083,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-13 09:38:32"
+        },
+        {
+            "id": 1224,
+            "url": "https://x.com/TechPowerUp/status/1995805066557620626?s=20",
+            "url_hash": "7f15d9a8872d4e194fce88dc3a224e50ba91defa5a208fe26709ccf9a423f2fc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-03 00:05:22"
         },
         {
             "id": 671,
@@ -7669,6 +7702,17 @@
             "last_update": "2025-09-26 20:56:10"
         },
         {
+            "id": 1223,
+            "url": "https://youtube.com/shorts/5aFDj54RWQw?si=P8zBalAZgIQOcxK0",
+            "url_hash": "9c3d9169236b5560790a175e06aaa5e06366938bebccb884b529826b5d4e70d5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-02 20:34:22"
+        },
+        {
             "id": 188,
             "url": "https://www.kkinstagram.com/reel/DNTY-JmCf5U/?igsh=MTd0dWVpY25iZnFraA==",
             "url_hash": "9c4917473810c6d8d21747941c228756a596b2605aac8668e55932e4af341600",
@@ -8571,6 +8615,17 @@
             "last_update": "2025-09-27 10:17:11"
         },
         {
+            "id": 1228,
+            "url": "https://www.reddit.com/r/3Dprinting/comments/1l47fqh/functional_pla_print_after_10_years_exposure_to/",
+            "url_hash": "ad39f87d4ff9eb10f02c2b3b86551884d431bce3c98d981b7615e4b2cde93543",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/3Dprinting/comments/1l47fqh/functional_pla_print_after_10_years_exposure_to/",
+            "last_update": "2025-12-03 07:50:23"
+        },
+        {
             "id": 956,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1437562625637748746/IMG_0182.mov?ex=6913b206&is=69126086&hm=1ebd99b7eb4dd5565f33293dcc9c5ed8386a9740a2ccb8fd375edabd0d4b4197&",
             "url_hash": "ada248bc08846d32bab8e3dfc3225027a626febc0108f64859c7c6fff9170d88",
@@ -8802,6 +8857,17 @@
             "last_update": "2025-09-21 14:52:21"
         },
         {
+            "id": 1219,
+            "url": "https://discord.com/channels/986011010295025754/1213279926296387624",
+            "url_hash": "b172109cca57581195ed7786781765584e16f0bea254092bd944f872086954b1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-02 09:17:23"
+        },
+        {
             "id": 931,
             "url": "https://fixupx.com/Real_RobN/status/1986885597978632318",
             "url_hash": "b1df602c7457da47c749a63af23382b940f499b7acf5e182a46a164a672fb61a",
@@ -8976,6 +9042,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-19 15:38:35"
+        },
+        {
+            "id": 1222,
+            "url": "https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=1005009329781726&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y&_randl_currency=AUD&_randl_shipto=AU",
+            "url_hash": "b504e5d223bfc00fe4ad68be67a11877206062f01bf48a8e20bba11109fb4cea",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-02 14:15:10"
         },
         {
             "id": 1017,
@@ -10023,6 +10100,17 @@
             "last_update": "2025-11-24 22:23:55"
         },
         {
+            "id": 1221,
+            "url": "https://tenor.com/view/real-gif-4390178",
+            "url_hash": "c951230e06d34f1b235609a62f4531c2728964bf09a248c5db5c6266529c146c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-02 14:12:50"
+        },
+        {
             "id": 565,
             "url": "https://test1.pe-basics.com",
             "url_hash": "c970cf30ab9837dc26d8a20f7642c23d8c09cce0525a475e0e7130da2a4135f2",
@@ -10672,6 +10760,17 @@
             "last_update": "2025-08-10 11:23:32"
         },
         {
+            "id": 1218,
+            "url": "https://cdn.discordapp.com/attachments/1231247753108000778/1445343034022826116/you_know_what_fuck_you_christmas.mov?ex=69300018&is=692eae98&hm=232940c0140fac99b15762f813205c0fb8e0c19cf538866ca2078a2a5ff3dbfb&",
+            "url_hash": "d48a6ddbf0383edef08eb8a00830618e2761b5c30ee781553170ba9f6a2e588d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-02 09:17:13"
+        },
+        {
             "id": 593,
             "url": "https://www.youtube.com/watch?v=BfxNEt6qfVM",
             "url_hash": "d4edf8224525120cd1c494b930c817830fd2de8b5746ff311daf2cb79c512316",
@@ -11044,6 +11143,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Standarsihh/status/1973214252904386925",
             "last_update": "2025-10-01 12:55:31"
+        },
+        {
+            "id": 1227,
+            "url": "https://www.kkinstagram.com/reel/DQjgqKGDv0Z/?igsh=MWo5MWI1bndnbDIzeA==",
+            "url_hash": "db63d397b43771983b25842142775e82704136666848af4692a87557a3b13c37",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-03 07:13:14"
         },
         {
             "id": 901,
@@ -12190,6 +12300,17 @@
             "last_update": "2025-10-03 13:23:51"
         },
         {
+            "id": 1220,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1445405395228037151/20251202_181851.mp4?ex=69303a2c&is=692ee8ac&hm=280287e4174c662f9f78348333668b176669519b64fc834fd5724cc6ced6fd86&",
+            "url_hash": "f29fe008176f5a5b7c3de5c3b6154670edad75673c6d9f6364bd6889da5b8b9d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-02 13:25:01"
+        },
+        {
             "id": 626,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1425948908873584702/IMG_9110.mov?ex=68e971e8&is=68e82068&hm=e62a7592bb4241e0ab9fa21cdd7653ae2aa841103a7e613277e5438fc3ac5072&",
             "url_hash": "f3170e0e27675adef1bd8f136a25229a3562cc5c57c56771338a03459f1514d5",
@@ -12419,6 +12540,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-06 15:37:33"
+        },
+        {
+            "id": 1226,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1445520830305013931/RDT_20251202_210318.mp4?ex=6930a5ae&is=692f542e&hm=d065aebe20c5a7eb11a3becf433a1d6f9906e192bbd5bfbcf4fcf37592c525b4&",
+            "url_hash": "f7c3246311e47a13ca6562ffb28218595d04b2961f36bc2d8ad14d628012fc30",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-03 01:36:20"
         },
         {
             "id": 385,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1180,
+    "num_of_entries": 1183,
     "links": [
         {
             "id": 367,
@@ -3445,6 +3445,17 @@
             "last_update": "2025-11-17 01:24:51"
         },
         {
+            "id": 1229,
+            "url": "https://tenor.com/view/gucciberg-gif-22753941",
+            "url_hash": "45c5b0a5c6c3b97e18bcdbfc8ad45a4dc3867d88dc2106b6ce34689f85b86fa6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-03 09:20:14"
+        },
+        {
             "id": 388,
             "url": "https://www.youtube.com/watch?v=twspmtz9UaE",
             "url_hash": "45dc6becb849915750261491e319aa0cd14b70e2301883132e3aad294342f8f5",
@@ -4026,6 +4037,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/barbmundt1/status/1979610374577037670",
             "last_update": "2025-10-19 06:53:39"
+        },
+        {
+            "id": 1231,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1445793650406723717/VID_20251201_214919.mp4?ex=6931a3c3&is=69305243&hm=7687890daa6e7367afc12eebaf39b91d5b5c010499a172ba75a22369c8a8fbfe&",
+            "url_hash": "5377e9c6c6d4ac22d089e01d5063b179f7ffac85997929bffeaa99c188130650",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-03 15:07:48"
         },
         {
             "id": 1071,
@@ -10538,6 +10560,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-25 23:47:49"
+        },
+        {
+            "id": 1230,
+            "url": "https://tenor.com/view/sad-cat-kitty-depressed-guangdang-sad-meow-gif-2548323962849249220",
+            "url_hash": "d17e465c7dd29cb97356797a74469907b2ed5cfa5127eabfb832754e83def6e1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-03 13:46:01"
         },
         {
             "id": 694,

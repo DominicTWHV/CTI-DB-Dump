@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1183,
+    "num_of_entries": 1193,
     "links": [
         {
             "id": 367,
@@ -376,6 +376,17 @@
             "last_update": "2025-09-17 05:41:17"
         },
         {
+            "id": 1234,
+            "url": "https://youtu.be/IiDQwQQsrL8?si=qcwHP2nEkXciHIq2",
+            "url_hash": "091a265f7f4b407c2c4ec425511bf6321ee156f75c29017a00c71127209fc97a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-04 14:56:38"
+        },
+        {
             "id": 63,
             "url": "https://cdn.discordapp.com/attachments/993597912938451056/1405914122654060707/V10702-172318.mp4?ex=68a08f0f&is=689f3d8f&hm=e99505d300c0547c27fc1ff7b924fc80ed39a1e39b1d02e45fa4ffc8bd8f6855&",
             "url_hash": "091aefa365dd6e1ad6f14c6864a7b95d01847bf28f98c532137d36f73af46e6f",
@@ -737,6 +748,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 00:13:59"
+        },
+        {
+            "id": 1239,
+            "url": "https://tenor.com/view/so-old-gif-27277116",
+            "url_hash": "10b35c605ef2454ab518d72cb03a54c4287c6164a31479e8ede09afa9613dc1e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-05 00:54:21"
         },
         {
             "id": 1025,
@@ -2147,6 +2169,17 @@
             "last_update": "2025-09-22 21:45:58"
         },
         {
+            "id": 1235,
+            "url": "https://pay.kiwify.com.br/gL3EEXS?afid=s5CIi4DT",
+            "url_hash": "2ea3c46abc42ea1040cc9d5dee6323ec538b1a2ad60266f47ed1ed3a350cdf3b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://pay.kiwify.com.br/gL3EEXS?afid=s5CIi4DT",
+            "last_update": "2025-12-04 15:35:03"
+        },
+        {
             "id": 946,
             "url": "https://imgur.com/xN2WLMt)",
             "url_hash": "2ef85dae044c880bd6820c33c80c0134d703114975138e78a56fdb7785b1b7b7",
@@ -3498,6 +3531,28 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-23 11:42:24"
+        },
+        {
+            "id": 1240,
+            "url": "https://x.com/GrageDustin/status/1985838477741551933",
+            "url_hash": "46da3eae73f22da897671e79f86711690d1a4fae8e369020ca1134371caf4543",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-05 03:49:06"
+        },
+        {
+            "id": 1237,
+            "url": "https://fixupx.com/ChildOfKhan_/status/1996640796724912330?s=20",
+            "url_hash": "4760944b5f990f04c401f73b00211bf63d690e2b63f9a455a84003e750e74e26",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/ChildOfKhan_/status/1996640796724912330?s=20",
+            "last_update": "2025-12-05 00:34:08"
         },
         {
             "id": 1148,
@@ -5555,6 +5610,17 @@
             "is_redirect": 1,
             "downstream_target": "https://photos.google.com/share/AF1QipP0WcZda2eV0synET-uoE7t2GJ3gh8_gjOqxc3cmzhIHSXLyova8JMUPyVz7EGUqQ?key=R2oxVUtCX1l1ZGx5TDZ6V1NISGxLakdhc2RBd0VB",
             "last_update": "2025-11-25 05:06:35"
+        },
+        {
+            "id": 1233,
+            "url": "https://www.circuitbasics.com/how-to-set-up-an-ultrasonic-range-finder-on-an-arduino/",
+            "url_hash": "744d469ca150d2c30833f8eceae0d9881397ae2bb3eac22d2e9ae05230b6b86d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.circuitbasics.com/how-to-set-up-an-ultrasonic-range-finder-on-an-arduino/",
+            "last_update": "2025-12-04 14:39:37"
         },
         {
             "id": 102,
@@ -8527,6 +8593,17 @@
             "last_update": "2025-10-11 10:06:15"
         },
         {
+            "id": 1243,
+            "url": "https://x.com/Minnesota_DHS/status/1834037753345933601",
+            "url_hash": "ab316887f760c8f0ed69236b26f8bd093e94505848db1065cc84c214daa13c8b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-05 03:54:28"
+        },
+        {
             "id": 265,
             "url": "https://tenor.com/view/grogu-star-wars-mandalorian-baby-yoda-gif-9168999412781595068",
             "url_hash": "ab6257388e817833a9e4bf46401447b4133d34f117961a70eec552de9533a455",
@@ -8607,12 +8684,12 @@
             "id": 365,
             "url": "https://tenor.com/view/hmm-interesting-watching-you-curious-stare-anime-girl-looking-at-screen-gif-4083899612055226371",
             "url_hash": "ac1dd460776824e97ca79f66a57ec211270c086400f3d78e78dd6cbadb5c4bbd",
-            "times_seen": 14,
+            "times_seen": 15,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-11-12 04:28:17"
+            "last_update": "2025-12-05 00:53:43"
         },
         {
             "id": 469,
@@ -8673,12 +8750,12 @@
             "id": 238,
             "url": "https://tenor.com/view/galaxy-brain-gif-62870316450580206",
             "url_hash": "adc0c38faee6cea0a393900bb7b743e945e20d69ccb1db2d1d0e0b51fcee4873",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-10-09 09:41:21"
+            "last_update": "2025-12-04 08:15:21"
         },
         {
             "id": 7,
@@ -9317,6 +9394,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-11 10:13:50"
+        },
+        {
+            "id": 1238,
+            "url": "https://fixupx.com/eternalclassic_/status/1996537465297875251?s=20",
+            "url_hash": "baded01972829446828f90416381e3553375fcecc7c58345d56297afca778965",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/eternalclassic_/status/1996537465297875251?s=20",
+            "last_update": "2025-12-05 00:44:03"
         },
         {
             "id": 531,
@@ -10771,6 +10859,17 @@
             "last_update": "2025-09-08 07:27:55"
         },
         {
+            "id": 1236,
+            "url": "https://www.reddit.com/r/3Dprinting/s/DVZgmgKP5O",
+            "url_hash": "d417414b38cd67ba48b2dc1cfd0c95aa013477a74cdf25ada52069a1f226d101",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/3Dprinting/comments/1pe1dvw/rotating_5color_mixing_nozzle_i_built/?share_id=eCcVpK8B7hZ59LcZ5nsps&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
+            "last_update": "2025-12-04 19:17:13"
+        },
+        {
             "id": 806,
             "url": "https://fixupx.com/unlimited_ls/status/1981830959394594837",
             "url_hash": "d43ddafcc61fc21a5018b683c6629b681f64afa27aeb4f0b521c05482063914b",
@@ -12012,6 +12111,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-05 22:13:34"
+        },
+        {
+            "id": 1242,
+            "url": "https://x.com/GrageDustin/status/1884950939401953564",
+            "url_hash": "ed052425a82e3501a0a755a7161880fc2680b2dd7eb191b1cadab8753cbf9983",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-05 03:51:46"
         },
         {
             "id": 1187,

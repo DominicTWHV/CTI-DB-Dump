@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 166,
+    "num_of_entries": 167,
     "domains": [
         {
             "domain": "a.co",
@@ -27,11 +27,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 43,
+            "times_seen": 44,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-12-02 14:15:10"
+            "last_update": "2025-12-05 17:43:41"
         },
         {
             "domain": "aliexpress.us",
@@ -162,6 +162,14 @@
             "last_update": "2025-08-16 23:16:02"
         },
         {
+            "domain": "cloudflarestatus.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Information Provider",
+            "is_whitelisted": 1,
+            "last_update": "2025-12-05 09:38:28"
+        },
+        {
             "domain": "cnbc.com",
             "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
@@ -243,11 +251,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 295,
+            "times_seen": 298,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-03 15:07:48"
+            "last_update": "2025-12-06 00:44:47"
         },
         {
             "domain": "discordapp.net",
@@ -363,11 +371,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 105,
+            "times_seen": 106,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-12-05 03:51:05"
+            "last_update": "2025-12-06 00:40:44"
         },
         {
             "domain": "foodnetwork.com",
@@ -1307,11 +1315,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 120,
+            "times_seen": 121,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-02 20:34:22"
+            "last_update": "2025-12-05 22:33:40"
         },
         {
             "domain": "yxtwitter.com",

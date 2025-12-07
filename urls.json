@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1200,
+    "num_of_entries": 1213,
     "links": [
         {
             "id": 367,
@@ -1861,6 +1861,17 @@
             "last_update": "2025-09-27 13:48:09"
         },
         {
+            "id": 1260,
+            "url": "https://en.wikipedia.org/wiki/European_Qualifications_Framework?wprov=sfla1",
+            "url_hash": "26686d96e1d93150c651e12e029124b454b6e964d801274239681ba336c24991",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 15:43:29"
+        },
+        {
             "id": 554,
             "url": "https://github.com/Caraffa-git/PCB-Art/tree/main/SVG%2FESD-paw",
             "url_hash": "2676fc896ae3a8b203f48883bf4a881db619f411694db2aea9de19bc151624e7",
@@ -1947,6 +1958,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-24 18:56:33"
+        },
+        {
+            "id": 1265,
+            "url": "https://tenor.com/view/hacker-hackerman-kung-fury-gif-7953536",
+            "url_hash": "29543af02fed50cbe01b032ec8e83565b9f780871f9b5660f6e15b170ff9373a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-07 05:21:47"
         },
         {
             "id": 256,
@@ -2112,6 +2134,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.pe-basics.com/media/143758ee65fb29d30caa170c0db0ed36.mp4",
             "last_update": "2025-09-14 07:06:02"
+        },
+        {
+            "id": 1259,
+            "url": "https://ip.festo-didactic.com/Infoportal/mps/SortingStation/EN/index.html",
+            "url_hash": "2d8dcd9d40a21cc00011b66849f24f7c00d36dc6c4a885d25ea4f847e020f478",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://ip.festo-didactic.com/Infoportal/mps/SortingStation/EN/index.html",
+            "last_update": "2025-12-06 15:27:59"
         },
         {
             "id": 945,
@@ -2904,6 +2937,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1074993070174638162/1405327725140377700/ScreenRecording_08-13-2025_19-08-49_1.mov?ex=689e6cef&is=689d1b6f&hm=f916b457bd2e86d4724c02543417d6cccc9eca65a5153ad5ea83653c5b028577&",
             "last_update": "2025-08-13 23:11:00"
+        },
+        {
+            "id": 1258,
+            "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1446862095370158152/20364a402cae18a8e095c57b5d407d61ed2307835316862992acd9884d9e4663_1.mp4?ex=693586d4&is=69343554&hm=acc9e1aab60ba1d4cb706f9e5063e1daddb30bad659c250181a5ed0bfc6c2c5d&",
+            "url_hash": "3bd6861b2bd4e292f544980620e3ac8964aa7f0761265622079d72243169db38",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 13:53:25"
         },
         {
             "id": 526,
@@ -3951,6 +3995,17 @@
             "last_update": "2025-08-09 13:41:39"
         },
         {
+            "id": 1266,
+            "url": "https://www.youtube.com/watch?v=V_mZsiZcy7s&t=543s",
+            "url_hash": "4f14a9f51dded6711e8a5089b41357f08da07b429b134eead209792da209c2db",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-07 06:29:46"
+        },
+        {
             "id": 960,
             "url": "https://fixupx.com/omu_sobaa/status/1987883982147735823?s=20",
             "url_hash": "4f1574f64e94ab1002edb3ce592c4090de1ffb3860db429870ba1df86fd25359",
@@ -4708,6 +4763,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-19 00:38:10"
+        },
+        {
+            "id": 1264,
+            "url": "https://tenor.com/view/%C3%A5sobbing-drinking-sad-gif-20481602",
+            "url_hash": "611c2f83fbdef51c57c01a9bab6678ed7b59030768dacfa0ea02b63b2be2c9ba",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 21:10:01"
         },
         {
             "id": 810,
@@ -6360,6 +6426,17 @@
             "last_update": "2025-10-24 16:39:16"
         },
         {
+            "id": 1251,
+            "url": "https://www.kkinstagram.com/reel/DO6HHokDbDL/",
+            "url_hash": "830dcb0137538d69c1c1ce0a831da40411d5757c8632eb27c8c1c45d3b2ef28f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 09:01:01"
+        },
+        {
             "id": 853,
             "url": "https://cdn.discordapp.com/attachments/1106657985528352808/1433071883947085904/IMG_9855.mov?ex=69035bb2&is=69020a32&hm=df111b22d04504e3fbb0148c5d7c3e2c8da07d564911e80e4bb5c9d749fbdb3b&",
             "url_hash": "830e9f24e944a8ca6356c19218273e233e4d35e72310b45d729d71852df17a3b",
@@ -7502,6 +7579,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-07 05:42:39"
+        },
+        {
+            "id": 1262,
+            "url": "https://tenor.com/view/fancy-tuxedo-winnie-the-pooh-gif-15693976",
+            "url_hash": "973b49e5ee1a573f2854611276222cd63e45a3646094341e7e3dbb0be765085d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 18:55:44"
         },
         {
             "id": 900,
@@ -8934,6 +9022,17 @@
             "last_update": "2025-11-21 06:08:17"
         },
         {
+            "id": 1263,
+            "url": "https://youtu.be/XPuByyASa_M",
+            "url_hash": "b0be72bdfea6fb9f177d311c99fece184c744b15cc4b7784990915bb5a5cc924",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 20:49:21"
+        },
+        {
             "id": 1176,
             "url": "https://www.youtube.com/playlist?list=PLTWuEQvCjMG4x_t4NxbPY93Um6z68V6fD",
             "url_hash": "b12129c4691d2fdaac002321e9daf24dbc2a0de0daa6199b36c18d2274189f51",
@@ -9416,6 +9515,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-11 10:13:50"
+        },
+        {
+            "id": 1256,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1446844098177925220/20251206_143916.mp4?ex=69357612&is=69342492&hm=0132fb40c4fe964530496ca4f0e1e1bcd145ebfd8e5da5c1b7a68c7a7d34a9a1&",
+            "url_hash": "ba7ea7fa65f7533c4e033198dea8fe3da8959741b082f14db4f1431b81a80fb8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 12:41:55"
         },
         {
             "id": 1244,
@@ -10956,6 +11066,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-02 09:17:13"
+        },
+        {
+            "id": 1252,
+            "url": "https://tenor.com/view/benjammins-son-crine-im-crying-son-meme-gif-7345080244973729320",
+            "url_hash": "d4cf31c5ff264d62f4057cf849019b4b4a235ede5e762b487618c5d3af743520",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 10:51:59"
         },
         {
             "id": 593,
@@ -12509,6 +12630,17 @@
             "last_update": "2025-08-27 23:58:32"
         },
         {
+            "id": 1261,
+            "url": "https://www.kkinstagram.com/reel/DKyqdvFuNBp/",
+            "url_hash": "f2405367a1ce2b2f08b244e23814063f47ee8a67abca159f7c7a46b3b9e12f31",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-06 17:36:36"
+        },
+        {
             "id": 509,
             "url": "https://tenor.com/view/harvey-specter-suits-suits-tv-suits-usa-gif-10288979072017216359",
             "url_hash": "f276c49894de1f489a15ed740c7a01abc7ca5c4bd44c3a70b1374badedc91c00",
@@ -12969,6 +13101,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-18 05:24:03"
+        },
+        {
+            "id": 1257,
+            "url": "https://fixupx.com/BasilTheGreat/status/1997220270113739240",
+            "url_hash": "fb27d0c46ce1e19c826396e2799c40cc654faa761ff659571458ce83350ffa8c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/BasilTheGreat/status/1997220270113739240",
+            "last_update": "2025-12-06 12:57:23"
         },
         {
             "id": 111,

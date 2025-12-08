@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1213,
+    "num_of_entries": 1218,
     "links": [
         {
             "id": 367,
@@ -1509,6 +1509,17 @@
             "last_update": "2025-09-27 09:15:59"
         },
         {
+            "id": 1270,
+            "url": "https://fixupx.com/JakeCan72/status/1997461804956737551",
+            "url_hash": "1e2eb90dc566d35b348459449e85ab11b4041a9497fa5028a83109a1d8cb38ac",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/JakeCan72/status/1997461804956737551",
+            "last_update": "2025-12-07 12:44:07"
+        },
+        {
             "id": 154,
             "url": "https://tenor.com/view/%D0%B1%D0%BE%D0%B6%D0%B5-%D0%B1%D0%BE%D0%B3-%D0%B1%D0%BE%D0%B6%D0%B5-%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D1%83%D0%B9-%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D1%83%D0%B9-%D0%B1%D0%BE%D0%B6%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0-gif-11804428844742541975",
             "url_hash": "1e34da1bb173ef15c5d42feff6e0c11b0c0facb5c5823e5fdaa09c3f47037d1a",
@@ -1705,6 +1716,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-23 22:12:44"
+        },
+        {
+            "id": 1268,
+            "url": "https://www.kkinstagram.com/reel/DR2IrArETTI/?igsh=NGdoam5ybXU5bXpz",
+            "url_hash": "2366761eb29a2df2aec4b39133e72d679548c062a89c96e3ec7261c7cd738b33",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-07 11:36:19"
         },
         {
             "id": 46,
@@ -7042,6 +7064,17 @@
             "last_update": "2025-08-11 03:24:36"
         },
         {
+            "id": 1271,
+            "url": "https://store.creality.com/eu/products/ender-3-v3-se-3d-printer",
+            "url_hash": "8d09907cd0d5324effe8c50c3c5d324419e9a42a6b9db796e9ec41c123fc876a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://store.creality.com/eu/products/ender-3-v3-se-3d-printer",
+            "last_update": "2025-12-07 21:33:15"
+        },
+        {
             "id": 530,
             "url": "https://www.aliexpress.com/item/1005004179425753.html",
             "url_hash": "8d136a5f0a7e77526b8582585e389c3b56e373ba38000f6cbbb0f0b0da199bf0",
@@ -7733,6 +7766,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-29 14:26:25"
+        },
+        {
+            "id": 1269,
+            "url": "https://fixupx.com/zuhaitz_dev/status/1997383600006914158?s=20",
+            "url_hash": "99fac0ce8205c31ae207ac4c4741a93db29447e35cb5ae7a19f54ee95604681e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/zuhaitz_dev/status/1997383600006914158?s=20",
+            "last_update": "2025-12-07 12:02:26"
         },
         {
             "id": 787,
@@ -11352,6 +11396,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-30 20:19:28"
+        },
+        {
+            "id": 1267,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1447145180028473425/lv_0_20251207133351.mp4?ex=69368e79&is=69353cf9&hm=140f2514bc4d252c53656966b7df3e2e51f7be2425cbc778b21ad838212dd713&",
+            "url_hash": "d9eb9a531b492d34795c12205c97633be1f9379a9c63fb165c1ad1ab36806f89",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-07 08:38:18"
         },
         {
             "id": 547,

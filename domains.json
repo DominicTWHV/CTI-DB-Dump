@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 171,
+    "num_of_entries": 172,
     "domains": [
         {
             "domain": "a.co",
@@ -202,6 +202,14 @@
             "last_update": "2025-11-15 10:20:58"
         },
         {
+            "domain": "creality.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2025-12-07 21:33:15"
+        },
+        {
             "domain": "crowdsec.net",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -267,11 +275,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 300,
+            "times_seen": 301,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-06 13:53:25"
+            "last_update": "2025-12-07 08:38:18"
         },
         {
             "domain": "discordapp.net",
@@ -395,11 +403,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 107,
+            "times_seen": 109,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-12-06 12:57:00"
+            "last_update": "2025-12-07 12:43:47"
         },
         {
             "domain": "foodnetwork.com",
@@ -675,11 +683,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 26,
+            "times_seen": 27,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-12-06 17:36:36"
+            "last_update": "2025-12-07 11:36:19"
         },
         {
             "domain": "kmart.com.au",

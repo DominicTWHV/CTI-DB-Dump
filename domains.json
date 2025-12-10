@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 175,
+    "num_of_entries": 176,
     "domains": [
         {
             "domain": "a.co",
@@ -35,11 +35,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 45,
+            "times_seen": 46,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-12-08 22:09:34"
+            "last_update": "2025-12-09 10:13:16"
         },
         {
             "domain": "aliexpress.us",
@@ -266,6 +266,14 @@
             "last_update": "2025-11-04 07:40:58"
         },
         {
+            "domain": "deepseek.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-12-09 09:03:16"
+        },
+        {
             "domain": "digikey.com.au",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -283,11 +291,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 305,
+            "times_seen": 312,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-09 02:44:44"
+            "last_update": "2025-12-10 00:25:30"
         },
         {
             "domain": "discordapp.net",
@@ -411,11 +419,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 115,
+            "times_seen": 117,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-12-08 18:12:33"
+            "last_update": "2025-12-10 05:43:57"
         },
         {
             "domain": "foodnetwork.com",
@@ -571,11 +579,11 @@
         },
         {
             "domain": "imgur.com",
-            "times_seen": 154,
+            "times_seen": 158,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-11-21 06:08:17"
+            "last_update": "2025-12-09 21:30:34"
         },
         {
             "domain": "imgur.io",
@@ -691,11 +699,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 27,
+            "times_seen": 29,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-12-07 11:36:19"
+            "last_update": "2025-12-10 05:48:50"
         },
         {
             "domain": "kmart.com.au",
@@ -1131,11 +1139,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 286,
+            "times_seen": 287,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-08 15:40:13"
+            "last_update": "2025-12-10 00:31:50"
         },
         {
             "domain": "tensorflow.org",
@@ -1379,11 +1387,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 122,
+            "times_seen": 123,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-07 06:29:46"
+            "last_update": "2025-12-09 16:28:12"
         },
         {
             "domain": "yxtwitter.com",

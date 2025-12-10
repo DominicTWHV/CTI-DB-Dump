@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1239,
+    "num_of_entries": 1258,
     "links": [
         {
             "id": 1292,
@@ -121,6 +121,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-26 10:12:26"
+        },
+        {
+            "id": 1299,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1447962040609017936/Snapchat-584468414.mp4?ex=6939873c&is=693835bc&hm=dcab1845aa645d367e96898792a08d544783f071c10daea1eb8d529e3ddfbe69&",
+            "url_hash": "02a4242bbb80a1d1092c8f384fe460c59de9ae6975e42a917a88ae3fbfc71c2a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-09 14:44:13"
         },
         {
             "id": 695,
@@ -803,6 +814,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-16 05:31:59"
+        },
+        {
+            "id": 1294,
+            "url": "https://chat.deepseek.com/share/r5kzg82y1ty96pow2h",
+            "url_hash": "10d9eab0e9887929fa9ba9cc9599b8f76ff65719499c8b6d854cff25377a99bd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://chat.deepseek.com/share/r5kzg82y1ty96pow2h",
+            "last_update": "2025-12-09 09:03:16"
         },
         {
             "id": 1052,
@@ -1916,6 +1938,17 @@
             "last_update": "2025-09-27 13:48:09"
         },
         {
+            "id": 1303,
+            "url": "https://imgur.com/kY6c42L",
+            "url_hash": "265df8f4b4d629d14730718cae90bbac16ef062096cceba7a866d34c803d2e88",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://imgur.com/kY6c42L",
+            "last_update": "2025-12-09 21:30:34"
+        },
+        {
             "id": 1260,
             "url": "https://en.wikipedia.org/wiki/European_Qualifications_Framework?wprov=sfla1",
             "url_hash": "26686d96e1d93150c651e12e029124b454b6e964d801274239681ba336c24991",
@@ -2035,6 +2068,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-07 02:13:01"
+        },
+        {
+            "id": 1312,
+            "url": "https://www.kkinstagram.com/reel/DR7bexTj5ma/?igsh=bHA5dTFud2ZveGdx",
+            "url_hash": "2972dd5b56966318dd85a5bee757e425eea67d426cba1c64f0d2b4abe37c0ef7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 05:48:50"
         },
         {
             "id": 1190,
@@ -2222,6 +2266,28 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=PlHf5JjOwbA&feature=youtu.be",
             "last_update": "2025-08-15 14:37:18"
+        },
+        {
+            "id": 1311,
+            "url": "https://fixupx.com/joeroganhq/status/1998526068529979483",
+            "url_hash": "2de0883072e1e77c7abc0093a913f9e7576d69160dcdf74eac76484fda297f81",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/joeroganhq/status/1998526068529979483",
+            "last_update": "2025-12-10 05:44:18"
+        },
+        {
+            "id": 1300,
+            "url": "https://youtube.com/shorts/5wsXLY5hcGE?feature=share",
+            "url_hash": "2df3ef4d656214695893a8f5f26aea96067b47b65d8e77cea7bcbf6a6c68756b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-09 16:28:12"
         },
         {
             "id": 969,
@@ -2642,6 +2708,17 @@
             "last_update": "2025-11-30 17:36:09"
         },
         {
+            "id": 1309,
+            "url": "https://tenor.com/view/shrimple-gif-17547170302771858083",
+            "url_hash": "36b8f005ff89c1e53dce0d14bc44c8e2af6404248c2fa1d776252ffded823c60",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 00:31:50"
+        },
+        {
             "id": 426,
             "url": "https://www.youtube.com/watch?v=yFqF_HynFWM",
             "url_hash": "36ff3f9cb2c4c33171096f88f4a8b5f51f1c6aad3382d0ad595c2a18b032b9cf",
@@ -2851,6 +2928,17 @@
             "last_update": "2025-10-23 13:51:51"
         },
         {
+            "id": 1297,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1447960702286303283/Snapchat-63355549.mp4?ex=693985fd&is=6938347d&hm=26e991483f0a15238a15498a33eb669aa8f137e03e6cc96d657ef6cbedd69834&",
+            "url_hash": "38f9dcbcbbab33af60050919adf61af354a3694652e1ef65148a6e8ef4e0e1bf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-09 14:38:54"
+        },
+        {
             "id": 71,
             "url": "https://appcargo.com",
             "url_hash": "390cdd46f09c053691350de14de6bbf70f5f22d385031bfe79d41c0e22147781",
@@ -2904,6 +2992,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-20 05:56:12"
+        },
+        {
+            "id": 1302,
+            "url": "https://imgur.com/TEvWpmG",
+            "url_hash": "39f4e14d5605d2a63bd57b29e0d805a41d8b03a5c2502e9476abddb6ae1e13ea",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://imgur.com/TEvWpmG",
+            "last_update": "2025-12-09 21:30:17"
         },
         {
             "id": 467,
@@ -4356,6 +4455,17 @@
             "is_redirect": 0,
             "downstream_target": "https://hackaday.com/2022/03/07/flexypins-might-help-with-those-pesky-castellated-modules/",
             "last_update": "2025-11-15 10:20:34"
+        },
+        {
+            "id": 1307,
+            "url": "https://fixupx.com/adxtyahq/status/1998313278452470231?s=20",
+            "url_hash": "554b5152c447b86cd8ba855d7473fb14e115668193c17bc3063d3e786dcad18f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/adxtyahq/status/1998313278452470231?s=20",
+            "last_update": "2025-12-09 23:43:15"
         },
         {
             "id": 441,
@@ -6558,6 +6668,17 @@
             "last_update": "2025-08-09 07:11:04"
         },
         {
+            "id": 1296,
+            "url": "https://a.aliexpress.com/_EHfmfIy",
+            "url_hash": "82171f20fc26addfcd783542388282f16f0a95010b3d9ffcf4240695786cc5e8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-09 10:13:16"
+        },
+        {
             "id": 1112,
             "url": "https://www.printables.com/model/1465834-mini-flexible-keychain-holder",
             "url_hash": "823bd290493d781eee7dca04f9869adbf9dedd5eb8bdb39a51482f5256ebff31",
@@ -6831,6 +6952,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-28 11:06:21"
+        },
+        {
+            "id": 1298,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1447960702647271586/VID_20251209_132709.mp4?ex=693985fd&is=6938347d&hm=c830921e68ec6ed66f0c9ca5369afec907c232186fc7f4b2fa78525279ae7988&",
+            "url_hash": "876227cb97982822a1858af1b09a8c69c1f0214d623306a838d30ad6eb5de344",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-09 14:38:54"
         },
         {
             "id": 337,
@@ -7733,6 +7865,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 14:47:49"
+        },
+        {
+            "id": 1295,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1447884601631707158/VID-20251209-WA0006.mp4?ex=69393f1d&is=6937ed9d&hm=ec046046f44f967a56651fdb47ca49d24d0d4a18946866c5a51f06ad5c39c2f3&",
+            "url_hash": "96180d4cbcea2779ead91d24d90c8e8a9ed5754c41720ed66244ad886d26a675",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-09 09:36:30"
         },
         {
             "id": 375,
@@ -9517,6 +9660,17 @@
             "last_update": "2025-12-08 13:57:54"
         },
         {
+            "id": 1310,
+            "url": "https://www.kkinstagram.com/reel/DR_g2uZDOsN/",
+            "url_hash": "b53634e557808dc4393b3c1da2b465ce9312971ed7d20f0e149f10a99c9a5e87",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 00:53:30"
+        },
+        {
             "id": 1017,
             "url": "https://vm.tiktok.com/ZMAvuS946/",
             "url_hash": "b5caf58de652ff10aba62a2581ce7b903f2a0a4ede8a593625e94aa81851dc4b",
@@ -10813,6 +10967,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-11 09:27:27"
+        },
+        {
+            "id": 1301,
+            "url": "https://imgur.com/ayy8KmM",
+            "url_hash": "cda5330718bf7fb7c1e2749b5354458edd54487538103af4059f0f26feca0f37",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://imgur.com/ayy8KmM",
+            "last_update": "2025-12-09 21:30:00"
         },
         {
             "id": 544,
@@ -12465,6 +12630,17 @@
             "last_update": "2025-10-08 14:36:03"
         },
         {
+            "id": 1306,
+            "url": "https://cdn.discordapp.com/attachments/494799840451231754/1446862914282717204/video_2025-12-04_22-32-31.mp4?ex=69382a98&is=6936d918&hm=61b6952ff5b8a90dc044ba22c836b4e464114af843cc1301ad00f86d6416273e&",
+            "url_hash": "eb1315b7437ef82f29c614f5a21b6c01379eded78600de0240820239cf1845fc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-09 22:31:20"
+        },
+        {
             "id": 733,
             "url": "https://tenor.com/view/blahaj-gif-27048745",
             "url_hash": "eb33de9ea1354342687a082d4fb930eda0a744f85e3fbd3308d2a86769e2a2a4",
@@ -12474,6 +12650,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-18 14:44:08"
+        },
+        {
+            "id": 1308,
+            "url": "https://cdn.discordapp.com/attachments/426116061415342080/1445639840015061002/SnapInsta.to_AQN1NEA9ptQCQSmvXCh3TIvdL_pl8c8x3xIlJ6zElm3LaKjDSaqNWI1Gs81KK-v7JfEtrWaJpodNL_B5B3xYc5OnEKY6HZOThO_xFS8.mp4?ex=693854c4&is=69370344&hm=a819a266506e5b50ef2a123d16691420ad140fa2fcaa6851b42cfb24c1ed38d8&",
+            "url_hash": "eb37d03a7801c8a69bd066c1fbbbebc5b15ffa167cad26433dca312e91b3f950",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 00:25:30"
         },
         {
             "id": 952,
@@ -13136,6 +13323,17 @@
             "last_update": "2025-10-27 03:15:48"
         },
         {
+            "id": 1304,
+            "url": "https://imgur.com/xizNnYz",
+            "url_hash": "f6c9fc325255727aa317a7ef7e0dcceb7cfdbbe776e0fdb24e2be997222462fb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://imgur.com/xizNnYz",
+            "last_update": "2025-12-09 21:30:51"
+        },
+        {
             "id": 106,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1406985587461718077/RPReplay_Final1715954746.mov?ex=68a474f0&is=68a32370&hm=6004f7605ac571f1ee5e89e5e10f0997fbbeaef0fe221183d946c137bf20b459&",
             "url_hash": "f6dea976147d4176fce28881eb5b1f202b59e83cbd46a3c29debf15f8caa2013",
@@ -13332,6 +13530,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-23 17:40:52"
+        },
+        {
+            "id": 1305,
+            "url": "https://cdn.discordapp.com/attachments/1430136238576242708/1448071395484369019/Untitled_video.mp4?ex=6939ed14&is=69389b94&hm=ef9b9431d70eba37f501d9ffdc305e55bbf8dda291266d758ff237d7699da273&",
+            "url_hash": "fa41154f7c5d2e758134349f82ed0b2a72bd58061ff2c3cb590c0f2082e1c29d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-09 21:58:46"
         },
         {
             "id": 232,

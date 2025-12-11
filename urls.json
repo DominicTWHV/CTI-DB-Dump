@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1258,
+    "num_of_entries": 1269,
     "links": [
         {
             "id": 1292,
@@ -220,6 +220,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/lopezdoriga/status/1989895952480583998",
             "last_update": "2025-11-16 17:18:02"
+        },
+        {
+            "id": 1317,
+            "url": "https://www.aliexpress.com/item/1005009870636344.html",
+            "url_hash": "051e68f2e238f0ddeccfe6c697bd9e27779ba347884b68452174c3a75ecf8e0b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 19:13:22"
         },
         {
             "id": 849,
@@ -1331,6 +1342,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-16 19:09:15"
+        },
+        {
+            "id": 1313,
+            "url": "https://tenor.com/view/jontron-ill-take-your-entire-stock-thats-mine-gif-13637000",
+            "url_hash": "1a76cfc98a0415ff54be8eb059e3a9952224a4b1eeda47a66f18bd1f3f9e617a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 12:06:58"
         },
         {
             "id": 716,
@@ -2711,12 +2733,12 @@
             "id": 1309,
             "url": "https://tenor.com/view/shrimple-gif-17547170302771858083",
             "url_hash": "36b8f005ff89c1e53dce0d14bc44c8e2af6404248c2fa1d776252ffded823c60",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-12-10 00:31:50"
+            "last_update": "2025-12-10 21:01:14"
         },
         {
             "id": 426,
@@ -5106,6 +5128,17 @@
             "last_update": "2025-09-09 13:16:14"
         },
         {
+            "id": 1316,
+            "url": "https://tenor.com/view/the-office-dwight-shh-dont-speak-be-quite-gif-13458150",
+            "url_hash": "636993ecaf33b00c13e55598d8b361e1516a07f0e49a18419b07b3d2436b6edc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 15:19:51"
+        },
+        {
             "id": 664,
             "url": "https://tenor.com/view/slaysol-sad-depressed-wolf-gif-26432334",
             "url_hash": "63a2830e213acacbf90e2ef3055b2b22a26bba4f9dab7a177255b0ec4a9de375",
@@ -5777,6 +5810,17 @@
             "last_update": "2025-11-11 14:30:22"
         },
         {
+            "id": 1314,
+            "url": "https://www.youtube.com/watch?v=cGu3ITPV2Jc",
+            "url_hash": "7101eb85bbc8fbb5dda18bd346a56ae6dd3dc7189b5e29b7143575d2b23e7b9f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 12:18:54"
+        },
+        {
             "id": 177,
             "url": "https://fixupx.com/Yu_Um0209/status/1959888034494874051",
             "url_hash": "716eafb0f2806b06479a39e9d4e3d4b20a0b1431e0bbf2f56d3fabf32907f841",
@@ -6039,6 +6083,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/BasilTheGreat/status/1997933864136921167",
             "last_update": "2025-12-08 12:23:56"
+        },
+        {
+            "id": 1319,
+            "url": "https://www.youtube.com/watch?v=kxs3yNjlzkg",
+            "url_hash": "75642ff87aaddfff4f528ba43ddb1baff3fe036f77d0bbb83f83903ba22af74b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 22:42:21"
         },
         {
             "id": 342,
@@ -7504,6 +7559,17 @@
             "last_update": "2025-08-16 02:01:32"
         },
         {
+            "id": 1320,
+            "url": "https://fixupx.com/fangderg/status/1998774921821040992?s=20",
+            "url_hash": "8f62427345dc19b72421f949ff8e68bc7976f20730b2956d6beff5e55bddcaac",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/fangderg/status/1998774921821040992?s=20",
+            "last_update": "2025-12-10 23:26:30"
+        },
+        {
             "id": 740,
             "url": "https://www.youtube.com/watch?v=-IhuFgiWNS4",
             "url_hash": "8f77e183a2c3f4fb4b808c0ae1460d36f493c8a121251958eb231e610b3947fb",
@@ -8483,6 +8549,17 @@
             "last_update": "2025-10-25 13:55:59"
         },
         {
+            "id": 1322,
+            "url": "https://fixupx.com/JakeCan72/status/1998771614461341906",
+            "url_hash": "a04fa6290e234e52e1828dd4e360a8931d1464169104257e6c043bbe397dbf4d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/JakeCan72/status/1998771614461341906",
+            "last_update": "2025-12-11 08:20:47"
+        },
+        {
             "id": 1142,
             "url": "https://eur.vevor.com/soldering-station-c_13551/vevor-hot-air-rework-station-1000w-led-digital-smd-rework-station-212-896--p_010504192873",
             "url_hash": "a059154cf71eb565f10b3abd2937bbee71471b1cd7ef7004ef10114cfce9b40f",
@@ -8871,12 +8948,12 @@
             "id": 975,
             "url": "https://tenor.com/view/lizard-gif-8049906864422965904",
             "url_hash": "a9381413c8d14d589c274c74ce40aa79a8d78b9b081daf3f6d099a83402b8587",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-11-27 19:41:05"
+            "last_update": "2025-12-11 08:11:37"
         },
         {
             "id": 631,
@@ -9174,6 +9251,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-08 13:30:04"
+        },
+        {
+            "id": 1321,
+            "url": "https://fixupx.com/BROKENBRITAIN0/status/1998718105808249233",
+            "url_hash": "acce18845022c9dc86e47a86487b7ab31bb929ce62e4f054150a9ca7e1c04402",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/BROKENBRITAIN0/status/1998718105808249233",
+            "last_update": "2025-12-11 06:12:41"
         },
         {
             "id": 469,
@@ -9592,6 +9680,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-09 19:10:06"
+        },
+        {
+            "id": 1315,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1448311539143540817/1247283_523882697681439_1058395525_n.mp4?ex=693accbb&is=69397b3b&hm=089136ce7690d4505e5b482aac3a8086b53fd4bb5d9c584d879e316a92f970a1&",
+            "url_hash": "b49059eaafb57c0ea2016ab29293593ea3a2d7d1b2c4f4f4272233fbbe5d6423",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-10 13:53:00"
         },
         {
             "id": 339,
@@ -12828,6 +12927,17 @@
             "last_update": "2025-10-08 13:40:15"
         },
         {
+            "id": 1323,
+            "url": "https://x.com/SamanthaTaghoy/status/1998064260769800512",
+            "url_hash": "ee85034c7f79dd7143f97e7ad52315e30587c7a1150cff66e97f679d76025275",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-11 08:29:58"
+        },
+        {
             "id": 165,
             "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1408807211647500469/Harry_lime.mov?ex=68ab1575&is=68a9c3f5&hm=21f84e5438ae4c2a938657c427de9c36bea4c3a53121c630b97b143cd2ed515e&",
             "url_hash": "ee8ac683417f3264d269446ec30580c95daede42fed3d545bcdc70eebabcbd5f",
@@ -13189,6 +13299,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-16 10:03:38"
+        },
+        {
+            "id": 1318,
+            "url": "https://shop.industrialshields.com/producto/m-duino-ethernet-plc-arduino-21/)",
+            "url_hash": "f411428fffa4dbe3889f84d67e21454e1fa3892e8ea08e16653ec7a4ca85f58b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://shop.industrialshields.com/producto/m-duino-ethernet-plc-arduino-21/",
+            "last_update": "2025-12-10 20:59:18"
         },
         {
             "id": 658,

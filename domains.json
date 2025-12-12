@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 177,
+    "num_of_entries": 178,
     "domains": [
         {
             "domain": "a.co",
@@ -291,11 +291,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 313,
+            "times_seen": 317,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-10 13:53:00"
+            "last_update": "2025-12-11 17:25:11"
         },
         {
             "domain": "discordapp.net",
@@ -419,11 +419,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 120,
+            "times_seen": 121,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-12-11 08:20:25"
+            "last_update": "2025-12-12 06:09:47"
         },
         {
             "domain": "foodnetwork.com",
@@ -448,6 +448,14 @@
             "typing": "Blog",
             "is_whitelisted": 0,
             "last_update": "2025-08-18 20:36:59"
+        },
+        {
+            "domain": "funnyjunk.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Entertainment",
+            "is_whitelisted": 0,
+            "last_update": "2025-12-11 22:51:15"
         },
         {
             "domain": "fxtwitter.com",
@@ -1019,19 +1027,19 @@
         },
         {
             "domain": "redd.it",
-            "times_seen": 9,
+            "times_seen": 10,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-11-21 13:45:47"
+            "last_update": "2025-12-11 12:28:09"
         },
         {
             "domain": "reddit.com",
-            "times_seen": 23,
+            "times_seen": 24,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
+            "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-12-04 19:17:13"
+            "last_update": "2025-12-11 12:28:55"
         },
         {
             "domain": "renesas.com",
@@ -1147,11 +1155,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 291,
+            "times_seen": 295,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-11 08:11:37"
+            "last_update": "2025-12-12 01:29:01"
         },
         {
             "domain": "tensorflow.org",

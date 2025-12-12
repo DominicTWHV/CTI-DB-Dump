@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1269,
+    "num_of_entries": 1281,
     "links": [
         {
             "id": 1292,
@@ -66,6 +66,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/inusimahiro11/status/1977218823339303097",
             "last_update": "2025-10-12 07:35:36"
+        },
+        {
+            "id": 1331,
+            "url": "https://tenor.com/view/fafuke-fafuke-rainbow-sasuke-naruto-gif-19467632",
+            "url_hash": "012657722c06f14d1692a5680a9d4c04e5e2004654692591b580dcb6c1ecfe37",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-11 12:31:42"
         },
         {
             "id": 103,
@@ -451,6 +462,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-20 19:51:57"
+        },
+        {
+            "id": 1324,
+            "url": "https://tenor.com/view/agartha-church-of-vril-middle-earth-gif-4794474104329049007",
+            "url_hash": "099998abe79a2c72068c60e09844aee793e7f0fa6079e37c781eb95d4d2ade83",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-11 09:09:25"
         },
         {
             "id": 839,
@@ -858,6 +880,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-16 19:32:39"
+        },
+        {
+            "id": 1325,
+            "url": "https://tenor.com/view/agartha-vril-ashtar-sheran-gif-10695907235911658484",
+            "url_hash": "112adf740c8bc92ed9eadcde01a9817a022bdd1941dd6f094aa795c4fb8a9c6d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-11 09:10:01"
         },
         {
             "id": 1039,
@@ -3137,6 +3170,17 @@
             "last_update": "2025-10-05 04:54:33"
         },
         {
+            "id": 1332,
+            "url": "https://cdn.discordapp.com/attachments/1077242838800158721/1448727324995616941/AQNoDesrGfuW0-N06wcyYH4v6tbpn-bvcGGp9FklTAFOWpvGCWEint9AZqaZ7xXXAofpBNcdhzPf0_HHkKA3YO7k44zxPj3LjPw2CmI.mp4?ex=693c4ff6&is=693afe76&hm=6470c18028925c8a3b262a26f9dde20aee8bfabffddcc99656dcd25168e52df3&",
+            "url_hash": "3c1764e67a7b5a60266c5fceb2cf2999e0fdf6f9777419eacad70fa45195c139",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-11 17:25:11"
+        },
+        {
             "id": 899,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1435213199858339883/VID20230618183705_2_1.mp4?ex=690b25f3&is=6909d473&hm=3ec930a406f14739134ae069b588a982e02dfabc477fd575e05a6d5dbfc20ebd&",
             "url_hash": "3c1b6b5e2ec01a10a1e8262e7ff522a0a84ddaadff9f3f1345547b6f3828949d",
@@ -3786,6 +3830,17 @@
             "last_update": "2025-12-05 03:49:06"
         },
         {
+            "id": 1327,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1448642655104929901/4_5892964596360158552.mp4?ex=693c011b&is=693aaf9b&hm=2e46857ed294e1412b308c1d9beb40cb5c9fea7ab33a0baea13777595e77d0d3&",
+            "url_hash": "46dd86069e95ab39bd0f6f6dca8e95a35c94d95f055797e5cbb3fed9d8a29fc2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-11 11:48:45"
+        },
+        {
             "id": 1281,
             "url": "https://x.com/robbystarbuck/status/1996923908222484798",
             "url_hash": "474e3441a374c2548896373304b2e1d8bf05ec47aaf1fc918014b65ac06da8c3",
@@ -4114,6 +4169,17 @@
             "is_redirect": 0,
             "downstream_target": "https://play.date/",
             "last_update": "2025-10-16 16:46:34"
+        },
+        {
+            "id": 1333,
+            "url": "https://anime3.funnyjunk.com/movies/Lizardish+lizardly+lizard_65f583_12895917-HD-AV1.mp4",
+            "url_hash": "4bf6d1d3ab5bb139e9e36d4c718adbeb9ba587619fda1122a13623c187b067f4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://anime3.funnyjunk.com/movies/Lizardish+lizardly+lizard_65f583_12895917-HD-AV1.mp4",
+            "last_update": "2025-12-11 22:51:15"
         },
         {
             "id": 10,
@@ -4952,6 +5018,17 @@
             "last_update": "2025-11-19 16:33:18"
         },
         {
+            "id": 1334,
+            "url": "https://tenor.com/view/trollge-troll-the-day-of-reckoning-gif-19655212",
+            "url_hash": "606986deed080ef3b52708b72dd64720c59c2975fde1481f772e298c8ea3ff3c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-12 01:29:01"
+        },
+        {
             "id": 912,
             "url": "https://github.com/rubsil/LOCALbum-Offline-Photo-Album",
             "url_hash": "60993b98b86d62bfebb3440e4fac9dfe12c2ab7dac89f3affd1f9fd34056cd4c",
@@ -5733,6 +5810,17 @@
             "last_update": "2025-08-21 22:12:10"
         },
         {
+            "id": 1328,
+            "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1448642881437962323/manul_life_could_be_dream_s0qc130R55Y.webm?ex=693c0151&is=693aafd1&hm=8153b1590e7d5f51d1e1bca617b331c9d97473f396e2901549b4cc58830e9f4e&",
+            "url_hash": "6f1d0acd8370e309bcafb0a7b9649cb9408a078d8f61d3cf8321e39af8eb65df",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-11 11:49:38"
+        },
+        {
             "id": 1170,
             "url": "https://www.multisorb.com/blog/can-you-reuse-desiccant-packets/",
             "url_hash": "6f1fac7400af134f528019e260c3368f88783186c9dd4d479f7b02e7b4d80604",
@@ -5929,6 +6017,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-15 21:51:50"
+        },
+        {
+            "id": 1326,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1448642654744084721/VID_20251210_212911.mp4?ex=693c011b&is=693aaf9b&hm=e1d3f8565dc69e76d31368e7e1675d9d49eca4e18ee943cd1668f789913434d0&",
+            "url_hash": "72fe54c4b953a30e373160b5f4c1022f76f17172ddadec7db0ec089f681df1ce",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-11 11:48:44"
         },
         {
             "id": 607,
@@ -6435,6 +6534,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-24 21:30:14"
+        },
+        {
+            "id": 1330,
+            "url": "https://www.reddit.com/r/CyberNews/s/ZsEEuEZMF3",
+            "url_hash": "7c60d658ab0d4baeada8a63a384e693891cfe5db6f81f50d15a4c0d4ae627141",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/CyberNews/comments/1pjuvlv/the_us_has_announced_that_it_will_require_five/?share_id=-fjd_8KPXlEMnwM98wPxl&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
+            "last_update": "2025-12-11 12:28:55"
         },
         {
             "id": 579,
@@ -8811,6 +8921,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-18 14:12:30"
+        },
+        {
+            "id": 1335,
+            "url": "https://fixupx.com/HaileyEira/status/1999295724744507707",
+            "url_hash": "a62f3c02e474a36d5d41b6b1ad2ed8c1173f1a49089e4f888c3263e1f7500f50",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/HaileyEira/status/1999295724744507707",
+            "last_update": "2025-12-12 06:10:09"
         },
         {
             "id": 1076,
@@ -11792,6 +11913,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 12:36:24"
+        },
+        {
+            "id": 1329,
+            "url": "https://share.redd.it/preview/post/1pjuvlv",
+            "url_hash": "d84bb9bb9d106fa886b30996782fabaa98f59a16a3a651817e7644e5e51b580c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://share.redd.it/preview/post/1pjuvlv",
+            "last_update": "2025-12-11 12:28:33"
         },
         {
             "id": 483,

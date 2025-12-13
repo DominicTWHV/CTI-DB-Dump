@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1281,
+    "num_of_entries": 1294,
     "links": [
         {
             "id": 1292,
@@ -231,6 +231,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/lopezdoriga/status/1989895952480583998",
             "last_update": "2025-11-16 17:18:02"
+        },
+        {
+            "id": 1337,
+            "url": "https://github.com/transsistor09/THE-worst-computer",
+            "url_hash": "04df50281ebb42f46394eb86c1c6149232c4595c260b6ba6bf5946b279c6e1d2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-12 10:21:19"
         },
         {
             "id": 1317,
@@ -1760,6 +1771,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-05 18:47:20"
+        },
+        {
+            "id": 1345,
+            "url": "https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Ffl4p%2FFugu2",
+            "url_hash": "2119aa8f4ad129e428377f6d49630f1cfd6ae47fd52ad1454e81c863ba24b6f7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Ffl4p%2FFugu2",
+            "last_update": "2025-12-13 00:16:37"
         },
         {
             "id": 1140,
@@ -3599,6 +3621,17 @@
             "last_update": "2025-11-22 13:45:41"
         },
         {
+            "id": 1339,
+            "url": "https://fixupx.com/ezraklein/status/1999222362894663980",
+            "url_hash": "43947d25a682c87eefc43eb9186ad8ad732e28838f7db6eed5644c7e2c191515",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/ezraklein/status/1999222362894663980",
+            "last_update": "2025-12-12 10:31:51"
+        },
+        {
             "id": 877,
             "url": "https://www.kkinstagram.com/reel/DQe1ZS6jFag/?igsh=MWo3ZGplYzl4bjVjbQ==",
             "url_hash": "43a60e754c965b8d117716474c87df8a33da6bdd781636aa90761adeac9a29c0",
@@ -3663,6 +3696,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-17 23:46:04"
+        },
+        {
+            "id": 1340,
+            "url": "https://fixupx.com/TheGalox_/status/1999372539655782875?s=20",
+            "url_hash": "4452254336ec978b5a736888e74308d699f3d12cb26909e7d6a3abcbf8e092a3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/TheGalox_/status/1999372539655782875?s=20",
+            "last_update": "2025-12-12 14:38:41"
         },
         {
             "id": 451,
@@ -5368,6 +5412,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-13 00:29:07"
+        },
+        {
+            "id": 1347,
+            "url": "https://tenor.com/view/coco-cry-cry-bunny-cry-bunny-upset-upset-gif-5985865617519726485",
+            "url_hash": "666b74d7882a644a632986529ee872de79fa83f3523f404b57c386dc963bfb1b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-13 07:00:13"
         },
         {
             "id": 157,
@@ -8142,6 +8197,28 @@
             "last_update": "2025-09-01 03:28:59"
         },
         {
+            "id": 1344,
+            "url": "https://cdn.discordapp.com/attachments/1448273057561972808/1449187423555817584/VID_20251211_135531_533.mp4?ex=693dfc76&is=693caaf6&hm=9f5850b61692c80704a38d5d53329051530ff7a14a5af0c03174e26e4dbf8a52&",
+            "url_hash": "97ffba8c36995ee1d561a4d0c7c1c2cb5de93f0d7a4dc591a90ffc40b92fdd34",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-12 23:53:27"
+        },
+        {
+            "id": 1341,
+            "url": "https://www.youtube.com/@FPGAsforBeginners)",
+            "url_hash": "981927599d2fb23cfc7a44d9e68bef7567300d5db62b173fe63704fbdee3f063",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-12 16:31:35"
+        },
+        {
             "id": 366,
             "url": "https://cdn.discordapp.com/attachments/828757482717315162/1418411104014434355/undefined_-_Imgur_1.mp4?ex=68ce05c8&is=68ccb448&hm=ce7eb073af40fb05a4e87bcf54169f95ab906f204ca7f96327178711eb109713&",
             "url_hash": "984684a6276c5366f6506acbae381e4fdb6ed04cce96bb22434c309db98ab237",
@@ -8978,6 +9055,17 @@
             "last_update": "2025-11-27 11:40:05"
         },
         {
+            "id": 1336,
+            "url": "https://fixupx.com/PressSec/status/1973788171008933974",
+            "url_hash": "a73e17a4ca6311c96d7c5e6b0757c07ed319c9b0b41fa502fd8cb13620f5171a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/PressSec/status/1973788171008933974",
+            "last_update": "2025-12-12 09:39:40"
+        },
+        {
             "id": 39,
             "url": "https://www.tiktok.com/@ayeashhh/video/7536577188926180622",
             "url_hash": "a7549025320cd572255225b20c7dd1d4ac78bf23132ae47162665e7bee08aca2",
@@ -9033,6 +9121,17 @@
             "last_update": "2025-11-02 02:54:31"
         },
         {
+            "id": 1343,
+            "url": "https://tenor.com/view/ifunny-watermark-gif-24716749",
+            "url_hash": "a8703206d0083a0d236b5745928d4690ef5ad7340cfc1533f08e54a288006b4f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-12 21:50:26"
+        },
+        {
             "id": 1102,
             "url": "https://www.youtube.com/watch?v=zr-eZ_pLTNI",
             "url_hash": "a89cc9ae1cc7f6ffd0042d67e0b46248497fe06b14cce45cecce519d495ddde2",
@@ -9069,12 +9168,12 @@
             "id": 975,
             "url": "https://tenor.com/view/lizard-gif-8049906864422965904",
             "url_hash": "a9381413c8d14d589c274c74ce40aa79a8d78b9b081daf3f6d099a83402b8587",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-12-11 08:11:37"
+            "last_update": "2025-12-12 10:29:47"
         },
         {
             "id": 631,
@@ -9528,6 +9627,17 @@
             "last_update": "2025-10-19 18:42:47"
         },
         {
+            "id": 1342,
+            "url": "https://www.macrotrends.net/global-metrics/countries/ind/india/unemployment-rate`",
+            "url_hash": "af79523b1768d53ba19fb158a822c2e260d1a732bd40e34b12713137d7e56b82",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.macrotrends.net/global-metrics/countries/ind/india/unemployment-rate`",
+            "last_update": "2025-12-12 18:45:43"
+        },
+        {
             "id": 1136,
             "url": "https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/",
             "url_hash": "af965d6b993a14be040054046a3547d84e48e817153772305b43816fe239767f",
@@ -9779,6 +9889,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-05 22:38:45"
+        },
+        {
+            "id": 1346,
+            "url": "https://tenor.com/view/big-brain-genius-math-mega-brain-tek-gif-27194141",
+            "url_hash": "b3243cb74327dadfd48ad1e6e88687146fecea3beab0603b8f122b8b0b96af2a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-13 06:26:58"
         },
         {
             "id": 449,
@@ -11475,6 +11596,17 @@
             "last_update": "2025-11-10 15:12:51"
         },
         {
+            "id": 1338,
+            "url": "https://tenor.com/view/burnice-burnice-white-processing-loading-gif-7773722438876998253",
+            "url_hash": "d1fe304179a92dcd10b5c65f699626b4be07acf0827569d3b7ba20947fbab716",
+            "times_seen": 3,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-12 21:50:09"
+        },
+        {
             "id": 414,
             "url": "https://fixupx.com/realMaalouf/status/1970148181817033056",
             "url_hash": "d20128eb1dd77d8643e3c2ff4a3dfe08e0c1ffb237d07a392e88fe091ea30a49",
@@ -12320,6 +12452,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-14 15:45:48"
+        },
+        {
+            "id": 1348,
+            "url": "https://fixupx.com/WallStreetApes/status/1999335411190235560",
+            "url_hash": "dfafde73e30da99940cdfcad650f58f1d92c0a385244ce59d7804fcef5e8f0cf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/WallStreetApes/status/1999335411190235560",
+            "last_update": "2025-12-13 07:05:35"
         },
         {
             "id": 81,

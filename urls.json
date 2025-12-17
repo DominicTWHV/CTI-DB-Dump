@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1369,
+    "num_of_entries": 1383,
     "links": [
         {
             "id": 1292,
@@ -519,6 +519,17 @@
             "last_update": "2025-10-28 10:31:32"
         },
         {
+            "id": 1426,
+            "url": "https://www.youtube.com/watch?v=1iTI4boh6hI",
+            "url_hash": "0a8639b0e6e88c0accba6d84df1b976d515c75ed35158cc99beef77706dccfa2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 15:04:14"
+        },
+        {
             "id": 386,
             "url": "https://tenor.com/view/get-a-load-of-this-gif-2218387369813418815",
             "url_hash": "0a8cfade1b29932f81b421f0b3b7752e8d289fce03b62255cd13ea35a4070efa",
@@ -937,6 +948,17 @@
             "last_update": "2025-10-16 19:32:39"
         },
         {
+            "id": 1437,
+            "url": "https://a.aliexpress.com/_Ewruclq",
+            "url_hash": "10f34a8800490684b4c6f9b4fa009f7e5c427dff210e65114457f4e1f7634659",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-17 05:12:23"
+        },
+        {
             "id": 1325,
             "url": "https://tenor.com/view/agartha-vril-ashtar-sheran-gif-10695907235911658484",
             "url_hash": "112adf740c8bc92ed9eadcde01a9817a022bdd1941dd6f094aa795c4fb8a9c6d",
@@ -1012,6 +1034,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/BrandonRichards/status/1978961230539718972",
             "last_update": "2025-10-17 05:04:21"
+        },
+        {
+            "id": 1435,
+            "url": "https://youtube.com/shorts/GaBeALGtO_I?feature=share",
+            "url_hash": "12144738a8ec90766de5a45687369f7afad332ea6568c949ddb528a1fda8c5c0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 20:12:46"
         },
         {
             "id": 555,
@@ -1729,6 +1762,17 @@
             "last_update": "2025-10-16 00:05:15"
         },
         {
+            "id": 1433,
+            "url": "https://digilent.com/shop/products/fpga-boards/?FPGAFamily=Artix-7",
+            "url_hash": "1e908f0455ee10af522b3f5f181cbc0f66a28df776b6ab8bb65a281f54d8c896",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://digilent.com/shop/products/fpga-boards/?FPGAFamily=Artix-7",
+            "last_update": "2025-12-16 20:01:39"
+        },
+        {
             "id": 971,
             "url": "https://fixupx.com/HasansOldTweets/status/1988233817715360094",
             "url_hash": "1e9ed66bdee5597cefed007516174bd671efe12f65f4ef6417626bc65fff2dd3",
@@ -2213,6 +2257,17 @@
             "last_update": "2025-11-03 09:29:54"
         },
         {
+            "id": 1432,
+            "url": "https://www.youtube.com/watch?v=zTsHbEIOM2A",
+            "url_hash": "278474d0255d1309173153848e22580223b27e7444e873d06c19b538572d956a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 20:01:02"
+        },
+        {
             "id": 98,
             "url": "https://x.com/tatapomn/status/1956923958751850949",
             "url_hash": "285dd519c39001142c01208f891bbb7dc008bdf678242f91c563b593fe2ea68f",
@@ -2222,6 +2277,17 @@
             "is_redirect": 0,
             "downstream_target": "https://x.com/tatapomn/status/1956923958751850949",
             "last_update": "2025-08-17 09:38:37"
+        },
+        {
+            "id": 1425,
+            "url": "https://en.wikipedia.org/wiki/Metal_fume_fever",
+            "url_hash": "28ddcbd279eda181516c2ee98454439bf63c2d1a807254b14b06277ec21482a6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 14:34:03"
         },
         {
             "id": 438,
@@ -3852,6 +3918,17 @@
             "last_update": "2025-10-07 15:13:56"
         },
         {
+            "id": 1431,
+            "url": "https://www.youtube.com/watch?v=78tkdc6Lq_8",
+            "url_hash": "44399a2ed30a80da0b642ba463439f6ba3e322769641cea747464da7f3ca48a1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 20:01:02"
+        },
+        {
             "id": 932,
             "url": "https://tenor.com/view/discord-gif-5727361848313473027",
             "url_hash": "443b0b780c79ea175a3c50d032eb83cef646ea5070dd3381b1c1767eae902ddc",
@@ -4928,6 +5005,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-02 20:25:05"
+        },
+        {
+            "id": 1434,
+            "url": "https://digilent.com/shop/cora-z7-zynq-7000-single-core-for-arm-fpga-soc-development/",
+            "url_hash": "57715615ed2ce5c4f74f9eeca8ee0e276db20ad087d97b89fe148389765f9299",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 20:01:39"
         },
         {
             "id": 413,
@@ -7526,6 +7614,17 @@
             "last_update": "2025-08-25 11:53:04"
         },
         {
+            "id": 1436,
+            "url": "https://cdn.discordapp.com/attachments/426116061415342080/1450615330035601479/20251216-192925-zolam-id6852588.mp4?ex=69432e4d&is=6941dccd&hm=404974b129a9d338a7835b7ac724f397f08c9b1719a0a65294567ed3db535676&",
+            "url_hash": "86bbcf1a0150e1bc0628f6ee4e36a7dd6b6e0a7aa93cab33a7c3e80934c57850",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 22:46:39"
+        },
+        {
             "id": 304,
             "url": "https://tenor.com/view/spongebob-technology-patrick-hung-gif-5567497",
             "url_hash": "86c1ca2ccee55c2c888e085a664e7954bf3d7c2dead4e1c03fc6a05b374b6cd4",
@@ -7801,6 +7900,17 @@
             "last_update": "2025-08-18 00:42:42"
         },
         {
+            "id": 1430,
+            "url": "https://github.com/HDLForBeginners/Toolbox/tree/main/ip_repo/rmii_axis_1_0/src",
+            "url_hash": "8a96485ea1c7b81e59abbf1351e6cbe986a6b5ed29de2d49da8278249419cccc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 20:01:02"
+        },
+        {
             "id": 1106,
             "url": "https://cdn.discordapp.com/attachments/1160679483943174205/1441866004249575645/RPReplay_Final1609657829.mov?ex=692359db&is=6922085b&hm=c90396a02bf2d50ad64ac31da560f01e94f12c53261c398e6c8afc4d55274944&",
             "url_hash": "8aecf9200ee154750be81e06aab5a7441f4ffccf5ed764608729130859526318",
@@ -8052,6 +8162,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-02 06:38:29"
+        },
+        {
+            "id": 1424,
+            "url": "https://www.cnn.com/world/live-news/bondi-beach-gunshots-reported-12-14-25",
+            "url_hash": "8e53576669ab950b51aa0ded7c65b946acdc55cf504b00461b3a528efb5f238f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.cnn.com/world/live-news/bondi-beach-gunshots-reported-12-14-25",
+            "last_update": "2025-12-16 12:28:19"
         },
         {
             "id": 1062,
@@ -8736,6 +8857,17 @@
             "last_update": "2025-09-18 18:09:28"
         },
         {
+            "id": 1427,
+            "url": "https://www.aliexpress.com/item/1005007799779716.html?",
+            "url_hash": "991c1d2ebb7993b163516944a3a9169dafd037711170c2e9f4e4559b5b1fe9fb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 15:06:56"
+        },
+        {
             "id": 333,
             "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1417066703661170809/VID_20250915_163529.mp4?ex=68c921b5&is=68c7d035&hm=d659baf4296bef5ccce8cb6ebb1c6af7e1a843122d10b69cae0877d6f0725b93&",
             "url_hash": "992677ffca29de181420e646d828bfc7daa7b7db2cae237bacd91d4f08605bc5",
@@ -8811,6 +8943,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-29 14:26:25"
+        },
+        {
+            "id": 1429,
+            "url": "https://youtu.be/I8c5DLJgS3o?si=hWfxkz8LoY-UOZJe",
+            "url_hash": "99f0755d26adb9218fce04ea8a3e7dcd9283e62502100386ca607c4c6a213b3b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 15:36:24"
         },
         {
             "id": 1269,
@@ -8910,6 +9053,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 13:27:39"
+        },
+        {
+            "id": 1428,
+            "url": "https://www.youtube.com/watch?v=Dn2PFebi2ww",
+            "url_hash": "9b5652cdf1a8666ebe0437b9bea266e5fe84f0c24f39050f542eef44ad594c04",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-16 15:08:48"
         },
         {
             "id": 1370,

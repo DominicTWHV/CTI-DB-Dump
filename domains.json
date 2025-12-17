@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 182,
+    "num_of_entries": 184,
     "domains": [
         {
             "domain": "a.co",
@@ -35,11 +35,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 55,
+            "times_seen": 57,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-12-16 02:28:52"
+            "last_update": "2025-12-17 05:12:23"
         },
         {
             "domain": "aliexpress.us",
@@ -210,6 +210,14 @@
             "last_update": "2025-12-08 10:31:40"
         },
         {
+            "domain": "cnn.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "News",
+            "is_whitelisted": 1,
+            "last_update": "2025-12-16 12:28:19"
+        },
+        {
             "domain": "core-electronics.com.au",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -290,6 +298,14 @@
             "last_update": "2025-11-25 05:03:30"
         },
         {
+            "domain": "digilent.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 1,
+            "last_update": "2025-12-16 20:01:39"
+        },
+        {
             "domain": "discord.com",
             "times_seen": 18,
             "scan_result": "[DATA REDACTED]",
@@ -299,11 +315,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 336,
+            "times_seen": 337,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-15 22:49:15"
+            "last_update": "2025-12-16 22:46:39"
         },
         {
             "domain": "discordapp.net",
@@ -499,11 +515,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 28,
+            "times_seen": 29,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-12-12 10:21:19"
+            "last_update": "2025-12-16 20:01:02"
         },
         {
             "domain": "github.io",
@@ -1387,11 +1403,11 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 23,
+            "times_seen": 24,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-12-06 15:43:29"
+            "last_update": "2025-12-16 14:34:03"
         },
         {
             "domain": "x.com",
@@ -1427,19 +1443,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 76,
+            "times_seen": 77,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-16 05:16:11"
+            "last_update": "2025-12-16 15:36:24"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 132,
+            "times_seen": 137,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-15 19:53:51"
+            "last_update": "2025-12-16 20:12:46"
         },
         {
             "domain": "yxtwitter.com",

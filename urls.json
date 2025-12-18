@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1383,
+    "num_of_entries": 1388,
     "links": [
         {
             "id": 1292,
@@ -1135,6 +1135,17 @@
             "last_update": "2025-10-31 14:52:41"
         },
         {
+            "id": 1440,
+            "url": "https://fixupx.com/dewperland/status/2001307979979632685?s=20",
+            "url_hash": "1465bdd18fde2f9257fae973cd4ea1cc33b1aa4dff2e95ca9a86ebebc208d727",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/dewperland/status/2001307979979632685?s=20",
+            "last_update": "2025-12-18 00:07:18"
+        },
+        {
             "id": 645,
             "url": "https://tenor.com/view/rb2g-ruben-thinking-hmm-interesting-gif-17975457834768816111",
             "url_hash": "148c8608dc818dc4401bf73dac41869cb0cbfcc3a5d7fd31f76fdf18f42e6375",
@@ -1870,6 +1881,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 18:55:21"
+        },
+        {
+            "id": 1439,
+            "url": "https://www.kkinstagram.com/reel/DSKY8e1iEsW/?igsh=ZGhlMzN1cWFoODZx",
+            "url_hash": "20b78101f7c10abd1454dc027c125ccffb82c30f81ca2078621abe4fe8dcbb96",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-17 23:45:33"
         },
         {
             "id": 571,
@@ -4996,6 +5018,17 @@
             "last_update": "2025-08-24 14:54:00"
         },
         {
+            "id": 1438,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1450977661773156432/videoplayback_14.mp4?ex=69447fc0&is=69432e40&hm=94b847fd1e4f6b194caec60fc4db1434bc022a8650fe3869254174ec2cb17d0e&",
+            "url_hash": "576775659d60630527f4494086bd8e3aedbf384329fadcb4eeb99aa4d59e35a1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-17 22:56:36"
+        },
+        {
             "id": 882,
             "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1434639472217166072/AQP4TvhfJFn9oK_IUq6wJucJem926pK4qrSuZZilfAzzmMihyr61PzzG3KK4ODKhdPZLJvjrA5hW8cdq_QV_xqaR6cXY8OgKoptsYeY.mp4?ex=69090fa0&is=6907be20&hm=d02e68d82ab3e9a5c32411b238bbf31a58382c6b72c1fc24449e9396f0a19468&",
             "url_hash": "576f378f3d3af607e955564483732dc14f96d6ae4a76585c006ca669051c80c1",
@@ -6721,6 +6754,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-02 02:53:23"
+        },
+        {
+            "id": 1441,
+            "url": "https://youtu.be/5uiroWBkdFY?t=116",
+            "url_hash": "76b012afc57026152c85c98b450323fc3d01dc3ceef970dcf005669e2a16fbdb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-18 00:58:25"
         },
         {
             "id": 534,
@@ -11385,6 +11429,17 @@
             "is_redirect": 0,
             "downstream_target": "https://share.redd.it/preview/post/1oh1dmg",
             "last_update": "2025-10-28 04:35:40"
+        },
+        {
+            "id": 1442,
+            "url": "https://www.youtube.com/shorts/KVGrqtWzMew",
+            "url_hash": "c10fbad2d2113a013f943a3829b5270f019efdffdedab289211e53430bb609a1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-18 01:04:54"
         },
         {
             "id": 580,

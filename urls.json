@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1388,
+    "num_of_entries": 1396,
     "links": [
         {
             "id": 1292,
@@ -1606,6 +1606,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-26 00:27:23"
+        },
+        {
+            "id": 1443,
+            "url": "https://www.hackster.io/news/science-art-and-nostalgia-combined-hands-on-with-the-rc2014-mini-ii-picasso-8686eb339d59",
+            "url_hash": "1c1e08c4ff8183af620551debfefc46ac5b4548fdf1e9f4fe9ef8e63ab478c6d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.hackster.io/news/science-art-and-nostalgia-combined-hands-on-with-the-rc2014-mini-ii-picasso-8686eb339d59",
+            "last_update": "2025-12-18 11:10:32"
         },
         {
             "id": 729,
@@ -6998,6 +7009,17 @@
             "last_update": "2025-11-12 06:49:39"
         },
         {
+            "id": 1447,
+            "url": "https://cdn.discordapp.com/attachments/836619143246774333/1451179132594552842/VID_20251218_063909_043.mp4?ex=69453b62&is=6943e9e2&hm=09cef5e9a73be8380de9160a5e29409a6cd9392fb7500d172f89797622afcfb5&",
+            "url_hash": "7b60d45a7c9a12d68d1fac5d0318f3fe5028e833d25e20420324ef3673b58f29",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-18 22:16:37"
+        },
+        {
             "id": 1288,
             "url": "https://fixupx.com/BasilTheGreat/status/1997991996036624532",
             "url_hash": "7b8c59d5cf343d0b6e807e1b6b540b5a0700f1a6df93dce9f8d4b9b02534ce7f",
@@ -8813,6 +8835,17 @@
             "last_update": "2025-09-01 03:28:59"
         },
         {
+            "id": 1450,
+            "url": "https://fixupx.com/Enezator/status/2001624485355565524?s=20",
+            "url_hash": "97c70c28adcf61d10ab41101ff72f804e6c81dbd04a193ecc9e328312b6c147c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Enezator/status/2001624485355565524?s=20",
+            "last_update": "2025-12-19 03:36:10"
+        },
+        {
             "id": 1344,
             "url": "https://cdn.discordapp.com/attachments/1448273057561972808/1449187423555817584/VID_20251211_135531_533.mp4?ex=693dfc76&is=693caaf6&hm=9f5850b61692c80704a38d5d53329051530ff7a14a5af0c03174e26e4dbf8a52&",
             "url_hash": "97ffba8c36995ee1d561a4d0c7c1c2cb5de93f0d7a4dc591a90ffc40b92fdd34",
@@ -9119,6 +9152,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-14 07:21:14"
+        },
+        {
+            "id": 1445,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1451273941988675786/VID_20251218_210111.mp4?ex=694593af&is=6944422f&hm=39b7c572bc2a32a9c174c3b7ce813b26ffadeccbd07f1d846ccd3c5a3cc7c39c&",
+            "url_hash": "9b800e7651b2f7de2224610a2edb1feeffcaeb371de6a1e5e4c3ffea026f6b56",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-18 18:04:32"
         },
         {
             "id": 508,
@@ -10452,6 +10496,17 @@
             "last_update": "2025-10-19 03:52:13"
         },
         {
+            "id": 1446,
+            "url": "https://cdn.discordapp.com/attachments/1080026923209609286/1451300183114649640/PXL_20251218_1612165832.mp4?ex=6945ac1f&is=69445a9f&hm=946f233466d30dec2cf824e92b501d65237242e866445ba1b026d4b97ecd9bce&",
+            "url_hash": "affce7978e64eb12347792d25bc62c078642748e90169a3a7cecf77bc13d8165",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-18 19:48:48"
+        },
+        {
             "id": 893,
             "url": "https://cdn.discordapp.com/attachments/836619143246774333/1434615377517871236/VID_20251102_125553_049.mp4?ex=690a4aaf&is=6908f92f&hm=1888cf12ff83d6da40020f4d5f81822a813560c8b818cba2f2998401da94972e&",
             "url_hash": "b04f0b19fb9bf0aa2a50837a5900887190c89b2573602796cdcac839e005f19b",
@@ -11453,6 +11508,17 @@
             "last_update": "2025-10-08 11:29:03"
         },
         {
+            "id": 1449,
+            "url": "https://tenor.com/view/correct-buzzer-gif-2734535025370049889",
+            "url_hash": "c16f378f3804af5e394bdde94a535c77987a40008d098da3dc3476e11587d550",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-19 00:22:32"
+        },
+        {
             "id": 1109,
             "url": "https://cdn.discordapp.com/attachments/1236947272743518258/1442135994248728586/VID_20251123_045310_831.mp4?ex=6924554e&is=692303ce&hm=86c774a9d2c46a2f6da1ff1fdff8a2893b4bb9457a724cdf915fd0fe9b70728b&",
             "url_hash": "c17bcda922e8808676b07ead96720a60f90880069e33873ce55c7d41c8fd1e68",
@@ -12201,6 +12267,17 @@
             "last_update": "2025-10-08 22:02:14"
         },
         {
+            "id": 1444,
+            "url": "https://youtube.com/shorts/E8Z9kFdE-3o?si=kWvwBloRUnJ-yCJV",
+            "url_hash": "cd67224c5ba254f2be5cf56196b318144c5a8f2eacf229dee13aa6786dea6ad3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-18 11:54:29"
+        },
+        {
             "id": 305,
             "url": "https://tenor.com/view/sealyx-naked-gun-the-naked-gun-facepalm-facepalm-meme-gif-11743768702765397589",
             "url_hash": "cd6bd5a72e2c7699d238bd32d240af3a6a7a5e64aa6370e1f7105d7a95b58024",
@@ -12507,6 +12584,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-10 15:12:51"
+        },
+        {
+            "id": 1448,
+            "url": "https://www.aliexpress.com/item/1005004537069763.html",
+            "url_hash": "d1fb931b529ebf828fd6adf31368b63bf1bbdc1af4299bc95b8dda3dd656d8bd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-18 22:57:58"
         },
         {
             "id": 1338,

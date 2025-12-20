@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1396,
+    "num_of_entries": 1403,
     "links": [
         {
             "id": 1292,
@@ -176,6 +176,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/jackunheard/status/1996987152157048868",
             "last_update": "2025-12-06 00:41:04"
+        },
+        {
+            "id": 1455,
+            "url": "https://www.aliexpress.com/item/621567417.html",
+            "url_hash": "0364387752f5d93d7ef588f83a01cb23dd08b582382227aadca525dbda3901fb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-19 23:50:19"
         },
         {
             "id": 123,
@@ -5403,6 +5414,17 @@
             "last_update": "2025-12-15 19:58:04"
         },
         {
+            "id": 1454,
+            "url": "https://youtu.be/BDmQERjdUvg",
+            "url_hash": "5eebc343f2f6152b14f1ea622128d8c4a0947b1c77728696e78c190a1d556214",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-19 19:50:25"
+        },
+        {
             "id": 234,
             "url": "https://github.com/M-Marvin/APP-SerialPortUtility",
             "url_hash": "5efb7dc7b3f1a89a4235a2d5a4b1f3edc156814467ffda4e556e6eec43020c88",
@@ -6305,6 +6327,17 @@
             "last_update": "2025-11-19 06:47:00"
         },
         {
+            "id": 1456,
+            "url": "https://www.aliexpress.com/item/4000541087990.html",
+            "url_hash": "6e8276aca9f4b141e15d67ad54e1e7d2b22d69f9acb1f3b424831812b59fa53e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-19 23:50:30"
+        },
+        {
             "id": 362,
             "url": "https://www.kkinstagram.com/reel/DN-64ChE95I/?utm_source=ig_web_copy_link",
             "url_hash": "6ed3b6563dd4441d38d4caeb5f2669055607608941c086dc0e539dadc594ee81",
@@ -6875,6 +6908,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-11 23:33:53"
+        },
+        {
+            "id": 1457,
+            "url": "https://fixupx.com/junk_PC_clinic/status/2001922503556665444?s=20",
+            "url_hash": "795af18be4d7a0cceb8ff644da62c832c90356957e2949cf72b73fa5c9124fc3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/junk_PC_clinic/status/2001922503556665444?s=20",
+            "last_update": "2025-12-20 05:28:49"
         },
         {
             "id": 240,
@@ -8030,6 +8074,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.instagram.com/reel/DNLM-UAxQmU/?igsh=aG5qYzRqZG9lenQ3",
             "last_update": "2025-08-15 10:13:40"
+        },
+        {
+            "id": 1453,
+            "url": "https://cdn.discordapp.com/attachments/771109552858202173/1451580167645434017/Chime.mov?ex=6946b0e1&is=69455f61&hm=32a3c6e23c316e757139461f5482f9169b178c1d3354235497fc8824d6c112d7&",
+            "url_hash": "8bc323fe16138a2918afa97417234128e4450d8d5fb9a78bed196af86f9efe44",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-19 14:21:22"
         },
         {
             "id": 126,
@@ -12058,6 +12113,17 @@
             "last_update": "2025-10-08 05:38:05"
         },
         {
+            "id": 1451,
+            "url": "https://cdn.discordapp.com/attachments/771109552858202173/1451507532773326933/VID_20251218_210111.mp4?ex=69466d3b&is=69451bbb&hm=6ec5f54b815febbc940643170a8c45773ec1b5012b4f6e8f98c40dfb98fcb914&",
+            "url_hash": "c987324c68b23be229938de5e42b6f5c2138246b18e79721fc954a27750b966a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-19 09:32:44"
+        },
+        {
             "id": 1247,
             "url": "https://a.aliexpress.com/_c3ov6lQp",
             "url_hash": "c98cdf9210ee6d1f6ff04c74ed55e67e60c39fe5a114274da516cdf5a7787a56",
@@ -14597,6 +14663,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-02 13:25:01"
+        },
+        {
+            "id": 1452,
+            "url": "https://www.networkdatapedia.com/post/sentimental-sundays-sampo-9519",
+            "url_hash": "f306cf85bb9bd38f90f7f81b1d8aa7f1a08002cdd6743d3eeeeb23cd9f79592e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.networkdatapedia.com/post/sentimental-sundays-sampo-9519",
+            "last_update": "2025-12-19 09:48:17"
         },
         {
             "id": 626,

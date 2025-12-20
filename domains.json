@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 185,
+    "num_of_entries": 186,
     "domains": [
         {
             "domain": "a.co",
@@ -35,11 +35,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 58,
+            "times_seen": 60,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-12-18 22:57:58"
+            "last_update": "2025-12-19 23:50:30"
         },
         {
             "domain": "aliexpress.us",
@@ -315,11 +315,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 341,
+            "times_seen": 343,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-18 22:16:37"
+            "last_update": "2025-12-19 14:21:22"
         },
         {
             "domain": "discordapp.net",
@@ -443,11 +443,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 131,
+            "times_seen": 132,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-12-19 03:35:49"
+            "last_update": "2025-12-20 05:28:28"
         },
         {
             "domain": "foodnetwork.com",
@@ -880,6 +880,14 @@
             "typing": "Unknown",
             "is_whitelisted": 0,
             "last_update": "2025-11-28 20:52:56"
+        },
+        {
+            "domain": "networkdatapedia.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2025-12-19 09:48:17"
         },
         {
             "domain": "newegg.com",
@@ -1451,11 +1459,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 78,
+            "times_seen": 79,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-18 00:58:25"
+            "last_update": "2025-12-19 19:50:25"
         },
         {
             "domain": "youtube.com",

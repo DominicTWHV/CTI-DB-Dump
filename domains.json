@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 186,
+    "num_of_entries": 187,
     "domains": [
         {
             "domain": "a.co",
@@ -35,19 +35,19 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 60,
+            "times_seen": 61,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-12-19 23:50:30"
+            "last_update": "2025-12-21 03:30:16"
         },
         {
             "domain": "aliexpress.us",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2025-08-13 18:15:41"
+            "last_update": "2025-12-20 22:22:51"
         },
         {
             "domain": "alldatasheet.com",
@@ -307,19 +307,19 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 18,
+            "times_seen": 20,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-14 09:08:19"
+            "last_update": "2025-12-21 13:13:41"
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 343,
+            "times_seen": 347,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-19 14:21:22"
+            "last_update": "2025-12-21 13:32:27"
         },
         {
             "domain": "discordapp.net",
@@ -696,6 +696,14 @@
             "typing": "Blog",
             "is_whitelisted": 1,
             "last_update": "2025-08-10 21:32:08"
+        },
+        {
+            "domain": "jestineyong.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2025-12-20 18:52:03"
         },
         {
             "domain": "jkbms.com",
@@ -1211,11 +1219,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 315,
+            "times_seen": 321,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-19 00:22:32"
+            "last_update": "2025-12-22 05:13:15"
         },
         {
             "domain": "tensorflow.org",
@@ -1259,11 +1267,11 @@
         },
         {
             "domain": "tomshardware.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-10-11 23:38:11"
+            "last_update": "2025-12-20 11:42:37"
         },
         {
             "domain": "top500.org",
@@ -1427,11 +1435,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 58,
+            "times_seen": 59,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-12-11 08:29:58"
+            "last_update": "2025-12-21 09:31:14"
         },
         {
             "domain": "xda-developers.com",
@@ -1459,11 +1467,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 79,
+            "times_seen": 83,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-19 19:50:25"
+            "last_update": "2025-12-21 01:16:00"
         },
         {
             "domain": "youtube.com",

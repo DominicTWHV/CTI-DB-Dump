@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 191,
+    "num_of_entries": 193,
     "domains": [
         {
             "domain": "a.co",
@@ -51,11 +51,11 @@
         },
         {
             "domain": "alldatasheet.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Information Provider",
+            "typing": "",
             "is_whitelisted": 0,
-            "last_update": "2025-10-12 15:23:29"
+            "last_update": "2025-12-25 20:13:56"
         },
         {
             "domain": "amazon.ca",
@@ -331,11 +331,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 355,
+            "times_seen": 361,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-24 00:14:16"
+            "last_update": "2025-12-25 21:57:38"
         },
         {
             "domain": "discordapp.net",
@@ -560,6 +560,14 @@
             "typing": "Knowledge",
             "is_whitelisted": 0,
             "last_update": "2025-11-04 08:26:03"
+        },
+        {
+            "domain": "gitlab.io",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "",
+            "is_whitelisted": 0,
+            "last_update": "2025-12-25 15:52:41"
         },
         {
             "domain": "gofund.me",
@@ -1251,11 +1259,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 328,
+            "times_seen": 335,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-24 22:02:15"
+            "last_update": "2025-12-26 00:06:58"
         },
         {
             "domain": "tensorflow.org",
@@ -1264,6 +1272,14 @@
             "typing": "Education",
             "is_whitelisted": 1,
             "last_update": "2025-10-19 06:07:42"
+        },
+        {
+            "domain": "thingiverse.com",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "",
+            "is_whitelisted": 0,
+            "last_update": "2025-12-25 15:13:14"
         },
         {
             "domain": "threads.com",
@@ -1507,11 +1523,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 143,
+            "times_seen": 146,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-24 17:42:37"
+            "last_update": "2025-12-25 17:03:36"
         },
         {
             "domain": "yxtwitter.com",

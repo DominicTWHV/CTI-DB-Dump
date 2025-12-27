@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1480,
+    "num_of_entries": 1482,
     "links": [
         {
             "id": 1292,
@@ -5379,6 +5379,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.espressif.com/en/products/modules",
             "last_update": "2025-09-14 21:38:34"
+        },
+        {
+            "id": 1537,
+            "url": "https://tenor.com/view/wago-221-elektriker-elektroinstallateur-buschi-gif-20189870",
+            "url_hash": "5a2c53ec5b11f8c91bebf7106bf04b9a5c0fe3e1540d171e73441a00c5bf1f7e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-26 20:33:34"
         },
         {
             "id": 461,
@@ -13983,6 +13994,17 @@
             "last_update": "2025-08-16 11:36:52"
         },
         {
+            "id": 1536,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1454207576114728980/20251226_214142_1_1.mp4?ex=69503fd8&is=694eee58&hm=44360e6a3c10d5526a4743383d8316a46c01edd2de7678d741de6d09c71ceebf&",
+            "url_hash": "da3500e49cb87716ea23768e85a95782a13fa251ae3a5370977bf1d25238290b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-26 20:21:45"
+        },
+        {
             "id": 572,
             "url": "https://youtu.be/1f0sOlFjgy4?si=vrKbJeu1QAWz6T6p",
             "url_hash": "da7f0aedd47db836adae66e1fa4d9160ab4fca8b0a2d1662a892cab278996d0b",
@@ -14657,12 +14679,12 @@
             "id": 5,
             "url": "https://tenor.com/view/because-billy-on-the-street-gif-19193048",
             "url_hash": "e4cdf521c56882b186713ca03913b0b717588afeccdc91fa8da40c171565bbbb",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/because-billy-on-the-street-gif-19193048",
-            "last_update": "2025-08-09 13:40:02"
+            "last_update": "2025-12-26 20:32:04"
         },
         {
             "id": 966,

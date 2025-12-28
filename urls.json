@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1482,
+    "num_of_entries": 1486,
     "links": [
         {
             "id": 1292,
@@ -1177,6 +1177,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-31 14:52:41"
+        },
+        {
+            "id": 1540,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1454579964400636056/VID_20250112_092603478.mp4?ex=69519aa8&is=69504928&hm=eaea98ef1b64e9dd1da9361b740972d80db2ef8573d3e9e23e3f4df417c75915&",
+            "url_hash": "1402512d63154e8413f693be19bcef229b4904d54fc4fc252f0097272aa60323",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-27 21:01:29"
         },
         {
             "id": 1474,
@@ -4666,6 +4677,17 @@
             "last_update": "2025-12-08 11:06:37"
         },
         {
+            "id": 1541,
+            "url": "https://www.aliexpress.com/item/1005004049675930.html?",
+            "url_hash": "4b82d120c4fd166b3d1f2a614fc3a093b835847d6dbfeb4c87a04214141d7c16",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-27 23:49:28"
+        },
+        {
             "id": 202,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1411302544638214287/lv_0_20250830124955.mp4?ex=68b4296b&is=68b2d7eb&hm=6634f273fcdc09cc12aec64de61fd4bcef93e1a00aa43c8311060740e66af676&",
             "url_hash": "4b86ec115245e95b3d64a28a3665c5d77f5eef35eaa92db1bb605fe3a7f96f89",
@@ -5709,6 +5731,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-01 08:35:42"
+        },
+        {
+            "id": 1539,
+            "url": "https://github.com/SAlex24/IN-14-Nixie-Clock",
+            "url_hash": "5f6a8ed974ba387b214534f48e4087fbfe88395f05232a08939a3b7ca10d10e6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-27 20:59:06"
         },
         {
             "id": 1406,
@@ -7799,6 +7832,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-07 19:17:08"
+        },
+        {
+            "id": 1538,
+            "url": "https://x.com/MacroWorld21/status/2004723562155049126?s=20",
+            "url_hash": "818e5e651b7a49859a092535e1b1dfe544fd5117af7cdcb43da327411f190a2a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-27 06:36:10"
         },
         {
             "id": 147,

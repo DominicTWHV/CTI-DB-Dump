@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1515,
+    "num_of_entries": 1529,
     "links": [
         {
             "id": 1292,
@@ -319,6 +319,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-23 01:17:51"
+        },
+        {
+            "id": 1575,
+            "url": "https://youtu.be/tvO-LTGIrXo?si=Bcdy8RE1jUSK7jvL",
+            "url_hash": "05f2bb6497d87b0f08ed0ad748ec98dc2dd9736a0edf31a3edcd9a68b5909bef",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 17:26:14"
         },
         {
             "id": 1154,
@@ -1080,6 +1091,17 @@
             "last_update": "2025-10-09 17:25:02"
         },
         {
+            "id": 1578,
+            "url": "https://tenor.com/view/filthy-frank-screaming-confused-confused-screaming-gif-15736028",
+            "url_hash": "11ba2c67961fda6df968b5a81059bf48e34eefb8bb5ad6f5bdfa76f9d35f97a4",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 20:27:52"
+        },
+        {
             "id": 713,
             "url": "https://fixupx.com/BrandonRichards/status/1978961230539718972",
             "url_hash": "11fb26a9cdeded3845ac6b8b3162dd3ca462dacd03bbd63993704a1e3eb53433",
@@ -1204,12 +1226,12 @@
             "id": 1474,
             "url": "https://tenor.com/view/burnice-chibi-dance-mental-hospital-meme-gif-8373248015025360795",
             "url_hash": "1402c24239e784279f11f1577c6f6c90774da728f57b5c691741bd8fb5fbddb2",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-12-22 05:13:15"
+            "last_update": "2025-12-30 23:39:24"
         },
         {
             "id": 1440,
@@ -1254,6 +1276,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/HasansOldTweets/status/1988233817715360094/video/2",
             "last_update": "2025-11-11 23:28:37"
+        },
+        {
+            "id": 1581,
+            "url": "https://makerworld.com/en/models/2178525-usb-c-digital-calipers-case#profileId-2364000",
+            "url_hash": "14f10b151c72cf9aeed620c74fd23b0cf1b1b40ed9eec4b61c90d2fa671d5ef5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://makerworld.com/en/models/2178525-usb-c-digital-calipers-case#profileId-2364000",
+            "last_update": "2025-12-30 22:52:22"
         },
         {
             "id": 1458,
@@ -2150,12 +2183,12 @@
             "id": 796,
             "url": "https://tenor.com/view/funny-crate-dog-doggo-puppies-gif-16698861",
             "url_hash": "235dc0698d994f6c49cea779e9c043c705052c9bea85bce5a360f41c2f510395",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-10-23 22:12:44"
+            "last_update": "2025-12-30 23:35:31"
         },
         {
             "id": 1268,
@@ -5414,6 +5447,17 @@
             "last_update": "2025-09-05 12:48:23"
         },
         {
+            "id": 1579,
+            "url": "https://youtube.com/shorts/6PxBcdGiQfE?si=9XinmBPp16NdV9Nk",
+            "url_hash": "58c62d7c89a3951c287e9021d33de3c64d620f9ce6a8a88aad3fe5b62976a945",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 22:32:42"
+        },
+        {
             "id": 219,
             "url": "https://tenor.com/view/duck-spin-flippers-gif-18236060",
             "url_hash": "58dc042591490ad1e4075642e3172b453fb4ff5b8c2429ea5feccec2f9fb1e18",
@@ -5577,6 +5621,28 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-05 20:26:37"
+        },
+        {
+            "id": 1573,
+            "url": "https://www.youtube.com/watch?v=9CEsoEfzKfI",
+            "url_hash": "5c4936dac6135e3930c7be7d0c1227600813b3eba2281e60b4ca7e2b7e75c010",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 12:25:25"
+        },
+        {
+            "id": 1576,
+            "url": "https://www.elektor.com/blogs/review-blog/unveiling-the-precision-of-the-fnirsi-hrm-10-battery-resistance-tester",
+            "url_hash": "5c5dac88e349acc2f27f5e229bc683a207f48761ce016afe11a0f0934006a81d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.elektor.com/blogs/review-blog/unveiling-the-precision-of-the-fnirsi-hrm-10-battery-resistance-tester",
+            "last_update": "2025-12-30 17:38:06"
         },
         {
             "id": 1096,
@@ -6215,6 +6281,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-01 22:18:29"
+        },
+        {
+            "id": 1580,
+            "url": "https://github.com/RasmusKoit/caliper-mod",
+            "url_hash": "661dde7e082fbec1b3ad74e5c9e16307848c067c92d135ab5ab585c365d4a348",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 22:51:55"
         },
         {
             "id": 1564,
@@ -7240,6 +7317,17 @@
             "last_update": "2025-09-08 13:43:00"
         },
         {
+            "id": 1582,
+            "url": "https://tenor.com/view/memes-everywhere-gif-25678929",
+            "url_hash": "763506a4f6d3b4f5ae13844cb59c75a163328a602cd9f6f86491070a0740aab7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 23:52:24"
+        },
+        {
             "id": 874,
             "url": "https://youtu.be/O-zNn5k5Bn4",
             "url_hash": "7659de199ff04267160a7d4ac8ffd8ee2b5af66075e09745d05ad8ad67eafcab",
@@ -7716,12 +7804,12 @@
             "id": 1351,
             "url": "https://tenor.com/view/this-is-fine-gif-24177057",
             "url_hash": "7d52455b07fa27e62635b3dfa675881279b835d5be2cdbffa6e462e0c0beab8b",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-12-13 11:14:10"
+            "last_update": "2025-12-30 13:19:42"
         },
         {
             "id": 1053,
@@ -8868,6 +8956,17 @@
             "last_update": "2025-09-18 02:36:46"
         },
         {
+            "id": 1577,
+            "url": "https://tenor.com/view/electroboom-super-capacitor-explosion-electroboom-supercapacitor-explosion-unexpected-funny-gif-16179173524399941413",
+            "url_hash": "8d77b40202a4ed7fd3ce3d0c8add203def2705428fd04f1813429bee14cd14bf",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 19:49:30"
+        },
+        {
             "id": 1123,
             "url": "https://cdn.discordapp.com/attachments/761264702797119528/1442682624538579089/qM5rEap.txt?ex=69265265&is=692500e5&hm=e881b43f09e87191f419dc3b8d36a58a8ba93a3e1803482337abf6b158b0392a&",
             "url_hash": "8d9cafa2747f2f31ea1e7992969c8fe15a83e369b8e255a3c7543d1da349ba04",
@@ -8888,6 +8987,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-23 14:31:39"
+        },
+        {
+            "id": 1572,
+            "url": "https://www.youtube.com/shorts/LGU8ZSR4hQ8",
+            "url_hash": "8e1541726599f9565ea4c6afb413a303d75f41bb595b7d3eead73d35967ac2e5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 12:11:33"
         },
         {
             "id": 405,
@@ -11137,12 +11247,12 @@
             "id": 365,
             "url": "https://tenor.com/view/hmm-interesting-watching-you-curious-stare-anime-girl-looking-at-screen-gif-4083899612055226371",
             "url_hash": "ac1dd460776824e97ca79f66a57ec211270c086400f3d78e78dd6cbadb5c4bbd",
-            "times_seen": 16,
+            "times_seen": 17,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-12-08 13:30:04"
+            "last_update": "2025-12-30 23:19:16"
         },
         {
             "id": 1321,
@@ -12047,6 +12157,17 @@
             "last_update": "2025-12-05 09:38:28"
         },
         {
+            "id": 1583,
+            "url": "https://www.kkinstagram.com/reel/DQdEpcHEuWZ/?igsh=ODQ4aG9naWpuaWI5",
+            "url_hash": "bad13391f96af5ebe7f8acb50fe966d0481da2b1e0ce788fffa33b8579687c9b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-31 04:31:31"
+        },
+        {
             "id": 1238,
             "url": "https://fixupx.com/eternalclassic_/status/1996537465297875251?s=20",
             "url_hash": "baded01972829446828f90416381e3553375fcecc7c58345d56297afca778965",
@@ -12837,6 +12958,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-13 11:15:44"
+        },
+        {
+            "id": 1571,
+            "url": "https://x.com/i/status/2005735419875615159",
+            "url_hash": "c55e6abfac585dc1ea7e149c3ad72c142f1dd3f1939f5617e207b07c40e12b75",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-30 05:47:15"
         },
         {
             "id": 285,
@@ -13678,12 +13810,12 @@
             "id": 1338,
             "url": "https://tenor.com/view/burnice-burnice-white-processing-loading-gif-7773722438876998253",
             "url_hash": "d1fe304179a92dcd10b5c65f699626b4be07acf0827569d3b7ba20947fbab716",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-12-22 05:11:49"
+            "last_update": "2025-12-30 23:32:30"
         },
         {
             "id": 414,
@@ -14577,6 +14709,17 @@
             "last_update": "2025-12-22 12:26:12"
         },
         {
+            "id": 1584,
+            "url": "https://x.com/nocontextmemes/status/2006123397441290303?s=20",
+            "url_hash": "ddd15268e4c27c468448cd06d8897e55bee180c2d0d21f4d6729304fcccdfa84",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-31 04:57:16"
+        },
+        {
             "id": 1030,
             "url": "https://www.reddit.com/r/PrintedCircuitBoard/comments/1keinxe/stop_using_1117_regulators_in_new_designs/",
             "url_hash": "dde1ec8d74d7d0f30475e496ba80682cff308733cf10509b76fb43974babd45a",
@@ -15048,6 +15191,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-24 13:53:02"
+        },
+        {
+            "id": 1585,
+            "url": "https://x.com/TheGreeneBJ/status/2006020309703410139?s=20",
+            "url_hash": "e61c4944e12254fc871445bc5380c2f84c868f48d2eb8c00e65c41936badaaf3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2025-12-31 04:57:52"
         },
         {
             "id": 1246,

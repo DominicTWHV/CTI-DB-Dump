@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 199,
+    "num_of_entries": 201,
     "domains": [
         {
             "domain": "a.co",
@@ -29,9 +29,9 @@
             "domain": "akum.lv",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-12-06 12:10:09"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "aliexpress.com",
@@ -53,9 +53,9 @@
             "domain": "alldatasheet.com",
             "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Knowledge",
             "is_whitelisted": 0,
-            "last_update": "2025-12-25 20:13:56"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "amazon.ca",
@@ -69,9 +69,9 @@
             "domain": "amazon.co.uk",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-12-24 18:49:40"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "amazon.com",
@@ -93,9 +93,9 @@
             "domain": "amazon.de",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-11-13 00:23:40"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "ambientweather.com",
@@ -109,9 +109,9 @@
             "domain": "amzn.eu",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-12-06 12:08:39"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "appcargo.com",
@@ -173,9 +173,9 @@
             "domain": "chargerlab.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-12-23 14:32:22"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "circuitbasics.com",
@@ -309,9 +309,9 @@
             "domain": "digikey.com.au",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-11-25 05:03:30"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "digilent.com",
@@ -331,11 +331,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 369,
+            "times_seen": 375,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2025-12-30 01:33:52"
+            "last_update": "2025-12-31 23:48:46"
         },
         {
             "domain": "discordapp.net",
@@ -373,9 +373,9 @@
             "domain": "elektor.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-12-30 17:38:06"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "elektroda.com",
@@ -469,17 +469,17 @@
             "domain": "fixupinstagram.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-12-24 05:57:59"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 144,
+            "times_seen": 145,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-12-30 01:55:09"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "foodnetwork.com",
@@ -541,17 +541,17 @@
             "domain": "girlcockx.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-10-10 22:43:49"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "github.com",
-            "times_seen": 31,
+            "times_seen": 32,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-12-30 22:51:55"
+            "last_update": "2025-12-31 11:52:36"
         },
         {
             "domain": "github.io",
@@ -563,19 +563,19 @@
         },
         {
             "domain": "githubassets.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 0,
-            "last_update": "2025-11-04 08:26:03"
+            "last_update": "2025-12-31 11:52:20"
         },
         {
             "domain": "gitlab.io",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2025-12-25 15:52:41"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "gofund.me",
@@ -725,9 +725,9 @@
             "domain": "jaycar.com.au",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-11-29 13:28:05"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "jeffgeerling.com",
@@ -795,27 +795,27 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 34,
+            "times_seen": 35,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-12-31 04:31:30"
+            "last_update": "2025-12-31 06:47:10"
         },
         {
             "domain": "kmart.com.au",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-11-25 05:23:25"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "kursi.lv",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-12-06 12:17:24"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "lcsc.com",
@@ -837,9 +837,9 @@
             "domain": "licdn.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2025-10-23 08:16:47"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "linkedin.com",
@@ -869,9 +869,9 @@
             "domain": "loneoceans.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Knowledge",
             "is_whitelisted": 0,
-            "last_update": "2025-12-22 12:25:52"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "lrak.net",
@@ -885,17 +885,17 @@
             "domain": "macrotrends.net",
             "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2025-12-28 17:28:15"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "makerworld.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-12-30 22:52:22"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "mcgill.ca",
@@ -936,6 +936,14 @@
             "typing": "Shopping",
             "is_whitelisted": 1,
             "last_update": "2025-10-09 04:56:18"
+        },
+        {
+            "domain": "mouser.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "multisorb.com",
@@ -997,9 +1005,9 @@
             "domain": "ollama.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2025-12-28 17:30:56"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "omc-stepperonline.com",
@@ -1061,9 +1069,9 @@
             "domain": "peb.rs",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2025-11-18 14:14:42"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "pelonistechnologies.com",
@@ -1122,6 +1130,14 @@
             "last_update": "2025-09-10 01:26:42"
         },
         {
+            "domain": "proxmox.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 0,
+            "last_update": "2025-12-31 11:52:58"
+        },
+        {
             "domain": "prusa3d.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1157,9 +1173,9 @@
             "domain": "reddit.com",
             "times_seen": 25,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-12-28 18:40:56"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "renesas.com",
@@ -1181,9 +1197,9 @@
             "domain": "repebble.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-12-28 16:25:12"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "ros.org",
@@ -1197,17 +1213,17 @@
             "domain": "rotorama.de",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-11-26 23:31:51"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "rubber-keypad.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-10-28 02:30:11"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "segger.com",
@@ -1253,9 +1269,9 @@
             "domain": "sqfmi.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Knowledge",
             "is_whitelisted": 0,
-            "last_update": "2025-12-28 16:26:10"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "stackexchange.com",
@@ -1299,11 +1315,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 354,
+            "times_seen": 361,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-30 23:52:24"
+            "last_update": "2026-01-01 02:55:53"
         },
         {
             "domain": "tensorflow.org",
@@ -1317,9 +1333,9 @@
             "domain": "thingiverse.com",
             "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
-            "typing": "",
+            "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-12-25 15:13:14"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "threads.com",
@@ -1405,9 +1421,9 @@
             "domain": "twimg.com",
             "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2025-10-04 08:29:11"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "twitchorterrorist.com",
@@ -1429,9 +1445,9 @@
             "domain": "ui.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2025-12-04 08:16:03"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "valvesoftware.com",
@@ -1469,17 +1485,17 @@
             "domain": "voltxenergy.com.au",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-11-29 14:08:55"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "vxinstagram.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2025-11-08 01:01:27"
+            "last_update": "2025-12-31 11:52:59"
         },
         {
             "domain": "vxtwitter.com",
@@ -1515,11 +1531,11 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 26,
+            "times_seen": 27,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2025-12-30 01:32:36"
+            "last_update": "2026-01-01 02:00:59"
         },
         {
             "domain": "x.com",
@@ -1563,11 +1579,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 151,
+            "times_seen": 154,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2025-12-30 22:32:42"
+            "last_update": "2025-12-31 22:59:54"
         },
         {
             "domain": "yxtwitter.com",
@@ -1581,9 +1597,9 @@
             "domain": "zdf.de",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
+            "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-12-30 16:55:11"
+            "last_update": "2025-12-31 11:52:58"
         },
         {
             "domain": "zdnet.com",

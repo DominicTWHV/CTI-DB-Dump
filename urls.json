@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1326,
+    "num_of_entries": 1335,
     "links": [
         {
             "id": 1292,
@@ -682,6 +682,28 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-13 13:11:04"
+        },
+        {
+            "id": 1389,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1454549915035373710/SnapVideo.app_AQN-2Rj5kMC30RvTiqfiMEK92IwpmHrn74nurmzdu3gcPPDHExOxsGYHWHtXeytgEwgwN8Qsz2liz6807vj-mjdFZtj0-TM_z3BQyKQ.mp4?ex=695967ab&is=6958162b&hm=80ba3fd33a68f992107544d4e06652c469cf067f8b5db903f977a35f145eae3b&",
+            "url_hash": "0dd83e7fdfdc6c2941ad016973f32e4a0e96e4e104648e51d5621998642ad878",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 04:32:04"
+        },
+        {
+            "id": 1384,
+            "url": "https://x.com/i/status/2006811601006125542",
+            "url_hash": "0e358c171917678ad859c732c3d894bdc9002360e58a9168e0230a4f3854eca3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-02 11:30:52"
         },
         {
             "id": 875,
@@ -4424,6 +4446,17 @@
             "last_update": "2025-08-09 13:41:39"
         },
         {
+            "id": 1386,
+            "url": "https://fixupx.com/Pirat_Nation/status/2007134799874478153?s=20",
+            "url_hash": "4ef414599b82719017527765b533ef4edfc2bac7e764e822cfe3ac3aecd310f3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Pirat_Nation/status/2007134799874478153?s=20",
+            "last_update": "2026-01-02 22:34:58"
+        },
+        {
             "id": 1266,
             "url": "https://www.youtube.com/watch?v=V_mZsiZcy7s&t=543s",
             "url_hash": "4f14a9f51dded6711e8a5089b41357f08da07b429b134eead209792da209c2db",
@@ -4532,6 +4565,28 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-09 00:20:26"
+        },
+        {
+            "id": 1383,
+            "url": "https://tenor.com/view/one-more-round-seong-gi-hun-squid-game-let%27s-play-another-round-one-more-game-gif-4404216604174505820",
+            "url_hash": "50fb3cd1b1cadd45fe19e1b4cea6b997ee7d88c1edbae84f4d1537e9ce17a3be",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-02 11:06:30"
+        },
+        {
+            "id": 1388,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1454270396848406650/SnapVideo.app_AQO_UMi8-4gHrpdDyVE2eTTOx6CXZaVNgn-rNkUAAJysnYQbb23BfNIBafMwpEs3xaHU5eqd6v05V932PxFLO7lZUtJWJelGw93cXlU.mp4?ex=6959b4d9&is=69586359&hm=a9b671ff3b2eba90c1c15c66dfca181102b9ba2464a1f738ee5e2ec1815dd32b&",
+            "url_hash": "5165598f5a48ca8a13cddbb23c42c6a4ea978fa4d1d12c7a52e351d0db28ec57",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 04:32:04"
         },
         {
             "id": 295,
@@ -10815,6 +10870,17 @@
             "last_update": "2025-09-28 18:32:36"
         },
         {
+            "id": 1382,
+            "url": "https://tenor.com/view/both-kevin-spacey-perhaps-both-gif-14803012",
+            "url_hash": "c0198b7741e9c4b0721a5a9bfbd25cf74b30246ee7edeb8108eaf8e80d9d63e5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-02 11:02:55"
+        },
+        {
             "id": 791,
             "url": "https://tenor.com/view/awkward-black-kid-gif-2347897272265233776",
             "url_hash": "c02bb31506384c8d8862895c13c0db83a11892de50b03a0aaee64bc02bfc8b12",
@@ -11726,6 +11792,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=diDj1aOWe7I",
             "last_update": "2025-10-20 03:42:11"
+        },
+        {
+            "id": 1385,
+            "url": "https://tenor.com/view/delicious-tasty-gif-22731288",
+            "url_hash": "cfa32fdc4c7d164bc2ae1f6fdd1129779f51a135109b6901fd3dd93f67b9c7b0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-02 16:23:35"
         },
         {
             "id": 1095,
@@ -12707,6 +12784,17 @@
             "last_update": "2025-10-17 10:29:54"
         },
         {
+            "id": 1387,
+            "url": "https://x.com/RayReynoldsNMS/status/2006929242601435564?s=20",
+            "url_hash": "dd6ad975c9c138d64b825b6cf483bd65d7951a9d171c84a64798cdb20cf3e940",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-02 22:45:26"
+        },
+        {
             "id": 921,
             "url": "https://tenor.com/view/you%27ve-said-enough-shut-up-shut-it-stop-it-shut-gif-15799981703517838226",
             "url_hash": "dd7eb4b1a6dbde0c5a372a76db401438e99b7903d3cec9cdce77030ad44d695d",
@@ -12826,6 +12914,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-04 00:28:46"
+        },
+        {
+            "id": 1381,
+            "url": "https://www.printables.com/model/305980-din-en-iso-527-2-typ-1b-tensile-test-zugprobe/files",
+            "url_hash": "dffcbab31fe74ba58ddd9d735c4fdb4397b1a873c9cf98a15ea9df0b3ca4c55c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-02 10:01:02"
         },
         {
             "id": 1087,

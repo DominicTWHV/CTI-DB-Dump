@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 274,
+    "num_of_entries": 230,
     "files": [
         {
             "sha256": "00211cc0421bfe4462c2da7331bb1d78e4c86bc19f7816b048e4964d08ed6cf8",
@@ -42,13 +42,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-26 20:24:01"
-        },
-        {
-            "sha256": "074294dee15c72d53de4e1135c7126bd944650144ef451dae5d9d3cd6ac60c80",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-22 12:02:23"
         },
         {
             "sha256": "0749e5c4d07aaaac34423415bd96b9e5b0c0dae3c48f490ef9ff91d296947d33",
@@ -135,13 +128,6 @@
             "last_update": "2025-10-20 11:31:04"
         },
         {
-            "sha256": "1a8a83ad6703cb0566be3dce81f1bc66333736fddee0e35e644cf84c8fb59d62",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-15 17:37:11"
-        },
-        {
             "sha256": "1ac6807ddc3c3e208f4b5db36d8ff3b9a0c7354045cafe127b254a27d44b20ab",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -198,13 +184,6 @@
             "last_update": "2025-10-21 10:11:20"
         },
         {
-            "sha256": "1e479a9cc9565ee4985ca8534bc39daff759126271c275741d3627dc9581e697",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-16 19:19:11"
-        },
-        {
             "sha256": "1eaf70b1f5962f1b8e1864573c6aac6d36706d940ca932e454e0ddaa22ed20c1",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -217,13 +196,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-10-17 10:22:43"
-        },
-        {
-            "sha256": "1ff3f18a9fcd1d023b136869dd03c4c67786134c8ac430f25aabddc93dfd3ed3",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-18 00:07:44"
         },
         {
             "sha256": "20ce5aa7366ce5c1bc6359675fc3d7fb66d852023cfc46bf5a64f7ec8f51d858",
@@ -331,13 +303,6 @@
             "last_update": "2025-11-19 06:43:55"
         },
         {
-            "sha256": "307e1742602b5ad40e46ff9f53146d02502430faa01c1fcaca2bc31d29e1e7d4",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 19:44:10"
-        },
-        {
             "sha256": "3101d6a8d5b3dc478b94ee48fd99ac39ca0421cf17eca7409f7256ac955cb225",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -350,13 +315,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-10-11 23:38:51"
-        },
-        {
-            "sha256": "32b01303e60de1527924b347827f3524e8c97736aba0e8289332aee8e21f4441",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-20 00:05:11"
         },
         {
             "sha256": "34d650f949ebe48bef2c08df954f51dafe32f52b3648e6d05fd84dd920522f92",
@@ -415,25 +373,11 @@
             "last_update": "2025-11-30 16:46:44"
         },
         {
-            "sha256": "3d027068a164d2c0825d3ac6a20f4d35bb50f8b30ea1b65e34800c342a3506bd",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-18 11:10:58"
-        },
-        {
             "sha256": "3d3b8efe474a34ce421cffc7cec64e611cfc410a3c739460b71db6cdd7809a11",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-12-08 13:02:18"
-        },
-        {
-            "sha256": "3dc1dee7f065ef1d1008b747f679b2dff7691143b6f57be0d99e4146f1be6873",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-16 15:09:31"
         },
         {
             "sha256": "3e81ae5e3f5d086117cd24a179df4cedeef5790d0cf8af2c6837c8fb2b8219a7",
@@ -499,13 +443,6 @@
             "last_update": "2025-11-28 10:10:04"
         },
         {
-            "sha256": "4503d6650a0b7ea8e1ae79591af6d27695761d6aaf4b2d94c0bd5d329109d3ed",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-16 20:13:28"
-        },
-        {
             "sha256": "45af024563087f132d8cc9c9b2f0374c4d93261cbf740984317fd79b322ff5bd",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -518,13 +455,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-19 06:36:41"
-        },
-        {
-            "sha256": "47b19bd8e89e37cac10573da194d20bf96d83bfeea9cf8b257ec2e9399681591",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-15 00:46:51"
         },
         {
             "sha256": "49525e7b82a01bf29632983e9d14a2ba389877a48b98274e9c6ad846dfa9e619",
@@ -604,13 +534,6 @@
             "last_update": "2025-11-15 19:30:59"
         },
         {
-            "sha256": "56f31d6f944e56ea8bdcffe2148a6986bdee7c1a41dec44a61121fd8e254570f",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-16 20:02:45"
-        },
-        {
             "sha256": "576489f5c6efb2d8cfc172d3b7ee2379116abb435f46f4a8cc0d31eda69d276f",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -625,25 +548,11 @@
             "last_update": "2025-12-08 14:56:49"
         },
         {
-            "sha256": "580870c79f1f5c06046b7a73b7e10322f2ae06536a7329715149ad605159cf24",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 16:20:47"
-        },
-        {
             "sha256": "58c83e0b2b2ded9c588ece035b4b35d562f29228bed206e0f2a23f0533e928d4",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-22 12:05:49"
-        },
-        {
-            "sha256": "590be228f03c920f606eb1bb75e478f3922cb41479b0f2883663573f8d611401",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-21 01:16:41"
         },
         {
             "sha256": "591f67a2196dc05270ae9f125963ee394374839f1959653218f6f085c21d8c49",
@@ -653,25 +562,11 @@
             "last_update": "2025-11-11 23:29:02"
         },
         {
-            "sha256": "5b1a99632416d7d9978a89a1c90103f4704516a979eba0716b4d6716490812ed",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-20 11:43:04"
-        },
-        {
             "sha256": "5c229a01c2c98223ef84a2503d6bb0beddd2a88c0e62f99dd47735b7045c162f",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-10-12 12:41:56"
-        },
-        {
-            "sha256": "5fdc245662136bd88292951a039e60244ca7d1fa1d4e11942f38a41e42e932bd",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-18 01:05:22"
         },
         {
             "sha256": "62574f2f3c43314cc01bb9f8969158f42b44313c57f61f5d628296dbc58577ba",
@@ -707,13 +602,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-12-05 00:34:36"
-        },
-        {
-            "sha256": "697f73469b1faa98df3b93b3b7ca4dfedaef5381eaf8e795649a1bfd5475c895",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-16 01:43:33"
         },
         {
             "sha256": "6ab0594237cdb957c840e3d00b4df703292fa7a9a1cb733914b675ba0edb3bdd",
@@ -793,13 +681,6 @@
             "last_update": "2025-11-09 01:02:11"
         },
         {
-            "sha256": "72869c61a10848bfd34e8d463127b6ecf62d3ef302136d41fc3cad9b4ed5bce2",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-21 13:15:30"
-        },
-        {
             "sha256": "7701b4c468dfb705f4e8b163eea228e70cdc30ae7aa01fc87ba9a6ea94973da7",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -849,20 +730,6 @@
             "last_update": "2025-10-16 19:07:10"
         },
         {
-            "sha256": "7fd0ea2bd73f485431388e692209e0b65f42e2b6f635880745789137e168d254",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 21:21:08"
-        },
-        {
-            "sha256": "80b95e5f33fe6867f5406d67a0078d6a49058ef3d6ab98e64b5ca0a70a9bc9ed",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 21:10:12"
-        },
-        {
             "sha256": "831c53db151995272787cae8bd8e01532b626314627920df88541be44e2364b4",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -882,13 +749,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-13 00:24:38"
-        },
-        {
-            "sha256": "8573286216999d612dcf9eebc6417036999d0f0390fafe9cbf187c49c4f3a7b5",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-20 05:29:28"
         },
         {
             "sha256": "85908a37c7c6ea68d3e4616fb554c98a030b8da918199c34c6d8b907dcd32ac9",
@@ -954,13 +814,6 @@
             "last_update": "2025-11-26 12:27:00"
         },
         {
-            "sha256": "8b4fc9e99b723c2b6e91aa3925045ce79e412088be673a7040637f7a1b016479",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 23:45:48"
-        },
-        {
             "sha256": "8ba7321c8b4805c056824f6999044112a027598869eee22ab3d778a2ea2d844b",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -989,13 +842,6 @@
             "last_update": "2025-09-14 18:34:52"
         },
         {
-            "sha256": "8fb8e428ac964bb054e36ec086fc36357230a83bcf64b150e7eb4852ae92bb6d",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 15:55:10"
-        },
-        {
             "sha256": "90d16aec576c5b6ffb652cca3099d092fd42a177bfbad08bbc198f7d662b95c0",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1015,13 +861,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-12-10 12:07:16"
-        },
-        {
-            "sha256": "93472d2265520cdc039cb8f2b112aff560818a6035c7a4ef6aae0b04e37f7a81",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-21 13:34:50"
         },
         {
             "sha256": "93cfb533c6dfa0aa97d66be5a96295261b2e1e6173e1c7ad43b6a7e3f1a88387",
@@ -1101,13 +940,6 @@
             "last_update": "2025-12-09 16:29:14"
         },
         {
-            "sha256": "9aa9eaa2438a9806617c3c97e989ddc148569b6015b0188514eb79bb398430e1",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-18 00:59:06"
-        },
-        {
             "sha256": "9afead8277362a02a0e992c92dcaf7f98ed79865e3dce36c8d852b4b4db809b6",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1127,13 +959,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-08-09 19:57:55"
-        },
-        {
-            "sha256": "9cab49edef5c74a8e73f61fa5e530ead410e95443551846542317c43de04787b",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-19 09:49:18"
         },
         {
             "sha256": "9e2c0fab187762502f78fa1f1c91df8ca561b13e278581750a1ec3f92d89d4de",
@@ -1176,13 +1001,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-12-06 12:11:26"
-        },
-        {
-            "sha256": "a10f9f31b4491520814259bb6b00eac65837b89d2f1f2600fd74de5b067df879",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-22 05:12:29"
         },
         {
             "sha256": "a117e7935de416b81240ba3d95cec818b233a966e419f489984c09e3e0af95ed",
@@ -1276,13 +1094,6 @@
             "last_update": "2025-10-21 06:04:33"
         },
         {
-            "sha256": "ac6f04371685204176722bdab9d12c8b3be284570f83ee485e39a9aa2bdc708b",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-22 07:07:11"
-        },
-        {
             "sha256": "ac95c31843970935b704bc27c3d177317b98bb0df8b9817bfdff1d81904a77fb",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1374,18 +1185,11 @@
             "last_update": "2025-11-04 08:39:13"
         },
         {
-            "sha256": "b5afec3bffc00ba525876db5b8fcee88ee69451a439dad5a5e3006b5821b3b33",
+            "sha256": "b6608d50f44a4773a27647bbc2f55feb8bc0a5f80f24e9d46bdf9daa4cc6915e",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
-            "last_update": "2025-12-20 18:52:29"
-        },
-        {
-            "sha256": "b6ccc4aa2d5a2b40f87c282ab07691fee816d6b0971eb938db09d223f8b36910",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-20 21:05:05"
+            "last_update": "2026-01-02 22:35:38"
         },
         {
             "sha256": "b761104d4613bd014ced545f8dd9a3a1aa84555d3f24f4de0c141b7f8ecef3fb",
@@ -1423,13 +1227,6 @@
             "last_update": "2025-10-24 02:43:50"
         },
         {
-            "sha256": "bb407fc5a603c46d5813aa07b2bbcbcd2d5af9853e17c217261a377c7dff40e1",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-16 20:02:04"
-        },
-        {
             "sha256": "bbd548d27af0dee430d0f4aa175fe6b7d79e4a10119aa4cddc6baa16bc8ca478",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1444,25 +1241,11 @@
             "last_update": "2025-10-17 22:59:33"
         },
         {
-            "sha256": "bc04b934f932973ea515fa602ff554fc89e29336241474ccde44c33e19bd94b0",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-16 15:37:05"
-        },
-        {
             "sha256": "bc085c9d57a015e2de3802c76ab8a5b34bc92726c7cb8f88f2fcb855a7e438a4",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-16 12:55:59"
-        },
-        {
-            "sha256": "bc3dd45de894114b9bab56bf00711b6e0f8ff505c209ffb9c9754b4f61fa346c",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 17:58:45"
         },
         {
             "sha256": "bc6d25e445a4073430d64d7504ba8426405fc46b3b866b62dd5ea3d5a024a4bc",
@@ -1491,20 +1274,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-03 16:24:47"
-        },
-        {
-            "sha256": "be84c7fcff6305567fca26e569303e84c10e424369634461e4fe424deb811f98",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 21:17:29"
-        },
-        {
-            "sha256": "c0ae1b880f466ce0527e6dbecf0687e0e12072e06facc358da42111c02747e24",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-21 03:52:20"
         },
         {
             "sha256": "c363177942406616582c9b14b2d871171e0532e490c2ee8cc1703968ea4fe613",
@@ -1619,13 +1388,6 @@
             "last_update": "2025-10-11 20:27:16"
         },
         {
-            "sha256": "d3b4fe1d0a9c3ef2fb290cf99b2a3e5981a23c33cab9195607f2812a95ddc0e7",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-18 11:55:10"
-        },
-        {
             "sha256": "d5e4b71914c151673927233c392946f82c149ba32399d2c7e34f405d53d50b9c",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1647,13 +1409,6 @@
             "last_update": "2025-12-10 11:26:32"
         },
         {
-            "sha256": "da77b9e0d68a6e1c0af176e7a10ce5a7d1b2505500b80742927ed9b93a84d345",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-20 16:44:45"
-        },
-        {
             "sha256": "dba327eb77a9421b3f3464977ebdbe64d98c06b0f77806cb3de3c2a52fc62fc4",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1666,13 +1421,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-10-17 10:30:33"
-        },
-        {
-            "sha256": "e099d78cea9231cd7b4cf7786e1bca312e7cf9ae1fde2bfb027c87f1ed695353",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-15 19:54:32"
         },
         {
             "sha256": "e2232f8791031c88b5dec886363b8dc3433a461d2455aa31838e29f622119470",
@@ -1696,25 +1444,11 @@
             "last_update": "2025-11-08 12:06:56"
         },
         {
-            "sha256": "e3be127d1da324f98736bbea41aeb01ff666ae8be4ce77510c219a80f2b9efdb",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 12:27:19"
-        },
-        {
             "sha256": "e43bf4bd6d3625fdf34f69bc7bbdc1d90334c907f1d8f1150a46a7868ac80bac",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-30 08:27:32"
-        },
-        {
-            "sha256": "e4db259d02eb78211cc7785bf45d70378f4de8940a628926c8bfb12a70967642",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-21 13:30:26"
         },
         {
             "sha256": "e4efd7c0f95f9717767467764474583745b66f70a7006654a8c1e002b04f3fd0",
@@ -1745,13 +1479,6 @@
             "last_update": "2025-12-06 00:41:44"
         },
         {
-            "sha256": "e90d804958e2a09e841ed838e1eada2cf714ed8c3168ecb8196a3a416d81de1a",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-15 17:36:28"
-        },
-        {
             "sha256": "e9f0efd2f11c4da46ab9a7955b3a858f762beaf8ff555d79952b59bd64485b47",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1778,13 +1505,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-09-14 18:36:18"
-        },
-        {
-            "sha256": "ee9670da1c1c9c8c085da3bad2aca256c366add37439ccea60b8519eb6c455ab",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-19 00:22:59"
         },
         {
             "sha256": "eff72d9d14533b42861e7423ab603c8d22afdf2507038b12599bccee848d3d52",
@@ -1850,13 +1570,6 @@
             "last_update": "2025-10-27 02:21:21"
         },
         {
-            "sha256": "faeec97cf99c5a6abdd18eef0178fd2b2c4cb3b5b4553e7adfcc5c38f34098a4",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 20:33:38"
-        },
-        {
             "sha256": "fb16930c8e107062543c48624c33ae185188b68077a174edd3fde1b893632650",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1869,13 +1582,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-11-12 04:28:43"
-        },
-        {
-            "sha256": "fbc229718ebd57b942e2046d3e3e6f19f74e3327a9ea8d21bb96f1ea944e81c3",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-16 05:16:52"
         },
         {
             "sha256": "fc9eed004f90b2e717f1b8b8f1973e955b59b35705467de1383e85125c6f24a7",
@@ -1892,13 +1598,6 @@
             "last_update": "2025-10-18 20:55:00"
         },
         {
-            "sha256": "fd1c260d0cd5cf4973680fd570d0ec1740184a91e60968e0e41ed694aa80a7a7",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 09:08:44"
-        },
-        {
             "sha256": "fdbc832f2bf725f7a28bcc399624246fa7aeee6a8df1978cc8ff9dddf6a8f899",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1911,13 +1610,6 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-12-12 10:30:47"
-        },
-        {
-            "sha256": "fe4fb578945f0497898d5a7c787974a5e3ca34b58b9c626bbdb0bea21042ca96",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "categorization": "Harmless",
-            "last_update": "2025-12-14 15:53:20"
         }
     ]
 }

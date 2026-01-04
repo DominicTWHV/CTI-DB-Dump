@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1335,
+    "num_of_entries": 1345,
     "links": [
         {
             "id": 1292,
@@ -761,6 +761,17 @@
             "last_update": "2025-09-24 18:05:41"
         },
         {
+            "id": 1390,
+            "url": "https://tenor.com/view/slop-ai-ai-slop-ai-artist-ai-art-gif-9198727941984080568",
+            "url_hash": "0f745a639ed0e6f6dd147ad284c0cc5e2b5e8ab1763354be2b18d4598b11bb27",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 07:43:53"
+        },
+        {
             "id": 820,
             "url": "https://tenor.com/view/death-stare-black-snake-moan-samuel-l-jackson-shocked-wide-eye-gif-7922961204564264622",
             "url_hash": "0f983671f988735579c6377707ff5a3bdfce8c331416950333bdfc4cb61b6edd",
@@ -1111,6 +1122,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/HasansOldTweets/status/1988233817715360094/video/2",
             "last_update": "2025-11-11 23:28:37"
+        },
+        {
+            "id": 1397,
+            "url": "https://youtube.com/watch?v=vCXmzWQcJsU&si=wZ1PiuIryfRS19Vl",
+            "url_hash": "150c19cd23dfab18297cac05f81cbd4a6e51536bafc62653157747aed50ce394",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 16:22:01"
         },
         {
             "id": 427,
@@ -3335,6 +3357,17 @@
             "last_update": "2025-11-04 10:24:53"
         },
         {
+            "id": 1399,
+            "url": "https://github.com/rogerclarkmelbourne/STM32duino-bootloader",
+            "url_hash": "3c48bc55878da1f5aff063a33b1f18fdc2746e7804917d02c5ad010c4ef3c049",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-04 05:47:10"
+        },
+        {
             "id": 432,
             "url": "https://electronics.stackexchange.com/questions/213806/arduino-input-with-cny17-to-sense-12v-input",
             "url_hash": "3c806eeb05cba8c7086463ee8e4779a85b4b0beb95e2345ec84c9eb68f261c7b",
@@ -4259,6 +4292,17 @@
             "last_update": "2025-11-16 23:03:12"
         },
         {
+            "id": 1398,
+            "url": "https://fixupx.com/sanestlyneyfan/status/2007229127691251816?s=20",
+            "url_hash": "4ac225b5c3a6a174028c9af8d715cc0e634950f234d3ea77d076abd891ec0310",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/sanestlyneyfan/status/2007229127691251816?s=20",
+            "last_update": "2026-01-04 04:07:10"
+        },
+        {
             "id": 99,
             "url": "https://x.com",
             "url_hash": "4ade82c8c32b2cb329ebed8437eebd27deeeeb32db959899af6bb8e6d81a748f",
@@ -4477,6 +4521,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/omu_sobaa/status/1987883982147735823?s=20",
             "last_update": "2025-11-11 05:55:42"
+        },
+        {
+            "id": 1395,
+            "url": "https://www.youtube.com/watch?v=JvnKMtZO2v8",
+            "url_hash": "4f547325e1098d9d54a1c9349ea98b8ae64bc55f8b388ff6f5610f34d0247181",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 13:44:55"
         },
         {
             "id": 92,
@@ -5381,6 +5436,17 @@
             "last_update": "2025-09-19 03:13:00"
         },
         {
+            "id": 1392,
+            "url": "https://cdn.discordapp.com/attachments/900499908115693625/1456946263387013264/vid-20260103-173442_vn3nAJy6.mp4?ex=695a3671&is=6958e4f1&hm=bd722acf13ec3ad650794640fbf4759cddd08b7f3cafa1374706c80071357313&",
+            "url_hash": "626d31d4597757e02394f82f7a00ef1de278f1e43937c7ac9e86f1d45866c93d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 09:44:18"
+        },
+        {
             "id": 1107,
             "url": "https://github.com/PegorK/f32",
             "url_hash": "627500fce7d4dd9c25757a9c26c68eacb60a54123ee9de4bdecaff60eccd337b",
@@ -5984,6 +6050,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-19 18:02:34"
+        },
+        {
+            "id": 1396,
+            "url": "https://youtube.com/shorts/di4epTpqCYY?feature=share",
+            "url_hash": "6ddb93731f30e5f8236f403b8efb2bcd5dcdc5adaef86f0dae717386cf173b1b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 13:51:24"
         },
         {
             "id": 264,
@@ -10309,6 +10386,17 @@
             "last_update": "2025-12-10 00:53:30"
         },
         {
+            "id": 1394,
+            "url": "https://x.com/crisisofconsc/status/2007241614079733860?s=20",
+            "url_hash": "b5715a2a8a2f6b44440e49f9db58578cad65d7eb31b3e04f399b60de1fdf4266",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 13:17:14"
+        },
+        {
             "id": 1017,
             "url": "https://vm.tiktok.com/ZMAvuS946/",
             "url_hash": "b5caf58de652ff10aba62a2581ce7b903f2a0a4ede8a593625e94aa81851dc4b",
@@ -10824,6 +10912,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 03:22:32"
+        },
+        {
+            "id": 1391,
+            "url": "https://tenor.com/view/i-am-a-surgeon-shaun-murphy-the-good-doctor-gif-16641093576353373368",
+            "url_hash": "bddccc004243fd64ae902a2212cc5c25ad5dcd1a2eb11386df827eab9f4163d3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 08:01:01"
         },
         {
             "id": 955,
@@ -12089,6 +12188,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/RealCyberkitten/status/1970351726751297974",
             "last_update": "2025-10-29 01:49:39"
+        },
+        {
+            "id": 1393,
+            "url": "https://en.wikipedia.org/wiki/Germicidal_lamp",
+            "url_hash": "d33715467d69d3eeb4d226a22f621779dfec0862eab4b5810c6e02c6a81e322c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-03 12:40:15"
         },
         {
             "id": 816,

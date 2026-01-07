@@ -1,19 +1,12 @@
 {
-    "num_of_entries": 18,
+    "num_of_entries": 16,
     "invites": [
         {
-            "invite": "065bab68f52b3522754c9fdd143b5778d349ffd23e470865b58305ead127e483",
-            "times_seen": 1,
-            "categorization": "Malicious",
-            "resolution": "Cockatiel Lo***********",
-            "last_update": "2025-12-18 09:22:04"
-        },
-        {
             "invite": "dc62e8bb29aef09ae7fe69b3070927166652909b5d4a14360b74c875a036eadc",
-            "times_seen": 5,
+            "times_seen": 2,
             "categorization": "Harmless",
             "resolution": "Armb***",
-            "last_update": "2025-12-18 09:23:43"
+            "last_update": "2025-08-10 09:50:51"
         },
         {
             "invite": "1f7e05d2959d51949f7ada838e3f95b178b2c55e75983a5e7ef9d2ecd56fce5f",
@@ -44,13 +37,6 @@
             "last_update": "2025-11-22 02:17:55"
         },
         {
-            "invite": "b8fe2b0e7fa10959e4b705ce6954e05240750dd652704a958f6bcea1fdc0b71a",
-            "times_seen": 1,
-            "categorization": "Harmless",
-            "resolution": "Bot ****",
-            "last_update": "2025-12-18 09:20:47"
-        },
-        {
             "invite": "5d07c6c7abc4c34de593c900b36e7ec4c8b9dde4ce5fbb9975e54a5a534263a4",
             "times_seen": 1,
             "categorization": "Harmless",
@@ -79,18 +65,18 @@
             "last_update": "2025-11-02 13:25:54"
         },
         {
-            "invite": "86886678048c48b57b4b560235f70a38e55f0ae82ee77bc39b25ee941d028051",
-            "times_seen": 2,
-            "categorization": "Harmless",
-            "resolution": "Electrical ***********",
-            "last_update": "2025-12-18 09:20:21"
-        },
-        {
             "invite": "81425661c9b11fd651265889dc3b5cec5034aeaa042c8abcfb6a0084597cdeea",
             "times_seen": 1,
             "categorization": "Harmless",
             "resolution": "Electrical ***********",
             "last_update": "2025-12-02 08:01:27"
+        },
+        {
+            "invite": "e1bb9609ec48f53c5853001dc8974f6b9173f4768e80d9a082e7411658c2921c",
+            "times_seen": 1,
+            "categorization": "Malicious",
+            "resolution": "*Sys ****",
+            "last_update": "2026-01-06 18:42:52"
         },
         {
             "invite": "83f984608075a0942b1382bb6265c82b18c50106a40f7f162821f618b014a3be",

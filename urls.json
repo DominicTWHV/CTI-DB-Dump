@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1395,
+    "num_of_entries": 1400,
     "links": [
         {
             "id": 1292,
@@ -99,6 +99,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 00:04:35"
+        },
+        {
+            "id": 1451,
+            "url": "https://cdn.discordapp.com/attachments/1366134040809443430/1458508360172175390/vfi3hfg45sbg1.mp4?ex=695fe542&is=695e93c2&hm=e0315a0b4eb687a12beb5ce3bf9c7e8b115ce0cd5595541b68e15ea2eedb77df&",
+            "url_hash": "01292c58782f068567b060505b2a235ecfe58a894fc264b350bffcde7e2392db",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 03:06:28"
         },
         {
             "id": 1139,
@@ -1914,6 +1925,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 18:55:21"
+        },
+        {
+            "id": 1452,
+            "url": "https://en.wikipedia.org/wiki/Epyc",
+            "url_hash": "20cad1cf5e28a5d34525a3f0cbbcbf1914a162a8623776fe9f160ddd57b64f72",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 05:01:17"
         },
         {
             "id": 571,
@@ -7999,6 +8021,17 @@
             "last_update": "2025-08-15 10:13:40"
         },
         {
+            "id": 1454,
+            "url": "https://a.aliexpress.com/_EIprQ2M",
+            "url_hash": "8bad819aaab085a812b63704694e9b433aeb308737efb8deca2b765b632e877a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 06:26:43"
+        },
+        {
             "id": 126,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1407763955082068069/20250820_202652.mp4?ex=68a749d9&is=68a5f859&hm=be4853942e3ff54a02e4847b72c1960a9c5c6a4d8df3c0373642bcc6b66aa362&",
             "url_hash": "8c2272052212683fc12952366051d1363491cbd83a6d5d43863b3bff553e29c9",
@@ -8547,6 +8580,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-25 11:32:15"
+        },
+        {
+            "id": 1453,
+            "url": "https://a.aliexpress.com/_EIBnaM0",
+            "url_hash": "931be81debeace7d62961a5557d33427ed031985c6980496ebd9437ce1a8a8eb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 06:25:32"
         },
         {
             "id": 883,
@@ -12738,6 +12782,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/3Dprinting/comments/1pe1dvw/rotating_5color_mixing_nozzle_i_built/?share_id=eCcVpK8B7hZ59LcZ5nsps&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
             "last_update": "2025-12-04 19:17:13"
+        },
+        {
+            "id": 1450,
+            "url": "https://www.kkinstagram.com/reel/DSsUo7jEk9b/?igsh=MWxwdXI5cjRyc2Fy",
+            "url_hash": "d419f2541eb748fd130434bf788a04e3afa647ce5c77c90490e869423ec57bc9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-07 15:16:11"
         },
         {
             "id": 1445,

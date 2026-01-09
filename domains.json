@@ -1,13 +1,13 @@
 {
-    "num_of_entries": 183,
+    "num_of_entries": 184,
     "domains": [
         {
             "domain": "a.co",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 0,
-            "last_update": "2025-11-18 22:19:38"
+            "last_update": "2026-01-08 14:59:10"
         },
         {
             "domain": "adafruit.com",
@@ -35,11 +35,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 49,
+            "times_seen": 51,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-01-05 14:52:12"
+            "last_update": "2026-01-08 06:26:43"
         },
         {
             "domain": "aliexpress.us",
@@ -283,19 +283,19 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 22,
+            "times_seen": 23,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-06 15:37:54"
+            "last_update": "2026-01-08 10:13:03"
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 340,
+            "times_seen": 343,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-07 02:21:59"
+            "last_update": "2026-01-08 11:41:57"
         },
         {
             "domain": "discordapp.net",
@@ -419,11 +419,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 136,
+            "times_seen": 137,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-01-06 04:09:49"
+            "last_update": "2026-01-08 22:58:08"
         },
         {
             "domain": "foodnetwork.com",
@@ -456,6 +456,14 @@
             "typing": "Entertainment",
             "is_whitelisted": 0,
             "last_update": "2025-12-11 22:51:15"
+        },
+        {
+            "domain": "furryfeetx.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2026-01-08 13:13:11"
         },
         {
             "domain": "fxtwitter.com",
@@ -723,11 +731,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 36,
+            "times_seen": 37,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-01-05 07:42:32"
+            "last_update": "2026-01-07 15:16:11"
         },
         {
             "domain": "klipper3d.org",
@@ -1187,11 +1195,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 329,
+            "times_seen": 330,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-01-07 00:22:30"
+            "last_update": "2026-01-08 11:50:15"
         },
         {
             "domain": "tensorflow.org",
@@ -1395,19 +1403,19 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 24,
+            "times_seen": 25,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-01-03 12:40:15"
+            "last_update": "2026-01-08 05:01:17"
         },
         {
             "domain": "x.com",
-            "times_seen": 61,
+            "times_seen": 62,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-01-03 13:17:14"
+            "last_update": "2026-01-08 13:42:45"
         },
         {
             "domain": "xda-developers.com",

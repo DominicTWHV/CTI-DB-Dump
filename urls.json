@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1400,
+    "num_of_entries": 1408,
     "links": [
         {
             "id": 1292,
@@ -4699,6 +4699,17 @@
             "last_update": "2026-01-02 22:34:58"
         },
         {
+            "id": 1455,
+            "url": "https://discord.com/channels/1074967630357725204/1447893841024909322",
+            "url_hash": "4ef9122a0667b5c5d19e3ea009666fb0661d0366eb20b1ba7c36f27292669eb3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 10:13:03"
+        },
+        {
             "id": 1266,
             "url": "https://www.youtube.com/watch?v=V_mZsiZcy7s&t=543s",
             "url_hash": "4f14a9f51dded6711e8a5089b41357f08da07b429b134eead209792da209c2db",
@@ -5500,6 +5511,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-04 23:22:12"
+        },
+        {
+            "id": 1462,
+            "url": "https://fixupx.com/kussy02/status/2009256704354177292?s=20",
+            "url_hash": "5ffcd5eb6fc3a5b789ff04b74a6a78a91559fc6e5c737d5743a7ebfab17d6f1f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/kussy02/status/2009256704354177292?s=20",
+            "last_update": "2026-01-08 22:58:36"
         },
         {
             "id": 1068,
@@ -8318,6 +8340,17 @@
             "last_update": "2025-08-16 02:01:32"
         },
         {
+            "id": 1456,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1458787806955438153/IMG_4422.mov?ex=6960e984&is=695f9804&hm=0e3565eedf516acbe065fa10c336fe1c559f6cb888ad0e34fb7b789dba508244&",
+            "url_hash": "8f61d6bca053d1543ebed034673d8ea67d1a45dc022d0a1bb04fa9fe87531e71",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 11:41:57"
+        },
+        {
             "id": 1320,
             "url": "https://fixupx.com/fangderg/status/1998774921821040992?s=20",
             "url_hash": "8f62427345dc19b72421f949ff8e68bc7976f20730b2956d6beff5e55bddcaac",
@@ -9251,6 +9284,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 23:32:18"
+        },
+        {
+            "id": 1459,
+            "url": "https://furryfeetx.com/Kyouu15/status/2009037900567269754?s=20",
+            "url_hash": "9c99b97e490479c8ea2bfacb13ac5b888eb13af907ff3197665422d92510a3ec",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://vxtwitter.com/Kyouu15/status/2009037900567269754?s=20",
+            "last_update": "2026-01-08 13:13:11"
         },
         {
             "id": 760,
@@ -12432,6 +12476,17 @@
             "last_update": "2025-08-10 21:27:42"
         },
         {
+            "id": 1460,
+            "url": "https://x.com/tos_1015/status/2008883415932981701?s=20",
+            "url_hash": "d06256796b311bae8b87c0d7ec91ed1ccdc71a3967019a04489987597c7ca002",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 13:42:45"
+        },
+        {
             "id": 57,
             "url": "https://www.we-online.com/en/components/products/WL-ICLED",
             "url_hash": "d08f29abf57ee5d78edc569f1a6115d557f6533d0da58af7ea49f5a768018bde",
@@ -12452,6 +12507,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/k41bvtsv/status/1966954262929555577",
             "last_update": "2025-09-14 01:33:59"
+        },
+        {
+            "id": 1458,
+            "url": "https://tenor.com/view/zzz-burnice-zenloss-zone-zero-smug-smile-gif-4403136486943316200",
+            "url_hash": "d0ab4172450afc89098f753c1d92bb7826b4fd5abe6435b8383522c55f4db9f4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 11:50:15"
         },
         {
             "id": 538,
@@ -13422,6 +13488,17 @@
             "last_update": "2025-10-17 11:50:19"
         },
         {
+            "id": 1457,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1458787808536952912/IMG_4417.mov?ex=6960e984&is=695f9804&hm=248f628b57aa1bb5fec6833393441ed45678aa1600caeee267c4c9efcedabf71&",
+            "url_hash": "dd4e2c34b5a9bf35c17fb2e94c4284d18bddd8ac66cfd0d8f37a83d7665ad17b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-08 11:41:57"
+        },
+        {
             "id": 715,
             "url": "https://www.pelonistechnologies.com/blog/comparing-the-efficiency-of-different-electric-motor-types",
             "url_hash": "dd655c5ba994c14311ff88dcc9a84a1df4bab4bf68e80270ebb2300cd88644c1",
@@ -13464,6 +13541,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.reddit.com/r/PrintedCircuitBoard/comments/1keinxe/stop_using_1117_regulators_in_new_designs/",
             "last_update": "2025-11-16 12:32:40"
+        },
+        {
+            "id": 1461,
+            "url": "https://a.co/d/4fDhJPB",
+            "url_hash": "de1a1829ed9bc3e39c2a41c276b14d80bd9376c65bfa713ac27d60c0f82f82de",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.amazon.com/dp/B0858XRGYW?ref=cm_sw_r_cso_cp_apan_dp_G4T26VFZ8C0X0YPQNGQ1&ref_=cm_sw_r_cso_cp_apan_dp_G4T26VFZ8C0X0YPQNGQ1&social_share=cm_sw_r_cso_cp_apan_dp_G4T26VFZ8C0X0YPQNGQ1&titleSource=true",
+            "last_update": "2026-01-08 14:59:32"
         },
         {
             "id": 1359,

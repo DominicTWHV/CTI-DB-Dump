@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 184,
+    "num_of_entries": 186,
     "domains": [
         {
             "domain": "a.co",
@@ -291,11 +291,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 343,
+            "times_seen": 345,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-08 11:41:57"
+            "last_update": "2026-01-10 00:59:55"
         },
         {
             "domain": "discordapp.net",
@@ -499,11 +499,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 31,
+            "times_seen": 33,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-01-05 19:30:43"
+            "last_update": "2026-01-09 16:09:55"
         },
         {
             "domain": "github.io",
@@ -850,6 +850,14 @@
             "last_update": "2025-12-08 10:37:50"
         },
         {
+            "domain": "meccalte.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2026-01-09 21:34:35"
+        },
+        {
             "domain": "medium.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1146,6 +1154,14 @@
             "last_update": "2025-11-25 07:29:58"
         },
         {
+            "domain": "sigarch.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 0,
+            "last_update": "2026-01-09 21:00:54"
+        },
+        {
             "domain": "spoo.me",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1195,11 +1211,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 330,
+            "times_seen": 332,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-01-08 11:50:15"
+            "last_update": "2026-01-09 21:43:42"
         },
         {
             "domain": "tensorflow.org",

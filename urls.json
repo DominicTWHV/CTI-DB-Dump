@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1408,
+    "num_of_entries": 1416,
     "links": [
         {
             "id": 1292,
@@ -2114,6 +2114,17 @@
             "last_update": "2025-10-08 16:54:42"
         },
         {
+            "id": 1463,
+            "url": "https://tenor.com/view/tv-simpsons-cloud-fist-grandpa-gif-12082744756246344299",
+            "url_hash": "23ef3d4998bd861fdfdbd43e34c41084933d89cbba4d43502e3651d30522f1fa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-09 14:42:38"
+        },
+        {
             "id": 983,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1438207432160448553/20251112_204220.mp4?ex=69160a8c&is=6914b90c&hm=23d81b4aa3f0ab4cf84eef414d133292f3cde89cf51cc03148d537746f4c88fd&",
             "url_hash": "23f8ef467e985fb92d3750c92366be26dd1c6c8feba134c2d107f75b2676f8ea",
@@ -3531,6 +3542,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-04 05:47:10"
+        },
+        {
+            "id": 1466,
+            "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1459273611453136929/AQOOE5IVpmlZldRmKzeK-qTccHMDVGyIt_WCHnNBERulNYsFFnYcBYVEQXIG6CRCpwwQjwI-KeyuduGi-0nfRGGRmiw758XlCDT6Pm7qPJBFMQ.mp4?ex=6962adf4&is=69615c74&hm=5b0775f8987b806e79233f4f5fdbfb6a4d1936f6b7422276ea627127ec244b60&",
+            "url_hash": "3c659532fec76d9c66777304db331bd47be82a4d111761985fee17cf2b2fc767",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-09 19:52:21"
         },
         {
             "id": 432,
@@ -6569,6 +6591,17 @@
             "last_update": "2025-10-08 13:34:07"
         },
         {
+            "id": 1467,
+            "url": "https://www.sigarch.org/posit-a-potential-replacement-for-ieee-754/",
+            "url_hash": "71bf35938e1de94d45e569c9ed66658585a18cfba3b7acd0d4bf653f412d9d21",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.sigarch.org/posit-a-potential-replacement-for-ieee-754/",
+            "last_update": "2026-01-09 21:00:54"
+        },
+        {
             "id": 347,
             "url": "https://tenor.com/view/hello-gif-13062150862685254762",
             "url_hash": "722a879eaac98f5b3e930a7d7fe83232673c53f92ca5081f2758714b963489dd",
@@ -7623,6 +7656,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-07 15:46:08"
+        },
+        {
+            "id": 1470,
+            "url": "https://cdn.discordapp.com/attachments/943741182528335903/1459078736451342441/10000000_897512738737372_8915956949589244210_n.mp4?ex=6962a137&is=69614fb7&hm=43a9b53c5895695803cb28e94b3e44275eb8b8e49a8797cf0d4e603406d9edaa&",
+            "url_hash": "85676215940f6b7567fdb10cd7faf12ae2e2a576df86a1149920b7dae6ad3d80",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-10 00:59:55"
         },
         {
             "id": 94,
@@ -9781,6 +9825,17 @@
             "last_update": "2025-09-10 01:26:42"
         },
         {
+            "id": 1468,
+            "url": "https://www.meccalte.com/en/products/alternators/industrial/eco46a-6-pole",
+            "url_hash": "a5fc72424750ff6ed4e0060d5807759175b86a49a9ca86af4b3e93dc435eb6b8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.meccalte.com/en/products/alternators/industrial/eco46a-6-pole",
+            "last_update": "2026-01-09 21:34:35"
+        },
+        {
             "id": 1368,
             "url": "https://www.youtube.com/watch?v=TOXQmwW7IrY",
             "url_hash": "a61f04a35b6a83f04cfcd9ad6aa100057c144916503685278108d38ba69be8a0",
@@ -11429,6 +11484,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-12 05:33:57"
+        },
+        {
+            "id": 1469,
+            "url": "https://tenor.com/view/praying-gif-25164960",
+            "url_hash": "beba4d2f8568161f17bb1a220b3cd6ab91d87a358345192adccd3fc0f42724cb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-09 21:43:42"
         },
         {
             "id": 996,
@@ -15160,6 +15226,17 @@
             "last_update": "2025-08-23 17:40:52"
         },
         {
+            "id": 1464,
+            "url": "https://github.com/aaronbeckmann/ESP-DashboardPlus",
+            "url_hash": "fa1c49b37de0ecc31e01699ad5ba8670614bbd129c87fc7278165bf971deb823",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-09 16:09:55"
+        },
+        {
             "id": 1305,
             "url": "https://cdn.discordapp.com/attachments/1430136238576242708/1448071395484369019/Untitled_video.mp4?ex=6939ed14&is=69389b94&hm=ef9b9431d70eba37f501d9ffdc305e55bbf8dda291266d758ff237d7699da273&",
             "url_hash": "fa41154f7c5d2e758134349f82ed0b2a72bd58061ff2c3cb590c0f2082e1c29d",
@@ -15356,6 +15433,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Art_GeeWolf/status/1991268714742968834?s=20",
             "last_update": "2025-11-22 14:44:21"
+        },
+        {
+            "id": 1465,
+            "url": "https://github.com/aaronbeckmann/ESP-DashboardPlus-Example",
+            "url_hash": "fe93e3ff81152434188d2b443b72277c86070b317f160d77033fee59c267feb1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-09 16:09:55"
         },
         {
             "id": 1131,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 16,
+    "num_of_entries": 15,
     "invites": [
         {
             "invite": "dc62e8bb29aef09ae7fe69b3070927166652909b5d4a14360b74c875a036eadc",
@@ -70,13 +70,6 @@
             "categorization": "Harmless",
             "resolution": "Electrical ***********",
             "last_update": "2025-12-02 08:01:27"
-        },
-        {
-            "invite": "e1bb9609ec48f53c5853001dc8974f6b9173f4768e80d9a082e7411658c2921c",
-            "times_seen": 1,
-            "categorization": "Malicious",
-            "resolution": "*Sys ****",
-            "last_update": "2026-01-06 18:42:52"
         },
         {
             "invite": "83f984608075a0942b1382bb6265c82b18c50106a40f7f162821f618b014a3be",

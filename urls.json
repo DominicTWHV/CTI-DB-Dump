@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1451,
+    "num_of_entries": 1463,
     "links": [
         {
             "id": 1292,
@@ -803,6 +803,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-08 17:19:40"
+        },
+        {
+            "id": 1508,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1460241850622541864/I_was_just_in_a_call_with_some_friends_while_messing_around_with_the_plasma_toroids_at_higher_po.mp4?ex=696633b3&is=6964e233&hm=47c3e8edad91a23d33815f965f1a8ff74ad8a80c18a1b16e140470e4f7835ac8&",
+            "url_hash": "0ed7004348c8617e747bd6b19b1f55f9685fe091073432ed1c917f5a94ab578b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 11:59:48"
         },
         {
             "id": 1210,
@@ -2620,6 +2631,17 @@
             "last_update": "2025-10-15 08:25:40"
         },
         {
+            "id": 1518,
+            "url": "https://bloodborne.wiki.fextralife.com/Insight",
+            "url_hash": "2c943c4120dad3eb85fef9fd0bb199d994a420da2d17dfe9cf839046bb813c0e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://bloodborne.wiki.fextralife.com/Insight",
+            "last_update": "2026-01-13 04:30:24"
+        },
+        {
             "id": 1355,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1449385780601553058/ScreenRecording_12-12-2025_19-01-17_1.mov?ex=693eb532&is=693d63b2&hm=fce5813219fea0c8c8c44db7e381368958eda1066422d12fa5cfda9fe5ddba1a&",
             "url_hash": "2d196896a5a536ffe489e62643da94c7bd53ad081f8b49c142fb9f965dc47d26",
@@ -3014,6 +3036,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-11 22:37:38"
+        },
+        {
+            "id": 1512,
+            "url": "https://cdn.discordapp.com/attachments/761264702797119528/1460310736432664916/IMG_7980.mov?ex=696673da&is=6965225a&hm=22e2455652cbcf992058976ccff1bcfa1a05f18b0149e67367e26735772f014e&",
+            "url_hash": "338847108b0da07ab32dc2d962dfe6af4cc7cc502b094e661029087822afb9cb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 16:33:31"
         },
         {
             "id": 846,
@@ -6811,6 +6844,17 @@
             "last_update": "2025-11-03 10:38:50"
         },
         {
+            "id": 1510,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1460242478522171604/RPReplay_Final1752329388.mov?ex=69663448&is=6964e2c8&hm=6073ae0d0f64e7cb296017c3d1933e80caa9049d59566cba72f7992f721f39aa&",
+            "url_hash": "71958e19dd79132d2dc230378c9d1dc451a4e1167fe13c3e683a77bbabb33997",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 12:02:17"
+        },
+        {
             "id": 588,
             "url": "https://cdn.discordapp.com/attachments/1077234878166347887/1425476352798359652/IMG_8954.mov?ex=68e7b9ce&is=68e6684e&hm=24b0499c998ba62638eb17824d524678ce518f5b06c8c64bbac3c565a2907f01&",
             "url_hash": "71add3b35964cd9d49f7af2cecb1eca07549d3ea3ac517da31718e2a484c0c83",
@@ -6930,6 +6974,17 @@
             "is_redirect": 0,
             "downstream_target": "https://shop.pimoroni.com/products/flexypin-pack-of-100?variant=39915397611603",
             "last_update": "2025-11-15 10:21:46"
+        },
+        {
+            "id": 1515,
+            "url": "https://www.kkinstagram.com/reel/DSA-f67ik6t/?igsh=NzZ3Zjc5ZzM2ZWFm",
+            "url_hash": "7372906136ed0a9f65c481dfcf7f245e47844c683e97c24d09c76e08aff88325",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 23:45:31"
         },
         {
             "id": 1132,
@@ -7955,6 +8010,17 @@
             "last_update": "2025-08-21 05:35:15"
         },
         {
+            "id": 1507,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1460211508175962216/IMG_7978.mov?ex=69661770&is=6964c5f0&hm=7632623282e9ca44dc2aa92ca87d4a86969de89096e66f8ed4fafc0ca5a07769&",
+            "url_hash": "85dd6094c28a9b46e94db4abf9d41097e526942759e41dc63d864a603fa43383",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 09:59:13"
+        },
+        {
             "id": 845,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1432772952985833674/lv_0_20251028163633.mp4?ex=6902454b&is=6900f3cb&hm=b38ec1d0e0987ece1d7028179f4553297153f735fc826010ee6a599be660dec9&",
             "url_hash": "85df60c0821f656e26d9374e26fbb614107a09d0beb7af12c74a0b5f6fe9eb0d",
@@ -8723,6 +8789,17 @@
             "is_redirect": 1,
             "downstream_target": "https://photos.google.com/share/AF1QipP_1d_LmoqDW1goJTVL3Bt2xjIXQeEPAVU4CSovi6QXNoz7fpLNmi3MI1filQmaMw?key=ckw5SWMwTkpRakpyX2hXc1M3NGRBUEkxcXJLSGl3",
             "last_update": "2025-11-25 05:13:05"
+        },
+        {
+            "id": 1506,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1460191960152408300/IMG_2914.MP4?ex=6966053c&is=6964b3bc&hm=cd1a501f26dc297acb1990ce6fbcc699bd018330de3a57f5038eb4cca56e6f11&",
+            "url_hash": "90612095916d470911fa1f9d16b7de7937b363fa63b497346a994e4627229b49",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 08:41:33"
         },
         {
             "id": 1042,
@@ -10771,6 +10848,17 @@
             "last_update": "2025-08-17 07:27:39"
         },
         {
+            "id": 1513,
+            "url": "https://a.aliexpress.com/_EGGuGKG",
+            "url_hash": "ae297ec8104daa478f636754796a0a0ea3276494e7235db263e9bdab5de8ef88",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 18:00:29"
+        },
+        {
             "id": 668,
             "url": "https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/",
             "url_hash": "ae5ab3da711523a8222b1612aa3bc2039aecd4d87a39e5bb2cf3df5622234bad",
@@ -11233,6 +11321,17 @@
             "last_update": "2025-11-15 18:37:37"
         },
         {
+            "id": 1517,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1459746599453327431/SnapVideo.app_AQPICYXglkHWMfga4uJKVMv52CkdlDO3KJVrP03IJLUC-Ntbpr0czvxZn1M7wsfWKrUHRl6Y9V3tvGpi4lP8f1ao.mp4?ex=69670976&is=6965b7f6&hm=60af4e75492f545660779f598026075b41a3fbbc96f803f8a6e1da2277aa7ffc&",
+            "url_hash": "b5d629c6c2d34ea3c82731fab8d4035cf9d3dfab028879575ab4ae0c39c44fd2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 03:48:15"
+        },
+        {
             "id": 1086,
             "url": "https://imgur.com/HaFUawn)",
             "url_hash": "b631b9477b3b9247a62940bf04d73964e646ef724ba30c364b243a98c454a38c",
@@ -11638,6 +11737,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-13 13:02:13"
+        },
+        {
+            "id": 1516,
+            "url": "https://fixupx.com/3L30S/status/1933373764382716157?t=FZJXa38eT0GTaFRu3X4Jew&s=19",
+            "url_hash": "bc284ede6a6db55abe90458c90de97013f63d2c37e8cea720c309cd45078968b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/3L30S/status/1933373764382716157?t=FZJXa38eT0GTaFRu3X4Jew&s=19",
+            "last_update": "2026-01-13 00:51:35"
         },
         {
             "id": 336,
@@ -12111,6 +12221,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/2GP03oe",
             "last_update": "2025-12-14 00:59:37"
+        },
+        {
+            "id": 1509,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1460242426131386378/Sonic_2_Emerald_Hill_Zone_2P.mov?ex=6966343c&is=6964e2bc&hm=4ba682cadb00d7fcb33a4389a82d04a1e7620214895406602fb59c372206a716&",
+            "url_hash": "c44832b9c283019f21e9ce02810fb938f60750d7a02d9d4f483ec52c0584c08e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 12:02:05"
         },
         {
             "id": 688,
@@ -12892,6 +13013,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/k41bvtsv/status/1966954262929555577",
             "last_update": "2025-09-14 01:33:59"
+        },
+        {
+            "id": 1511,
+            "url": "https://www.youtube.com/shorts/NainO2sTddU",
+            "url_hash": "d09e39d4eb460f8d104a522a8df91b7f9756ec14ce19d8590556f2eba79704fe",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-12 14:00:31"
         },
         {
             "id": 1458,

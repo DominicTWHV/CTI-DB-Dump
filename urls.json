@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1463,
+    "num_of_entries": 1475,
     "links": [
         {
             "id": 1292,
@@ -1861,6 +1861,17 @@
             "last_update": "2025-08-22 04:51:54"
         },
         {
+            "id": 1524,
+            "url": "https://tenor.com/view/excited-omg-argh-gif-8790756420624724811",
+            "url_hash": "1e4a36eaf99029560434d47ee54ce76b4bf0d97bf4f188b13ae728db72bfa4cc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 15:12:40"
+        },
+        {
             "id": 698,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1428171894011596890/VID_20251015_160952_594.mp4?ex=68f18839&is=68f036b9&hm=5477b34c730a50b81b998fcec6e18b3c5eeafd0d7f09fb3b5776e71f7e6dde36&",
             "url_hash": "1e68456d519e8df2468f36ed3c0bc61cd20800f6b128b10dc5672d8cf764c491",
@@ -2464,6 +2475,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/nicksortor/status/1994485346965540969",
             "last_update": "2025-11-30 01:03:50"
+        },
+        {
+            "id": 1520,
+            "url": "https://tenor.com/view/jeremy-clarkson-the-grand-tour-how-in-the-name-of-all-thats-holy-did-you-do-that-gif-26400530",
+            "url_hash": "29822a5351af8c214c44409b9a1a1e1687af17141ef9f1c9ab2f2e89bcea8f0f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 11:00:55"
         },
         {
             "id": 743,
@@ -5029,6 +5051,17 @@
             "last_update": "2026-01-11 00:43:34"
         },
         {
+            "id": 1528,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1460681272883151000/20260113_170412.mp4?ex=6967ccf1&is=69667b71&hm=ebb8ef93287e4cd90ea155bb6674fb4c8680a7c158fbbf93dbd743f8339a0309&",
+            "url_hash": "5160a864163ee4b5e8111fae6289084bbaac65fe128440a21f37d83357430410",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 17:05:54"
+        },
+        {
             "id": 1388,
             "url": "https://cdn.discordapp.com/attachments/849031301087494148/1454270396848406650/SnapVideo.app_AQO_UMi8-4gHrpdDyVE2eTTOx6CXZaVNgn-rNkUAAJysnYQbb23BfNIBafMwpEs3xaHU5eqd6v05V932PxFLO7lZUtJWJelGw93cXlU.mp4?ex=6959b4d9&is=69586359&hm=a9b671ff3b2eba90c1c15c66dfca181102b9ba2464a1f738ee5e2ec1815dd32b&",
             "url_hash": "5165598f5a48ca8a13cddbb23c42c6a4ea978fa4d1d12c7a52e351d0db28ec57",
@@ -5687,6 +5720,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-12 17:51:31"
+        },
+        {
+            "id": 1522,
+            "url": "https://www.kkinstagram.com/reel/DTHlC62D33V/?igsh=NHk1bWdua3BjeTVi",
+            "url_hash": "5eb7668e41c0c755cd7985f81ccf2adf7dc472e6e0e7ec9fc2df1e1d8d68d481",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 14:24:11"
         },
         {
             "id": 234,
@@ -6932,6 +6976,17 @@
             "last_update": "2025-10-15 21:51:50"
         },
         {
+            "id": 1523,
+            "url": "https://discord.com/channels/1074967630357725204/1074993070174638162/1460639754730344782",
+            "url_hash": "72fe0c01c08b393d916b23cccc12ca68f71fc2ceceb4c1fc7ff6ef9da99eef62",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 14:25:49"
+        },
+        {
             "id": 1326,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1448642654744084721/VID_20251210_212911.mp4?ex=693c011b&is=693aaf9b&hm=e1d3f8565dc69e76d31368e7e1675d9d49eca4e18ee943cd1668f789913434d0&",
             "url_hash": "72fe54c4b953a30e373160b5f4c1022f76f17172ddadec7db0ec089f681df1ce",
@@ -7810,6 +7865,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-09 10:13:16"
+        },
+        {
+            "id": 1519,
+            "url": "https://tenor.com/view/tense-table-smash-mad-gif-13656077",
+            "url_hash": "822f0e4251351656d2cc0b2f8f4b1d1cfd081727d23bb2b8427750e2d1ead14f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 10:23:40"
         },
         {
             "id": 1112,
@@ -9900,6 +9966,17 @@
             "is_redirect": 0,
             "downstream_target": "https://eur.vevor.com/soldering-station-c_13551/vevor-hot-air-rework-station-1000w-led-digital-smd-rework-station-212-896--p_010504192873",
             "last_update": "2025-11-25 21:03:40"
+        },
+        {
+            "id": 1525,
+            "url": "https://tenor.com/view/this-is-fine-fire-house-burning-okay-gif-5263684",
+            "url_hash": "a0adb12b21c5c20f5ecc9ac9ba6caaa6ca6f91e8e20e4ea27a61affb88f7eb0f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 15:13:17"
         },
         {
             "id": 488,
@@ -12762,6 +12839,17 @@
             "last_update": "2025-11-14 15:40:43"
         },
         {
+            "id": 1529,
+            "url": "https://cdn.discordapp.com/attachments/426116061415342080/1460610529952403526/jackshit.mp4?ex=69678b0f&is=6966398f&hm=df7088c5deb3c06817f5bc3faaf7262f18b423101c3083f154ccdba7b7c0dd56&",
+            "url_hash": "cd22b1a3ef1e15faa73dc0615f44cb99c0c0d806cf0106b917f8368383de275d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-14 01:12:37"
+        },
+        {
             "id": 612,
             "url": "https://www.npr.org/sections/krulwich/2011/10/03/140815154/dissolve-my-nobel-prize-fast-a-true-story",
             "url_hash": "cd590dd81f20468bf4c2ade8fb6a6da19dac72a58a2f19b4a6dd0fd465842bdf",
@@ -14698,6 +14786,17 @@
             "last_update": "2025-10-08 21:18:07"
         },
         {
+            "id": 1521,
+            "url": "https://tenor.com/view/angai313-spongebob-sad-spongebob-crying-gif-21679826",
+            "url_hash": "e9a9b2a7d0d3aeef202c98b3b2221e988a4696c0c01c4b9770b88496ab9f4ad5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 14:12:39"
+        },
+        {
             "id": 131,
             "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1407835652921491628/RDT_20250821_001420.mp4?ex=68a78c9f&is=68a63b1f&hm=0de6d5b611530f91d66e320762e64596202802a72f3e84e905e3b06f929017f7&",
             "url_hash": "e9bbdd318b37d261daecb812fabe5f8cc2f81d0969029765726c95c7c6bac9f8",
@@ -15468,6 +15567,17 @@
             "last_update": "2025-08-09 07:02:17"
         },
         {
+            "id": 1526,
+            "url": "https://tenor.com/view/spongebob-patrick-patrick-star-broke-poor-gif-14729256",
+            "url_hash": "f60a10ec7ec4f85b2526480209f06ab98dfcfed64ccedac3ddc8a095ab50ea1a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-13 15:19:49"
+        },
+        {
             "id": 1214,
             "url": "https://x.com/demystifysci/status/1995580370759377404?s=20",
             "url_hash": "f60c54c55296a716e5f2678263f319205f7da8ef88d5aa1f1a66bd1c15fcae7c",
@@ -15565,6 +15675,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-06 15:37:33"
+        },
+        {
+            "id": 1527,
+            "url": "https://www.reddit.com/r/pcmasterrace/s/9VT4BP4ejA",
+            "url_hash": "f7603db83d092772994d4107b8e7562b687d55909ad47ebb5ba70f9808dc83c4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/pcmasterrace/comments/1qbgar9/how_do_i_turn_it_off/?share_id=CIK76Juc55gbBaTHk-_kW&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
+            "last_update": "2026-01-13 17:01:45"
         },
         {
             "id": 1226,
@@ -15708,6 +15829,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-21 08:01:18"
+        },
+        {
+            "id": 1530,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1460776587736780984/SnapVideo.app_AQOhijXwptO153kPQKEBiBS-67gqfPwLfHpvbHUC5yxBNTVG_RR12LYGU_jmcQX5ZQeM7Vgn-QMN78gzEuKUWsaz6IB1nQyYc6cEKgo.mp4?ex=696825b6&is=6966d436&hm=e4e21d1ae09cfb506acb352772a32e0f5562aed8f64b5869ebd001d8d50e3a5f&",
+            "url_hash": "f9e2351b8958047d736b04f07e701ecd15211e67a49e0d976043c2a1b585c510",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-14 01:32:19"
         },
         {
             "id": 1079,

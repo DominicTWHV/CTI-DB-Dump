@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 282,
+    "num_of_entries": 286,
     "files": [
         {
             "sha256": "00211cc0421bfe4462c2da7331bb1d78e4c86bc19f7816b048e4964d08ed6cf8",
@@ -315,6 +315,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-10-10 16:15:14"
+        },
+        {
+            "sha256": "2b1b2a0200d90f70bcec813ed043b3fdd31ecb226ff3cba7a474971f6de705d7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-01-13 14:26:15"
         },
         {
             "sha256": "2b8c13c6aa1b6470f8bc966dd3523c55d78afc3993ba5bfaf3b7b8136d9b2561",
@@ -793,6 +800,13 @@
             "last_update": "2025-12-10 23:27:09"
         },
         {
+            "sha256": "6bc9ef27c068e8afb04dc14f185807086aefbb710d448dc5bf58613cd131a1d5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-01-13 15:20:29"
+        },
+        {
             "sha256": "6cb5408059317c0e648eeae6ac11528bee407fdc58f4444fca064dd2226b9aaf",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -805,6 +819,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2025-12-05 00:45:02"
+        },
+        {
+            "sha256": "6de81f47ea39c0c3529d323ff18c4f5b8e9e5114b9332acf50b61fdd3726333a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-01-13 11:01:56"
         },
         {
             "sha256": "6e2e24c2f800c911859d629795745032470349f7324b53c32cb86a4c62268fe6",
@@ -1624,6 +1645,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2026-01-04 12:58:02"
+        },
+        {
+            "sha256": "c934e42e10464e025ccf2a06c1956f5a8bc96bfb7133dcde96e038899ee50fe4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "last_update": "2026-01-13 10:25:09"
         },
         {
             "sha256": "c93a5596f1a47f9661e485465e6e0fded0d6f3a2bb39e20165ce0a2f006dea31",

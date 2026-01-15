@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1475,
+    "num_of_entries": 1479,
     "links": [
         {
             "id": 1292,
@@ -1820,12 +1820,12 @@
             "id": 474,
             "url": "https://tenor.com/view/dies-cat-dead-died-gif-13827091",
             "url_hash": "1d8ea9c01e56f03bfbe332c3e0e84fa4965e79619f6dc00e1d8b489d41c86081",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-09-28 13:28:40"
+            "last_update": "2026-01-14 14:18:23"
         },
         {
             "id": 463,
@@ -2059,6 +2059,17 @@
             "last_update": "2025-09-19 14:18:08"
         },
         {
+            "id": 1532,
+            "url": "https://tenor.com/view/its-a-technicality-but-it-checks-out-wheres-the-lie-its-true-tho-gif-25068212",
+            "url_hash": "21fbdc3143b798e031968affacff45af261db7e1b8cd367b06108aa042bce1a7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-14 15:42:38"
+        },
+        {
             "id": 786,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1430889473536688178/IMG_4056.mov?ex=68fb6b2b&is=68fa19ab&hm=e55f0f3802e76e15d31e729679feb79ed9b21d5399be832518baa256d99dba95&",
             "url_hash": "2217850a61a0e069c62261f8564ad9e261a7a77cc9c9a8ec3743a2ad265e5624",
@@ -2079,6 +2090,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-25 07:00:20"
+        },
+        {
+            "id": 1533,
+            "url": "https://www.kkinstagram.com/reel/DTUz6rdDqOe/?igsh=N3pyNnRyOHI5cmpr",
+            "url_hash": "2300916824d1d1242e3305f013a05669ae8e93b85a5ea0935de3e73b1f092481",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-14 23:40:27"
         },
         {
             "id": 663,
@@ -4160,6 +4182,17 @@
             "last_update": "2025-10-08 05:55:54"
         },
         {
+            "id": 1535,
+            "url": "https://github.com/DominicTWHV/Cockatoo_Edge",
+            "url_hash": "43fa6db95caaf7c6850e02fc2f31cf25500d6e5a43de378767665330994205ba",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-15 03:01:05"
+        },
+        {
             "id": 473,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1421821895115931729/20250928_143137.mp4?ex=68da6e53&is=68d91cd3&hm=57b2f10ef6e0cc56824318de6f3ca6d36bf708bba4ab50bb335fca7f408c7899&",
             "url_hash": "4408798e5a4f0a7e3b88940ef949fcc25420ab3b248c759bbaae38a6b18f206c",
@@ -5764,6 +5797,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-05 09:06:54"
+        },
+        {
+            "id": 1534,
+            "url": "https://i.imgur.io/qcummE2.mp4",
+            "url_hash": "5f3505a847b313f589820014508942c2cfb88c9f886349a6e894301db3a2f603",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://i.imgur.io/qcummE2.mp4",
+            "last_update": "2026-01-15 00:56:29"
         },
         {
             "id": 497,
@@ -10884,12 +10928,12 @@
             "id": 238,
             "url": "https://tenor.com/view/galaxy-brain-gif-62870316450580206",
             "url_hash": "adc0c38faee6cea0a393900bb7b743e945e20d69ccb1db2d1d0e0b51fcee4873",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-12-04 08:15:21"
+            "last_update": "2026-01-15 03:26:01"
         },
         {
             "id": 7,

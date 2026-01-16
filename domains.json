@@ -1,6 +1,14 @@
 {
-    "num_of_entries": 192,
+    "num_of_entries": 194,
     "domains": [
+        {
+            "domain": "9cache.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-01-15 23:07:46"
+        },
         {
             "domain": "a.co",
             "times_seen": 2,
@@ -283,19 +291,19 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 23,
+            "times_seen": 24,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-08 10:13:03"
+            "last_update": "2026-01-13 14:25:49"
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 361,
+            "times_seen": 365,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-13 03:48:15"
+            "last_update": "2026-01-15 22:31:41"
         },
         {
             "domain": "discordapp.net",
@@ -443,11 +451,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 139,
+            "times_seen": 141,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-01-13 00:51:16"
+            "last_update": "2026-01-15 13:40:53"
         },
         {
             "domain": "foodnetwork.com",
@@ -523,11 +531,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 33,
+            "times_seen": 35,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-01-09 16:09:55"
+            "last_update": "2026-01-15 03:01:05"
         },
         {
             "domain": "github.io",
@@ -643,11 +651,11 @@
         },
         {
             "domain": "imgur.io",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2025-10-21 02:47:28"
+            "last_update": "2026-01-15 00:56:08"
         },
         {
             "domain": "industrialshields.com",
@@ -763,11 +771,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 39,
+            "times_seen": 42,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-01-12 23:45:31"
+            "last_update": "2026-01-15 11:54:25"
         },
         {
             "domain": "klipper3d.org",
@@ -912,6 +920,14 @@
             "typing": "Shopping",
             "is_whitelisted": 1,
             "last_update": "2025-10-09 04:56:18"
+        },
+        {
+            "domain": "mineaccidents.com.au",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-01-16 04:32:49"
         },
         {
             "domain": "multisorb.com",
@@ -1131,11 +1147,11 @@
         },
         {
             "domain": "reddit.com",
-            "times_seen": 25,
+            "times_seen": 26,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-01-04 11:51:15"
+            "last_update": "2026-01-13 17:01:23"
         },
         {
             "domain": "renesas.com",
@@ -1259,11 +1275,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 346,
+            "times_seen": 363,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-01-11 21:53:13"
+            "last_update": "2026-01-16 00:37:17"
         },
         {
             "domain": "tensorflow.org",
@@ -1507,11 +1523,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 74,
+            "times_seen": 75,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-01-11 07:26:41"
+            "last_update": "2026-01-15 11:50:42"
         },
         {
             "domain": "youtube.com",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1491,
+    "num_of_entries": 1504,
     "links": [
         {
             "id": 1292,
@@ -662,6 +662,17 @@
             "last_update": "2025-10-28 04:35:59"
         },
         {
+            "id": 1560,
+            "url": "https://tenor.com/view/got-damn-seal-spin-spinning-rotate-gif-9116701725920571292",
+            "url_hash": "0bb7a7585f3adece62df8d1d5dc16cfc5876909fb4485b7a3352f09ff21d6122",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-16 23:02:11"
+        },
+        {
             "id": 104,
             "url": "https://www.youtube.com/watch?v=15ga4KMSWqU",
             "url_hash": "0be761f121c008437e0089afb1b7042c3f6ee0f2e2652cd4353c048b4db39cb8",
@@ -869,6 +880,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-26 16:24:53"
+        },
+        {
+            "id": 1555,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1461763711961399422/trim.C96007A7-ACA3-429B-BF3B-E2B1FF687807.mov?ex=696bbd0b&is=696a6b8b&hm=a362ec9de1301506d94127b55ba463188fc486304cfea6b0f1999e500470c881&",
+            "url_hash": "0f9f00945913ceecb649e395123ae2d99df01937d83316734620498687092277",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-16 16:47:07"
         },
         {
             "id": 471,
@@ -1408,6 +1430,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-30 02:24:43"
+        },
+        {
+            "id": 1556,
+            "url": "https://cdn.discordapp.com/attachments/1076866913583517766/1461834728259719232/ScreenRecording_06-12-2025_20-57-22_1.mov?ex=696bff2e&is=696aadae&hm=a59746c92590bbb775e0eeec7b3e8b37a99fa431f4c0825bd8a7920e7e8f36ba&",
+            "url_hash": "16ce574c6809307ce90ef88dd2156c1dee70c4b3807a1d7e91175a86a9e990d1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-16 21:29:19"
         },
         {
             "id": 736,
@@ -2728,6 +2761,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.pe-basics.com/media/143758ee65fb29d30caa170c0db0ed36.mp4",
             "last_update": "2025-09-14 07:06:02"
+        },
+        {
+            "id": 1562,
+            "url": "https://tenor.com/view/high-quality-high-resolution-4k-144p-ultra-hd-gif-21054057",
+            "url_hash": "2d69ddf2eba096f9e0f23710da6ec85d9fae00160456a698b703bc43961f549b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-17 00:01:19"
         },
         {
             "id": 1259,
@@ -4171,6 +4215,17 @@
             "last_update": "2025-09-02 12:45:05"
         },
         {
+            "id": 1559,
+            "url": "https://fixupx.com/MaximumADHD/status/2012216400257888318?s=20",
+            "url_hash": "431de40c0a6be36ed1916d2f88adfc4d9a454c7b6036bbf964e58d62ca295eb3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/MaximumADHD/status/2012216400257888318?s=20",
+            "last_update": "2026-01-16 23:00:58"
+        },
+        {
             "id": 1104,
             "url": "https://x.com/junk_PC_clinic/status/1991787629172650231?s=20",
             "url_hash": "43535f790eb313b7144253df63288a0525b5a7f79fc7eb6f8e144c0ddce0bdee",
@@ -5544,6 +5599,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.espressif.com/en/products/modules",
             "last_update": "2025-09-14 21:38:34"
+        },
+        {
+            "id": 1554,
+            "url": "https://verify.ic6do.com/p76JV9_urgent_security_alert",
+            "url_hash": "5a1086937f0478677db4a525d9a18394a702f6be1df1a31c7c60cf8b6acc0cba",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Suspicious",
+            "is_redirect": 0,
+            "downstream_target": "https://verify.ic6do.com/p76JV9_urgent_security_alert",
+            "last_update": "2026-01-16 16:46:09"
         },
         {
             "id": 461,
@@ -7117,6 +7183,17 @@
             "is_redirect": 0,
             "downstream_target": "https://shop.pimoroni.com/products/flexypin-pack-of-100?variant=39915397611603",
             "last_update": "2025-11-15 10:21:46"
+        },
+        {
+            "id": 1558,
+            "url": "https://cdn.discordapp.com/attachments/1160679483943174205/1461838884143894629/IMG_4064.mov?ex=696c030d&is=696ab18d&hm=c638d34b361b89a13e81633a498e7ee4c45a8afc24ada40e5bda17dbd67aa5cc&",
+            "url_hash": "7370cc706558eab3676fc91de52df4ac96d93f68b3c80726f9345d33bc6e5e88",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-16 21:45:50"
         },
         {
             "id": 1515,
@@ -8835,6 +8912,17 @@
             "last_update": "2025-10-08 12:28:27"
         },
         {
+            "id": 1563,
+            "url": "https://www.kkinstagram.com/reel/DS0JuWbgfQ_/?igsh=NGE5Z3VsZmpxbjN5",
+            "url_hash": "8ed7b639963aaa0f40038c8cbadf7c36a7d274a1d3e94373f4bc6beeb11db86f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-17 01:45:53"
+        },
+        {
             "id": 755,
             "url": "https://cdn.discordapp.com/attachments/1106657985528352808/1429944647333187674/IMG_4871.mov?ex=68f7fb3b&is=68f6a9bb&hm=f14289f6ec85cbb054e833159ee08aa1252ba1dc548de85bb9f387dc6f5d6573&",
             "url_hash": "8edeb24bf9ce57ba2f7bb9bf9f02cf686590e79de5fdd9dabf37bf59e48f7fe8",
@@ -9251,6 +9339,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-16 23:11:32"
+        },
+        {
+            "id": 1551,
+            "url": "https://qidi3d.com/products/q1-pro-3d-printer",
+            "url_hash": "947d4cebe48a8eaf9b12063013f2059f83de09e8ae05ab3507886871992c2913",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://qidi3d.com/products/q1-pro-3d-printer",
+            "last_update": "2026-01-16 15:25:42"
         },
         {
             "id": 1059,
@@ -12113,6 +12212,17 @@
             "last_update": "2025-09-28 18:32:36"
         },
         {
+            "id": 1553,
+            "url": "https://tenor.com/view/wait-that-thats-is-illegal-gif-18393263",
+            "url_hash": "bfbc25704481c99d393f233383eab80ae86d29d17016f5dad897c5a7e8e1a8ce",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-16 16:35:29"
+        },
+        {
             "id": 1382,
             "url": "https://tenor.com/view/both-kevin-spacey-perhaps-both-gif-14803012",
             "url_hash": "c0198b7741e9c4b0721a5a9bfbd25cf74b30246ee7edeb8108eaf8e80d9d63e5",
@@ -13906,6 +14016,17 @@
             "last_update": "2025-10-08 12:36:24"
         },
         {
+            "id": 1557,
+            "url": "https://cdn.discordapp.com/attachments/1076866913583517766/1461836665000820937/c64fddadb28f103b92916974ae67859f0969f3f3035fa8af7f5f9b4c4ea8114e_1.mp4?ex=696c00fc&is=696aaf7c&hm=d89b50c9cbaf362f21f8b05ab438b562102e760d1a62ad2345f9d01ef069b56e&",
+            "url_hash": "d83deed9b3a8bb1d549f2de1468e56f5382fe31ebca3017c30619f75e0d6d7a7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-16 21:37:01"
+        },
+        {
             "id": 1329,
             "url": "https://share.redd.it/preview/post/1pjuvlv",
             "url_hash": "d84bb9bb9d106fa886b30996782fabaa98f59a16a3a651817e7644e5e51b580c",
@@ -14201,6 +14322,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 20:39:28"
+        },
+        {
+            "id": 1561,
+            "url": "https://fixupx.com/EricLDaugh/status/2012138417983979927",
+            "url_hash": "dc50c7c0fbfc15264e889ab57cdb83fda0a71bf41b6b65c66dfc503fcab28369",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/EricLDaugh/status/2012138417983979927",
+            "last_update": "2026-01-16 23:28:40"
         },
         {
             "id": 728,
@@ -14663,6 +14795,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-19 06:55:08"
+        },
+        {
+            "id": 1550,
+            "url": "https://eu.qidi3d.com/pages/qidi-plus-4-techspecs",
+            "url_hash": "e3d3e2b7fa0b4f56d6eaad755cbc7bb64d0a877f17bcaaaf0c46f4d58ec8ac5f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://eu.qidi3d.com/pages/qidi-plus-4-techspecs",
+            "last_update": "2026-01-16 15:17:40"
         },
         {
             "id": 905,

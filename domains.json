@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 196,
+    "num_of_entries": 199,
     "domains": [
         {
             "domain": "9cache.com",
@@ -299,11 +299,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 369,
+            "times_seen": 371,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-16 21:45:50"
+            "last_update": "2026-01-17 15:39:32"
         },
         {
             "domain": "discordapp.net",
@@ -371,11 +371,11 @@
         },
         {
             "domain": "espressif.com",
-            "times_seen": 1,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Information Provider",
             "is_whitelisted": 1,
-            "last_update": "2025-09-14 21:38:34"
+            "last_update": "2026-01-17 11:35:17"
         },
         {
             "domain": "example.com",
@@ -451,11 +451,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 143,
+            "times_seen": 146,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-01-16 23:28:21"
+            "last_update": "2026-01-17 15:34:13"
         },
         {
             "domain": "foodnetwork.com",
@@ -531,11 +531,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 35,
+            "times_seen": 36,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-01-15 03:01:05"
+            "last_update": "2026-01-17 11:35:17"
         },
         {
             "domain": "github.io",
@@ -704,6 +704,22 @@
             "typing": "Education",
             "is_whitelisted": 0,
             "last_update": "2025-12-09 00:19:46"
+        },
+        {
+            "domain": "iosref.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 0,
+            "last_update": "2026-01-17 14:57:45"
+        },
+        {
+            "domain": "ipadlinux.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 0,
+            "last_update": "2026-01-17 14:22:47"
         },
         {
             "domain": "itnext.io",
@@ -1291,11 +1307,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 366,
+            "times_seen": 368,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-01-17 00:01:19"
+            "last_update": "2026-01-17 20:20:57"
         },
         {
             "domain": "tensorflow.org",
@@ -1304,6 +1320,14 @@
             "typing": "Education",
             "is_whitelisted": 1,
             "last_update": "2025-10-19 06:07:42"
+        },
+        {
+            "domain": "thingiverse.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2026-01-17 20:43:39"
         },
         {
             "domain": "threads.com",
@@ -1539,19 +1563,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 75,
+            "times_seen": 76,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-01-15 11:50:42"
+            "last_update": "2026-01-18 04:14:40"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 141,
+            "times_seen": 142,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-01-12 14:00:31"
+            "last_update": "2026-01-17 14:35:17"
         },
         {
             "domain": "yxtwitter.com",

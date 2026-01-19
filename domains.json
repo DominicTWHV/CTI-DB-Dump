@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 199,
+    "num_of_entries": 200,
     "domains": [
         {
             "domain": "9cache.com",
@@ -43,11 +43,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 53,
+            "times_seen": 54,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-01-12 18:00:29"
+            "last_update": "2026-01-18 16:51:05"
         },
         {
             "domain": "aliexpress.us",
@@ -211,11 +211,11 @@
         },
         {
             "domain": "core-electronics.com.au",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": null,
             "is_whitelisted": 0,
-            "last_update": "2025-11-15 10:20:58"
+            "last_update": "2026-01-18 09:16:42"
         },
         {
             "domain": "creality.com",
@@ -299,11 +299,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 371,
+            "times_seen": 374,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-17 15:39:32"
+            "last_update": "2026-01-18 19:04:42"
         },
         {
             "domain": "discordapp.net",
@@ -451,11 +451,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 146,
+            "times_seen": 147,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-01-17 15:34:13"
+            "last_update": "2026-01-19 01:58:46"
         },
         {
             "domain": "foodnetwork.com",
@@ -795,11 +795,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 43,
+            "times_seen": 44,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-01-17 01:45:53"
+            "last_update": "2026-01-18 11:09:35"
         },
         {
             "domain": "klipper3d.org",
@@ -976,6 +976,14 @@
             "typing": "Information Provider",
             "is_whitelisted": 1,
             "last_update": "2025-08-12 19:51:01"
+        },
+        {
+            "domain": "nih.gov",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Health",
+            "is_whitelisted": 1,
+            "last_update": "2026-01-18 14:27:28"
         },
         {
             "domain": "nomial.co.uk",
@@ -1523,11 +1531,11 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 25,
+            "times_seen": 26,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-01-08 05:01:17"
+            "last_update": "2026-01-18 15:09:13"
         },
         {
             "domain": "x.com",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1543,
+    "num_of_entries": 1553,
     "links": [
         {
             "id": 1292,
@@ -244,6 +244,17 @@
             "last_update": "2025-11-12 05:28:22"
         },
         {
+            "id": 1609,
+            "url": "https://tenor.com/view/you-sybau-gif-12123173717234355657",
+            "url_hash": "03d5c076e7be73329f89d94c4e3d213661de71c5128147b145d59be362cefd57",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-20 16:20:16"
+        },
+        {
             "id": 363,
             "url": "https://youtu.be/hCQCP-5g5bo?t=1046",
             "url_hash": "0437d3f07cf05fe3ce6a206a874d54e4c3119aa7880f010de61d89f2ff040e3c",
@@ -286,6 +297,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/lopezdoriga/status/1989895952480583998",
             "last_update": "2025-11-16 17:18:02"
+        },
+        {
+            "id": 1611,
+            "url": "https://cdn.discordapp.com/attachments/1077234787447742565/1463260960860147886/VID_20250923_083547_429.mp4?ex=69712f77&is=696fddf7&hm=783227cbca6001ea95a729fb0eb2a33e37d77e12308a04ec9b37c342e384db50&",
+            "url_hash": "04aeb0c49636d15b7fb3895b0548c5a138981b9f0e20864212ec0c46eba6f8e9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-20 19:56:40"
         },
         {
             "id": 1337,
@@ -8296,6 +8318,17 @@
             "last_update": "2025-08-09 07:11:04"
         },
         {
+            "id": 1607,
+            "url": "https://tenor.com/view/cat-berg-cat-orange-cat-swimming-gif-25177582",
+            "url_hash": "8212bd40654669f757931e29c3603540c4cbe47d14837587ea0e7ab3369bca4a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-20 15:09:24"
+        },
+        {
             "id": 1296,
             "url": "https://a.aliexpress.com/_EHfmfIy",
             "url_hash": "82171f20fc26addfcd783542388282f16f0a95010b3d9ffcf4240695786cc5e8",
@@ -10584,6 +10617,17 @@
             "last_update": "2025-09-22 12:46:35"
         },
         {
+            "id": 1608,
+            "url": "https://tenor.com/view/furry-cute-awawa-gif-15208428946092181725",
+            "url_hash": "a2331ce5ba3c1e448b764ca4ea4d212a3e65e50e547e401faa5fea783968e2e3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-20 15:23:13"
+        },
+        {
             "id": 1074,
             "url": "https://cdn.discordapp.com/attachments/812705161474605057/1441117476468297940/IMG_3575.mov?ex=6920a0bd&is=691f4f3d&hm=d38a31b3a3e283ba42652ae690b3d2622baa25c01121b8986ddccb349b1351cb&",
             "url_hash": "a249872d0876dfe4d66e1d6eb47ec2d103cbd931e26b41a83fce352987fcd1d7",
@@ -11638,6 +11682,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-04 01:57:39"
+        },
+        {
+            "id": 1612,
+            "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1463295407353368761/a175301abcec694efb93fcb192dd4b572d767863118a60a77dcba73eedb83918_1.mp4?ex=69714f8b&is=696ffe0b&hm=00f034dfdeef946a0d36acf901c605367328dc2527d74e420154606d74902dae&",
+            "url_hash": "b06956090173fbff6134dddc807380881cf440dd65e68543648a10dd1b4b9af6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-20 22:13:32"
         },
         {
             "id": 651,
@@ -12949,6 +13004,17 @@
             "last_update": "2025-11-18 01:00:16"
         },
         {
+            "id": 1613,
+            "url": "https://i.imgur.com/m61xhzN.mp4",
+            "url_hash": "c4a6c225bdaf8d4aba3a80d145bb67f7ad62c07aa8ecc15c1f038bb280672799",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://i.imgur.com/m61xhzN.mp4",
+            "last_update": "2026-01-20 23:13:29"
+        },
+        {
             "id": 637,
             "url": "https://www.homemade-circuits.com/ic-7805-switching-power-supply-circuit/amp/",
             "url_hash": "c4b3706fcc0ca042a1415410dd26dcaa2b2055a041cd90cb9016a4dec8daa432",
@@ -13541,6 +13607,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/ayy8KmM",
             "last_update": "2025-12-09 21:30:00"
+        },
+        {
+            "id": 1616,
+            "url": "https://x.com/beneater/status/2012988790709928305",
+            "url_hash": "cdce2100e4e2bcf8f4b61b7468ac029e42a19e6e140f1a14722da6a665e5717f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-21 05:07:27"
         },
         {
             "id": 1601,
@@ -15490,6 +15567,17 @@
             "last_update": "2025-11-10 04:49:17"
         },
         {
+            "id": 1614,
+            "url": "https://fixupx.com/Awk20000/status/2013697696150761519",
+            "url_hash": "e90481786f6979048fe68511d77121e9f2ec8c81065341caed6d6c766be7cf12",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Awk20000/status/2013697696150761519",
+            "last_update": "2026-01-20 23:29:09"
+        },
+        {
             "id": 611,
             "url": "https://cdn.discordapp.com/attachments/771109314059305002/1425593120489209867/Chime.mov?ex=68e8268e&is=68e6d50e&hm=0aa0ce35d4821de8b49117c3af5c7650a4634f522ec5134f62189da2e5854130&",
             "url_hash": "e954ebf5442bed7f3e4aa1299e25ea28c78620a1b5a903d8804a013a4c481503",
@@ -15499,6 +15587,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 21:18:07"
+        },
+        {
+            "id": 1615,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1463338702896889917/20260120_180111.mp4?ex=697177de&is=6970265e&hm=e50d19a67ac660d56761d96f2e8808cdf6573796c0316038f55932a3da77257a&",
+            "url_hash": "e95d9ca84f753370e0b815f951666b37b5e644346018c6dfe13d7ed16b681cd5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-21 01:05:34"
         },
         {
             "id": 1521,
@@ -15818,6 +15917,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-11 08:29:58"
+        },
+        {
+            "id": 1606,
+            "url": "https://tenor.com/view/the-finger-the-middle-finger-mr-rogers-the-bird-flipping-you-off-gif-7333434666924801900",
+            "url_hash": "ee8a416fcaf4f7947534d72adcf9608801c9656e30f47d091a5d1c3bb645a0b4",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-20 12:48:43"
         },
         {
             "id": 165,

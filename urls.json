@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1561,
+    "num_of_entries": 1570,
     "links": [
         {
             "id": 1292,
@@ -2796,6 +2796,17 @@
             "last_update": "2025-10-11 23:38:11"
         },
         {
+            "id": 1632,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1464066051397648397/RPReplay_Final1697652256.mov?ex=69741d43&is=6972cbc3&hm=73f05e4316057e2788b6ee2ad205e2dd86677fb9a7497645da57bcf26d99e118&",
+            "url_hash": "2b134cf0bd35fe936b39def217f69f0404252a1ebb29ce97f9f41d26e556056b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-23 01:15:48"
+        },
+        {
             "id": 962,
             "url": "https://x.com/iyoushetwt/status/1987941684634866121?s=20",
             "url_hash": "2b138efb9eaf0a094a19bd1258b6e171c619e5dd0a26d023b98e1ee4deff3daa",
@@ -5414,6 +5425,17 @@
             "last_update": "2026-01-03 04:32:04"
         },
         {
+            "id": 1633,
+            "url": "https://chatgpt.com",
+            "url_hash": "516c22c5dba9c1ba70ca5e7f223c5987527274aa6a88c96e8eddb77fc2e4fa5e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://chatgpt.com",
+            "last_update": "2026-01-23 08:00:11"
+        },
+        {
             "id": 295,
             "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1415396330007691324/IMG_7402.mov?ex=68c30e0d&is=68c1bc8d&hm=3068cb6b29c94fb7f97f4784ec7ec5c7cde05699ac3ade4e0e414d713fcaa243&",
             "url_hash": "517b80de07d272f3fc305abe7a4224ee60b44ec19a6cbde1dd6d255c81c3cd79",
@@ -7207,6 +7229,17 @@
             "last_update": "2025-08-16 23:04:05"
         },
         {
+            "id": 1627,
+            "url": "https://x.com/eevblog/status/2014192353561772038?s=20",
+            "url_hash": "6ffae90f61a79ad821ae1a0518f14c86969459c39bec75c31f7ed2e4396f9f70",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-22 14:12:35"
+        },
+        {
             "id": 254,
             "url": "https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/",
             "url_hash": "706276f1a8e8abef88f7708fb3402cdf75719f8d7c8cdd78764b4ae03894098f",
@@ -7634,6 +7667,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-10 22:42:21"
+        },
+        {
+            "id": 1630,
+            "url": "https://tenor.com/view/vergil-devil-may-cry-turn-around-gif-14841308259061848616",
+            "url_hash": "757dc532627c153091f1b1c8bdbe42d7e43f64ab7b2fdfdf7b8c5ba5cd38456d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-22 23:10:38"
         },
         {
             "id": 342,
@@ -9482,6 +9526,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-07 02:21:59"
+        },
+        {
+            "id": 1626,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1463889260968153180/ScreenRecording_02-09-2025_20-17-15_1.mov?ex=6973789d&is=6972271d&hm=0412153e29e99e75e8498bc029cb8239846afa7bc441e73bf42f7a102e614fe7&",
+            "url_hash": "913de7f05d1c10299dba4f1cae41916b015d7bb464d3fd46a38b39ef1cd13eed",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-22 13:33:18"
         },
         {
             "id": 487,
@@ -13521,6 +13576,17 @@
             "last_update": "2026-01-06 11:40:35"
         },
         {
+            "id": 1625,
+            "url": "https://tenor.com/view/cat-thumbs-up-cat-thumbs-up-meme-stock-image-gif-27117830",
+            "url_hash": "cbb65926dac1c955819a85c7273da5ccd4c8d362c8653edcf85bf3de0b8240be",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-22 13:11:39"
+        },
+        {
             "id": 423,
             "url": "https://tenor.com/view/no-pixels-cant-see-ben-chang-community-ken-jeong-gif-17361588",
             "url_hash": "cbf9916a2fedc59d226fa39d672ab4a7267bd25eff56323d48a9e14c162020d8",
@@ -13618,6 +13684,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-14 01:12:37"
+        },
+        {
+            "id": 1628,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1463903109674962955/ScreenRecording_06-12-2025_20-57-22_1.mov?ex=69738583&is=69723403&hm=8df10bc579e39d9ff72f5cb56f874731ac4a64849e2366bf95c3bee3ea3c4b13&",
+            "url_hash": "cd4c1fce10528a99711cba263651e59b600a85c56d6e25be05880a65d0e3637d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-22 14:28:20"
         },
         {
             "id": 612,
@@ -15017,6 +15094,17 @@
             "last_update": "2026-01-21 17:04:40"
         },
         {
+            "id": 1631,
+            "url": "https://tenor.com/view/sixseven-six-seven-six-seve-67-gif-13609946864581991238",
+            "url_hash": "dd869de98d76ae885398b3bf4062cb8960e21014e80594b85c8a4eff4526a5d8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-23 00:41:30"
+        },
+        {
             "id": 1030,
             "url": "https://www.reddit.com/r/PrintedCircuitBoard/comments/1keinxe/stop_using_1117_regulators_in_new_designs/",
             "url_hash": "dde1ec8d74d7d0f30475e496ba80682cff308733cf10509b76fb43974babd45a",
@@ -15787,6 +15875,17 @@
             "last_update": "2025-12-10 00:25:30"
         },
         {
+            "id": 1629,
+            "url": "https://en.wikipedia.org/wiki/Nuvistor#References",
+            "url_hash": "eb43027ecedb442c103272b1e17f4660ccd26bb4b961413b4c0fe5f4b4f9dc9b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-22 21:19:27"
+        },
+        {
             "id": 952,
             "url": "https://cdn.discordapp.com/attachments/986022159631671307/1437501218489372776/IMG_0713.mp4?ex=691378d5&is=69122755&hm=656f2101dcc8530eddbca316533a56ebd292bce5e1b407fe8c4958f7c5b01b16&",
             "url_hash": "eb47c6de590e6ba741aafae19ecee66de064a25ee5e8c93e9f489460dbde61b5",
@@ -15999,12 +16098,12 @@
             "id": 1606,
             "url": "https://tenor.com/view/the-finger-the-middle-finger-mr-rogers-the-bird-flipping-you-off-gif-7333434666924801900",
             "url_hash": "ee8a416fcaf4f7947534d72adcf9608801c9656e30f47d091a5d1c3bb645a0b4",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-01-20 12:48:43"
+            "last_update": "2026-01-23 01:15:29"
         },
         {
             "id": 165,

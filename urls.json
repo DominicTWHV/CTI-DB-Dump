@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1599,
+    "num_of_entries": 1615,
     "links": [
         {
             "id": 1292,
@@ -341,6 +341,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-29 01:10:15"
+        },
+        {
+            "id": 1667,
+            "url": "https://tenor.com/view/waiting-for-java-server-gif-21201235",
+            "url_hash": "05be22d17674bfdccd27d5a8724f03cec45b1f0f9e0f8bbb5a4f5628dac6a63a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 14:22:51"
         },
         {
             "id": 1108,
@@ -1245,6 +1256,17 @@
             "last_update": "2025-11-27 00:39:45"
         },
         {
+            "id": 1669,
+            "url": "https://www.youtube.com/watch?v=kHai4HCjLUo",
+            "url_hash": "129b0fa7ad289b34eca55a63409d9def90e533543b72da3ae5c3b716ec67fc06",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 16:43:28"
+        },
+        {
             "id": 493,
             "url": "https://tenor.com/view/noodles-eating-noodles-eating-delicious-gif-12264131",
             "url_hash": "12eb7ee2350ebe471e3153d0d8fbc2a5a5188fa3e7a8496f98151d41c9432b2c",
@@ -1529,6 +1551,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-16 21:29:19"
+        },
+        {
+            "id": 1678,
+            "url": "https://cdn.discordapp.com/attachments/1022744850203947059/1465241725021847730/signal-2026-01-25-12-01-31-688.mp4?ex=69786432&is=697712b2&hm=52a3c63e05d3c2fdddfda3795ff882fac2babcf85716c989fcc22d62e5dfb7ed&",
+            "url_hash": "16f2a53fe87bf8112a728a7d42db56be4a759ebdf16d7b8f82e72478dc1a55ae",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-26 07:07:31"
         },
         {
             "id": 736,
@@ -2299,6 +2332,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-04 22:18:04"
+        },
+        {
+            "id": 1675,
+            "url": "https://youtu.be/7lJmkTSoWLc?si=mI1p7NslJwkbvzm8",
+            "url_hash": "2336916d6a8843cf2531100f6bfd10324082ed7802fa9fa39c309cf4ac21a882",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 23:46:03"
         },
         {
             "id": 796,
@@ -4490,6 +4534,17 @@
             "last_update": "2025-11-22 13:45:41"
         },
         {
+            "id": 1665,
+            "url": "https://www.solidworks.com/product/students#student-offers",
+            "url_hash": "43912f35d11c53a2554c5a67e34dd5a1faba1f5d360ee3ffa4a5519a6d91fa68",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.solidworks.com/product/students#student-offers",
+            "last_update": "2026-01-25 11:04:57"
+        },
+        {
             "id": 1339,
             "url": "https://fixupx.com/ezraklein/status/1999222362894663980",
             "url_hash": "43947d25a682c87eefc43eb9186ad8ad732e28838f7db6eed5644c7e2c191515",
@@ -5579,6 +5634,17 @@
             "last_update": "2025-10-19 06:53:39"
         },
         {
+            "id": 1677,
+            "url": "https://fixupx.com/pedestrian/status/2015253042606522588?s=20",
+            "url_hash": "5341847c550973c26986b35232fb994387b2a5a492655c0dcdfbe27c835eb9ba",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/pedestrian/status/2015253042606522588?s=20",
+            "last_update": "2026-01-26 06:41:54"
+        },
+        {
             "id": 1231,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1445793650406723717/VID_20251201_214919.mp4?ex=6931a3c3&is=69305243&hm=7687890daa6e7367afc12eebaf39b91d5b5c010499a172ba75a22369c8a8fbfe&",
             "url_hash": "5377e9c6c6d4ac22d089e01d5063b179f7ffac85997929bffeaa99c188130650",
@@ -5819,6 +5885,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-24 14:54:00"
+        },
+        {
+            "id": 1673,
+            "url": "https://www.youtube.com/watch?v=SvgMM_IBAyU",
+            "url_hash": "5733ccd8dd3ff7250a9cb18c028c16e5a569ec628275f7cdf054c77680c8dcb7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 23:15:13"
         },
         {
             "id": 1493,
@@ -6259,6 +6336,17 @@
             "is_redirect": 0,
             "downstream_target": "https://i.imgur.io/qcummE2.mp4",
             "last_update": "2026-01-15 00:56:29"
+        },
+        {
+            "id": 1671,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1465100272618442845/esp_explode.mov?ex=6977e075&is=69768ef5&hm=f55e5fac257c8e5ac0df5c85e9bd682dfe2a33cb71e89f95f443e9171775272a&",
+            "url_hash": "5f3f5cc3bc5e38b4172dc3278ed77183f5b04f60589eeb454a64dc9a9fe7e08c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 21:45:26"
         },
         {
             "id": 497,
@@ -7460,6 +7548,17 @@
             "last_update": "2025-12-10 12:18:54"
         },
         {
+            "id": 1674,
+            "url": "https://www.reddit.com/r/todayilearned/comments/i14h6c/til_marie_antoinette_built_an_entire_fake_village/",
+            "url_hash": "7103e19a0cf27b516d3664b4d8b229be97e2de7c5dbf684ba4694fd7c88f5863",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/todayilearned/comments/i14h6c/til_marie_antoinette_built_an_entire_fake_village/",
+            "last_update": "2026-01-25 23:30:06"
+        },
+        {
             "id": 177,
             "url": "https://fixupx.com/Yu_Um0209/status/1959888034494874051",
             "url_hash": "716eafb0f2806b06479a39e9d4e3d4b20a0b1431e0bbf2f56d3fabf32907f841",
@@ -8305,6 +8404,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-13 11:14:10"
+        },
+        {
+            "id": 1679,
+            "url": "https://elektrotanya.com/itt_schaub_lorenz_4500_hifi_type_r120w_service_manual.rar/download.html#dl",
+            "url_hash": "7dae38544ba74a2cc185ff3ed06451e3cbab1088b6a6b232b9158a0ed6612e7a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://elektrotanya.com/itt_schaub_lorenz_4500_hifi_type_r120w_service_manual.rar/download.html#dl",
+            "last_update": "2026-01-26 07:30:26"
         },
         {
             "id": 1447,
@@ -10375,6 +10485,17 @@
             "last_update": "2025-12-07 12:02:26"
         },
         {
+            "id": 1666,
+            "url": "https://enjoymachinelearning.com/blog/what-cad-software-does-ikea-use/",
+            "url_hash": "9a4722bbc640725f05030ef38f5701470c2c5aa474150e3636b6a4b0e9495fcc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://enjoymachinelearning.com/blog/what-cad-software-does-ikea-use/",
+            "last_update": "2026-01-25 14:19:50"
+        },
+        {
             "id": 787,
             "url": "https://tenor.com/view/marshello-dj-yes-dj-marshmello-maybe-gif-18727692",
             "url_hash": "9a4b51f1077ff81ee92fd70adaeedf3b0516f7dd0bb6bd486d3d2a8a115b7e18",
@@ -10692,6 +10813,17 @@
             "is_redirect": 0,
             "downstream_target": "http://sns-webpic-qc.xhscdn.com/202511232131/ebb9d8549c7ee014947f2261ba38493f/1040g00831ol14iv858005psdp933i7ej6grg7l0!nd_dft_wgth_jpg_3",
             "last_update": "2025-11-23 13:33:54"
+        },
+        {
+            "id": 1670,
+            "url": "https://youtube.com/shorts/ntuaIB7xr38",
+            "url_hash": "9d8cb1feb52a9afa43e9b3b2ca263b849aaf8bf934aacecf1d39422d997d0c07",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 17:55:57"
         },
         {
             "id": 672,
@@ -14291,6 +14423,17 @@
             "last_update": "2025-08-26 00:44:30"
         },
         {
+            "id": 1668,
+            "url": "https://tenor.com/view/javascript-sad-programmer-sad-seal-js-frontend-gif-17530726856445672143",
+            "url_hash": "d12c84c0aff4fb74ec3f03713bdca0b591b81ad8d2e33eadcb0cc7da0b050f30",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 14:23:03"
+        },
+        {
             "id": 757,
             "url": "https://i.imgur.io/wL1i6hp.mp4",
             "url_hash": "d14bb8f360e0a4506059fd7c1fb14d8bcab5af223cc29168c2baae23e7a094fe",
@@ -14652,6 +14795,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-06 10:51:59"
+        },
+        {
+            "id": 1676,
+            "url": "https://en.wikipedia.org/wiki/Paris_M%C3%A9tro_Line_14",
+            "url_hash": "d4deafd8333da5c2ff820b0df5a40841a670babc9e00d1438d5741bb9ed7790f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-26 01:35:27"
         },
         {
             "id": 1487,
@@ -16326,6 +16480,17 @@
             "last_update": "2025-12-05 03:51:46"
         },
         {
+            "id": 1664,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1464938603473010855/signal-2026-01-25-12-01-31-688.mp4?ex=697749e4&is=6975f864&hm=66e7a872f60fa757d546052b8e3c1c75ff02ee95bd7c0c5bfa6847f732e4d56b&",
+            "url_hash": "ed0dfeb9563df747dbeb0dbe2c8a9bd30bb5969697f3866396702845a60b4583",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 11:03:01"
+        },
+        {
             "id": 1187,
             "url": "https://fixupx.com/jj_talking/status/1994485042761089300",
             "url_hash": "ed3d613d65e5febf9c11f885ebffa3a881b7ac39a11eabc043aac6fa0b41c8e3",
@@ -16489,6 +16654,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)",
             "last_update": "2025-10-13 08:44:40"
+        },
+        {
+            "id": 1672,
+            "url": "https://x.com/WindowsLatest/status/2015461692650709363?s=20",
+            "url_hash": "f003bce942b226f5e435798f66f0cd331ef5d02b9edafa80e6477c32e7d681dc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-25 22:53:26"
         },
         {
             "id": 1057,

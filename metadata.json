@@ -1,5 +1,5 @@
 {
-    "last_update": "2026-01-26T09:44:59.258866+00:00",
+    "last_update": "2026-01-27T12:43:42.478446+00:00",
     "remote_update_interval_minutes": 1440,
     "dataset_format": "cockatoo-core",
     "dataset_author": "DominicTWHV",
@@ -11,6 +11,16 @@
         "invites.json",
         "metadata.json"
     ],
+    "hashing_algorithm": {
+        "invites": "argon2id",
+        "urls": "none",
+        "files": "sha256",
+        "domains": "none"
+    },
+    "num_of_url_entries": 1625,
+    "num_of_file_entries": 343,
+    "num_of_domain_entries": 205,
+    "num_of_invite_entries": 16,
     "notes": [
         {
             "url_dataset": [
@@ -29,7 +39,7 @@
         },
         {
             "invite_dataset": [
-                "The invite has been hashed in sha256 for privacy reasons. You can still hash it on your side and compare both values.",
+                "The invite has been hashed in argon2id for privacy reasons. You can still hash it on your side and compare both values.",
                 "Resolution of the invite is partially masked for privacy reasons."
             ]
         }

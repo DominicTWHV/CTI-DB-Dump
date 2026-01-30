@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1647,
+    "num_of_entries": 1651,
     "links": [
         {
             "id": 1292,
@@ -858,6 +858,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-13 13:11:04"
+        },
+        {
+            "id": 1712,
+            "url": "https://youtube.com/shorts/B9A71KSIYM0",
+            "url_hash": "0d96ab49f429b10f5a8428b515e4020d85bf4bd19006b3b51f483ec300f61490",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-29 12:48:58"
         },
         {
             "id": 1389,
@@ -2068,6 +2079,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-27 09:15:59"
+        },
+        {
+            "id": 1714,
+            "url": "https://tenor.com/view/i-have-a-lot-of-people-to-disapoint-meowth-pokemon-disappointment-gif-11618060202097752519",
+            "url_hash": "1e239a1f3b1c3f7ddf21526f5c6e0cf6fc08f60c2f5a1a85a7eb472b865225a0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-29 17:09:39"
         },
         {
             "id": 1270,
@@ -4028,6 +4050,17 @@
             "last_update": "2025-09-23 04:17:06"
         },
         {
+            "id": 1713,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1466447410573349061/IMG_3239.mov?ex=697cc713&is=697b7593&hm=a5522935728f7dd9908be57e56cdfdfdee1b00da75fa3018d1fc99d684cc1c3c&",
+            "url_hash": "3a65aea61cafa4ca4c5030e0f1600dbe74c032636f8bc8dcffaac7934edede83",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-29 14:58:28"
+        },
+        {
             "id": 496,
             "url": "https://top500.org/lists/top500/2025/06/",
             "url_hash": "3af957971b6b9d7b7aec764a5f6b5e2b2dab06339e9c3e003ccc500a71d8ecbf",
@@ -4400,6 +4433,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-14 23:42:29"
+        },
+        {
+            "id": 1715,
+            "url": "https://tenor.com/view/bitcoin-btc-f2pool-brainwaves-idea-gif-19895587",
+            "url_hash": "40270bc5121a79c032584e6270e76131adef601da194717886c3217d8cd22ceb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-01-30 08:12:21"
         },
         {
             "id": 127,

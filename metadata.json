@@ -1,5 +1,5 @@
 {
-    "last_update": "2026-02-02T12:43:42.696469+00:00",
+    "last_update": "2026-02-04T05:13:24.213129+00:00",
     "remote_update_interval_minutes": 1440,
     "dataset_format": "cockatoo-core",
     "dataset_author": "DominicTWHV",
@@ -17,14 +17,20 @@
         "files": "sha256",
         "domains": "none"
     },
-    "num_of_url_entries": 1680,
-    "num_of_file_entries": 361,
-    "num_of_domain_entries": 206,
+    "num_of_url_entries": 1704,
+    "num_of_file_entries": 370,
+    "num_of_domain_entries": 207,
     "num_of_invite_entries": 16,
+    "file_mapping": {
+        "urls.json": "url",
+        "files.json": "file",
+        "domains.json": "domain",
+        "invites.json": "invite"
+    },
     "notes": [
         {
             "url_dataset": [
-                "This dump may contain live malicious URLs. Please be careful when using them. We do not take any responsibility for any damage caused by these URLs."
+                "This dump may contain live malicious URLs. Please be careful when using them. We are not to be held responsible for any damage caused by these URLs."
             ]
         },
         {
@@ -39,7 +45,7 @@
         },
         {
             "invite_dataset": [
-                "The invite has been hashed in argon2id for privacy reasons. You can still hash it on your side and compare both values.",
+                "The invite has been hashed in argon2id for privacy reasons. Hash the invite on your side and compare both values. For more detail, see https://cockatoo.dev/blogs/cti-db-dump-invite-hash-update-2026-01-18/",
                 "Resolution of the invite is partially masked for privacy reasons."
             ]
         }

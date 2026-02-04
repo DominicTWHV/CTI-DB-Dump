@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 206,
+    "num_of_entries": 207,
     "domains": [
         {
             "domain": "9cache.com",
@@ -43,11 +43,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 61,
+            "times_seen": 64,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-01-27 18:35:55"
+            "last_update": "2026-02-03 11:25:23"
         },
         {
             "domain": "aliexpress.us",
@@ -307,19 +307,19 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 25,
+            "times_seen": 26,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-24 22:44:41"
+            "last_update": "2026-02-02 21:17:12"
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 410,
+            "times_seen": 419,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-01-30 23:49:09"
+            "last_update": "2026-02-03 22:30:00"
         },
         {
             "domain": "discordapp.net",
@@ -491,11 +491,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 163,
+            "times_seen": 168,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-02-01 02:39:46"
+            "last_update": "2026-02-03 11:29:42"
         },
         {
             "domain": "foodnetwork.com",
@@ -571,11 +571,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 36,
+            "times_seen": 37,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-01-17 11:35:17"
+            "last_update": "2026-02-02 18:12:50"
         },
         {
             "domain": "github.io",
@@ -611,11 +611,11 @@
         },
         {
             "domain": "google.com",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Internet Services",
             "is_whitelisted": 1,
-            "last_update": "2025-10-28 11:06:21"
+            "last_update": "2026-02-03 15:44:13"
         },
         {
             "domain": "googleusercontent.com",
@@ -739,11 +739,11 @@
         },
         {
             "domain": "instructables.com",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Knowledge",
+            "typing": "Blog",
             "is_whitelisted": 0,
-            "last_update": "2026-01-24 21:02:00"
+            "last_update": "2026-02-03 06:34:43"
         },
         {
             "domain": "iosref.com",
@@ -818,6 +818,14 @@
             "last_update": "2025-11-04 07:40:58"
         },
         {
+            "domain": "kevinakasam.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2026-02-02 18:04:35"
+        },
+        {
             "domain": "kicanvas.org",
             "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
@@ -835,11 +843,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 50,
+            "times_seen": 51,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-01-31 23:06:43"
+            "last_update": "2026-02-02 11:49:07"
         },
         {
             "domain": "klipper3d.org",
@@ -1363,11 +1371,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 419,
+            "times_seen": 426,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-02-01 01:18:03"
+            "last_update": "2026-02-03 05:40:40"
         },
         {
             "domain": "tensorflow.org",
@@ -1587,11 +1595,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 68,
+            "times_seen": 69,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-01-25 22:53:26"
+            "last_update": "2026-02-03 22:37:56"
         },
         {
             "domain": "xda-developers.com",
@@ -1619,11 +1627,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 79,
+            "times_seen": 83,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-01-31 13:05:20"
+            "last_update": "2026-02-02 17:14:44"
         },
         {
             "domain": "youtube.com",

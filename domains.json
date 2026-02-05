@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 207,
+    "num_of_entries": 210,
     "domains": [
         {
             "domain": "9cache.com",
@@ -42,6 +42,14 @@
             "last_update": "2025-12-06 12:10:09"
         },
         {
+            "domain": "alibaba.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2026-02-04 18:38:37"
+        },
+        {
             "domain": "aliexpress.com",
             "times_seen": 64,
             "scan_result": "[DATA REDACTED]",
@@ -67,11 +75,11 @@
         },
         {
             "domain": "alldatasheet.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Information Provider",
             "is_whitelisted": 0,
-            "last_update": "2025-10-12 15:23:29"
+            "last_update": "2026-02-04 16:11:06"
         },
         {
             "domain": "amazon.ca",
@@ -315,11 +323,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 419,
+            "times_seen": 420,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-02-03 22:30:00"
+            "last_update": "2026-02-04 14:15:36"
         },
         {
             "domain": "discordapp.net",
@@ -491,11 +499,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 168,
+            "times_seen": 169,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-02-03 11:29:42"
+            "last_update": "2026-02-04 10:05:33"
         },
         {
             "domain": "foodnetwork.com",
@@ -656,6 +664,22 @@
             "typing": "Knowledge",
             "is_whitelisted": 0,
             "last_update": "2025-11-16 13:05:48"
+        },
+        {
+            "domain": "hackster.io",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 0,
+            "last_update": "2026-02-04 09:16:25"
+        },
+        {
+            "domain": "harvard.edu",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Education",
+            "is_whitelisted": 1,
+            "last_update": "2026-02-05 01:33:56"
         },
         {
             "domain": "homemade-circuits.com",
@@ -1595,11 +1619,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 69,
+            "times_seen": 71,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-02-03 22:37:56"
+            "last_update": "2026-02-05 00:59:48"
         },
         {
             "domain": "xda-developers.com",
@@ -1635,11 +1659,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 155,
+            "times_seen": 157,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-02-01 12:35:40"
+            "last_update": "2026-02-05 04:29:25"
         },
         {
             "domain": "yxtwitter.com",

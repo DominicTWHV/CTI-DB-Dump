@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 211,
+    "num_of_entries": 212,
     "domains": [
         {
             "domain": "9cache.com",
@@ -323,11 +323,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 432,
+            "times_seen": 434,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-02-06 21:32:56"
+            "last_update": "2026-02-07 22:45:52"
         },
         {
             "domain": "discordapp.net",
@@ -499,11 +499,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 171,
+            "times_seen": 175,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-02-07 01:50:31"
+            "last_update": "2026-02-08 02:48:37"
         },
         {
             "domain": "foodnetwork.com",
@@ -1267,11 +1267,11 @@
         },
         {
             "domain": "reddit.com",
-            "times_seen": 28,
+            "times_seen": 29,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-01-25 23:30:06"
+            "last_update": "2026-02-07 17:00:31"
         },
         {
             "domain": "renesas.com",
@@ -1370,6 +1370,14 @@
             "last_update": "2025-11-15 10:20:35"
         },
         {
+            "domain": "steampowered.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Gaming",
+            "is_whitelisted": 1,
+            "last_update": "2026-02-07 19:52:28"
+        },
+        {
             "domain": "sunrom.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1403,11 +1411,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 442,
+            "times_seen": 449,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-02-06 20:55:32"
+            "last_update": "2026-02-08 04:43:32"
         },
         {
             "domain": "tensorflow.org",
@@ -1667,11 +1675,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 157,
+            "times_seen": 159,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-02-05 04:29:25"
+            "last_update": "2026-02-07 19:50:03"
         },
         {
             "domain": "yxtwitter.com",

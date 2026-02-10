@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1773,
+    "num_of_entries": 1777,
     "links": [
         {
             "id": 1292,
@@ -2180,6 +2180,17 @@
             "last_update": "2025-08-10 23:20:40"
         },
         {
+            "id": 1846,
+            "url": "https://fixupx.com/i/status/2020977471571780061",
+            "url_hash": "1cca09e5c4533ee432eb9867394a890f86b544673d8f91ff7944e3145515e9ff",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/i/status/2020977471571780061",
+            "last_update": "2026-02-10 09:15:23"
+        },
+        {
             "id": 758,
             "url": "https://fixupx.com/1109Patricia/status/1980158030953000999",
             "url_hash": "1cd0bed6fb9e06c5065a75cfa76f3d429ffb2624b9592578f7e1e13778810eed",
@@ -4323,6 +4334,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-19 18:01:23"
+        },
+        {
+            "id": 1843,
+            "url": "https://www.reddit.com/r/discordapp/s/V48cvpeacS",
+            "url_hash": "394b1e775171796bf89182b9c024cc613534ed9cf96c0b7a4b3fac90df07757d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/discordapp/comments/1r0qpj1/comment/o4k5g3l/?share_id=3wIV84ltQXdUHe1nD1w6R&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
+            "last_update": "2026-02-10 07:00:03"
         },
         {
             "id": 1036,
@@ -11299,6 +11321,17 @@
             "last_update": "2025-08-19 18:34:39"
         },
         {
+            "id": 1844,
+            "url": "https://blog.adafruit.com/2026/02/08/any-user-who-has-a-3d-printer-would-have-this-software-installed-printgos-plan-to-become-the-drm-of-3d-printing/",
+            "url_hash": "963d97f95cc1239058680e633de0a3095da50bfda945e20e86ea3b41d478de9e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-10 08:41:16"
+        },
+        {
             "id": 1083,
             "url": "https://imgur.com/5UrILlm)",
             "url_hash": "96ac20fd0ad55897fc84896e94c6e08acd29052d9f4992f61ca0be05b1796fc9",
@@ -11319,6 +11352,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-07 05:42:39"
+        },
+        {
+            "id": 1845,
+            "url": "https://fixupx.com/i/status/2020863471550927243",
+            "url_hash": "9707cff205a7da9c6fe90f7e57192781a2f62cde933c87c27d8d2e3f46605c34",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/i/status/2020863471550927243",
+            "last_update": "2026-02-10 09:05:29"
         },
         {
             "id": 1262,

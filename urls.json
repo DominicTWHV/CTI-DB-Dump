@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1791,
+    "num_of_entries": 1803,
     "links": [
         {
             "id": 1292,
@@ -1509,6 +1509,17 @@
             "last_update": "2025-10-31 14:52:41"
         },
         {
+            "id": 1868,
+            "url": "https://tenor.com/view/burnice-chibi-dance-mental-hospital-meme-gif-8373248015025360795",
+            "url_hash": "1402c24239e784279f11f1577c6f6c90774da728f57b5c691741bd8fb5fbddb2",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 07:30:00"
+        },
+        {
             "id": 1401,
             "url": "https://www.youtube.com/shorts/ne7wg340KFQ",
             "url_hash": "143d8cdb0d6c20d8723efbcfcb928b7cdcc7f376030b9a3552c5c814c8a8c5e6",
@@ -3008,12 +3019,12 @@
             "id": 1853,
             "url": "https://discord.com/vanityurl/dotcom/steakpants/flour/flower/index11.html",
             "url_hash": "26f697edb421283de96f03c73e58b504bfefcd862944e1c47e2099c488173c11",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-02-10 23:21:55"
+            "last_update": "2026-02-11 12:09:58"
         },
         {
             "id": 887,
@@ -5678,6 +5689,17 @@
             "last_update": "2026-01-28 11:53:29"
         },
         {
+            "id": 1871,
+            "url": "https://fixupx.com/EndWokeness/status/2021744147527291380",
+            "url_hash": "4918fd79002d5ab6dac88a934e2c7b256686a9a65982f24db81cd57aed960773",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/EndWokeness/status/2021744147527291380",
+            "last_update": "2026-02-12 08:51:25"
+        },
+        {
             "id": 1500,
             "url": "https://tenor.com/view/huh-what-confused-gif-25760097",
             "url_hash": "492a7bf43bf08aa30d9ac1a8ccc993031acba3a10ff8ca733717c9ff22679ec2",
@@ -5830,6 +5852,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.falstad.com/circuit/circuitjs.html",
             "last_update": "2025-11-16 23:03:12"
+        },
+        {
+            "id": 1865,
+            "url": "https://selfservicerepair.com/en-US/macbook-air-13-inch-m4-2025/display",
+            "url_hash": "4aaf717be57727535772cdaaf16cb5b3f14815098c7c277d39b3995d101332c0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://selfservicerepair.com/en-US/macbook-air-13-inch-m4-2025/display",
+            "last_update": "2026-02-11 20:00:54"
         },
         {
             "id": 1398,
@@ -6448,6 +6481,17 @@
             "last_update": "2026-01-24 00:31:35"
         },
         {
+            "id": 1863,
+            "url": "https://www.youtube.com/watch?v=F2KHjKZ5Mac",
+            "url_hash": "548117803cac37261c47cc8cf91dedac76512877c517598e5dc454be91dc56c7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-11 19:53:32"
+        },
+        {
             "id": 266,
             "url": "https://tenor.com/view/do-not-redeem-don%27t-redeem-scammer-kitboga-do-not-redeem-the-card-gif-11900855712098613254",
             "url_hash": "54948e8799a19d04fc8d93bd4bc50fb534ca437e984bc2dc7dbe11a6bae46ac8",
@@ -6633,6 +6677,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/wqMsyjJ",
             "last_update": "2025-09-30 00:16:15"
+        },
+        {
+            "id": 1870,
+            "url": "https://youtu.be/EStQKDYnihI&t=660",
+            "url_hash": "56c7d12481bc9e8ccb593c3dbb0d61f2f701a368a2fecacc64fec92f4a2072f6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 08:32:49"
         },
         {
             "id": 168,
@@ -9372,6 +9427,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/CyberNews/comments/1pjuvlv/the_us_has_announced_that_it_will_require_five/?share_id=-fjd_8KPXlEMnwM98wPxl&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
             "last_update": "2025-12-11 12:28:55"
+        },
+        {
+            "id": 1861,
+            "url": "https://youtu.be/djQQcn82_-M",
+            "url_hash": "7c8cd029b6c04e97b18c712d093d13a38a8fc42398b79277cb296b7a3c222272",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-11 15:20:40"
         },
         {
             "id": 1636,
@@ -13862,6 +13928,17 @@
             "last_update": "2026-02-06 14:01:12"
         },
         {
+            "id": 1864,
+            "url": "https://youtu.be/djQQcn82_-M?si=qrJIiE4av1qU8PIH&t=364",
+            "url_hash": "b45025ed7534e1d4c2e534d036d806dd11b1d31e9f421d0b1b3b044a1022b958",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-11 19:55:53"
+        },
+        {
             "id": 1315,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1448311539143540817/1247283_523882697681439_1058395525_n.mp4?ex=693accbb&is=69397b3b&hm=089136ce7690d4505e5b482aac3a8086b53fd4bb5d9c584d879e316a92f970a1&",
             "url_hash": "b49059eaafb57c0ea2016ab29293593ea3a2d7d1b2c4f4f4272233fbbe5d6423",
@@ -15202,6 +15279,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-23 23:51:25"
+        },
+        {
+            "id": 1872,
+            "url": "https://www.kkinstagram.com/reel/DUYaUo9kuap/?igsh=MTVqdWM5c2Z1c2swcg==",
+            "url_hash": "c6468202a412c79081d627971059e9973fafac2fe8c803f794e94f8243fd59a9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 08:52:56"
         },
         {
             "id": 1192,
@@ -16667,6 +16755,17 @@
             "last_update": "2026-01-05 02:15:56"
         },
         {
+            "id": 1866,
+            "url": "https://buymeacoffee.com/adamclark",
+            "url_hash": "d7ff152be7440078e42ed43c48f93a174aac81d6b403729ce63c2c682954adab",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://buymeacoffee.com/adamclark",
+            "last_update": "2026-02-11 20:56:57"
+        },
+        {
             "id": 1642,
             "url": "https://tenor.com/view/low-tier-god-awesome-mario-twerking-gif-23644561",
             "url_hash": "d81e11cedec36fc8de542279e7a79ccca85454173ea48676a65e65a2a0591e2b",
@@ -17503,6 +17602,17 @@
             "last_update": "2025-09-19 20:33:32"
         },
         {
+            "id": 1867,
+            "url": "https://tenor.com/view/electroboom-gif-13810811911467829413",
+            "url_hash": "e323f4041bfb4f34ac1990e19c516a712f65d21b8c1b6258ba15ca84114005d6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 03:00:13"
+        },
+        {
             "id": 1117,
             "url": "https://thelastoutpostworkshop.github.io/microcontroller_devkit/espconnect/",
             "url_hash": "e388550576f4b65c173a997f15feab73934330f1e3da729a203ba0ee2d8b675d",
@@ -18172,6 +18282,17 @@
             "is_redirect": 0,
             "downstream_target": "https://discord.sjc1.qualtrics.com/jfe/form/SV_5BGtstVUidXadts",
             "last_update": "2026-01-10 12:03:44"
+        },
+        {
+            "id": 1869,
+            "url": "https://fixupx.com/reddit_lies/status/2021688431529590868",
+            "url_hash": "ec94275f5433b1fbb422eb9cca70c30ac501155d645c17beaef8f530c5e1b7b5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/reddit_lies/status/2021688431529590868",
+            "last_update": "2026-02-12 07:28:30"
         },
         {
             "id": 1498,
@@ -19349,6 +19470,17 @@
             "is_redirect": 0,
             "downstream_target": "https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FCapnKernel%2FFugu2",
             "last_update": "2025-11-05 05:59:35"
+        },
+        {
+            "id": 1862,
+            "url": "https://www.youtube.com/watch?v=DnxByU1Jpi8",
+            "url_hash": "fb07e07a9b6b984cc24074c871d2eed1c8d604a4c55be790354dbdca05e9baf8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-11 19:52:16"
         },
         {
             "id": 1051,

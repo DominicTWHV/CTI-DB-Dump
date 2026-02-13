@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1803,
+    "num_of_entries": 1813,
     "links": [
         {
             "id": 1292,
@@ -297,6 +297,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-20 16:20:16"
+        },
+        {
+            "id": 1880,
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "url_hash": "0424974c68530290458c8d58674e2637f65abc127057957d7b3acbd24c208f93",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 00:53:26"
         },
         {
             "id": 363,
@@ -4006,6 +4017,17 @@
             "last_update": "2025-08-18 13:25:30"
         },
         {
+            "id": 1879,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1471641699427291389/ScreenRecording_07-29-2025_10-54-50_1.mov?ex=698faca2&is=698e5b22&hm=66693d02c9364700f3da053fe2faf8daeb5bf96008dd00cece2f4d1517928fe6&",
+            "url_hash": "345a48d5c770d58c8c9da74e10abe75e5947155033c4fe194732b0f21c8fb2bb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 22:58:43"
+        },
+        {
             "id": 1474,
             "url": "https://youtu.be/b-ziDmnOFcU?t=268",
             "url_hash": "346b4c51f7a5e89fcbcc536a964d402d927e0542ee9c05c4def508181da2faa5",
@@ -4257,6 +4279,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-24 19:31:39"
+        },
+        {
+            "id": 1878,
+            "url": "https://tenor.com/view/you-fucking-idiot-roger-guenveur-smith-bradley-hudson-influence-moron-gif-16514821",
+            "url_hash": "37fdd12202c3ff646a3745fb53b63539bb09d56538bbe59fb6db5e56e3bbbe51",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 22:57:15"
         },
         {
             "id": 596,
@@ -7713,6 +7746,17 @@
             "last_update": "2025-11-01 22:18:29"
         },
         {
+            "id": 1882,
+            "url": "https://tenor.com/view/citcat-ho-lee-sheet-cat-gif-3702096871620192733",
+            "url_hash": "65e36f8bdcd79882f4ec30ec475f6536d692e6fbfd94972b13f0ef75cb1f57ca",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 01:03:50"
+        },
+        {
             "id": 986,
             "url": "https://media.discordapp.net/attachments/470279723910561792/1438228833227640894/woxY9n9OFSgRZgdZdBpjdNgcTNXeV6lF.mp4?ex=69161e7a&is=6914ccfa&hm=8f062d31b8739c5ba7c39821ab13402b3a1b1d553b90124244ab0d0f01db81aa&",
             "url_hash": "665c380653289775235920e037634a95b77d26da6a11ae80a6ddf37b1d982390",
@@ -7744,6 +7788,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-27 00:44:20"
+        },
+        {
+            "id": 1877,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1471622645656191116/Test.mp4?ex=698f9ae4&is=698e4964&hm=dca61293202fb85e4b75ec55e73d09a3f41cae18e16fb24bf3e2bd3050aa13d3&",
+            "url_hash": "66b7b348f012df689f38e422ce38f7cd4b732312d12da968957d89ea40643009",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 21:43:01"
         },
         {
             "id": 157,
@@ -11255,6 +11310,17 @@
             "last_update": "2026-01-08 06:25:32"
         },
         {
+            "id": 1883,
+            "url": "https://youtu.be/5LsF4FF6gO4",
+            "url_hash": "933c4f6cccb9409739ce252f70ef407a81686222d7012bd88afe3118b3d43a9d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 05:44:01"
+        },
+        {
             "id": 883,
             "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1434678945139265727/ScreenRecording_11-02-2025_16-36-37_1.mov?ex=69093463&is=6907e2e3&hm=473a509c704301c371e8aa2e184f699dc0fb67c629e860d829609024205f6ce4&",
             "url_hash": "9388b50612d44c643d2d40465f72315682580c1bcb32b4fb2f850e1f0be15fae",
@@ -12353,6 +12419,17 @@
             "is_redirect": 0,
             "downstream_target": "https://eur.vevor.com/soldering-station-c_13551/vevor-hot-air-rework-station-1000w-led-digital-smd-rework-station-212-896--p_010504192873",
             "last_update": "2025-11-25 21:03:40"
+        },
+        {
+            "id": 1873,
+            "url": "https://www.youtube.com/shorts/peS7EQs19KM",
+            "url_hash": "a0624f0cc4b37d3e6c4637b7bf9663d7e8950af6a2e72802a127f8fc5fbdd126",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 11:52:58"
         },
         {
             "id": 1828,
@@ -16590,6 +16667,17 @@
             "last_update": "2025-11-30 01:03:24"
         },
         {
+            "id": 1874,
+            "url": "https://www.youtube.com/watch?v=X_KXvjOJ7YA",
+            "url_hash": "d5a8fd71155e4f07fa43eddb0669255553e57aeaf4529485db3d4c6f4e9a97ca",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 13:34:22"
+        },
+        {
             "id": 699,
             "url": "https://fixupx.com/NathanielSami/status/1978147445633634537",
             "url_hash": "d5bb55822bc1ce2a430affda9c0d659701a3de9452dcbb60ce06639672678458",
@@ -17778,6 +17866,17 @@
             "last_update": "2025-12-01 05:28:35"
         },
         {
+            "id": 1876,
+            "url": "https://a.aliexpress.com/_Ez5b4Tm",
+            "url_hash": "e5804a1fd832354b488c712fb7d4520f6a296f817db2f19ec3ca4f5e5752fc0b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 19:21:02"
+        },
+        {
             "id": 1406,
             "url": "https://github.com/feelfreelinux/octo4a",
             "url_hash": "e5df6dfd8b176a77a341e69df2fffdf2cf5bc7ecd572f6e9f52dc840e1f25cb9",
@@ -18282,6 +18381,17 @@
             "is_redirect": 0,
             "downstream_target": "https://discord.sjc1.qualtrics.com/jfe/form/SV_5BGtstVUidXadts",
             "last_update": "2026-01-10 12:03:44"
+        },
+        {
+            "id": 1875,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1471528043448373354/IMG_3957.mov?ex=698f42c9&is=698df149&hm=c1536ce597f97675ff2502424545fee72d8527957b6bd1d9f6fbc818d5fa246c&",
+            "url_hash": "ec7edf393bb5afbac31b35abbf6ef0305761f337195f71276d809f5ac69751c7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-12 15:27:05"
         },
         {
             "id": 1869,

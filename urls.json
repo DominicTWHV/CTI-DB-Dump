@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1813,
+    "num_of_entries": 1825,
     "links": [
         {
             "id": 1292,
@@ -3720,6 +3720,17 @@
             "last_update": "2025-10-10 05:16:50"
         },
         {
+            "id": 1884,
+            "url": "https://tenor.com/view/ahri-ahri-rise-ahri-mains-league-of-legends-gif-6205956779525896719",
+            "url_hash": "31218f9f412e2267ad721f7de928d8a18992a39cb68a4d64951d6353381f7961",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 11:15:47"
+        },
+        {
             "id": 1031,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1439597882154942544/RPReplay_Final1699670959.mov?ex=691b1981&is=6919c801&hm=e6e4de4a8b7b0f55000bf1de40eb06a7fb2563c4b837ed133214d63ae869359e&",
             "url_hash": "313d099d344c237c15c5089e4fd7336e065f58bcd49fc3374f41a41fd0495390",
@@ -4092,6 +4103,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-18 11:09:35"
+        },
+        {
+            "id": 1891,
+            "url": "https://www.kkinstagram.com/reel/DUnk-0lEhAi/",
+            "url_hash": "365893ea1d15f2748b0ddead5f00cb13406df8c433d3d23dda771aa23fe0d36f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 17:40:19"
         },
         {
             "id": 459,
@@ -6041,6 +6063,17 @@
             "last_update": "2025-09-02 22:09:41"
         },
         {
+            "id": 1895,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1472043440253702236/ScreenRecording_01-28-2026_09-00-10_1.mov?ex=699122c9&is=698fd149&hm=ad6b5d07eb3b5ee058aad165fa6da68aa7928263deff7b0349a06fbb9ff8816a&",
+            "url_hash": "4ce0d9dd3357e55088489b93375c698b055fceda49bcc15cda4db229fc524253",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-14 01:35:06"
+        },
+        {
             "id": 387,
             "url": "https://tenor.com/view/sorry-gif-43566467168609839",
             "url_hash": "4cf355c6e6f81b08eb73d92528bd67a30e14fbdb4d4be12384802cd99883b63a",
@@ -7436,6 +7469,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.xda-developers.com/x86-emulation-snapdragon-x-elite/",
             "last_update": "2025-10-08 14:14:05"
+        },
+        {
+            "id": 1887,
+            "url": "https://tenor.com/view/speak-up-i-can%27t-hear-you-pop-son-of-a-critch-please-speak-a-bit-louder-malcolm-mcdowell-gif-3096449529889533453",
+            "url_hash": "618a8aaf077a0209d5ee860d01799d7803780139b63d98076b89b6cedb553127",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 15:24:28"
         },
         {
             "id": 1638,
@@ -8912,6 +8956,17 @@
             "last_update": "2025-11-25 05:06:35"
         },
         {
+            "id": 1892,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1471924091572191292/VID_20260213_093702_707.mp4?ex=6990b3a2&is=698f6222&hm=b55616b0c3f00c84c65f87ce40e7814e170cc77cd2ae6f6374eba1c6be606f6e&",
+            "url_hash": "74291c7b3353e827ee183f41dd8ee5d01cce1d5129b452694572790b7ca98aae",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 17:40:51"
+        },
+        {
             "id": 1233,
             "url": "https://www.circuitbasics.com/how-to-set-up-an-ultrasonic-range-finder-on-an-arduino/",
             "url_hash": "744d469ca150d2c30833f8eceae0d9881397ae2bb3eac22d2e9ae05230b6b86d",
@@ -9075,6 +9130,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-16 11:55:21"
+        },
+        {
+            "id": 1888,
+            "url": "https://youtu.be/OEfwWTUg1ZA",
+            "url_hash": "76303806e3000610dcd3baec75ea732e5930fd284afe18c8c4abce2bcf7aa064",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 15:31:23"
         },
         {
             "id": 268,
@@ -13895,6 +13961,17 @@
             "last_update": "2025-11-01 12:32:22"
         },
         {
+            "id": 1890,
+            "url": "https://tenor.com/view/blah-no-sponge-bob-silly-spongebob-gif-15033047",
+            "url_hash": "b28369bc00d9cbb8093f53885ec9dd3a9626b490f8944740a24d5d14e271b465",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 16:14:33"
+        },
+        {
             "id": 279,
             "url": "https://www.youtube.com/watch?v=zLSJ3IzJO2Y",
             "url_hash": "b28a09fc67d198d823e44a15c605c1ef1e0b254aba498bc350389bdedda15edb",
@@ -14676,6 +14753,17 @@
             "last_update": "2025-11-13 12:03:48"
         },
         {
+            "id": 1893,
+            "url": "https://www.youtube.com/watch?v=oA85M9JHsW0",
+            "url_hash": "bd63a70ee08d1062e243e9bbb78c918f997659390f07c8a78e19fcd10ff47ebe",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 22:39:15"
+        },
+        {
             "id": 1810,
             "url": "https://a.aliexpress.com/_EGLJXrW",
             "url_hash": "bd7978409985e43764af9e2b4bfebf66acd50bbff102d7f9475855079d6d853b",
@@ -15290,6 +15378,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-13 11:15:44"
+        },
+        {
+            "id": 1886,
+            "url": "https://tenor.com/view/youlittledingdong-slap-dingdong-ice-cream-sandwich-animated-gif-25708872",
+            "url_hash": "c4fddb58744a83c148858cd8679c29e136ad21a36c03085a4afbf325024d4bc1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 15:07:20"
         },
         {
             "id": 1798,
@@ -17943,6 +18042,17 @@
             "last_update": "2025-11-15 19:29:52"
         },
         {
+            "id": 1885,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1471877589432930437/IMG_1182.mov?ex=69908853&is=698f36d3&hm=9c305a347053a8aee150291a1bd2b44ab88c2b09267e607778d4fe3ef3c6d532&",
+            "url_hash": "e7048f5f47aee001a9e683cdc447b6033907c8a65ea750ce0f80539e27598640",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 14:36:04"
+        },
+        {
             "id": 276,
             "url": "https://www.youtube.com/watch?v=ZA18I5Q3IjY",
             "url_hash": "e76fe11fcd3874242d601d59aa56accdfd80f6e6b694f0ce6096391866ff8fdb",
@@ -18625,6 +18735,17 @@
             "last_update": "2026-02-07 22:45:52"
         },
         {
+            "id": 1894,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1471754334625599519/RDT_20260213_072602.mp4?ex=6990be49&is=698f6cc9&hm=4e72cf7d116c4d8a5db9480ec51fe420e4b276620b1020f37728d14dd2f77694&",
+            "url_hash": "ef7b7c23435ac35c9537ac83ead3f1ffb3293fad8945f8c2a0ef5fc3bbfe6585",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 22:52:14"
+        },
+        {
             "id": 1200,
             "url": "https://t.me/nsfwverify_robot?start=verify",
             "url_hash": "ef8282919c5fa9cb4183ef27c144b818a21cd210df4de66e116c23e4572419f1",
@@ -19074,6 +19195,17 @@
             "is_redirect": 0,
             "downstream_target": "https://seas.harvard.edu/news/soft-robotic-wearable-device-improves-walking-individual-parkinsons-disease",
             "last_update": "2026-02-05 01:33:56"
+        },
+        {
+            "id": 1889,
+            "url": "https://tenor.com/view/kermit-sesame-street-write-gif-4298020",
+            "url_hash": "f51a1451f51c810ae4b4795261a0f3a3c1a1c5fd71261ca440009169a2836a65",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-13 15:41:22"
         },
         {
             "id": 1168,

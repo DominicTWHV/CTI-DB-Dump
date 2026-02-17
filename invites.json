@@ -1,6 +1,13 @@
 {
-    "num_of_entries": 16,
+    "num_of_entries": 17,
     "invites": [
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$7gHQJB+DQIFGl9Ku6a70dg$0Reme85y0ULMvWyAIIhqu5x39pKA8RhrRYVcDCFjPjY",
+            "times_seen": 4,
+            "categorization": "Malicious",
+            "resolution": "NSFW +*****",
+            "last_update": "2026-02-16 08:07:51"
+        },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$YrXsZUu1oKMyIV74cV+g8w$8AibxPwkv2XrMrs6W9YFVJh0taR8cdrQ/9tlTtre+yM",
             "times_seen": 2,

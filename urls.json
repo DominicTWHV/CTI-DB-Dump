@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1854,
+    "num_of_entries": 1863,
     "links": [
         {
             "id": 1292,
@@ -2125,6 +2125,17 @@
             "last_update": "2025-10-17 10:30:53"
         },
         {
+            "id": 1934,
+            "url": "https://fixupx.com/Rightanglenews/status/2023833404597264784",
+            "url_hash": "1aab2569232777576b1fc7b65e1f089fe58ca53f0d18a89eb285e1cde27fb95f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Rightanglenews/status/2023833404597264784",
+            "last_update": "2026-02-17 19:57:46"
+        },
+        {
             "id": 724,
             "url": "https://cdn.discordapp.com/attachments/828757482717315162/1428819372939546674/VID_20251017_145626_162.mp4?ex=68f3e33c&is=68f291bc&hm=7bf949af87ebc1b34be4cf141f7292fefcc3c8b84090562737294592253e75b5&",
             "url_hash": "1aee7289e40ac8021d16c399d3b013056c6db7f33b402fc8675f474e1574b0f9",
@@ -2893,6 +2904,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.agmcn.com/product/1918.html",
             "last_update": "2025-09-22 04:04:08"
+        },
+        {
+            "id": 1932,
+            "url": "https://tenor.com/view/boy-that-escalated-quickly-ron-burgundy-will-ferrell-meme-gif-17035028",
+            "url_hash": "24b6ebb1fd971a6e10d886b00b99a20660d8c1f49bfe6ca2513c52098e5df541",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-17 17:29:40"
         },
         {
             "id": 772,
@@ -6822,6 +6844,17 @@
             "last_update": "2025-11-26 14:39:17"
         },
         {
+            "id": 1928,
+            "url": "https://www.youtube.com/shorts/KVP_X5lF_dw",
+            "url_hash": "5628998179de5c96f80fb10d0f651c6637bdec771fc5918a63589865c9064179",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-17 06:35:08"
+        },
+        {
             "id": 545,
             "url": "https://www.reddit.com/r/PrintedCircuitBoard/s/U0YUEd6HeO",
             "url_hash": "566e9e79402d0f1fed0e279fa1c2bf07281adfd41cb3cd2594d6de0fcbee1896",
@@ -7845,6 +7878,17 @@
             "last_update": "2025-11-27 02:54:46"
         },
         {
+            "id": 1931,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1473337311163973905/IMG_4205.mov?ex=6995d7cc&is=6994864c&hm=112c5b1acc4b209a3bc9d8dcdf636f7bd9fecae3c7567cf3ce907d3e275bb3ac&",
+            "url_hash": "64eb13919a6cee6cd17bf95ef0263c31d6c72924c55de80c21924beccf66e41d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-17 15:16:29"
+        },
+        {
             "id": 1273,
             "url": "https://www.mdpi.com/2073-4360/15/12/2585/",
             "url_hash": "65408e354762a73188e2f3cbe1637841e61575f859b9f1c649bbee05ff959ee8",
@@ -8030,6 +8074,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-19 07:07:25"
+        },
+        {
+            "id": 1930,
+            "url": "https://fixupx.com/libsoftiktok/status/2014789035672195385/video/1",
+            "url_hash": "6802aeb51f555cead8d8225a654a3601a65a2613a30124d06fe4e830932ea36a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/libsoftiktok/status/2014789035672195385/video/1",
+            "last_update": "2026-02-17 14:15:42"
         },
         {
             "id": 257,
@@ -8822,6 +8877,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.reddit.com/r/todayilearned/comments/i14h6c/til_marie_antoinette_built_an_entire_fake_village/",
             "last_update": "2026-01-25 23:30:06"
+        },
+        {
+            "id": 1935,
+            "url": "https://discord.com/channels/1074967630357725204/1324126892877545524/1473395906249494610",
+            "url_hash": "71420ad3c717abde5f35b32b997d279d7a33885c9eaea0ca22a099ae75cf12af",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-17 21:12:58"
         },
         {
             "id": 177,
@@ -10661,6 +10727,17 @@
             "last_update": "2026-01-24 12:54:05"
         },
         {
+            "id": 1933,
+            "url": "https://cdn.discordapp.com/attachments/1160679483943174205/1473381864801702092/RPReplay_Final1703877325.mov?ex=6996014a&is=6994afca&hm=f43dec00cf948c038fe03d1285d57355f1dc799bc7133f9ae7d1461c24d620a9&",
+            "url_hash": "886e08cce3a7a0f1da041d27a08707cb86a3095199ae9040edb01a8275518aa6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-17 18:13:31"
+        },
+        {
             "id": 1201,
             "url": "https://youtu.be/ZeIqMQ2WDaY?t=324",
             "url_hash": "88a9398ab228b4b7fbdc32b794ae42f67113650af83ef544b86a8a0c05e4ca70",
@@ -11110,6 +11187,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.reddit.com/r/computers/comments/1ngc0z7/what_do_i_do/",
             "last_update": "2025-09-18 02:36:46"
+        },
+        {
+            "id": 1936,
+            "url": "https://a.aliexpress.com/_EymvaNi",
+            "url_hash": "8d99be9bbfd376d0b10c171a366a3be34598b4f0bd5020645f2fae50f24832c1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-17 22:02:48"
         },
         {
             "id": 1123,
@@ -12716,6 +12804,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-13 15:13:17"
+        },
+        {
+            "id": 1929,
+            "url": "https://fixupx.com/libsoftiktok/status/2023604578927739377",
+            "url_hash": "a1323fa9940ccdbc55717bc905ada5542f5ffded3c0c75f2d46a3a99baafe9cd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/libsoftiktok/status/2023604578927739377",
+            "last_update": "2026-02-17 12:56:07"
         },
         {
             "id": 488,

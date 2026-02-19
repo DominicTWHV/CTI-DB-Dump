@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1863,
+    "num_of_entries": 1868,
     "links": [
         {
             "id": 1292,
@@ -825,6 +825,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-06 21:32:56"
+        },
+        {
+            "id": 1937,
+            "url": "https://fixupx.com/WallStreetApes/status/2024004845762736550",
+            "url_hash": "0b40a0c1fab38cfc96d7874c3cebd59b197ff717f6c25778646f89f512a66e43",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/WallStreetApes/status/2024004845762736550",
+            "last_update": "2026-02-18 09:55:28"
         },
         {
             "id": 568,
@@ -6435,6 +6446,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-15 15:41:25"
+        },
+        {
+            "id": 1939,
+            "url": "https://pl.aliexpress.com/item/1005009941797169.html?spm=a2g0o.home.pcJustForYou.8.3a0f405fe9PCqR&gps-id=pcJustForYou&scm=1007.13562.416251.0&scm_id=1007.13562.416251.0&scm-url=1007.13562.416251.0&pvid=169f8c11-e1c4-465c-b045-d0142134341a&_t=gps-id:pcJustForYou,scm-url:1007.13562.416251.0,pvid:169f8c11-e1c4-465c-b045-d0142134341a,tpp_buckets:668%232846%238115%232000&pdp_ext_f=%7B",
+            "url_hash": "50616cc6a36e13ae679899e46d57bc38c6257b3694a5b222645a852353647d49",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-18 19:23:16"
         },
         {
             "id": 570,
@@ -15171,6 +15193,17 @@
             "last_update": "2026-02-15 11:53:18"
         },
         {
+            "id": 1940,
+            "url": "https://fixupx.com/libsoftiktok/status/2024233887275372613",
+            "url_hash": "be1f3fc0d6709f1ee7b91a64cb4e7b719473e01ddbe1967959ae56a6c707e2f0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/libsoftiktok/status/2024233887275372613",
+            "last_update": "2026-02-19 03:45:55"
+        },
+        {
             "id": 1469,
             "url": "https://tenor.com/view/praying-gif-25164960",
             "url_hash": "beba4d2f8568161f17bb1a220b3cd6ab91d87a358345192adccd3fc0f42724cb",
@@ -16610,6 +16643,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-08 11:50:15"
+        },
+        {
+            "id": 1938,
+            "url": "https://pl.aliexpress.com/item/1005011645909408.html?spm=a2g0o.order_list.order_list_main.16.1f121c242P2GIw&gatewayAdapt=glo2pol",
+            "url_hash": "d0ce5c3906ce900eab890e16ceafaa9fc73ea71bd68c9eca52e21d7a0964dabc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-18 19:20:06"
         },
         {
             "id": 538,
@@ -18997,6 +19041,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-01 12:18:31"
+        },
+        {
+            "id": 1941,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1473411572687835328/VID_20260217_150823_252.mp4?ex=69976e75&is=69961cf5&hm=46a7e68dcc4300c55fdbcf820a60733cbd72a699f5886e649d57f78fa260c81d&",
+            "url_hash": "ed8fd0d7c1e80d0ce4f45bcfb4c0c0a3a11dbfb2f2e6001985b33f9b3b337734",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-19 04:46:44"
         },
         {
             "id": 1768,

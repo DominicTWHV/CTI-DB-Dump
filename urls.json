@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1868,
+    "num_of_entries": 1873,
     "links": [
         {
             "id": 1292,
@@ -1001,6 +1001,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-11 15:16:12"
+        },
+        {
+            "id": 1946,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1474159938807791840/79323029264__64D80949-41AC-4309-AAFD-0D9C02321759.mov?ex=6998d5ed&is=6997846d&hm=fa17df1442c35cb5fd335572023e20712a30cbd5f485bc2f8818a767fb8d5554&",
+            "url_hash": "0d57a11184ad348c4d27c96523fdf0099cebaa678b2d69a1914950fe5221a1a3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-19 21:45:18"
         },
         {
             "id": 1085,
@@ -2068,6 +2079,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 16:41:54"
+        },
+        {
+            "id": 1942,
+            "url": "https://tenor.com/view/skull-skull-skull-skull-skull-skull-skull-skull-gif-14574828933741070167",
+            "url_hash": "19e6ca44d002b7e208971f4666d96a85b4053efefdf227e10091895b2e819dfa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-19 08:08:50"
         },
         {
             "id": 794,
@@ -4466,6 +4488,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 04:31:25"
+        },
+        {
+            "id": 1943,
+            "url": "https://www.youtube.com/shorts/DEd1HXrX6-4",
+            "url_hash": "3866a45c4865705559d9da53568415336a75e4c9ee67d30e5410f2af7a3bfbcd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-19 11:52:43"
         },
         {
             "id": 1143,
@@ -15853,6 +15886,17 @@
             "last_update": "2025-09-22 14:54:45"
         },
         {
+            "id": 1945,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1474107174178390138/20260219_201415.mp4?ex=6998a4c9&is=69975349&hm=8cb71c76c326dacf7fab604753eab6904e9032e6a457ea1b2900fe419787a8d6&",
+            "url_hash": "c67e2f3f601540667aeb4e6cc1e23c4b033cbe843cac3643cb21075e6a85534f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-19 18:15:38"
+        },
+        {
             "id": 1539,
             "url": "https://fixupx.com/IntCyberDigest/status/2011745985840529508?s=20",
             "url_hash": "c71d85aa580b06c9bd7fc8145bcb324108d2847062a6ba73aa2ed3450b1a6d47",
@@ -17666,6 +17710,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-05 00:27:01"
+        },
+        {
+            "id": 1947,
+            "url": "https://a.aliexpress.com/_EyNEFw0",
+            "url_hash": "db7da6d4a945d5b8ad3bb6278d3eb1edc6b067a01e73d42af00b74bc9dbd5259",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-19 21:52:27"
         },
         {
             "id": 343,

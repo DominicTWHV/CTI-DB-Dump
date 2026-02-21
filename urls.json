@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1873,
+    "num_of_entries": 1886,
     "links": [
         {
             "id": 1292,
@@ -2576,6 +2576,17 @@
             "last_update": "2025-11-25 02:33:57"
         },
         {
+            "id": 1960,
+            "url": "https://tenor.com/view/ahem-shit-loser-seriously-gif-5731140",
+            "url_hash": "2032a0638965e1dcf3a21b1cf68f18dd9f0bd5b432d1b0c2b6e799572f003736",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-21 04:22:00"
+        },
+        {
             "id": 1926,
             "url": "https://t.me/Jason_william11",
             "url_hash": "2072259496206d8b841e712b7152638a90844277d65d6470621c655c7ab2bad4",
@@ -5117,6 +5128,17 @@
             "last_update": "2026-01-30 08:12:21"
         },
         {
+            "id": 1957,
+            "url": "https://a.aliexpress.com/_EvgyjZW",
+            "url_hash": "40643b0c6a991ffcbe906d01f375f4eafef385c98b96ae5a13a60af861f16b92",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-20 15:27:30"
+        },
+        {
             "id": 127,
             "url": "https://tenor.com/view/wire-tailed-manakin-silly-bird-manakin-bird-jumpy-bird-gif-15358237574435400801",
             "url_hash": "40680657146bec756f4ae7f265d7801d6378232c74907d67f1afc9257333a79a",
@@ -6039,6 +6061,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-18 22:39:08"
+        },
+        {
+            "id": 1948,
+            "url": "https://a.aliexpress.com/_c3kQqRx5",
+            "url_hash": "4a44f388b177f251bcc7edc7b5a8128fdde51512826dc4da6f60fe11c7a2fa01",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-20 09:13:26"
         },
         {
             "id": 1760,
@@ -9333,12 +9366,12 @@
             "id": 1918,
             "url": "https://tenor.com/view/meow-anime-gif-3074609766044897855",
             "url_hash": "753b96bf21ffe7df86efae6105b33840d1afb913f37e6faac971120adb8a62e4",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-02-16 08:08:20"
+            "last_update": "2026-02-20 12:32:57"
         },
         {
             "id": 1275,
@@ -12157,6 +12190,17 @@
             "last_update": "2025-09-18 18:09:28"
         },
         {
+            "id": 1955,
+            "url": "https://fixupx.com/OneBadDude_/status/2024600800941519309",
+            "url_hash": "98fefa8050fe6a0ede41b9c81b8ef215d0f153e71f868d24362f62cc7b2dd4c0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/OneBadDude_/status/2024600800941519309",
+            "last_update": "2026-02-20 14:26:13"
+        },
+        {
             "id": 333,
             "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1417066703661170809/VID_20250915_163529.mp4?ex=68c921b5&is=68c7d035&hm=d659baf4296bef5ccce8cb6ebb1c6af7e1a843122d10b69cae0877d6f0725b93&",
             "url_hash": "992677ffca29de181420e646d828bfc7daa7b7db2cae237bacd91d4f08605bc5",
@@ -12729,6 +12773,17 @@
             "last_update": "2025-08-23 07:13:26"
         },
         {
+            "id": 1959,
+            "url": "https://youtu.be/DAB2EtPj7qM?si=XA2AoZSpgyfpVL6U",
+            "url_hash": "9eab571832e633ce8aa5db4e9eb7995f180d6aebafebd37314434e1723d10f02",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-20 21:55:28"
+        },
+        {
             "id": 1378,
             "url": "https://tenor.com/view/kermit-kermit-meme-kooloveememes-kooloveememe-gif-13615379123577683282",
             "url_hash": "9f14a309077fcaa7769e6c048bb360af65945afcf0980150feb21b848fe9f41d",
@@ -12892,6 +12947,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-04 07:47:18"
+        },
+        {
+            "id": 1956,
+            "url": "https://fixupx.com/Not_the_Bee/status/2024574713792508330",
+            "url_hash": "a15c70c563efd8dc241b77905fbbe7d1930db660beb55416d6d118022c2434e3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Not_the_Bee/status/2024574713792508330",
+            "last_update": "2026-02-20 14:51:04"
         },
         {
             "id": 151,
@@ -13609,6 +13675,17 @@
             "last_update": "2025-09-11 23:15:11"
         },
         {
+            "id": 1952,
+            "url": "https://tenor.com/view/hold-on-wait-a-minute-somethings-aint-right-hold-up-somethings-wrong-here-gif-17361118",
+            "url_hash": "aaa2688aaedfc986626ae07bb91534ff4f4722e2f90d85288ab6d769779ab5e6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-20 13:05:51"
+        },
+        {
             "id": 1009,
             "url": "https://cdn.discordapp.com/attachments/1155936297723105401/1439014637147394058/VID_20251114_140646_077.mp4?ex=6918fa51&is=6917a8d1&hm=90825447b850d855cc527a13a3a6ba396e689c1712af9c0f92eee2342a990cfe&",
             "url_hash": "aaadf8daedbe199718e936366a0e08377641c95ed2c1f602b7127c4ea1dcf51b",
@@ -13695,6 +13772,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-23 19:00:05"
+        },
+        {
+            "id": 1954,
+            "url": "https://www.sinopowersemi.com/products/MOSFET/LV/?&page=42",
+            "url_hash": "ab61ca2cc9308a4bd1a125b994419923ad354914c7aed986e61c080b8f8da75f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.sinopowersemi.com/products/MOSFET/LV/?&page=42",
+            "last_update": "2026-02-20 14:09:42"
         },
         {
             "id": 265,
@@ -15237,6 +15325,17 @@
             "last_update": "2026-02-19 03:45:55"
         },
         {
+            "id": 1951,
+            "url": "https://fixupx.com/libsoftiktok/status/2024741985798803683",
+            "url_hash": "be2ee65557e7b60784429b80fe24d2555da181f773afb569519e1d489e162de8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/libsoftiktok/status/2024741985798803683",
+            "last_update": "2026-02-20 12:50:40"
+        },
+        {
             "id": 1469,
             "url": "https://tenor.com/view/praying-gif-25164960",
             "url_hash": "beba4d2f8568161f17bb1a220b3cd6ab91d87a358345192adccd3fc0f42724cb",
@@ -16304,6 +16403,17 @@
             "last_update": "2025-11-14 15:40:43"
         },
         {
+            "id": 1949,
+            "url": "https://cdn.pe-basics.com/media/b6d67a24906e8a8541291882f81d31ca.mp4",
+            "url_hash": "cd09ee82b7ab1561137e525bc5df03b07e9e73702eaee3512ee6ef5c8d607ada",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://cdn.pe-basics.com/media/b6d67a24906e8a8541291882f81d31ca.mp4",
+            "last_update": "2026-02-20 09:29:47"
+        },
+        {
             "id": 1529,
             "url": "https://cdn.discordapp.com/attachments/426116061415342080/1460610529952403526/jackshit.mp4?ex=69678b0f&is=6966398f&hm=df7088c5deb3c06817f5bc3faaf7262f18b423101c3083f154ccdba7b7c0dd56&",
             "url_hash": "cd22b1a3ef1e15faa73dc0615f44cb99c0c0d806cf0106b917f8368383de275d",
@@ -16491,6 +16601,17 @@
             "last_update": "2025-08-16 13:41:40"
         },
         {
+            "id": 1950,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1474354209938870353/20260220_123610.mp4?ex=69998adb&is=6998395b&hm=e6924308732828ac7ac4942528200c9487e02f87585d5cfbcd9a334c8f68eda0&",
+            "url_hash": "ce85f061593b9956146a5cb7b8afb05024e74cb5a19563eef1bf134c3b744ffd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-20 10:37:16"
+        },
+        {
             "id": 327,
             "url": "https://cdn.discordapp.com/attachments/900499908115693621/1416777995246375084/V9Compress_212901.mp4?ex=68c814d4&is=68c6c354&hm=8e0f9e5493680a86a84de6eda9df9f68738dab41dc2ebef2c9a8fae292fbb40b&",
             "url_hash": "ce95498c5232a2959ee0e1e876e3cc0c31c8be5b0429b8b29d600dbd86bbb937",
@@ -16544,6 +16665,28 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-27 12:58:32"
+        },
+        {
+            "id": 1958,
+            "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1474441420306776145/lyrth_210226_PJqLWxiZrP.mp4?ex=6999dc14&is=69988a94&hm=2036ac0f902cb6aea48cb7a3462e929f968c86917d24ded18f46cb01d0acfd10&",
+            "url_hash": "cf07e56bd305b6c8c579bf6b73066a5376767f5244ab429dd122d3b1bbebc073",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-20 16:23:49"
+        },
+        {
+            "id": 1953,
+            "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1474397374230171790/1771594061209.mp4?ex=6999b30e&is=6998618e&hm=bb0fa5665512b73a48bf3743ea5f1684eaf00b665b41c193b48f3bbdf634346c&",
+            "url_hash": "cf20f0a1207e9161634adecdb9788daba129e6d05c1f3384d54fb59c91d59901",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-20 13:28:47"
         },
         {
             "id": 748,

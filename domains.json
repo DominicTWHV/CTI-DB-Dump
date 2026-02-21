@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 218,
+    "num_of_entries": 219,
     "domains": [
         {
             "domain": "9cache.com",
@@ -51,11 +51,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 71,
+            "times_seen": 73,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-02-19 21:52:27"
+            "last_update": "2026-02-20 15:27:30"
         },
         {
             "domain": "aliexpress.us",
@@ -331,11 +331,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 457,
+            "times_seen": 460,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-02-19 21:45:18"
+            "last_update": "2026-02-20 16:23:49"
         },
         {
             "domain": "discordapp.net",
@@ -507,11 +507,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 195,
+            "times_seen": 198,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-02-19 03:45:24"
+            "last_update": "2026-02-20 14:50:27"
         },
         {
             "domain": "fixvx.com",
@@ -1187,11 +1187,11 @@
         },
         {
             "domain": "pe-basics.com",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Knowledge",
+            "typing": "Education",
             "is_whitelisted": 0,
-            "last_update": "2025-11-18 14:14:36"
+            "last_update": "2026-02-20 09:29:47"
         },
         {
             "domain": "peb.rs",
@@ -1394,6 +1394,14 @@
             "last_update": "2026-01-09 21:00:54"
         },
         {
+            "domain": "sinopowersemi.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2026-02-20 14:09:42"
+        },
+        {
             "domain": "solidworks.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1459,11 +1467,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 474,
+            "times_seen": 477,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-02-19 08:08:50"
+            "last_update": "2026-02-21 04:22:00"
         },
         {
             "domain": "tensorflow.org",
@@ -1715,11 +1723,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 93,
+            "times_seen": 94,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-02-16 11:13:14"
+            "last_update": "2026-02-20 21:55:28"
         },
         {
             "domain": "youtube.com",

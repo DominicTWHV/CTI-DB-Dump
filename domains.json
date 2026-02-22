@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 219,
+    "num_of_entries": 221,
     "domains": [
         {
             "domain": "9cache.com",
@@ -51,11 +51,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 73,
+            "times_seen": 75,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-02-20 15:27:30"
+            "last_update": "2026-02-21 20:03:27"
         },
         {
             "domain": "aliexpress.us",
@@ -331,11 +331,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 460,
+            "times_seen": 465,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-02-20 16:23:49"
+            "last_update": "2026-02-21 20:38:09"
         },
         {
             "domain": "discordapp.net",
@@ -507,11 +507,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 198,
+            "times_seen": 199,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-02-20 14:50:27"
+            "last_update": "2026-02-21 10:42:32"
         },
         {
             "domain": "fixvx.com",
@@ -560,6 +560,14 @@
             "typing": "Unknown",
             "is_whitelisted": 0,
             "last_update": "2026-01-08 13:13:11"
+        },
+        {
+            "domain": "futureeyesdesign.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2026-02-22 00:59:11"
         },
         {
             "domain": "fxtwitter.com",
@@ -1178,6 +1186,14 @@
             "last_update": "2025-12-09 06:39:51"
         },
         {
+            "domain": "pcmania.sk",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2026-02-21 15:14:08"
+        },
+        {
             "domain": "pcpartpicker.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1467,11 +1483,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 477,
+            "times_seen": 479,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-02-21 04:22:00"
+            "last_update": "2026-02-21 20:40:12"
         },
         {
             "domain": "tensorflow.org",
@@ -1691,11 +1707,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 74,
+            "times_seen": 75,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-02-16 15:18:22"
+            "last_update": "2026-02-21 12:14:54"
         },
         {
             "domain": "xda-developers.com",
@@ -1731,11 +1747,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 171,
+            "times_seen": 173,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-02-19 11:52:43"
+            "last_update": "2026-02-21 23:59:57"
         },
         {
             "domain": "yxtwitter.com",

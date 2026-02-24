@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1910,
+    "num_of_entries": 1923,
     "links": [
         {
             "id": 1292,
@@ -946,6 +946,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-23 11:02:35"
+        },
+        {
+            "id": 1995,
+            "url": "https://www.reddit.com/r/soccercirclejerk/s/moyXK9ApG5",
+            "url_hash": "0c782f99cd5ab11bfb4e9c05659d0e9327cc069e887569bc0ab28a81a1161521",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.reddit.com/r/soccercirclejerk/comments/1rcq6sv/goalkeeper_in_istanbuls_amateur_league_hit_a/?share_id=Py1hfx6GMJU9Ik2yEdK2K&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
+            "last_update": "2026-02-24 03:23:40"
         },
         {
             "id": 1690,
@@ -4292,6 +4303,17 @@
             "last_update": "2026-01-18 11:09:35"
         },
         {
+            "id": 1986,
+            "url": "https://fixupx.com/WallStreetApes/status/2025705912019919173",
+            "url_hash": "35bbf16fd66fb7b9c662d48e84550af06ed7d9c9d86dab44db53750a4db4c1a3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/WallStreetApes/status/2025705912019919173",
+            "last_update": "2026-02-23 08:10:01"
+        },
+        {
             "id": 1891,
             "url": "https://www.kkinstagram.com/reel/DUnk-0lEhAi/",
             "url_hash": "365893ea1d15f2748b0ddead5f00cb13406df8c433d3d23dda771aa23fe0d36f",
@@ -5018,6 +5040,17 @@
             "last_update": "2025-09-13 12:23:09"
         },
         {
+            "id": 1985,
+            "url": "https://youtu.be/1SNxaJlicEU",
+            "url_hash": "3e1ce681789e2dc5fe02332fc546edf2127723beab2de7503933aa8f1dac2b21",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-23 08:05:39"
+        },
+        {
             "id": 650,
             "url": "https://tenor.com/view/what-gif-14634295",
             "url_hash": "3e764f33cd18540b126b94354320d007f2da96b66d9dc54b3c25c2d62c978994",
@@ -5689,6 +5722,17 @@
             "last_update": "2025-09-21 04:08:21"
         },
         {
+            "id": 1994,
+            "url": "https://fixupx.com/shirouzu/status/2025792654743904757?s=20",
+            "url_hash": "460a8f89c25275b43f105f65aaee1fb40c0e4910207e6586c6ba2e4483a80222",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/shirouzu/status/2025792654743904757?s=20",
+            "last_update": "2026-02-24 00:31:30"
+        },
+        {
             "id": 316,
             "url": "https://www.youtube.com/watch?v=mHJm5xqcuOk",
             "url_hash": "4624f7fb352706ab77e8d883703480e70db54b21aaa324d1fafe68f315c82aca",
@@ -5698,6 +5742,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-13 17:33:25"
+        },
+        {
+            "id": 1996,
+            "url": "https://imgur.com/U5cIjhv",
+            "url_hash": "4635ad12bbbe268d45599576e1efeb8fee12b56518c7a7f8407a3aaca2e4790e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://imgur.com/U5cIjhv",
+            "last_update": "2026-02-24 03:41:24"
         },
         {
             "id": 749,
@@ -6578,6 +6633,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-09 00:20:26"
+        },
+        {
+            "id": 1991,
+            "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1475577185141002392/VID_20260223_213412.mp4?ex=699dfdd7&is=699cac57&hm=15b53caf34e7f9d3d957a312fa1c63e91c222555ad3d5aafb9f405f10864b198&",
+            "url_hash": "50f9861657e4132828b6c139541e741ec4458e5d7c74413685f3c485006bc496",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-23 19:36:56"
         },
         {
             "id": 1383,
@@ -10760,6 +10826,17 @@
             "last_update": "2026-02-16 13:29:58"
         },
         {
+            "id": 1997,
+            "url": "https://www.youtube.com/shorts/-NQuFi5DovE",
+            "url_hash": "874cf60fbca10309daac949ab2fb7c54c7d70afebcd0893fc01e2ea39cf21c7d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-24 04:55:33"
+        },
+        {
             "id": 1449,
             "url": "https://www.govdeals.com/",
             "url_hash": "876128915973ed1550f15fa38de5f97f553a59e26955f47331aae20d1e5ce50c",
@@ -11869,6 +11946,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/ulKMH9V",
             "last_update": "2025-12-14 00:59:03"
+        },
+        {
+            "id": 1987,
+            "url": "https://fixupx.com/nicksortor/status/2025723713425936625",
+            "url_hash": "93e100d1e4f6970cc2e5104ceee9dcaf433e969434d7477df7b7c2fa3a51de33",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/nicksortor/status/2025723713425936625",
+            "last_update": "2026-02-23 08:11:23"
         },
         {
             "id": 602,
@@ -15083,6 +15171,17 @@
             "last_update": "2025-12-05 00:44:03"
         },
         {
+            "id": 1988,
+            "url": "https://fixupx.com/Rightanglenews/status/2025597333795230128",
+            "url_hash": "bae5f57ad8b6ca24600299597e39e0870d4a6b7df21a06b64b670fe7b2beb909",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fixupx.com/Rightanglenews/status/2025597333795230128",
+            "last_update": "2026-02-23 11:18:32"
+        },
+        {
             "id": 531,
             "url": "https://imgur.com/a/resistor-position-signal-swap-3WtWTUR",
             "url_hash": "baea8e8c5481a61a57aa7492eef3056eca6dc44cc0102ed2fe186c79b59671d4",
@@ -16258,6 +16357,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-24 22:23:55"
+        },
+        {
+            "id": 1989,
+            "url": "https://tenor.com/view/catwoman-panther-blackcat-big-cat-crazy-cat-lady-gif-18120639800990677135",
+            "url_hash": "c91ef357c2b053028534cf4408b2f19af29fe75d9167eac804293a3d5eddbcda",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-23 14:22:44"
         },
         {
             "id": 1429,
@@ -17809,6 +17919,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-27 08:32:28"
+        },
+        {
+            "id": 1990,
+            "url": "https://cdn.discordapp.com/attachments/1127844754961473647/1475515534278787323/London-UK-Man-harasses-woman-on-the-bus-for-eating-while-hes-fasting-during-Ramadan-1771847788092.mp4?ex=699dc46d&is=699c72ed&hm=949265d7e843bf7d833af73853aeba6172797dd021440a346d26beb1fec1f0b8&",
+            "url_hash": "d8b05921572051e84d79cca11fde3716446ce4d869be27d0edfa22d48a2e407f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-23 15:31:58"
         },
         {
             "id": 253,
@@ -20242,6 +20363,17 @@
             "last_update": "2025-08-18 12:58:26"
         },
         {
+            "id": 1992,
+            "url": "https://www.youtube.com/watch?v=oGvQC1X9MRE",
+            "url_hash": "f6ee336904fbc1432c6b4ab0681f6712ff074d8f9cf6f9876fb6d6cb7d4cf556",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-23 20:08:24"
+        },
+        {
             "id": 507,
             "url": "https://www.youtube.com/shorts/GfgxG3rypGo",
             "url_hash": "f7041169f1e129b8e9497a36ad7bb35c281a83f7df8c962add5f23e00bc90e44",
@@ -20614,6 +20746,17 @@
             "is_redirect": 0,
             "downstream_target": "https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FCapnKernel%2FFugu2",
             "last_update": "2025-11-05 05:59:35"
+        },
+        {
+            "id": 1993,
+            "url": "https://discord.com/channels/986011010295025754/986022159631671307/1475614724337963093",
+            "url_hash": "fadd20148e16e6498d1c6798298599ac5cbdb687af3c97a239f4385bd809688b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-23 22:09:20"
         },
         {
             "id": 1862,

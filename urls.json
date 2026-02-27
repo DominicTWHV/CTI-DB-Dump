@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1943,
+    "num_of_entries": 1947,
     "links": [
         {
             "id": 1292,
@@ -1509,6 +1509,17 @@
             "last_update": "2025-10-07 15:06:19"
         },
         {
+            "id": 2021,
+            "url": "https://tenor.com/view/rave-glow-sticks-gif-26285780",
+            "url_hash": "1241eb7845202c0a13df27d858afd31a800f89d68576a41314b30afdbb73dc04",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-26 22:15:17"
+        },
+        {
             "id": 480,
             "url": "https://de.aliexpress.com/item/1005008708713309.html",
             "url_hash": "1245c3c3b43819e536a1ccce0602445929fa1b66a3fd8e3cf0b29284107429a8",
@@ -2904,6 +2915,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-07 11:36:19"
+        },
+        {
+            "id": 2019,
+            "url": "https://tenor.com/view/hang-first-time-smiles-gif-14991372",
+            "url_hash": "236aa7e6ca93537f5171c9fde2fe7c0155deb9c9eb4eafb76a5bfc607170aa49",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-26 11:38:29"
         },
         {
             "id": 46,
@@ -4840,6 +4862,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-23 04:17:06"
+        },
+        {
+            "id": 2020,
+            "url": "https://tenor.com/view/brain-swag-theosw-brain-moving-gif-23012986",
+            "url_hash": "3a5b8c828accf22b17863645aa64bdee9ab2200e6836f5497bb8d8106f9c7f96",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-26 21:49:27"
         },
         {
             "id": 1713,
@@ -17732,6 +17765,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-02 09:17:13"
+        },
+        {
+            "id": 2022,
+            "url": "https://www.kkinstagram.com/reel/DUafMnHirfu/?igsh=d2g3dzZlMml4Z2ls",
+            "url_hash": "d4cc9fe559fe5bc4bc8ecf83d670eef0b8ca845b8097806d9c1a09c3baaef47e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-02-27 04:42:11"
         },
         {
             "id": 1252,

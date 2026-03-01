@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 17,
+    "num_of_entries": 18,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$7gHQJB+DQIFGl9Ku6a70dg$0Reme85y0ULMvWyAIIhqu5x39pKA8RhrRYVcDCFjPjY",
@@ -14,6 +14,13 @@
             "categorization": "Harmless",
             "resolution": "Armb***",
             "last_update": "2026-01-18 16:30:24"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$64HEjek5UCYDVCMmu07PmQ$+J04ts8P1gVbbnLFcUpSKmSwTS5pN/HayImse6XJM7Q",
+            "times_seen": 1,
+            "categorization": "Harmless",
+            "resolution": "HaleHound*********",
+            "last_update": "2026-02-28 09:56:25"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$rgLf0EoDKi+oRXReVuPu7A$Uo5ZG8/mfc0X8dSzuzZN1OFkwiy1h/b91X1UtVUWI7Y",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 19,
+    "num_of_entries": 20,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$7gHQJB+DQIFGl9Ku6a70dg$0Reme85y0ULMvWyAIIhqu5x39pKA8RhrRYVcDCFjPjY",
@@ -49,6 +49,13 @@
             "categorization": "Harmless",
             "resolution": "YouTube Cr**********",
             "last_update": "2026-01-18 16:30:24"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$okFKozl7mMtZBvOHj+of/A$24KHuKWPxcEF2ipf6ucPZXwW2mMYq1IU4jcWl+/P5ZY",
+            "times_seen": 15,
+            "categorization": "Malicious",
+            "resolution": "Maria's*******",
+            "last_update": "2026-03-17 14:33:53"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$U0/NPy4grzKn8fEeXWgs5g$cpmFUWkFz6bDWz2Am0mMdTHsje8XsWTMeI82TOe+pZ8",

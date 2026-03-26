@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2242,
+    "num_of_entries": 2245,
     "links": [
         {
             "id": 1292,
@@ -10589,10 +10589,10 @@
             "url_hash": "6f5ef4a56fb716ecb24d3efb07a359d91343ee7b806d6d79e9727dd0d3139754",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Suspicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://fxtwitter.com/uncledoomer/status/2032637102282690700?s=20",
-            "last_update": "2026-03-16 23:26:16"
+            "last_update": "2026-03-25 09:07:51"
         },
         {
             "id": 1797,
@@ -11033,6 +11033,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-13 17:40:51"
+        },
+        {
+            "id": 2330,
+            "url": "https://drive.google.com/drive/folders/1g67WSEjaUa7ZYspSqfqF78kZ6pjMA0CR?usp=sharing",
+            "url_hash": "7447a38e26e739b6e8915a54474d2f1d735e9c245d285641835a9ce254e6d1ee",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-03-25 22:46:21"
         },
         {
             "id": 1233,
@@ -14494,10 +14505,10 @@
             "url_hash": "9957ed0fb04b13ac773273454f99c318b8faca6482d2d7784aafa2206f3e43c7",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Suspicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://www.fxstagram.com/p/DVO_bYCjGev/",
-            "last_update": "2026-03-25 00:34:43"
+            "last_update": "2026-03-25 09:07:51"
         },
         {
             "id": 213,
@@ -16144,10 +16155,10 @@
             "url_hash": "a9e146d3d98c6bd575be46572999939974a335ef7d3cc914354ab29403215950",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Suspicious",
+            "categorization": "Malicious",
             "is_redirect": 0,
             "downstream_target": "https://t.me/David_lucas061",
-            "last_update": "2026-03-24 08:29:36"
+            "last_update": "2026-03-25 09:07:51"
         },
         {
             "id": 2029,
@@ -17019,6 +17030,17 @@
             "last_update": "2025-11-08 10:58:20"
         },
         {
+            "id": 2328,
+            "url": "https://x.com/libsoftiktok/status/2036494486784598156",
+            "url_hash": "b20c6d44b3f648a8607de76fb615b8fa55b33563a6c0d1b6e56b6c2c3d6a9178",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-03-25 10:01:39"
+        },
+        {
             "id": 1094,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1441455959372468317/IMG_0660.mov?ex=6921dbf9&is=69208a79&hm=436ec9ac62710496379514fd2cdc27ae3e434b0814b1a87dd7eaa545a93e172d&",
             "url_hash": "b218ee41fdf2d5579cbe8c3f08731c2a01d80653dbfbc31681b971d2f0a041e0",
@@ -17662,10 +17684,10 @@
             "url_hash": "ba1c9a4314f265c54d42e4629024d8e5670b52691b7a3b23225d069fd7edeac7",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
-            "categorization": "Suspicious",
+            "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://www.fixacebook.com/reel/916765414676466",
-            "last_update": "2026-03-21 12:04:00"
+            "last_update": "2026-03-25 09:07:51"
         },
         {
             "id": 1695,
@@ -18216,6 +18238,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-13 14:22:53"
+        },
+        {
+            "id": 2329,
+            "url": "https://a.aliexpress.com/_EvHmqE8?shareInviteCode=true",
+            "url_hash": "bf0bf4f68625b43f6ed99ef6c613d6b38b951e380958f14e2f334e85e383c05a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-03-25 20:21:21"
         },
         {
             "id": 233,

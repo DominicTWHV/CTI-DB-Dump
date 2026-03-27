@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 238,
+    "num_of_entries": 240,
     "domains": [
         {
             "domain": "9cache.com",
@@ -51,11 +51,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 93,
+            "times_seen": 94,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-03-24 09:47:23"
+            "last_update": "2026-03-25 20:21:21"
         },
         {
             "domain": "aliexpress.us",
@@ -363,11 +363,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 540,
+            "times_seen": 541,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-03-24 18:09:39"
+            "last_update": "2026-03-26 21:19:50"
         },
         {
             "domain": "discordapp.net",
@@ -555,11 +555,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 249,
+            "times_seen": 253,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
-            "is_whitelisted": 0,
-            "last_update": "2026-03-20 06:41:32"
+            "typing": "Social Media",
+            "is_whitelisted": 1,
+            "last_update": "2026-03-26 10:01:36"
         },
         {
             "domain": "fixvx.com",
@@ -699,11 +699,11 @@
         },
         {
             "domain": "google.com",
-            "times_seen": 6,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "typing": "Internet Services",
             "is_whitelisted": 1,
-            "last_update": "2026-02-03 15:44:13"
+            "last_update": "2026-03-25 22:46:21"
         },
         {
             "domain": "googleusercontent.com",
@@ -1002,6 +1002,14 @@
             "last_update": "2025-12-06 12:17:24"
         },
         {
+            "domain": "laptopmedia.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2026-03-26 18:01:51"
+        },
+        {
             "domain": "lcsc.com",
             "times_seen": 9,
             "scan_result": "[DATA REDACTED]",
@@ -1152,6 +1160,14 @@
             "typing": "Knowledge",
             "is_whitelisted": 1,
             "last_update": "2026-03-04 15:42:25"
+        },
+        {
+            "domain": "mikroshit.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2026-03-26 13:32:35"
         },
         {
             "domain": "mineaccidents.com.au",
@@ -1843,11 +1859,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 105,
+            "times_seen": 106,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-03-24 23:59:27"
+            "last_update": "2026-03-25 10:01:39"
         },
         {
             "domain": "xda-developers.com",
@@ -1875,11 +1891,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 111,
+            "times_seen": 112,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-03-20 09:59:37"
+            "last_update": "2026-03-26 15:59:32"
         },
         {
             "domain": "youtube.com",

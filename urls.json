@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2321,
+    "num_of_entries": 2330,
     "links": [
         {
             "id": 1292,
@@ -968,6 +968,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-20 21:00:11"
+        },
+        {
+            "id": 2411,
+            "url": "https://x.com/russelbuck/status/2039536530914689035?s=20",
+            "url_hash": "0ab908c6b3aa249b3723d5fa5c277d6d55793cb585c06f98894940811e81bbbb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-02 09:52:05"
         },
         {
             "id": 746,
@@ -3368,6 +3379,17 @@
             "last_update": "2025-10-23 12:03:56"
         },
         {
+            "id": 2417,
+            "url": "https://tenor.com/view/antman-what-the-hell-happened-here-avengers-gif-18240147",
+            "url_hash": "22470dc10a2c71dea0fd14b55e5661e35515a1adc51dc5be511ba513446e324a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-02 20:37:42"
+        },
+        {
             "id": 442,
             "url": "https://x.com/eevblog/status/1971003145838096811",
             "url_hash": "22a1a23f79dcb5a9d86b866e70134cec74572cf1d019ba33270205e299a767b7",
@@ -4743,6 +4765,17 @@
             "last_update": "2025-10-10 05:16:50"
         },
         {
+            "id": 2409,
+            "url": "https://fixupx.com/i/status/2039496831843868923",
+            "url_hash": "311077f32be02112238eb1e44475225d24cae4f6b71a0c7e06f8fa0c6fdb511e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-02 05:32:06"
+        },
+        {
             "id": 1884,
             "url": "https://tenor.com/view/ahri-ahri-rise-ahri-mains-league-of-legends-gif-6205956779525896719",
             "url_hash": "31218f9f412e2267ad721f7de928d8a18992a39cb68a4d64951d6353381f7961",
@@ -4829,6 +4862,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/cqcqcqdx/status/1983349525608837256",
             "last_update": "2025-10-30 03:59:25"
+        },
+        {
+            "id": 2413,
+            "url": "https://tenor.com/view/jeremy-clarkson-power-gif-11143478",
+            "url_hash": "3215e70835e90592bd1e8b818394f021d1b2dcdd4e7e105abda4cf4d136be049",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-02 13:33:03"
         },
         {
             "id": 652,
@@ -6160,6 +6204,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-11 21:05:45"
+        },
+        {
+            "id": 2410,
+            "url": "https://xfixup.com/ghostympa/status/2039257906806198394?s=20",
+            "url_hash": "3ec0515fdac0653aeedbf6df172ca075f1bc37156ac6efbdf5ff346380493e49",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://xfixup.com/ghostympa/status/2039257906806198394?s=20",
+            "last_update": "2026-04-02 05:59:13"
         },
         {
             "id": 974,
@@ -12685,6 +12740,17 @@
             "last_update": "2025-11-02 11:09:06"
         },
         {
+            "id": 2415,
+            "url": "https://youtu.be/2zpCOYkdvTQ",
+            "url_hash": "8340f9bce3a8ae61157bfe8efa89609874370361fbfa2c68dcb49c2e0d5afdc5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-02 15:59:50"
+        },
+        {
             "id": 2271,
             "url": "https://x.com/reddit_lies/status/2033937672041791762",
             "url_hash": "8349f17c03b2fbda72e0fd81e18ed2269af46bdf5e386eb840baa996f7857865",
@@ -16049,6 +16115,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/TheTNHoller/status/2030350782680203377",
             "last_update": "2026-03-08 00:55:26"
+        },
+        {
+            "id": 2416,
+            "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1489321201959436399/Cardboard_Guitar_Amp.mp4?ex=69cffdf4&is=69ceac74&hm=c9a03a449838d9359a90eead366f1f753631e88bf953d0e1890489c3e02e98c6&",
+            "url_hash": "a33c984fcde7e144088296474aee58f4b7792116f3442d292162bd241822b407",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-02 17:50:45"
         },
         {
             "id": 38,
@@ -19945,6 +20022,17 @@
             "last_update": "2025-10-11 20:53:25"
         },
         {
+            "id": 2414,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1489281569980944465/go.mp4?ex=69cfd90b&is=69ce878b&hm=a790fd8def43b562a7dde720fafe7daa4092f1f796b62f1f1967863458d88094&",
+            "url_hash": "cb14537933f6f3ed662a2631f2034225a19f0e3572a0347dafcacf5b304d635c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-02 15:13:16"
+        },
+        {
             "id": 2382,
             "url": "https://de.aliexpress.com/item/1005009233804879.html",
             "url_hash": "cb1b2bb41154dc4ebc7d2ca05bf2082a9b7b8418a77a5ee49f349777f72d1b34",
@@ -21208,6 +21296,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.aliexpress.com/item/1005008492347949.html?invitationCode=bG1CWVZON0JFVnFTbVo2ZnpIQnd4WjZSOWhlWHREMUpzM1NTVGFKTlo5ST0&srcSns=sns_Copy&spreadType=socialShare&social_params=61206769111&bizType=ProductDetail&spreadCode=bG1CWVZON0JFVnFTbVo2ZnpIQnd4WjZSOWhlWHREMUpzM1NTVGFKTlo5ST0&aff_fcid=456c5ab83860406c88801ca6f6b2df8b-1754825008904-02819-_Ev5aE2I&tt=MG&aff_fsk=_Ev5aE2I&aff_platform=default&sk=_Ev5aE2I&aff_trace_key=456c5ab83860406c88801ca6f6b2df8b-1754825008904-02819-_Ev5aE2I&shareId=61206769111&businessType=ProductDetail&platform=AE&terminal_id=8303128c378b4698b35faf8e29565f5d&afSmartRedirect=y",
             "last_update": "2025-08-10 11:23:32"
+        },
+        {
+            "id": 2412,
+            "url": "https://youtu.be/9IWbQOyBTQA?si=aBxWSzm0VoCSrZaa&t=403",
+            "url_hash": "d44b4d48bd683a11c9862c1c90551f883d9bf5022a44bb93967de16a66d8f5a3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-02 12:17:34"
         },
         {
             "id": 2403,

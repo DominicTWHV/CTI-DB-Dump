@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 243,
+    "num_of_entries": 244,
     "domains": [
         {
             "domain": "9cache.com",
@@ -371,11 +371,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 558,
+            "times_seen": 560,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-04-02 00:32:11"
+            "last_update": "2026-04-02 17:50:45"
         },
         {
             "domain": "discordapp.net",
@@ -571,11 +571,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 256,
+            "times_seen": 257,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-03-28 14:47:40"
+            "last_update": "2026-04-02 05:32:06"
         },
         {
             "domain": "fixvx.com",
@@ -1643,11 +1643,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 600,
+            "times_seen": 602,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-04-01 22:46:44"
+            "last_update": "2026-04-02 20:37:42"
         },
         {
             "domain": "tensorflow.org",
@@ -1883,11 +1883,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 110,
+            "times_seen": 111,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-03-30 12:38:30"
+            "last_update": "2026-04-02 09:52:05"
         },
         {
             "domain": "xda-developers.com",
@@ -1896,6 +1896,14 @@
             "typing": "Knowledge",
             "is_whitelisted": 0,
             "last_update": "2025-10-08 14:14:05"
+        },
+        {
+            "domain": "xfixup.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2026-04-02 05:59:13"
         },
         {
             "domain": "xhscdn.com",
@@ -1915,11 +1923,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 115,
+            "times_seen": 117,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-03-29 14:58:44"
+            "last_update": "2026-04-02 15:59:50"
         },
         {
             "domain": "youtube.com",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 247,
+    "num_of_entries": 248,
     "domains": [
         {
             "domain": "9cache.com",
@@ -371,11 +371,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 584,
+            "times_seen": 586,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-04-05 00:17:20"
+            "last_update": "2026-04-05 12:53:01"
         },
         {
             "domain": "discordapp.net",
@@ -522,6 +522,14 @@
             "last_update": "2026-01-01 08:26:37"
         },
         {
+            "domain": "fandom.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 0,
+            "last_update": "2026-04-05 09:23:50"
+        },
+        {
             "domain": "farnell.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -571,11 +579,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 259,
+            "times_seen": 262,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-04-04 23:46:16"
+            "last_update": "2026-04-06 01:11:56"
         },
         {
             "domain": "fixvx.com",
@@ -987,11 +995,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 72,
+            "times_seen": 74,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-04-03 21:41:44"
+            "last_update": "2026-04-05 12:45:46"
         },
         {
             "domain": "klipper3d.org",
@@ -1955,11 +1963,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 211,
+            "times_seen": 213,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-04-04 16:48:19"
+            "last_update": "2026-04-05 07:01:37"
         },
         {
             "domain": "yxtwitter.com",

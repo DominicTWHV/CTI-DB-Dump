@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 20,
+    "num_of_entries": 21,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$7gHQJB+DQIFGl9Ku6a70dg$0Reme85y0ULMvWyAIIhqu5x39pKA8RhrRYVcDCFjPjY",
@@ -105,6 +105,13 @@
             "categorization": "Harmless",
             "resolution": "Electrical ***********",
             "last_update": "2026-01-18 16:30:24"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$zP8CcqrqchwpyXGpVoYpGw$23BNmyudmHiwkq/mi4yqOj5BG/FG5JpHNgOE62FH0rk",
+            "times_seen": 4,
+            "categorization": "Harmless",
+            "resolution": "Amelia's********",
+            "last_update": "2026-04-05 17:08:11"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$SLFR1Uyltem5JO06ejd6gg$jksNcFgmRb0wchA7BM6qZ4/OwV7iE6HwSOKPVcUMGEw",

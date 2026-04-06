@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2385,
+    "num_of_entries": 2395,
     "links": [
         {
             "id": 1292,
@@ -4435,6 +4435,17 @@
             "last_update": "2026-01-13 04:30:24"
         },
         {
+            "id": 2482,
+            "url": "https://fixupx.com/TRobinsonNewEra/status/2038574665069625777",
+            "url_hash": "2ca1d4efd9b89d4aeb52ae7636706a0819f8fec945b21f2d3839fd305799da4d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-05 13:51:10"
+        },
+        {
             "id": 1686,
             "url": "https://youtu.be/QKSPk_0N4Jc?si=UeFzVhVfA9tXvGZj",
             "url_hash": "2cf65dfd8b295a0163b44e29e51011de60551bbcfa5d2e87dfcb9bffeb629005",
@@ -4884,6 +4895,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-02 05:32:06"
+        },
+        {
+            "id": 2483,
+            "url": "https://fixupx.com/mattvanswol/status/2040939307062456656",
+            "url_hash": "3111affec4b897c224b44bcca4dfc0558b798dc22524455158ce798dbfc12c02",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-06 01:11:56"
         },
         {
             "id": 1884,
@@ -5533,6 +5555,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-06 07:08:50"
+        },
+        {
+            "id": 2475,
+            "url": "https://youtube.com/shorts/O7aimMbIAvA",
+            "url_hash": "36eed8c3866645e7a5d1b0e6b1b8aee6e674a4c4c3f76ddbe84efb545370f7c3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-05 07:01:37"
         },
         {
             "id": 2093,
@@ -7359,6 +7392,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-01 19:53:53"
+        },
+        {
+            "id": 2480,
+            "url": "https://www.kkinstagram.com/reel/DWrPUOOCNwy/?igsh=MTZyMHcwdXU0NnN3bw==",
+            "url_hash": "47e76f4ddfb63e1c4a16eecd7a7a639097406752a049411ae0f139dcaa185603",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-05 12:45:46"
         },
         {
             "id": 624,
@@ -11629,6 +11673,17 @@
             "last_update": "2026-02-13 17:40:51"
         },
         {
+            "id": 2476,
+            "url": "https://schlockmercenary.fandom.com/wiki/The_Seventy_Maxims_of_Maximally_Effective_Mercenaries",
+            "url_hash": "7440d0023d1df45badafe4b06cfda4504454479a4061db858297a0a0880b7ed8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://schlockmercenary.fandom.com/wiki/The_Seventy_Maxims_of_Maximally_Effective_Mercenaries",
+            "last_update": "2026-04-05 09:23:50"
+        },
+        {
             "id": 2330,
             "url": "https://drive.google.com/drive/folders/1g67WSEjaUa7ZYspSqfqF78kZ6pjMA0CR?usp=sharing",
             "url_hash": "7447a38e26e739b6e8915a54474d2f1d735e9c245d285641835a9ce254e6d1ee",
@@ -11990,6 +12045,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-26 17:18:00"
+        },
+        {
+            "id": 2477,
+            "url": "https://www.kkinstagram.com/reel/DWpSSslk5p1/?igsh=MW52eWkxMzN6OG52Ng==",
+            "url_hash": "788fe1b73e61efeeeab4ce39115b81e199bbffdd4a7e775c40c9d6950ebb38df",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-05 09:33:03"
         },
         {
             "id": 1012,
@@ -13354,6 +13420,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-25 11:53:04"
+        },
+        {
+            "id": 2474,
+            "url": "https://youtube.com/shorts/O7aimMbIAvA?si=hXZ2tHxVwkUqT9cl",
+            "url_hash": "869f04824d36415bb5d073deec9e972a29d639cd5ab4eaa9a59044286df6db17",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-05 06:01:43"
         },
         {
             "id": 1998,
@@ -18031,6 +18108,17 @@
             "last_update": "2026-01-16 00:37:17"
         },
         {
+            "id": 2481,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1490333440183107614/filtered-B4BA95FA-459D-4E51-A6E7-2B7CAFF22E88.mov?ex=69d3acad&is=69d25b2d&hm=54a104ce66b8dc192044224d749ae5ed8b20eecf7e2ab5ce91788dbcf7177ba7&",
+            "url_hash": "b19f72888eca62926ad3df60d35ba80a519531832a30f3ba429d6113965d795c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-05 12:53:01"
+        },
+        {
             "id": 2437,
             "url": "https://www.kkinstagram.com/reel/DWk2dGpDgs-",
             "url_hash": "b1b46846e2df469f4f3e8fabb19e57a770344160f45a2a475c8e043472c783d5",
@@ -18051,6 +18139,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-01 19:54:06"
+        },
+        {
+            "id": 2478,
+            "url": "https://cdn.discordapp.com/attachments/1106657985528352808/1490288895835770900/IMG_5796.mov?ex=69d38330&is=69d231b0&hm=ce6e6c701513bee6f6bdaca2ace5097eaf14de2ad34c9e7fc9b0b399a84b38ea&",
+            "url_hash": "b1d4cabd2466d66821343a1a9898004b06aff791bc2973294ace285ae0774e21",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-05 09:56:01"
         },
         {
             "id": 931,
@@ -23298,6 +23397,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-19 20:33:32"
+        },
+        {
+            "id": 2479,
+            "url": "https://fixupx.com/hanak123123/status/1901184441764246005?s=20",
+            "url_hash": "e2fb3ff9968f5820a9cc1b76a441155c48e8d5ad40ca658e6a3cac5ca19f0618",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-05 12:28:13"
         },
         {
             "id": 1867,

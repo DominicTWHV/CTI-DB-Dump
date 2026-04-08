@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2415,
+    "num_of_entries": 2419,
     "links": [
         {
             "id": 1292,
@@ -2233,6 +2233,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-28 14:47:40"
+        },
+        {
+            "id": 2505,
+            "url": "https://github.com/GitFrog1111/badclaude",
+            "url_hash": "15a30a1aba45d6def89e1241eccfa6e245ec73a4564753fc867e4b6f2dc56c0d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-07 10:29:29"
         },
         {
             "id": 69,
@@ -9429,6 +9440,17 @@
             "last_update": "2026-02-21 20:03:27"
         },
         {
+            "id": 2508,
+            "url": "https://youtu.be/ofzyGL8-rxc?si=8R9K5zXFEXmkLP50",
+            "url_hash": "5dd1f8b990954bd60430aeec5b750d5a1d35406c6d07afaa0bca6d9c0e620fcb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-07 22:34:23"
+        },
+        {
             "id": 397,
             "url": "https://fixupx.com/TheImmortal007/status/1969612207093924350",
             "url_hash": "5dfc9daf3d3ec3efcfbb809d537eb4de04ed204a9649ece2ade8064bf06a3532",
@@ -12771,6 +12793,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-27 03:04:43"
+        },
+        {
+            "id": 2507,
+            "url": "https://cdn.discordapp.com/attachments/761264522685579306/1491185967422242997/RPReplay_Final1724025794.mov?ex=69d6c6a7&is=69d57527&hm=45ddc5c2ee76b92bc7f6e42535efe0fb4fe4670e98477d65ad13572baf8ef7b0&",
+            "url_hash": "7fc4fe3fa9968625b4e62a45a2a96470825e082c04465fb37274859007f4be81",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-07 21:20:40"
         },
         {
             "id": 1900,
@@ -16172,6 +16205,17 @@
             "last_update": "2025-11-23 13:33:54"
         },
         {
+            "id": 2506,
+            "url": "https://fixupx.com/brainrotpostig/status/2041147486983598583?s=20",
+            "url_hash": "9d430166a41d03d90a53dc47459a3381a945b4ad7792b07266da6d41e4b81871",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-07 11:41:07"
+        },
+        {
             "id": 1670,
             "url": "https://youtube.com/shorts/ntuaIB7xr38",
             "url_hash": "9d8cb1feb52a9afa43e9b3b2ca263b849aaf8bf934aacecf1d39422d997d0c07",
@@ -17869,12 +17913,12 @@
             "id": 238,
             "url": "https://tenor.com/view/galaxy-brain-gif-62870316450580206",
             "url_hash": "adc0c38faee6cea0a393900bb7b743e945e20d69ccb1db2d1d0e0b51fcee4873",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-03-17 18:02:36"
+            "last_update": "2026-04-07 22:35:29"
         },
         {
             "id": 7,

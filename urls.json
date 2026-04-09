@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2419,
+    "num_of_entries": 2425,
     "links": [
         {
             "id": 1292,
@@ -5513,6 +5513,17 @@
             "last_update": "2026-04-06 17:05:53"
         },
         {
+            "id": 2512,
+            "url": "https://a.aliexpress.com/_EILpBZO",
+            "url_hash": "3575f134ec05d9a1c62e3cb75129abbf2f72884c6d0bc0881d6e31ead8b27edc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-08 16:45:56"
+        },
+        {
             "id": 1581,
             "url": "https://www.kkinstagram.com/reel/DR_D_ZKk1-x/?igsh=anM0a3Uzbmx4Z2Iy",
             "url_hash": "357e36d2e5605cefc0f559efcecb9a4601bcf3bae8d6b057385fb3b2f29d9873",
@@ -7183,6 +7194,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-05 12:41:11"
+        },
+        {
+            "id": 2510,
+            "url": "https://fixupx.com/saveusculture/status/2041551854723801413?s=20",
+            "url_hash": "45a219bec655279ddf4df22d0471a60466c322cb78cd907ac690f94e779a3914",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-08 14:48:16"
         },
         {
             "id": 1229,
@@ -17151,6 +17173,17 @@
             "last_update": "2025-08-11 12:55:35"
         },
         {
+            "id": 2514,
+            "url": "https://cdn.discordapp.com/attachments/1227343687562825891/1491543560347193405/RDT_20260409_000022.mp4?ex=69d813b0&is=69d6c230&hm=d684642dc4a4d9605a675cab2a1f9e63784d8cbf6d93da3af7b8485bcf04fdcd&",
+            "url_hash": "a77c7c20a7995723e37ffc91d2e240eab1db5423d91de8af4baa93f2ee363f8f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-08 21:01:36"
+        },
+        {
             "id": 704,
             "url": "https://www.adafruit.com/product/4694",
             "url_hash": "a787ce30f009cfd19fd8d844ab1766982bd83c1386cc8111103e15f28323da5d",
@@ -18386,12 +18419,12 @@
             "id": 2496,
             "url": "https://tenor.com/view/the-universe-tim-and-eric-mind-blown-mind-blown-meme-mind-explosion-mind-explosion-meme-gif-18002878",
             "url_hash": "b224eb2a6301b2986468b7474d01341dce435872ba1d373de58f7ac1e10ae9dc",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-04-06 20:11:02"
+            "last_update": "2026-04-08 18:50:57"
         },
         {
             "id": 1185,
@@ -23597,6 +23630,17 @@
             "last_update": "2026-01-31 13:00:57"
         },
         {
+            "id": 2511,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1491451550768304358/MelindaBrownDuncanBABY.mov?ex=69d7bdff&is=69d66c7f&hm=913513da525527a87930c220df49475a47803b2806e3e420c34330a7c9012c88&",
+            "url_hash": "e21415210811c34347888fcffc99bd24187cfe35e31af3a55f411e3c71b0b4fa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-08 14:56:00"
+        },
+        {
             "id": 1011,
             "url": "https://www.ebay.com/itm/184540354341",
             "url_hash": "e2799404d52b58274be6e0ce686312b8ffa1bc34a98bb385c70bbdb6eb3d87d5",
@@ -24851,6 +24895,17 @@
             "last_update": "2025-11-30 17:52:56"
         },
         {
+            "id": 2513,
+            "url": "https://fixupx.com/MediaSOI/status/2041875814329758144",
+            "url_hash": "ef97a14d4a65c23c2ba64c8b2cbca0d77719e073d251a298cb1523386bac0e63",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-08 18:15:57"
+        },
+        {
             "id": 519,
             "url": "https://fixupx.com/carldemaio/status/1974156739181490548",
             "url_hash": "efb8e70ba5f61e7091fd565505c8d0396ab8696448e621d4d8344d7ce0460404",
@@ -25388,6 +25443,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-17 07:19:03"
+        },
+        {
+            "id": 2509,
+            "url": "https://a.aliexpress.com/_EQsow3O",
+            "url_hash": "f486e6d5b037881597e242c8d6ddd9991bce6cc2d923a76c6a96f3d92b39bae8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-08 12:17:02"
         },
         {
             "id": 383,

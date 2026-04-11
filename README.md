@@ -11,8 +11,9 @@ Some data are `[REDACTED]` for privacy and legal reasons.
 
 The goal of this repository is to provide a publicly accessible database with information collected by Cockatoo. The data is automatically updated and may serve as a resource for research, analysis, or educational purposes.
 
-**Note:** While no sensitive information should be present in this dump, if you discover anything potentially dangerous (e.g., links containing plaintext JWTs), please [open an issue](https://github.com/DominicTWHV/CTI-DB-Dump/issues) so it can be promptly investigated and resolved. If you do not wish to make an issue, a post under Security also works.
+This repository is NOT a synthetic dataset. Every single entry comes from a real conversation. We have processed the information (categorization, analysis, and anonymization) and this repository is a container of the processed info. There is ZERO artifically generated content within this dump.
 
+**Note:** While no sensitive information should be present in this dump, if you discover anything potentially dangerous (e.g., links containing plaintext JWTs), please [open an issue](https://github.com/DominicTWHV/CTI-DB-Dump/issues) (or open a post under Security) so it can be promptly investigated and resolved.
 See `metadata.json` for more information.
 
 ---
@@ -28,6 +29,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 This database dump **may contain unsanitized malware delivery URLs or other harmful content**. Please exercise caution while examining the data.
 
 I accept no responsibility for any losses, damages, or other issues arising from interacting with the contents of this repository, including clicking on potentially malicious links.
+
+For more information on what we collect and how your data is used, read more [here](https://cockatoo.dev/legal/privacy.html)
 
 ---
 

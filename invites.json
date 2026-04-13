@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 23,
+    "num_of_entries": 25,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$7gHQJB+DQIFGl9Ku6a70dg$0Reme85y0ULMvWyAIIhqu5x39pKA8RhrRYVcDCFjPjY",
@@ -7,6 +7,13 @@
             "categorization": "Malicious",
             "resolution": "NSFW +*****",
             "last_update": "2026-02-16 08:07:51"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$5u/E1AT6bJLjbJq6OzFztg$nPoH78JOJevzedVglmuvzQinOQNE4EJRfXXFdD1B1gg",
+            "times_seen": 1,
+            "categorization": "Malicious",
+            "resolution": "Luna's H********",
+            "last_update": "2026-04-12 11:29:00"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$YrXsZUu1oKMyIV74cV+g8w$8AibxPwkv2XrMrs6W9YFVJh0taR8cdrQ/9tlTtre+yM",
@@ -28,6 +35,13 @@
             "categorization": "Harmless",
             "resolution": "HaleHound*********",
             "last_update": "2026-02-28 09:56:25"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$WGmBdDHUzyPdCsw1Q1hcpg$JZ5pj18dB7P5n0CTCByC3DL0TQhiY+H24IG/oOT1GNI",
+            "times_seen": 17,
+            "categorization": "Malicious",
+            "resolution": "Love Gir*******",
+            "last_update": "2026-04-12 15:31:48"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$rgLf0EoDKi+oRXReVuPu7A$Uo5ZG8/mfc0X8dSzuzZN1OFkwiy1h/b91X1UtVUWI7Y",

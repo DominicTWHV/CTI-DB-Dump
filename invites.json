@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 25,
+    "num_of_entries": 27,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$7gHQJB+DQIFGl9Ku6a70dg$0Reme85y0ULMvWyAIIhqu5x39pKA8RhrRYVcDCFjPjY",
@@ -21,6 +21,13 @@
             "categorization": "Harmless",
             "resolution": "Armb***",
             "last_update": "2026-01-18 16:30:24"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$zR1CL0EQeF3XR/hZRaseVQ$3S5YH+TyJ1Jf2WIWDSH7bGhZoYLqgpeoT3sj6lZyDz0",
+            "times_seen": 1,
+            "categorization": "Malicious",
+            "resolution": "Love Gir********",
+            "last_update": "2026-04-13 10:07:56"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$Qb8F6tlYngxARJFe3DVQHA$VZqpnrfKayFdovbwmw5Ee8thc6HBrwJB6VBdoNEjAXU",
@@ -154,6 +161,13 @@
             "categorization": "Harmless",
             "resolution": "Prox****",
             "last_update": "2026-01-18 16:30:24"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$dInHrJcdJwB6hexnEWpetw$AFWoU6H4yNyY0VMrXLaKSLmF5MeqnRy4CTDe767ZvyU",
+            "times_seen": 1,
+            "categorization": "Malicious",
+            "resolution": "\u017babka ULT********",
+            "last_update": "2026-04-13 08:51:14"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$qTAuYCaX42m/O3JR22QW0Q$zoVzXtcJOMGc8eUml8SgOACIX8TKTbXs2Gjo92peAm4",

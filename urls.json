@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2470,
+    "num_of_entries": 2482,
     "links": [
         {
             "id": 1292,
@@ -805,6 +805,17 @@
             "last_update": "2026-01-04 07:40:36"
         },
         {
+            "id": 2571,
+            "url": "https://tenor.com/view/ayy-gtfo-outta-here-doggo-gif-20198009",
+            "url_hash": "07de19d7b928dfdf2ec1d41194c815f5bb76ceaaeb7d2c689c55ca854299da63",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 22:17:27"
+        },
+        {
             "id": 725,
             "url": "https://tenor.com/view/welding-breaking-bobby-bones-welder-soldering-building-something-gif-21963638",
             "url_hash": "07e535ded0687dbc55e6fab59d061390a62060f0403dbaa61d6d1e28ec8e2c6c",
@@ -858,6 +869,17 @@
             "is_redirect": 0,
             "downstream_target": "https://icubesmart.com/products/icubesmart-3d16rgb-led-cube-kit-full-color-16x16x16rgb-cube-diy-electronic-kits",
             "last_update": "2025-10-08 02:40:37"
+        },
+        {
+            "id": 2570,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1493300661935407264/trim.C96007A7-ACA3-429B-BF3B-E2B1FF687807.mov?ex=69de781d&is=69dd269d&hm=f90557bcf799dea9e4ef414d65b2de48fd7e842743da395543f9f64a811f337c&",
+            "url_hash": "082d9369b2fef064de10f37374927a4be4767808260f93f5dca1705f5a969948",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 17:23:42"
         },
         {
             "id": 2193,
@@ -5557,6 +5579,17 @@
             "last_update": "2026-03-28 12:14:43"
         },
         {
+            "id": 2569,
+            "url": "https://tenor.com/view/judge-judy-whack-his-pee-pee-gif-14296287540723281703",
+            "url_hash": "34ad8292003bae9b5b4291d81269dbe414693a7033ef0653dac06de24ef4e27e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 17:05:54"
+        },
+        {
             "id": 2015,
             "url": "https://tenor.com/view/pissed-off-face-pissedoffface-carey-gif-13302881",
             "url_hash": "34b4b163d432218fc4b35d1bb2f1071080b637e71b3df9481605bfdd968edb5f",
@@ -6655,6 +6688,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-04 18:56:06"
+        },
+        {
+            "id": 2573,
+            "url": "https://en.wikipedia.org/wiki/Lunar_Cruiser",
+            "url_hash": "3fab4426975d22c0309847f40e54d6295de38cc714f9b8f68eca8d88aa4ccc32",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-14 01:10:56"
         },
         {
             "id": 2148,
@@ -8736,6 +8780,17 @@
             "last_update": "2026-04-04 15:44:06"
         },
         {
+            "id": 2566,
+            "url": "https://t.me/+zTFSAo90sYk4NTRk",
+            "url_hash": "53b7bab753f46ec26c57f37fbac6c6e6d1f3f99ac19090bce12a49df2382ebd7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://t.me/+zTFSAo90sYk4NTRk",
+            "last_update": "2026-04-13 08:54:52"
+        },
+        {
             "id": 735,
             "url": "https://cdn.discordapp.com/attachments/828757482717315162/1429272369981165739/getBlob.mov?ex=68f5891f&is=68f4379f&hm=8e74bf33f219406c4437a8995a8145c1014e4ea5fba0acf7b032e92720c2d0eb&",
             "url_hash": "53e742a7ac72ba4ff7bd907b053b99ca5185732fc3e5df50d393f8cc348967f3",
@@ -9394,6 +9449,17 @@
             "is_redirect": 0,
             "downstream_target": "https://tenor.com/view/grammy-gif-13672713058137170936",
             "last_update": "2025-08-16 20:02:02"
+        },
+        {
+            "id": 2567,
+            "url": "https://tenor.com/view/mods-cut-him-down-tear-him-apart-splay-the-gore-gif-16211356125689318290",
+            "url_hash": "5b5557ea61207eb27425a0bfb74c0011ba14d83f6064f23922337d5622c70167",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 14:36:08"
         },
         {
             "id": 207,
@@ -10362,6 +10428,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-17 15:16:29"
+        },
+        {
+            "id": 2562,
+            "url": "https://imgur.com/a/VbqYWai||",
+            "url_hash": "64eb9512f9a57b08cf4d4ff06d8c9476c1dfb1817ea3e227673abda97b873831",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://imgur.com/",
+            "last_update": "2026-04-13 02:11:30"
         },
         {
             "id": 2400,
@@ -11968,6 +12045,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-28 02:28:42"
+        },
+        {
+            "id": 2564,
+            "url": "https://x.com/bocabola_/status/2043519473584644296?s=46",
+            "url_hash": "740055355a29b670bc27eb404375567f4a873fa161a5b812f82f5c1baeb90d4f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 07:29:10"
         },
         {
             "id": 1132,
@@ -13871,6 +13959,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-28 11:06:21"
+        },
+        {
+            "id": 2572,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1493388973224103966/VID-20260413-WA0091.mp4?ex=69deca5d&is=69dd78dd&hm=701503ebc2bb79251682c66845dc2bd4b9f22627468f5302e0a4a1ee961d08c8&",
+            "url_hash": "8714a715fbc4439f7e78c1833e93aac622c052874a2f2bfa53259648209f1392",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 23:14:37"
         },
         {
             "id": 1923,
@@ -16863,6 +16962,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 01:43:24"
+        },
+        {
+            "id": 2563,
+            "url": "https://tenor.com/view/67-six-seven-void-purple-skeleton-gif-11619761405114423038",
+            "url_hash": "a198243abd0db67b477a3e00d3f797ddc49771ffaddd526f69fe6db185ef708a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 02:35:11"
         },
         {
             "id": 817,
@@ -23773,6 +23883,17 @@
             "last_update": "2025-09-22 21:27:37"
         },
         {
+            "id": 2568,
+            "url": "https://cdn.discordapp.com/attachments/1106657985528352808/1493295211911315597/IMG_6487.mov?ex=69de730a&is=69dd218a&hm=147b65f3a130bf845c14f5df7ee41aa550480cf5f169e1c2ebc278784d9bf9b6&",
+            "url_hash": "dea4d23d0b2a5f92ba0225be80eaec3e22ed1288c6b4a84ae3e1917ebd035eb6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 17:02:03"
+        },
+        {
             "id": 444,
             "url": "https://x.com/unlimited_ls/status/1970916938277618082",
             "url_hash": "deb529e52369987a2bc735548f0c02010b49464d2c633fdaa52f0a6c57b8d191",
@@ -26818,6 +26939,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/sHd1tJn1gFs",
             "last_update": "2025-08-09 16:04:43"
+        },
+        {
+            "id": 2565,
+            "url": "https://tenor.com/view/what-the-dog-dog-loading-dog-confuse-corgi-wide-corgi-gif-5677220482674247561",
+            "url_hash": "fcc85242717b01f1c1c9a220d20d937b8df87227775fb1d28e5c5b230204f7be",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-13 08:49:49"
         },
         {
             "id": 481,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2482,
+    "num_of_entries": 2489,
     "links": [
         {
             "id": 1292,
@@ -2400,6 +2400,17 @@
             "last_update": "2026-02-05 16:03:49"
         },
         {
+            "id": 2580,
+            "url": "https://cdn.discordapp.com/attachments/646873434940243971/1493612130308718642/retra10.mp4?ex=69df9a31&is=69de48b1&hm=7d65dba69aad49b20e9962cf646fd0f12c416acfc2a3820e45806c03e771f856&",
+            "url_hash": "16b7685b085a8619b3c0155586f5d57e736607589dd0fde2e3842af0d2abc5a9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-15 01:25:04"
+        },
+        {
             "id": 1572,
             "url": "https://iosref.com/ios",
             "url_hash": "16b9e2aab976dc6d40b0cfdd3e31d09c89d8c8191e566da0180f19896f2446c8",
@@ -4510,6 +4521,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/soldering/comments/1rjz0hs/am_i_cooked/?share_id=8vWpzxXgMGKQug9ZDRlQ4&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
             "last_update": "2026-03-07 09:37:39"
+        },
+        {
+            "id": 2575,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1493594364163653712/ANODE.mov?ex=69df89a6&is=69de3826&hm=f4054aea46b23062dda71010e17206d5029b6f5a6e98f2be00f1b6f96592a154&",
+            "url_hash": "2b61860d25f91e696a5877635581b0f7b893e26ef6167b61ce3acf267c3741b8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-14 12:50:47"
         },
         {
             "id": 231,
@@ -8252,6 +8274,17 @@
             "last_update": "2025-11-30 08:27:05"
         },
         {
+            "id": 2576,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1493598177125859440/ANODE.mov?ex=69df8d33&is=69de3bb3&hm=1dbb777790dde8c67b31d960d13d81a62eb38df3554637764560affe35e2fdb6&",
+            "url_hash": "4e3f7a9617fe3b6b7ed14496cc1cb8d19eac2063a4145a0ce26d7923ef14be48",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-14 13:05:55"
+        },
+        {
             "id": 346,
             "url": "https://a.aliexpress.com/_Exq0iMS",
             "url_hash": "4e5ef442dd304e6553fa087efe14c6b8aac8fd9bb77663505e9a6a14eb128c68",
@@ -11418,6 +11451,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-19 18:02:34"
+        },
+        {
+            "id": 2578,
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1311997/",
+            "url_hash": "6dd6c286e71b29dc1a8f9fd9b56b39958553d92b9d8ab3f0178fa37374192ed2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-14 14:14:13"
         },
         {
             "id": 1396,
@@ -17030,6 +17074,17 @@
             "last_update": "2025-09-22 12:46:35"
         },
         {
+            "id": 2579,
+            "url": "https://x.com/marshallrichrds/status/2043828312061989206?s=20",
+            "url_hash": "a225472b608f4af9b1c2d406af7bdb2f4dec5b2b29d68fc487a4df261dc7f307",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-14 14:33:21"
+        },
+        {
             "id": 1608,
             "url": "https://tenor.com/view/furry-cute-awawa-gif-15208428946092181725",
             "url_hash": "a2331ce5ba3c1e448b764ca4ea4d212a3e65e50e547e401faa5fea783968e2e3",
@@ -19679,6 +19734,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-24 09:47:23"
+        },
+        {
+            "id": 2574,
+            "url": "https://www.youtube.com/shorts/Rxl8VEEUulI",
+            "url_hash": "ba8e643c71c61ecde2ec9cae9ecb42bf5d8fdc264bc1d566058e50be2f92a668",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-14 12:25:54"
         },
         {
             "id": 1244,
@@ -22792,6 +22858,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-15 12:03:06"
+        },
+        {
+            "id": 2577,
+            "url": "https://cdn.discordapp.com/attachments/1299173463717711973/1493605104442413078/MedalTVMinecraft20260414200705969-1776172125.mp4?ex=69df93a6&is=69de4226&hm=4011826db4382a465688bb86a382736913cd327a692b4155a2ca4a8db1e6dc45&",
+            "url_hash": "d4bedc864ccb58e66f6ec90ff320d35b79a129bfa9275de169becb12717f2c8a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-14 13:33:29"
         },
         {
             "id": 2022,

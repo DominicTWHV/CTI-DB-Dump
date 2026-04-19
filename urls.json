@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2518,
+    "num_of_entries": 2525,
     "links": [
         {
             "id": 1292,
@@ -1276,6 +1276,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/soccercirclejerk/comments/1rcq6sv/goalkeeper_in_istanbuls_amateur_league_hit_a/?share_id=Py1hfx6GMJU9Ik2yEdK2K&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
             "last_update": "2026-02-24 03:23:40"
+        },
+        {
+            "id": 2611,
+            "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1494929302704230490/video-246e5f919dda8c9f9c61a76e897547b2-V.mp4?ex=69e464e8&is=69e31368&hm=e1905b29a052607826dbd117e9f70f70e3a71b79eea527a8529ffcfba18d82ad&",
+            "url_hash": "0c7a890255460f8721122e13e895af44642645182945b81922fcc24aa4bb6a55",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-18 05:15:20"
         },
         {
             "id": 1690,
@@ -5689,6 +5700,17 @@
             "last_update": "2025-10-09 21:18:18"
         },
         {
+            "id": 2617,
+            "url": "https://cdn.discordapp.com/attachments/1077234878166347887/1495061185173913742/ScreenRecording_04-18-2026_08-57-46_1.mov?ex=69e4dfbb&is=69e38e3b&hm=04acb7b94b796a97834b94826dc337c1158a55762df751795a0c8d906996148f&",
+            "url_hash": "353c58e2d2ddb984484081b414d82251586154a7d9084d8bb28d81a8f14a28f4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-18 13:59:24"
+        },
+        {
             "id": 2495,
             "url": "https://youtu.be/cu1dvIwk6pc?si=h23Hq155gz4sbZfz",
             "url_hash": "353c6fe4f71c336704e37331b3a87bb6fb08ec472c11e4cc54f12c0cb48f1c9d",
@@ -8021,6 +8043,17 @@
             "last_update": "2025-11-18 22:39:08"
         },
         {
+            "id": 2612,
+            "url": "https://youtu.be/bWnhtqDJwIU",
+            "url_hash": "4a3f3540fcfea6b43bb47d492524ee83cda6786deadd9633f72a972e4c7f8702",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-18 08:12:40"
+        },
+        {
             "id": 1948,
             "url": "https://a.aliexpress.com/_c3kQqRx5",
             "url_hash": "4a44f388b177f251bcc7edc7b5a8128fdde51512826dc4da6f60fe11c7a2fa01",
@@ -9273,6 +9306,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-22 19:25:42"
+        },
+        {
+            "id": 2614,
+            "url": "https://tenor.com/view/electroboom-stare-electricity-electroboomfunny-gif-16805810661841887793",
+            "url_hash": "57e44d47e86019e426f40f9d4ac88d8ecdb8d7999fe1c48778b587b9985d1f9e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-18 13:06:54"
         },
         {
             "id": 1979,
@@ -15006,6 +15050,17 @@
             "last_update": "2026-03-30 15:37:27"
         },
         {
+            "id": 2613,
+            "url": "https://www.kkinstagram.com/reel/DXN0HvvCFTK/",
+            "url_hash": "8dc6bad30325d926a2e873a946eb558e0565fca3d6fc3277d5b13bc2c1a6af0c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-18 08:40:46"
+        },
+        {
             "id": 405,
             "url": "https://tenor.com/view/%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4-2000-%D1%8F%D1%80%D0%B4%D0%BE%D0%B2-%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-war-soldier-gif-3632617944134077161",
             "url_hash": "8e16a05ffe83252a156535a9b2da020686a7df594eab14b9f7360a1fb798f4d5",
@@ -15708,6 +15763,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.amazon.com/Replacement-Loudspeaker-Electronic-Compatible-BT-Speaker/dp/B09X1TF9ML",
             "last_update": "2025-11-18 22:19:38"
+        },
+        {
+            "id": 2615,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1495055315849445566/IMG_6343.mov?ex=69e4da44&is=69e388c4&hm=1ba0936fd7819b0aa3abe794f6e83b17e53108fa380d6f3eaa485f9e3c08f04c&",
+            "url_hash": "9498435f46c88fdd69410e7ca9b0967134b4d4e055d9a938d98dfe77cc502c47",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-18 13:36:05"
         },
         {
             "id": 970,
@@ -21725,6 +21791,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/ShitpostRock/status/1999784359977419240?s=20",
             "last_update": "2025-12-13 22:25:55"
+        },
+        {
+            "id": 2616,
+            "url": "https://cdn.discordapp.com/attachments/1077234878166347887/1495059638775845035/RPReplay_Final1752329388.mov?ex=69e4de4a&is=69e38cca&hm=b88a5e47166d72a6e127aa70efbd1cafd28f0e00076083aaeb96689a0925e001&",
+            "url_hash": "caf69465a0b0cada6c57c59701942e6f77d0c1207b131e9ac595d0e64d785b9b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-18 13:53:15"
         },
         {
             "id": 410,

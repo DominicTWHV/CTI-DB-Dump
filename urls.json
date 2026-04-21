@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2531,
+    "num_of_entries": 2537,
     "links": [
         {
             "id": 1292,
@@ -2849,6 +2849,17 @@
             "is_redirect": 0,
             "downstream_target": "https://extkits.co.uk/why-solenoids-are-a-ridiculous-choice-for-an-engine/",
             "last_update": "2025-10-17 10:30:53"
+        },
+        {
+            "id": 2625,
+            "url": "https://www.youtube.com/watch?v=CGuP_cxuM1I",
+            "url_hash": "1a816c7e8f87c3b3c6595b8fb2fff4e67c41ec79da9b7ddee63890640b4fbd4a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-20 05:25:21"
         },
         {
             "id": 1934,
@@ -13202,6 +13213,17 @@
             "last_update": "2025-12-13 11:14:10"
         },
         {
+            "id": 2627,
+            "url": "https://github.com/KabukiFlux/Duplicanator-Scart-Duplicator",
+            "url_hash": "7d7138c44bd379bc960515e8819af65478542f920d6d4639b92d1d44fd60b529",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-20 09:28:35"
+        },
+        {
             "id": 2261,
             "url": "https://x.com/Ryandally08/status/2033792621592945073",
             "url_hash": "7da8cffdd26659a84a2695e979d2c686193aaa8176e0d748a4916b41ec77aad5",
@@ -16326,6 +16348,17 @@
             "last_update": "2025-10-08 01:45:00"
         },
         {
+            "id": 2624,
+            "url": "https://www.aliexpress.com/item/1005007805807118.html",
+            "url_hash": "99b1a6af0cc7baba5b1e6d942c141606eaa550485b5f1d20d5d4744cc7fad155",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-20 04:20:50"
+        },
+        {
             "id": 774,
             "url": "https://www.aliexpress.com/item/1005008313177499.html",
             "url_hash": "99b81f17032871f8bbf1d015bfe1440bb2fbae5d543b1ebcc63bc96469c4e726",
@@ -18117,6 +18150,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 08:41:32"
+        },
+        {
+            "id": 2630,
+            "url": "https://cdn.discordapp.com/attachments/426116061415342080/1495203481307316265/D2F02C93-5344-4F7D-A564-A5A95FD6D6B61.mov?ex=69e75e81&is=69e60d01&hm=6b618722043c597bc52a7705dd394240c87b6f06995ffd62f8b5929863f721dc&",
+            "url_hash": "a8f8b2cce10808f8a443c85a692bb7ba206a44b8d2882e1dff3526a973d3968f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-21 00:04:15"
         },
         {
             "id": 1407,
@@ -20649,6 +20693,17 @@
             "last_update": "2026-03-25 20:21:21"
         },
         {
+            "id": 2628,
+            "url": "https://fixupx.com/_kihiro_/status/507568808060387328?s=20",
+            "url_hash": "bf39b788d9d9df1ffdec0a993b24ee65ad8fca6c78d264757b22d59015072cec",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-20 11:30:35"
+        },
+        {
             "id": 233,
             "url": "https://tenor.com/view/boom-gif-14144727",
             "url_hash": "bf9dcc04f17d63a530033d3bba1187d4753cb69b6a09413025409d4490b7ba02",
@@ -22693,6 +22748,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-26 00:44:30"
+        },
+        {
+            "id": 2626,
+            "url": "https://tenor.com/view/minecraft-create-mod-technology-gif-25752533",
+            "url_hash": "d11b3b6b1af547d0d465bf65663b1ae712a641294df27d9149e3bc13ea076551",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-04-20 05:57:01"
         },
         {
             "id": 1668,

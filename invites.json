@@ -1,6 +1,13 @@
 {
-    "num_of_entries": 28,
+    "num_of_entries": 29,
     "invites": [
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$K9UXpkZzNoQO5O2RCOj9EQ$i/nOe/Mdom9asCl8rogKq42xtPcyoT1QxoSrMDM666o",
+            "times_seen": 1,
+            "categorization": "Malicious",
+            "resolution": "\ud83d\udc45 \ud835\uddd8\ud835\uddf4\ud835\uddf6\ud835\uddff\ud835\uddf9\ud835\ude00*******",
+            "last_update": "2026-04-21 09:01:26"
+        },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$7gHQJB+DQIFGl9Ku6a70dg$0Reme85y0ULMvWyAIIhqu5x39pKA8RhrRYVcDCFjPjY",
             "times_seen": 4,
@@ -39,9 +46,9 @@
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$64HEjek5UCYDVCMmu07PmQ$+J04ts8P1gVbbnLFcUpSKmSwTS5pN/HayImse6XJM7Q",
             "times_seen": 1,
-            "categorization": "Harmless",
+            "categorization": "Malicious",
             "resolution": "HaleHound*********",
-            "last_update": "2026-02-28 09:56:25"
+            "last_update": "2026-04-20 08:09:04"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$WGmBdDHUzyPdCsw1Q1hcpg$JZ5pj18dB7P5n0CTCByC3DL0TQhiY+H24IG/oOT1GNI",
@@ -137,9 +144,9 @@
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$zP8CcqrqchwpyXGpVoYpGw$23BNmyudmHiwkq/mi4yqOj5BG/FG5JpHNgOE62FH0rk",
             "times_seen": 4,
-            "categorization": "Harmless",
+            "categorization": "Malicious",
             "resolution": "Amelia's********",
-            "last_update": "2026-04-05 17:08:11"
+            "last_update": "2026-04-20 08:09:09"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$SLFR1Uyltem5JO06ejd6gg$jksNcFgmRb0wchA7BM6qZ4/OwV7iE6HwSOKPVcUMGEw",

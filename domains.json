@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 252,
+    "num_of_entries": 253,
     "domains": [
         {
             "domain": "9cache.com",
@@ -379,11 +379,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 635,
+            "times_seen": 637,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-04-21 00:04:15"
+            "last_update": "2026-04-21 15:52:32"
         },
         {
             "domain": "discordapp.net",
@@ -400,6 +400,14 @@
             "typing": "Blog",
             "is_whitelisted": 1,
             "last_update": "2026-04-04 09:00:15"
+        },
+        {
+            "domain": "easyeda.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 1,
+            "last_update": "2026-04-21 20:14:20"
         },
         {
             "domain": "ebay.ca",
@@ -587,11 +595,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 274,
+            "times_seen": 275,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-04-20 11:30:35"
+            "last_update": "2026-04-21 11:41:03"
         },
         {
             "domain": "fixvx.com",
@@ -1003,11 +1011,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 79,
+            "times_seen": 80,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-04-18 08:40:46"
+            "last_update": "2026-04-21 15:49:43"
         },
         {
             "domain": "klipper3d.org",
@@ -1691,11 +1699,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 665,
+            "times_seen": 666,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-04-20 05:57:01"
+            "last_update": "2026-04-21 18:54:35"
         },
         {
             "domain": "tensorflow.org",
@@ -1987,11 +1995,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 131,
+            "times_seen": 133,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-04-19 12:07:27"
+            "last_update": "2026-04-21 06:54:55"
         },
         {
             "domain": "youtube.com",

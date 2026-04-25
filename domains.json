@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 253,
+    "num_of_entries": 254,
     "domains": [
         {
             "domain": "9cache.com",
@@ -379,11 +379,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 637,
+            "times_seen": 643,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-04-21 15:52:32"
+            "last_update": "2026-04-25 02:04:37"
         },
         {
             "domain": "discordapp.net",
@@ -395,11 +395,11 @@
         },
         {
             "domain": "dontasktoask.com",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "typing": "Blog",
             "is_whitelisted": 1,
-            "last_update": "2026-04-04 09:00:15"
+            "last_update": "2026-04-24 05:23:24"
         },
         {
             "domain": "easyeda.com",
@@ -1699,11 +1699,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 666,
+            "times_seen": 683,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-04-21 18:54:35"
+            "last_update": "2026-04-24 20:16:52"
         },
         {
             "domain": "tensorflow.org",
@@ -1715,11 +1715,11 @@
         },
         {
             "domain": "thingiverse.com",
-            "times_seen": 2,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Shopping",
+            "typing": "Education",
             "is_whitelisted": 0,
-            "last_update": "2026-01-19 17:05:25"
+            "last_update": "2026-04-24 19:05:20"
         },
         {
             "domain": "threads.com",
@@ -1882,6 +1882,14 @@
             "last_update": "2025-11-25 21:03:40"
         },
         {
+            "domain": "videocardz.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "News",
+            "is_whitelisted": 1,
+            "last_update": "2026-04-25 04:17:54"
+        },
+        {
             "domain": "visualstudio.com",
             "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
@@ -1995,11 +2003,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 133,
+            "times_seen": 134,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-04-21 06:54:55"
+            "last_update": "2026-04-23 17:00:29"
         },
         {
             "domain": "youtube.com",

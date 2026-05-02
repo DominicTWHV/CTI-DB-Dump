@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 29,
+    "num_of_entries": 31,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$K9UXpkZzNoQO5O2RCOj9EQ$i/nOe/Mdom9asCl8rogKq42xtPcyoT1QxoSrMDM666o",
@@ -84,6 +84,13 @@
             "categorization": "Malicious",
             "resolution": "Maria's*******",
             "last_update": "2026-03-17 14:33:53"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$x2zC5sNHFOyl2LpLkyzl/Q$wkNslqCFleMSFraX7a8neD2QiKlmW30B09EwfWpQNsE",
+            "times_seen": 2,
+            "categorization": "Harmless",
+            "resolution": "Aerospace Career Tra********************",
+            "last_update": "2026-05-01 05:08:24"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$k8J8JK5rwXvbRUA8Uq0GtQ$MMexLPC6f1LgUioyWkN3VkzC7UQlV7geZjQgt/EjxcY",
@@ -182,6 +189,13 @@
             "categorization": "Malicious",
             "resolution": "Love Gi*******",
             "last_update": "2026-04-09 22:09:45"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$JYY65D87/eJf3N4U2wAutQ$K8lsZfj591iamSKxJ6OJ3qInKuVz/G9ExWPimawt38w",
+            "times_seen": 15,
+            "categorization": "Harmless",
+            "resolution": "\u2b50 \ud835\udde7\ud835\udddb\ud835\uddd8 *****",
+            "last_update": "2026-05-01 22:34:26"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$4G6fsVSypFdMS1SXH3ZLmw$gxzV3fjcIorxU+34USJ4wTl5xYOylzWtNifE9PtFnf4",

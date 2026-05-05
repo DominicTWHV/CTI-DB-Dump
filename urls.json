@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2643,
+    "num_of_entries": 2656,
     "links": [
         {
             "id": 1292,
@@ -198,6 +198,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-08 03:06:28"
+        },
+        {
+            "id": 2747,
+            "url": "https://www.gteek.com/en/ptfe-bushings-15-graphite-filled",
+            "url_hash": "016e47b719645e74647f9971a34914fb302707816ffe8b5ba190742eaac1bbd4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.gteek.com/en/ptfe-bushings-15-graphite-filled",
+            "last_update": "2026-05-04 11:29:11"
         },
         {
             "id": 1139,
@@ -948,6 +959,17 @@
             "last_update": "2025-10-03 04:24:49"
         },
         {
+            "id": 2748,
+            "url": "https://tenor.com/view/why-whycantyoujustbenormal-league-of-legends-gif-27174510",
+            "url_hash": "08c0a0a2ed39513d34d5a4455194248d3fdb5b218e11ba175a195a64a1723a00",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 11:32:53"
+        },
+        {
             "id": 350,
             "url": "https://tenor.com/view/dr-evil-gif-26373585",
             "url_hash": "08caf4655af733b534343296203678509fca048a3c20155267e6cf14b225bfa4",
@@ -1111,6 +1133,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-19 19:56:00"
+        },
+        {
+            "id": 2746,
+            "url": "https://es.aliexpress.com/item/1005005456696999.html",
+            "url_hash": "0ae3011c9fe8e16a5df22cc47b488644dd7ad71d3a4e1a4fdebfb30e47271f6a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 10:55:18"
         },
         {
             "id": 407,
@@ -2816,6 +2849,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-21 15:30:48"
+        },
+        {
+            "id": 2749,
+            "url": "https://au.rs-online.com/web/p/ball-bearings/1371574",
+            "url_hash": "19bbd8bdb52b3a6afbc23aa83316f758ab570d7d40b545088a3a1d24d3613708",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 11:46:15"
         },
         {
             "id": 942,
@@ -14918,6 +14962,17 @@
             "last_update": "2025-11-21 11:55:13"
         },
         {
+            "id": 2750,
+            "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1500831831568941157/YouCut_20260401_212656429.mp4?ex=69f9de10&is=69f88c90&hm=4aab4757ea06c166d29bd0c76a541cb7516bf2b531d489140b0e3cf2a99d3884&",
+            "url_hash": "87071c7be9bc64125297889c333ecfc0eabd061ad140cb18b11bcf4de1adccee",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 12:09:53"
+        },
+        {
             "id": 841,
             "url": "https://play.google.com/store/apps/details?id=com.helge.droiddashcam",
             "url_hash": "870f337d6c748a0ae3fdf66cf54e589f6ffbe420adb9045e0368a144efc44cfc",
@@ -15941,6 +15996,17 @@
             "last_update": "2026-01-06 16:26:41"
         },
         {
+            "id": 2752,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1500916635773440142/PXL_20260504_174537537.TS.mp4?ex=69fa2d0b&is=69f8db8b&hm=c8f5eaa536e070dfdc63999113e002b45a7bd26b995ba1d6da423376fabd64ee&",
+            "url_hash": "8f44b9fd5fc69d9dd14dd3ab2679f6f4e5582a890918fd36e370d6bd8b1aaf31",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 17:46:52"
+        },
+        {
             "id": 66,
             "url": "https://www.youtube.com/watch?v=lbFKDNOYW3w",
             "url_hash": "8f55d96eb2dbe1d81692ec6a558dffdbd2ef34a1b0857da9518c65904dd2f535",
@@ -16370,6 +16436,17 @@
             "last_update": "2026-04-04 23:46:16"
         },
         {
+            "id": 2753,
+            "url": "https://www.kkinstagram.com/reel/DX4FsgFMOGI/",
+            "url_hash": "9378ce7e8578b126709be2d04ef9e15ca2f36b6d5fc5366ed6b4a817deb92ccc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 20:04:58"
+        },
+        {
             "id": 883,
             "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1434678945139265727/ScreenRecording_11-02-2025_16-36-37_1.mov?ex=69093463&is=6907e2e3&hm=473a509c704301c371e8aa2e184f699dc0fb67c629e860d829609024205f6ce4&",
             "url_hash": "9388b50612d44c643d2d40465f72315682580c1bcb32b4fb2f850e1f0be15fae",
@@ -16379,6 +16456,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-02 23:01:56"
+        },
+        {
+            "id": 2743,
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-says-nvidia-now-has-zero-percent-market-share-in-china-says-us-export-policy-has-already-largely-backfired",
+            "url_hash": "9391ebbc7021d2851e12ea630baa8b0254149bf093493c954991836ba7f5dabd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 06:43:27"
         },
         {
             "id": 1149,
@@ -21452,6 +21540,17 @@
             "last_update": "2026-01-03 08:01:01"
         },
         {
+            "id": 2741,
+            "url": "https://tenor.com/view/tedlasso-yikes-gif-27201348",
+            "url_hash": "bde536a2a0cd0f6eb6d0072b0ae9ffdf586f4467bdb56b92b7f85990d29e300d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 04:50:14"
+        },
+        {
             "id": 1796,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1469336430156189746/IMG_3739.mov?ex=698749af&is=6985f82f&hm=4e4b4a0facd345e1c5f9100bc77c68dcef3779fd18dba33f1f7b654d7fd8b9b6&",
             "url_hash": "bde7048d02f56e6c44126f7ca177fc4bd8d52d6030a04250e25e37822603563f",
@@ -23894,6 +23993,17 @@
             "last_update": "2026-04-06 14:21:47"
         },
         {
+            "id": 2742,
+            "url": "https://youtu.be/6Iux5kmjn5o",
+            "url_hash": "d2235506db3acc050ddd37407e084c2e50971360977dd6f0bb535f950ba1ff2a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 06:07:11"
+        },
+        {
             "id": 2351,
             "url": "https://cdn.discordapp.com/attachments/849031301087494148/1487186272568086733/SnapVideo.app_AQMbWQIP23_XCLe96G8P2vhaBG9SSuc4q_L3U1u_SnBeX__64y-D5v0GFVjYozGU2td5402BhSzTFrjKZRcA5awkqMc1roAbewMLzZo.mp4?ex=69c839a5&is=69c6e825&hm=a70579d8ec53405e5cfa4b92b27996b58d56ca2f967ae2b911c07a16835b4a7f&",
             "url_hash": "d2581b3236548a0bd5180836582b3a8f8a15de0cf1c6588868a004ab0e14b009",
@@ -25423,6 +25533,17 @@
             "last_update": "2025-11-16 12:32:40"
         },
         {
+            "id": 2744,
+            "url": "https://www.youtube.com/watch?v=qKXrVriacUM",
+            "url_hash": "dde86ed4553b94a639607b71ecef19b889653471a1f890bea115cfcf82c6900e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 09:20:36"
+        },
+        {
             "id": 1461,
             "url": "https://a.co/d/4fDhJPB",
             "url_hash": "de1a1829ed9bc3e39c2a41c276b14d80bd9376c65bfa713ac27d60c0f82f82de",
@@ -26446,6 +26567,17 @@
             "last_update": "2026-01-20 23:29:09"
         },
         {
+            "id": 2751,
+            "url": "https://www.youtube.com/shorts/wu6SwjyVXpo",
+            "url_hash": "e928e2d7bc0ed3ad33dbfadcf9d80f49abce12027841a1b2a25bd0474c3f79fa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-04 12:34:07"
+        },
+        {
             "id": 1743,
             "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1467811028938260541/20260202_110930.mp4?ex=6981bd0b&is=69806b8b&hm=5cc08812c3a993b99e90fde392399e3ac56e9dea0d606c330fdfb21740576b57&",
             "url_hash": "e9411826f5ece3fa3b32908286f6670f4e07c5f908b2d03e27c7eb12a7bf3de7",
@@ -27414,6 +27546,17 @@
             "last_update": "2026-03-20 18:35:26"
         },
         {
+            "id": 2745,
+            "url": "https://klipy.com/gifs/yuno-ball--k01KQS5QHR00AX8TZJZ6GH3BSYQ",
+            "url_hash": "f18f8af3f381421acc108e8afb8b4f9bf0992936689b0bbe396925f8d485ee50",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/yuno-ball--k01KQS5QHR00AX8TZJZ6GH3BSYQ",
+            "last_update": "2026-05-04 09:40:37"
+        },
+        {
             "id": 282,
             "url": "https://cdn.discordapp.com/attachments/1127844754961473647/1414978289197645834/Oi-Do-you-have-a-Muppet-license-for-that-1757427482737.mp4?ex=68c188b9&is=68c03739&hm=3a933652d2aa48489e6576ee8e7520b8bb9bb3a88a26600369fb7a6ffac1b08b&",
             "url_hash": "f1aa2cfe5fc613d4203e52f049828f7686e4f7f49be5bbe492e09f14804a09c1",
@@ -28055,12 +28198,12 @@
             "id": 1576,
             "url": "https://tenor.com/view/hello-there-gif-5677380953331354485",
             "url_hash": "f737211871f0419cba1a0ef9beaf85191a18af9e86b4e4cd7ac5450d07de037e",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-01-17 20:20:57"
+            "last_update": "2026-05-04 11:28:47"
         },
         {
             "id": 251,

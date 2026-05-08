@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 263,
+    "num_of_entries": 264,
     "domains": [
         {
             "domain": "9cache.com",
@@ -387,11 +387,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 671,
+            "times_seen": 681,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-05-05 21:35:52"
+            "last_update": "2026-05-08 02:15:02"
         },
         {
             "domain": "discordapp.net",
@@ -611,11 +611,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 280,
+            "times_seen": 281,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-05-03 11:23:49"
+            "last_update": "2026-05-07 06:31:34"
         },
         {
             "domain": "fixvx.com",
@@ -667,11 +667,11 @@
         },
         {
             "domain": "furryfeetx.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-01-08 13:13:11"
+            "last_update": "2026-05-07 12:39:15"
         },
         {
             "domain": "futureeyesdesign.com",
@@ -731,11 +731,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 47,
+            "times_seen": 49,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-04-20 09:28:35"
+            "last_update": "2026-05-08 01:49:00"
         },
         {
             "domain": "github.io",
@@ -923,11 +923,11 @@
         },
         {
             "domain": "instagram.com",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-04-26 10:19:27"
+            "last_update": "2026-05-07 19:59:41"
         },
         {
             "domain": "instructables.com",
@@ -1051,11 +1051,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 83,
+            "times_seen": 84,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-05-05 05:20:06"
+            "last_update": "2026-05-07 20:42:47"
         },
         {
             "domain": "klipper3d.org",
@@ -1771,11 +1771,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 701,
+            "times_seen": 708,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-04 11:32:53"
+            "last_update": "2026-05-07 04:17:26"
         },
         {
             "domain": "tensorflow.org",
@@ -2027,11 +2027,19 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 39,
+            "times_seen": 40,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-05-02 14:54:08"
+            "last_update": "2026-05-06 22:09:57"
+        },
+        {
+            "domain": "wireshark.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 1,
+            "last_update": "2026-05-07 10:38:29"
         },
         {
             "domain": "x.com",
@@ -2075,19 +2083,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 143,
+            "times_seen": 144,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-05 19:48:06"
+            "last_update": "2026-05-07 03:29:51"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 226,
+            "times_seen": 228,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-05 11:55:01"
+            "last_update": "2026-05-06 19:39:35"
         },
         {
             "domain": "yxtwitter.com",

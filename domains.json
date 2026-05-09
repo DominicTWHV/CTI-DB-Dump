@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 264,
+    "num_of_entries": 265,
     "domains": [
         {
             "domain": "9cache.com",
@@ -387,11 +387,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 681,
+            "times_seen": 686,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-05-08 02:15:02"
+            "last_update": "2026-05-08 18:30:58"
         },
         {
             "domain": "discordapp.net",
@@ -1178,6 +1178,14 @@
             "last_update": "2025-11-04 07:40:58"
         },
         {
+            "domain": "luma.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2026-05-08 14:46:38"
+        },
+        {
             "domain": "macrotrends.net",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1771,11 +1779,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 708,
+            "times_seen": 709,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-07 04:17:26"
+            "last_update": "2026-05-08 11:11:59"
         },
         {
             "domain": "tensorflow.org",
@@ -2091,11 +2099,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 228,
+            "times_seen": 229,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-06 19:39:35"
+            "last_update": "2026-05-08 13:18:22"
         },
         {
             "domain": "yxtwitter.com",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 265,
+    "num_of_entries": 266,
     "domains": [
         {
             "domain": "9cache.com",
@@ -51,11 +51,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 113,
+            "times_seen": 114,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-05-04 10:55:18"
+            "last_update": "2026-05-10 18:06:13"
         },
         {
             "domain": "aliexpress.us",
@@ -387,11 +387,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 686,
+            "times_seen": 690,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-05-08 18:30:58"
+            "last_update": "2026-05-09 19:20:56"
         },
         {
             "domain": "discordapp.net",
@@ -811,11 +811,11 @@
         },
         {
             "domain": "hackaday.com",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Blog",
-            "is_whitelisted": 0,
-            "last_update": "2026-01-21 11:20:09"
+            "is_whitelisted": 1,
+            "last_update": "2026-05-10 10:10:08"
         },
         {
             "domain": "hackaday.io",
@@ -872,6 +872,14 @@
             "typing": "Unknown",
             "is_whitelisted": 0,
             "last_update": "2026-01-16 16:46:09"
+        },
+        {
+            "domain": "icstation.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2026-05-10 10:25:12"
         },
         {
             "domain": "icubesmart.com",
@@ -1779,11 +1787,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 709,
+            "times_seen": 716,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-08 11:11:59"
+            "last_update": "2026-05-10 17:14:56"
         },
         {
             "domain": "tensorflow.org",
@@ -2091,11 +2099,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 144,
+            "times_seen": 146,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-07 03:29:51"
+            "last_update": "2026-05-10 14:59:12"
         },
         {
             "domain": "youtube.com",

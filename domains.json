@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 266,
+    "num_of_entries": 268,
     "domains": [
         {
             "domain": "9cache.com",
@@ -51,11 +51,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 114,
+            "times_seen": 117,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-05-10 18:06:13"
+            "last_update": "2026-05-11 19:49:55"
         },
         {
             "domain": "aliexpress.us",
@@ -387,11 +387,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 690,
+            "times_seen": 692,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-05-09 19:20:56"
+            "last_update": "2026-05-12 01:35:32"
         },
         {
             "domain": "discordapp.net",
@@ -408,6 +408,14 @@
             "typing": "Blog",
             "is_whitelisted": 1,
             "last_update": "2026-04-24 05:23:24"
+        },
+        {
+            "domain": "dumbermini.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 0,
+            "last_update": "2026-05-11 08:10:40"
         },
         {
             "domain": "easyeda.com",
@@ -731,11 +739,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 49,
+            "times_seen": 50,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-05-08 01:49:00"
+            "last_update": "2026-05-11 16:32:43"
         },
         {
             "domain": "github.io",
@@ -899,11 +907,11 @@
         },
         {
             "domain": "imgur.io",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 0,
-            "last_update": "2026-01-15 00:56:08"
+            "last_update": "2026-05-11 21:38:54"
         },
         {
             "domain": "industrialshields.com",
@@ -2024,6 +2032,14 @@
             "typing": "Knowledge",
             "is_whitelisted": 0,
             "last_update": "2025-10-15 14:19:03"
+        },
+        {
+            "domain": "waveshare.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 1,
+            "last_update": "2026-05-11 20:38:25"
         },
         {
             "domain": "we-online.com",

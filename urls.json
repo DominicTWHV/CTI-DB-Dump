@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2724,
+    "num_of_entries": 2727,
     "links": [
         {
             "id": 1292,
@@ -6677,6 +6677,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-31 09:10:16"
+        },
+        {
+            "id": 2824,
+            "url": "https://youtu.be/8zlAI32MSsQ",
+            "url_hash": "38b174a617386f2bcedc0cb8a73cd03790085cc61736464f7b1e46d3151f6c7b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-12 14:29:11"
         },
         {
             "id": 1732,
@@ -26336,6 +26347,17 @@
             "last_update": "2025-12-13 22:27:12"
         },
         {
+            "id": 2823,
+            "url": "https://www.kkinstagram.com/reel/DYM57nklHso/?igsh=cGpzNm5vd29icDdp",
+            "url_hash": "df9ba8a5bac0cd1e6d325a789ea27c6a90a01a031a3415a4dc94f93a6acc2e7c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-12 05:39:17"
+        },
+        {
             "id": 1004,
             "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1438917840605417472/ScreenRecording_11-13-2025_07-00-50_1.mov?ex=6918a02b&is=69174eab&hm=6f69781a88e7f26b046307aad7ae93abd42b3e0db872e9e7d106a661b2bca67e&",
             "url_hash": "dfa30653b9a632dded37ebb039b05e5a38e2d850be5891e5625d97ecdf8eaf3a",
@@ -26873,6 +26895,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-15 16:01:33"
+        },
+        {
+            "id": 2825,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1503651495831142490/SnapVideo.app_AQM6HkKWbuq70cV95Bd66XLPqCBqZHzPuTEtftJkJqKCxRJzJCgqG7ITJdaxbw9rcXqGZN7xv4SpKpZkDZkbQ6A099jejESj4V0SI7U.mp4?ex=6a04c8d5&is=6a037755&hm=ba85a2808bb79b6405555f652b98f981aab011663a6dcfe561912fdd8c5bfe55&",
+            "url_hash": "e54fa2023f0a1bd999caf4df6939906ad693c3c3fee6e35910af8621c1693c12",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-13 00:40:27"
         },
         {
             "id": 1876,

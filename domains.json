@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 270,
+    "num_of_entries": 273,
     "domains": [
         {
             "domain": "9cache.com",
@@ -160,6 +160,14 @@
             "typing": "Internet Services",
             "is_whitelisted": 1,
             "last_update": "2026-05-02 22:55:36"
+        },
+        {
+            "domain": "askubuntu.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 1,
+            "last_update": "2026-05-16 15:24:38"
         },
         {
             "domain": "autonomylogic.com",
@@ -387,11 +395,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 703,
+            "times_seen": 705,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-05-15 17:15:32"
+            "last_update": "2026-05-17 01:46:12"
         },
         {
             "domain": "discordapp.net",
@@ -739,11 +747,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 50,
+            "times_seen": 51,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-05-11 16:32:43"
+            "last_update": "2026-05-16 13:15:29"
         },
         {
             "domain": "github.io",
@@ -864,6 +872,14 @@
             "typing": "Knowledge",
             "is_whitelisted": 0,
             "last_update": "2025-10-10 19:45:26"
+        },
+        {
+            "domain": "hovatek.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2026-05-16 13:34:04"
         },
         {
             "domain": "hp.com",
@@ -1954,6 +1970,14 @@
             "last_update": "2025-08-17 09:40:41"
         },
         {
+            "domain": "twrp.me",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 0,
+            "last_update": "2026-05-16 13:53:04"
+        },
+        {
             "domain": "ui.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -2139,11 +2163,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 233,
+            "times_seen": 234,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-15 13:20:09"
+            "last_update": "2026-05-16 13:27:42"
         },
         {
             "domain": "yxtwitter.com",

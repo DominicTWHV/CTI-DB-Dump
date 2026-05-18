@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2761,
+    "num_of_entries": 2779,
     "links": [
         {
             "id": 1292,
@@ -640,6 +640,17 @@
             "last_update": "2025-10-29 01:10:15"
         },
         {
+            "id": 2872,
+            "url": "https://www.edn.com/frequency-doubler-operates-on-triangle-wave/",
+            "url_hash": "05ba6513046ecc2858a4b151647c1ff93b9327077c76e3cccf44adb00d1d7802",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.edn.com/frequency-doubler-operates-on-triangle-wave/",
+            "last_update": "2026-05-17 09:51:58"
+        },
+        {
             "id": 1667,
             "url": "https://tenor.com/view/waiting-for-java-server-gif-21201235",
             "url_hash": "05be22d17674bfdccd27d5a8724f03cec45b1f0f9e0f8bbb5a4f5628dac6a63a",
@@ -1067,6 +1078,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/993597912938451056/1405914122654060707/V10702-172318.mp4?ex=68a08f0f&is=689f3d8f&hm=e99505d300c0547c27fc1ff7b924fc80ed39a1e39b1d02e45fa4ffc8bd8f6855&",
             "last_update": "2025-08-15 14:01:08"
+        },
+        {
+            "id": 2866,
+            "url": "https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3AWAnC1b0DZwOgJgMwCsG++A7IZGQoboQBwiVMgL5MCmAtGGAFAA3EDzC4QuMmJFiwGSFBDtc83NELi1CmIT4BzYbzESph8fUbzIfAO4HR4OXZm4LfAE6tGGBOBchvCmDwVh4IXj5c+GIB8kHwNp7+PmEgSFhWtqLhvoymGcJROYlZUHoF0RGF9JalAIbF9iWmjOpc6nHBGmBkKMQIcGQYYDQ+qt3oKOZICBhI7cFW9Sm4-UUr8i3C8wuK0KLws0jVuCRkjPjQpOAL7sVIzrn3CsrxtilgT8srpZl+Hw-iVYhO5SQr-QLBBKRGRPaFFfLSIpwkpWABKiToWEKmK0rHkFyuNW0fAAJmZGGlAfJKTIAHKEMiiUnk8Tfdas0bgemM3B8epRFSQRj9QWMTZta47HBEI4SJA9KhkMiQLDSwhHRkMshEajyyWvRTKDks3DffIC8BPC2ySwJa2OEUOW1vOBOvGi0qhGlC1g08wQyEuj3ILDKVz6EMsyP4SA+W31G2pUOrSni7adNUasBanXIMisS7qpBZSDZ01IH0dOB8t2m0arOsgNP6+AFmX0TVK3N6wiweDKFBsOAffNV-IldmJ9njv6NRx5BKJ6pulLjh2MFzC1y2TcY-2UtcexPddKL+eDFknn6Xi+7xv5XdX3cH2675b+njpFtolmf3+FGpVnUIk1D4AB7EB8wsPEUBYGBgnlDBiDoZ5xFPIA",
+            "url_hash": "094e9f0f5e72d448b60e853c73ae709ee2e61713175b663effe9970fb0faae07",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 08:40:03"
         },
         {
             "id": 2761,
@@ -5282,6 +5304,17 @@
             "last_update": "2026-04-02 00:32:11"
         },
         {
+            "id": 2870,
+            "url": "https://fixupx.com/sahill_og/status/2055308416781025416?s=20",
+            "url_hash": "2ddce25b43d68bd8cd271118cc805f77bd796df6ed2f164eee8285578050ca9c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 09:30:12"
+        },
+        {
             "id": 1311,
             "url": "https://fixupx.com/joeroganhq/status/1998526068529979483",
             "url_hash": "2de0883072e1e77c7abc0093a913f9e7576d69160dcdf74eac76484fda297f81",
@@ -7284,6 +7317,17 @@
             "last_update": "2026-05-07 10:38:29"
         },
         {
+            "id": 2873,
+            "url": "https://gitlab.com/ubports/porting/community-ports/android12/samsung-galaxy-a33-a53/samsung-exynos1280",
+            "url_hash": "3d8d0f64b8cb0fbe0c48ef66c2ee1cb6f33bfc9badcf49e1d002c66a77526525",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://gitlab.com/ubports/porting/community-ports/android12/samsung-galaxy-a33-a53/samsung-exynos1280",
+            "last_update": "2026-05-17 10:40:20"
+        },
+        {
             "id": 700,
             "url": "https://fixupx.com/GrageDustin/status/1978246795453992970",
             "url_hash": "3e056d462ad3416e1d31f4786066352027f102c8c5fa06796c061fd205cd6633",
@@ -7656,6 +7700,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-15 13:20:09"
+        },
+        {
+            "id": 2878,
+            "url": "https://www.androidpolice.com/2015/03/11/google-refreshes-its-chromebook-pixel-for-2015-with-a-12-hour-battery-life-core-i5-for-999-core-i7-for-1299/",
+            "url_hash": "4192abdc3eca159e3d97410885fe7abbe2cac94fae09eb2fea340f6f9e67ec10",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.androidpolice.com/2015/03/11/google-refreshes-its-chromebook-pixel-for-2015-with-a-12-hour-battery-life-core-i5-for-999-core-i7-for-1299/",
+            "last_update": "2026-05-17 19:16:13"
         },
         {
             "id": 2000,
@@ -11563,6 +11618,17 @@
             "last_update": "2026-04-29 22:22:30"
         },
         {
+            "id": 2868,
+            "url": "https://electronics.stackexchange.com/questions/338265/triangle-wave-frequency-doubler",
+            "url_hash": "646ef58469e1db5a82a2d7d31b127aaa7fa113b75f33368e2594653762176c47",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 09:12:51"
+        },
+        {
             "id": 2542,
             "url": "https://github.com/RiXT3/Micro-SD-card-organiser",
             "url_hash": "647693fa04eac6cb03988a525758e0b5fdcd8c3143071ab7b8c6b56bd0ffb420",
@@ -12177,6 +12243,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-25 10:41:23"
+        },
+        {
+            "id": 2862,
+            "url": "https://docs.ubports.com/en/latest/porting/build_and_boot/standalone_kernel_build.html",
+            "url_hash": "69f7cedae1e791593fad21a9043d5285415008256acf50d746bb8e6730c65023",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://docs.ubports.com/en/latest/porting/build_and_boot/standalone_kernel_build.html",
+            "last_update": "2026-05-17 10:37:58"
         },
         {
             "id": 1097,
@@ -15743,6 +15820,28 @@
             "last_update": "2025-10-17 22:58:54"
         },
         {
+            "id": 2871,
+            "url": "https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmGZkDYAcmte2AJwYYgKRkgAsyZApgLRhgBQA7iA8gEwVOkNuVPmFKR2nHhVGTenGeIDms6WG4rw3LFCgsAbhubquchShBzu0JFaQUYCFgEN5AdlI9OxFOu1gkTEhg8PAW0FSEkQQkGJiQYFSuYUEh4gBObgIygsLyYuAhLBlM7nmcVNr8OsHwEiVZWaUKdRVlDK2e4gAmXh7GHerqXXQAZk4ArgA2AC7OZTIYVOCkfgH+BalhhHDbrjxUvNwYCVs7mMgX3K4IWAiLG7Uc7dqeVZ11ZlUmuk-ZnvffcQuMClTzcO4+ECreQpTbIaAXHiEdAIK7IQjcZBIeGI3F4xEPOBFcClKpGMrSQoZEENCwQqoUXi1alqah+UqtSnMkmkVo08CsxmFDj8slNMQScG0qWQpQ8gXqflqbT2FgAJQVbKhFE5Olydh0DgkAJk5IZkohngufV0xX5rRyOpVhOJ9S1bvJXKJGsd7qu6l1OooBvs1hYyg9rI9WkNxOtkPjnsJcsTrMTMdVHAB-yW5qzuYWS2aAHtqvlhJEClBYPE7uCdINVUA",
+            "url_hash": "882476dd820d51fb98361f9fb02491ee6fd76d556bcc94b4c71e811ac55305ca",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 09:32:00"
+        },
+        {
+            "id": 2867,
+            "url": "https://x.com/emadddd_r/status/2055390312567128161?s=20",
+            "url_hash": "8827de6e9162bfc74a251c2e2d21683cdd7d063c62214a81d24bf1b908cc263e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 08:45:42"
+        },
+        {
             "id": 2544,
             "url": "https://tenor.com/view/gentlemen-were-in3000bc-the-mole-people-back-in-time-history-historic-gif-18789239",
             "url_hash": "882f4eb0fcc55135335072644c31036233a3e8280f8d9a91b1b6ce325b5f843a",
@@ -17415,6 +17514,17 @@
             "last_update": "2025-08-19 18:34:39"
         },
         {
+            "id": 2877,
+            "url": "https://www.theverge.com/2015/6/18/8800583/hp-first-usb-c-device-release-date",
+            "url_hash": "963459ce02bb168b7240e62009c86bec9239cf71a9a7e653e19b67d9081d3c81",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.theverge.com/2015/6/18/8800583/hp-first-usb-c-device-release-date",
+            "last_update": "2026-05-17 19:12:44"
+        },
+        {
             "id": 1844,
             "url": "https://blog.adafruit.com/2026/02/08/any-user-who-has-a-3d-printer-would-have-this-software-installed-printgos-plan-to-become-the-drm-of-3d-printing/",
             "url_hash": "963d97f95cc1239058680e633de0a3095da50bfda945e20e86ea3b41d478de9e",
@@ -18790,6 +18900,17 @@
             "last_update": "2026-02-08 02:45:37"
         },
         {
+            "id": 2863,
+            "url": "https://tenor.com/view/what-monkey-gif-13406329",
+            "url_hash": "a0a5e2b5f04599455f360fed66c321062b74a7294ec9c3b4fef686f8040a8730",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 06:23:58"
+        },
+        {
             "id": 1525,
             "url": "https://tenor.com/view/this-is-fine-fire-house-burning-okay-gif-5263684",
             "url_hash": "a0adb12b21c5c20f5ecc9ac9ba6caaa6ca6f91e8e20e4ea27a61affb88f7eb0f",
@@ -18854,6 +18975,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-29 16:23:03"
+        },
+        {
+            "id": 2864,
+            "url": "https://www.falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDpsEEAsAnGeRZQGypgiJJ4BMBTA7GwMzYAcTVZNqhAAjRAFZsqAA5iEk1ADcIE1AFtMEgKYBaJCgB8AKChRg0tFAAeDIkShIq2BySZQSNWA3UBDBoRkAexxcMklCCIiUKAwAG0QAJS0MMAw0HwA7EC0EAHpjU2AAeWsGVwcmHhc3D1R4ZFQMegQpfJMzaBtkcqRKqHY3Xp46nFQVZAC2ws7EAYqqznFBypGWsf8CPIKzH1KEThZ+3igiA6PhrwQLtT9kcXUwRD17qABzW8YIrfbgAHc905uFhVQHzVatbZ-PaLZYgs5DcHfQoJaGHJhMexzdFEVaOVC-epSKA3KyKBi4Jj3KZmFFdJB2BxOdxURlE+p4qAE0bEnyk0bU4C02z2DzM5m4zxctY8vnyJFmEpdUFDE5nWqXaJNfmQ-5dA7OJDlOYIy4Qn4AEwBPGclJZRGt50RxOCCHNWhgPgArrE0PLgJauuIGbaoEHMbwnWoXW6Pd7fQKAxIGTDQ8nsDjTepo+6vT6-YmEPbnCmi1BuBnCVnEDHc-GdXsw2X06nMeJPJWBbqk62WeJev02ExEZ2G-25qCBsP60qzuPZxHMyOlQ6Q6Xy1Ofl3Cw7y6q3OvF5DXgCzrvQZxOO3tZuG8mlicd0sN4Ut6XgS3HYeb4G725xOUYWfMwt0bd9-yBBcO0hRUJCNY5wIcNgrwaGJmjNF89h4RwBzcLCWUAr9Cl2LpBxtQcoDwnDVhIXwGBeNRHgQZ5UHeDZJkhGYEFIst72tYsn0zKBxk+dCOj2KgiH4txuIIyshMQIg2FEqEukolM+J4odCOA8TJM00MAIEqDv0QbiQwQ7EgJU2CgQxAyIIuYyMJItEeCqGSjOvQppD2Lg7QIKAJOcSS2UQTh1C0bktWlCBIomSJlK3IKTgChDZK8nTVOwlM-JS0K1gFWIMlRG02zLQ4DzktA4puABrLQoDASwdCYXBxHQQJ+jav0ioBUVOB4exSDtA4nWqxAADEAFUABkZoAIQSABJAARABxABRKAEg2gBhAAVJaJqWjaNoSHriq6Kg3JOe1Apu4axripofFiMAMmPJqOqgbAdHERQ-SFK5RSICSKLu0GKwYSU5JJMk5QFHzVJBsGeH6wbVnC4k4qJaKiVitiviXRA0fwwaKOyzyCuMYBcnACBjCAA",
+            "url_hash": "a143e46f2fcd91bf90c36b567e67a1665e97a18f641f29929b5ad6149cf73b8e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDpsEEAsAnGeRZQGypgiJJ4BMBTA7GwMzYAcTVZNqhAAjRAFZsqAA5iEk1ADcIE1AFtMEgKYBaJCgB8AKChRg0tFAAeDIkShIq2BySZQSNWA3UBDBoRkAexxcMklCCIiUKAwAG0QAJS0MMAw0HwA7EC0EAHpjU2AAeWsGVwcmHhc3D1R4ZFQMegQpfJMzaBtkcqRKqHY3Xp46nFQVZAC2ws7EAYqqznFBypGWsf8CPIKzH1KEThZ+3igiA6PhrwQLtT9kcXUwRD17qABzW8YIrfbgAHc905uFhVQHzVatbZ-PaLZYgs5DcHfQoJaGHJhMexzdFEVaOVC-epSKA3KyKBi4Jj3KZmFFdJB2BxOdxURlE+p4qAE0bEnyk0bU4C02z2DzM5m4zxctY8vnyJFmEpdUFDE5nWqXaJNfmQ-5dA7OJDlOYIy4Qn4AEwBPGclJZRGt50RxOCCHNWhgPgArrE0PLgJauuIGbaoEHMbwnWoXW6Pd7fQKAxIGTDQ8nsDjTepo+6vT6-YmEPbnCmi1BuBnCVnEDHc-GdXsw2X06nMeJPJWBbqk62WeJev02ExEZ2G-25qCBsP60qzuPZxHMyOlQ6Q6Xy1Ofl3Cw7y6q3OvF5DXgCzrvQZxOO3tZuG8mlicd0sN4Ut6XgS3HYeb4G725xOUYWfMwt0bd9-yBBcO0hRUJCNY5wIcNgrwaGJmjNF89h4RwBzcLCWUAr9Cl2LpBxtQcoDwnDVhIXwGBeNRHgQZ5UHeDZJkhGYEFIst72tYsn0zKBxk+dCOj2KgiH4txuIIyshMQIg2FEqEukolM+J4odCOA8TJM00MAIEqDv0QbiQwQ7EgJU2CgQxAyIIuYyMJItEeCqGSjOvQppD2Lg7QIKAJOcSS2UQTh1C0bktWlCBIomSJlK3IKTgChDZK8nTVOwlM-JS0K1gFWIMlRG02zLQ4DzktA4puABrLQoDASwdCYXBxHQQJ+jav0ioBUVOB4exSDtA4nWqxAADEAFUABkZoAIQSABJAARABxABRKAEg2gBhAAVJaJqWjaNoSHriq6Kg3JOe1Apu4axripofFiMAMmPJqOqgbAdHERQ-SFK5RSICSKLu0GKwYSU5JJMk5QFHzVJBsGeH6wbVnC4k4qJaKiVitiviXRA0fwwaKOyzyCuMYBcnACBjCAA",
+            "last_update": "2026-05-17 07:35:23"
         },
         {
             "id": 1769,
@@ -22134,6 +22266,17 @@
             "last_update": "2026-01-06 15:43:03"
         },
         {
+            "id": 2869,
+            "url": "https://fixupx.com/A_Marutake/status/2055890141554917508?s=20",
+            "url_hash": "bc47b03b537164428023adf3d33f5ed18bbcf80be84740068534f0dd0ea24e0b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 09:24:12"
+        },
+        {
             "id": 2285,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1483855627292905545/RPReplay_Final1729017071.mov?ex=69bc1bbe&is=69baca3e&hm=c614b2c52f1c955183b1275be84f2f14978acdbdef23ed7ffc6dcce253453db8&",
             "url_hash": "bc5902260b2cb14f24ce134dc53b70738a471963ed4a02231535ba52fe96c984",
@@ -23421,6 +23564,17 @@
             "last_update": "2025-08-13 16:59:28"
         },
         {
+            "id": 2865,
+            "url": "https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3AWAnC1b0DZwOgJgMwCsG++A7IZGQoboQBwiVMgL5MCmAtGGAFAA3EDzC4QuMmJFiwGSFBDtc83NELi1CmIT4BzYbzESph8fUbzIfAO4HR4OXZm4LfAE6tGGBOBchvCmDwVh4IXj5c+GIB8kHwNp7+PmEgSFhWtqLhvoymGcJROYlZUHoF0RGF9JalAIbF9iWmjOqxwXDg0PiQhCjmZCgYYESknd296Ej49Ei0PnHx9Sm4CLF+K-Itge0qauRESBTTcPQI9vhd7Atw7sVIzrn3CsrxtilgT8srpZl+Hw-iValUKPKSFf7bV7lcBPSIA-LSIpwopWABKiToWEKmK0rHkF1GNW0fAAJuJILlGn97DIAHKEMiiUnkxgbIpsukMpkeZSUowUxRiNrBPjo3mClm4+RA1paNQJcWmcVsqz1HG4b6kLAanxbYXBDTmSAYaoIAaQOj0YaG6omhAuBjdORXdoK4iAlQClVu7Ve91gMjpH3gQOKfBYANB2xakNY8Pib4hVjY75sMTdHz6m7R+M65NGRNlNOKSDJQpRIl8AD24iSClWKBYMGChwwxDoz3ESFKQA",
+            "url_hash": "c787480c8a90f72d22fd8aa14cb77fac6c21e5a54efe1143923353962553fd69",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 08:18:18"
+        },
+        {
             "id": 1404,
             "url": "https://marketplace.visualstudio.com/items?itemName=ranaumarnadeem.riscv-toolchain",
             "url_hash": "c793a01d4e85a182817a6a951a9ba30473dc269ef5f0779954a66415f94e1e3b",
@@ -24697,6 +24851,17 @@
             "last_update": "2026-01-25 14:23:03"
         },
         {
+            "id": 2879,
+            "url": "https://www.apple.com/newsroom/2015/03/09Apple-Unveils-All-New-MacBook/",
+            "url_hash": "d13f07848070b80fbdb395a092b6f245148ac169174c05829317f57cc3faa4d9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.apple.com/newsroom/2015/03/09Apple-Unveils-All-New-MacBook/",
+            "last_update": "2026-05-17 19:16:31"
+        },
+        {
             "id": 2159,
             "url": "https://www.eevblog.com/forum/testgear/failing-encoders-in-a-tek-tds-320-scope",
             "url_hash": "d1485fec790738ae38159068f0649a9d627422517aba0bdd5b6d1991bbf33151",
@@ -24915,6 +25080,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-27 22:59:42"
+        },
+        {
+            "id": 2874,
+            "url": "https://www.youtube.com/watch?v=YfvTjQ9MCwY&t=603s",
+            "url_hash": "d26a16b7bc641d835993647f01fee02b483516e2a97d28034e9b13255a8efd08",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 13:51:35"
         },
         {
             "id": 2397,
@@ -26466,6 +26642,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-23 00:41:30"
+        },
+        {
+            "id": 2876,
+            "url": "https://tenor.com/view/reason-resident-evil-words-gif-2700864877061479051",
+            "url_hash": "dd977deb3d808be8ba9e4254dc9635e56ebcf0073c58e3c4897e757227df4dac",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 17:04:16"
         },
         {
             "id": 1030,
@@ -29854,6 +30041,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-12 16:59:40"
+        },
+        {
+            "id": 2875,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1505584890601537736/VID-20260517-WA0180.mp4?ex=6a0b28b2&is=6a09d732&hm=02e240998408dd739c6896a191f9135751929b52233f5fd045d9fa6b17d5b456&",
+            "url_hash": "fb3a3aced38576241673f9eda35e35bf82e2b63fcbb500bc202fda3525f7950a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-17 14:56:50"
         },
         {
             "id": 2301,

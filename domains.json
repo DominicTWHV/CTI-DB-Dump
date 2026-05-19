@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 279,
+    "num_of_entries": 280,
     "domains": [
         {
             "domain": "9cache.com",
@@ -192,6 +192,14 @@
             "typing": "Internet Services",
             "is_whitelisted": 0,
             "last_update": "2026-03-14 18:24:38"
+        },
+        {
+            "domain": "bachmann.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 1,
+            "last_update": "2026-05-18 14:47:04"
         },
         {
             "domain": "batteryhookup.com",
@@ -411,11 +419,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 706,
+            "times_seen": 707,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-05-17 14:56:50"
+            "last_update": "2026-05-19 02:59:18"
         },
         {
             "domain": "discordapp.net",
@@ -1643,11 +1651,11 @@
         },
         {
             "domain": "reddit.com",
-            "times_seen": 43,
+            "times_seen": 44,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-05-05 06:49:43"
+            "last_update": "2026-05-18 14:45:26"
         },
         {
             "domain": "renesas.com",
@@ -1859,11 +1867,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 723,
+            "times_seen": 724,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-17 17:04:16"
+            "last_update": "2026-05-18 06:45:22"
         },
         {
             "domain": "tensorflow.org",

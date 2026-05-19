@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2779,
+    "num_of_entries": 2783,
     "links": [
         {
             "id": 1292,
@@ -1166,6 +1166,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-17 06:14:52"
+        },
+        {
+            "id": 2883,
+            "url": "https://cdn.discordapp.com/attachments/835645409765621761/1505979472854122687/VID_20260518_125203_296.mp4?ex=6a0c982e&is=6a0b46ae&hm=19cce3f9a42298eb1bf82a004dc9efb7e68783a6f8eb06fa5039deb6e2e0cbbb&",
+            "url_hash": "0a2e93d5aaa60803dc68d09f004646243307bd70f8199359d8974d5eb30e1bdd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-19 02:59:18"
         },
         {
             "id": 2697,
@@ -5940,6 +5951,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/6WmWRb9bWU0",
             "last_update": "2025-08-16 07:45:14"
+        },
+        {
+            "id": 2880,
+            "url": "https://tenor.com/view/spices-chili-pepper-madness-chinese-five-spice-star-anise-sichuan-peppercorns-gif-27254585",
+            "url_hash": "32bd58dfd0d19f74c9a7159ec4022bce6642b60ada2a8e3abdbc07a1492d157b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-18 06:45:22"
         },
         {
             "id": 490,
@@ -22189,6 +22211,17 @@
             "last_update": "2025-11-29 16:27:30"
         },
         {
+            "id": 2882,
+            "url": "https://www.bachmann.com/de/smart-industries/download-software-v20201/",
+            "url_hash": "bbea44c8413dbd2d7e5591b9364cd8e35b07d8ae4a941f9b116e31d160727679",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.bachmann.com/de/smart-industries/download-software-v20201/",
+            "last_update": "2026-05-18 14:47:04"
+        },
+        {
             "id": 678,
             "url": "https://fixupx.com/PDXReal1/status/1977500239541268611",
             "url_hash": "bbedfd89d1252e4414a49f2e7fb7bddac486d8d23dff5527d25e4e2318b58ae5",
@@ -30327,6 +30360,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-28 13:22:16"
+        },
+        {
+            "id": 2881,
+            "url": "https://www.reddit.com/r/PLC/comments/1c7019g/how_does_bachmann_plc_work_and_can_be/",
+            "url_hash": "fe1836d56e3c379e19dfa00f48edc763c3b364e51d52ed2622f22afb6dbadf5a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/PLC/comments/1c7019g/how_does_bachmann_plc_work_and_can_be/",
+            "last_update": "2026-05-18 14:45:55"
         },
         {
             "id": 2202,

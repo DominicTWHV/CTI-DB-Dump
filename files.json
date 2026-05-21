@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 776,
+    "num_of_entries": 779,
     "files": [
         {
             "sha256": "00211cc0421bfe4462c2da7331bb1d78e4c86bc19f7816b048e4964d08ed6cf8",
@@ -1878,6 +1878,13 @@
             "last_update": "2026-05-04 09:21:20"
         },
         {
+            "sha256": "5dff721e00d8e7ff815bfb4501dbbb9611102c5e5679c2452ed760327d7d5dcc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-05-21 00:16:50"
+        },
+        {
             "sha256": "5e340158eaeb07ba6ade20f3babed1485ca84b37787a9183c54c5aab9be02d38",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -2044,6 +2051,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2026-01-15 23:09:21"
+        },
+        {
+            "sha256": "67e123b6df90e79f96813be941cc9cdbe81ed54a8c88b4946797911e3e6f3e66",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-05-20 20:53:31"
         },
         {
             "sha256": "680dd2cd0ea30ecff21d2ccb123b256f846b5adfc8d1c77d29efdb492f913549",
@@ -3780,6 +3794,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2026-02-15 15:59:29"
+        },
+        {
+            "sha256": "b089248ad44bcd6f1f0ee81712fcc9910b501ed6ba8e2169ba2534470dfe4a1a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-05-20 22:24:11"
         },
         {
             "sha256": "b08f08a3b27ea480c73ab9db1c8b94b0f8c1c7229e0759826629a22ab83cf28c",

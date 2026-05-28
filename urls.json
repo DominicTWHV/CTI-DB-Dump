@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2855,
+    "num_of_entries": 2856,
     "links": [
         {
             "id": 1292,
@@ -23749,6 +23749,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.transfernow.net/en/cld?utm_source=20250831LMxeKUv6",
             "last_update": "2025-08-31 03:52:45"
+        },
+        {
+            "id": 2962,
+            "url": "https://projecthub.arduino.cc/Meeker6751/arduino-oscilloscope-6-channel-8d0be8",
+            "url_hash": "c3f5270f97450f8460ed6da41a8cb7c0c2ebcd8d5574ae56cee2fdda23523b2d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-26 13:43:05"
         },
         {
             "id": 2217,

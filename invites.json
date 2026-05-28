@@ -193,9 +193,9 @@
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$JYY65D87/eJf3N4U2wAutQ$K8lsZfj591iamSKxJ6OJ3qInKuVz/G9ExWPimawt38w",
             "times_seen": 15,
-            "categorization": "Harmless",
+            "categorization": "Malicious",
             "resolution": "\u2b50 \ud835\udde7\ud835\udddb\ud835\uddd8 *****",
-            "last_update": "2026-05-01 22:34:26"
+            "last_update": "2026-05-02 09:40:00"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$4G6fsVSypFdMS1SXH3ZLmw$gxzV3fjcIorxU+34USJ4wTl5xYOylzWtNifE9PtFnf4",

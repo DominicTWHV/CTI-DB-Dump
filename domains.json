@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 295,
+    "num_of_entries": 296,
     "domains": [
         {
             "domain": "9cache.com",
@@ -51,11 +51,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 125,
+            "times_seen": 126,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-05-26 01:27:24"
+            "last_update": "2026-05-30 09:01:50"
         },
         {
             "domain": "aliexpress.us",
@@ -435,11 +435,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 725,
+            "times_seen": 729,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-05-28 22:03:27"
+            "last_update": "2026-05-30 08:37:24"
         },
         {
             "domain": "discordapp.net",
@@ -610,6 +610,14 @@
             "last_update": "2025-10-17 10:30:53"
         },
         {
+            "domain": "facebed.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Social Media",
+            "is_whitelisted": 0,
+            "last_update": "2026-05-29 22:46:42"
+        },
+        {
             "domain": "facebook.com",
             "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
@@ -683,11 +691,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 285,
+            "times_seen": 286,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-05-25 12:29:39"
+            "last_update": "2026-05-30 00:29:04"
         },
         {
             "domain": "fixvx.com",
@@ -1971,11 +1979,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 744,
+            "times_seen": 749,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-29 08:57:08"
+            "last_update": "2026-05-30 06:23:04"
         },
         {
             "domain": "tensorflow.org",
@@ -2291,11 +2299,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 129,
+            "times_seen": 130,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-05-29 08:10:19"
+            "last_update": "2026-05-29 23:04:25"
         },
         {
             "domain": "xda-developers.com",
@@ -2339,11 +2347,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 237,
+            "times_seen": 240,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-26 01:24:36"
+            "last_update": "2026-05-30 11:45:34"
         },
         {
             "domain": "yxtwitter.com",

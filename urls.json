@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2889,
+    "num_of_entries": 2894,
     "links": [
         {
             "id": 1292,
@@ -3212,6 +3212,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-16 19:09:15"
+        },
+        {
+            "id": 2997,
+            "url": "https://youtu.be/cu1dvIwk6pc?si=ifzM0tpFIjZ3eVaw",
+            "url_hash": "1a6408a984963ed51cc4a00fce0d150b75ceff33e3da86824cd13b8f3cb52b16",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-31 12:28:12"
         },
         {
             "id": 1313,
@@ -6567,6 +6578,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-19 06:47:07"
+        },
+        {
+            "id": 3002,
+            "url": "https://www.youtube.com/shorts/WWjbGBxEjfs",
+            "url_hash": "34ea837b7fe9a9814dba7e273280b7fc4d4da9568f8ae3b2280e572834e9cb68",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-01 11:31:21"
         },
         {
             "id": 148,
@@ -12661,6 +12683,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-05 07:42:32"
+        },
+        {
+            "id": 3001,
+            "url": "https://a.aliexpress.com/_EvBZ6xU",
+            "url_hash": "6988ae28030b62891e33482845c698a34a079cbc88f882ff9c0c4fb3fab1187f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-01 09:29:03"
         },
         {
             "id": 1430,
@@ -22211,6 +22244,17 @@
             "last_update": "2026-04-25 16:11:30"
         },
         {
+            "id": 3000,
+            "url": "https://cdn.discordapp.com/attachments/761264702797119528/1510765545660878889/80170596322__89C59AA9-8432-4438-9873-F82257D1D23F.mov?ex=6a1e018e&is=6a1cb00e&hm=b4c75d1fab7214baefb44c88a17769a3e82f46ca3797ec50e9acc551e2224989&",
+            "url_hash": "b3ee00478a875ddeaa1c1e74a16e74150935e5dc24929d58a13bd679e6f510d1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-05-31 22:02:55"
+        },
+        {
             "id": 1864,
             "url": "https://youtu.be/djQQcn82_-M?si=qrJIiE4av1qU8PIH&t=364",
             "url_hash": "b45025ed7534e1d4c2e534d036d806dd11b1d31e9f421d0b1b3b044a1022b958",
@@ -31438,6 +31482,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-13 19:31:44"
+        },
+        {
+            "id": 2998,
+            "url": "https://open.spotify.com/socialsession/6qnGjcJteX2Y1mKOf4dZle?si=VSmXTGDJRq2p0L70otHnIg&utm_source=share-options-sheet&utm_medium=share-link&pi=icgq68V7Shiom",
+            "url_hash": "fd552f237fe9d2300394c60ffc78eab3edf09fae9540d8c39e3f61246647683a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://open.spotify.com/socialsession/6qnGjcJteX2Y1mKOf4dZle?si=VSmXTGDJRq2p0L70otHnIg&utm_source=share-options-sheet&utm_medium=share-link&pi=icgq68V7Shiom",
+            "last_update": "2026-05-31 15:09:45"
         },
         {
             "id": 1802,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 31,
+    "num_of_entries": 32,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$K9UXpkZzNoQO5O2RCOj9EQ$i/nOe/Mdom9asCl8rogKq42xtPcyoT1QxoSrMDM666o",
@@ -105,6 +105,13 @@
             "categorization": "Harmless",
             "resolution": "Kerbal Spa**********",
             "last_update": "2026-01-18 16:39:27"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$lEnPRtDgcbbca0z7jtbFrw$IOVmInQk+Ajqzps9fF6lBNXeS45nLAUBHY7/019oBcE",
+            "times_seen": 1,
+            "categorization": "Harmless",
+            "resolution": "Volt****",
+            "last_update": "2026-06-01 13:24:53"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$9JUrX1Y+rjrvvkBE//vNKA$ZnOikxxQzD1USf1XsUKiRLj11h4b5RPngk63Dt5u5rA",

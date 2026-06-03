@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2905,
+    "num_of_entries": 2912,
     "links": [
         {
             "id": 1292,
@@ -781,6 +781,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-02 17:03:48"
+        },
+        {
+            "id": 3019,
+            "url": "https://tenor.com/view/streched-gif-21513890",
+            "url_hash": "0663dbc3514540cb3a4dcdabd0f6bf5fa57d2ea02e4c2b34ec15ab8260c0fd80",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-03 10:23:06"
         },
         {
             "id": 283,
@@ -9462,6 +9473,17 @@
             "last_update": "2025-11-07 19:53:45"
         },
         {
+            "id": 3018,
+            "url": "https://alexymetals.com/products/am-ag-8-aba-foil",
+            "url_hash": "4bb651d824ab80372412337ff9859ad109bcadfc1199eefa67e0b4e967af5b10",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://alexymetals.com/products/am-ag-8-aba-foil",
+            "last_update": "2026-06-03 07:59:31"
+        },
+        {
             "id": 703,
             "url": "https://play.date/",
             "url_hash": "4bd257ef3664c60e394f6a000119383597a396a2985620b969b2256243d78ce4",
@@ -14731,6 +14753,17 @@
             "last_update": "2025-10-15 05:45:22"
         },
         {
+            "id": 3021,
+            "url": "https://tenor.com/view/backrooms-the-backrooms-breakdance-gif-25469531",
+            "url_hash": "7ac40f8134a7463266526bc22584b0a60955878d3306015f334a2afafabf3d53",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-03 11:27:55"
+        },
+        {
             "id": 2083,
             "url": "https://cdn.discordapp.com/attachments/771109314059305002/1478832756032143483/Chime.mov?ex=69a9d5d4&is=69a88454&hm=6fc5382f088629e051ed3dc82a8a6ac6d6bc78cd92ab695506a5a16350d13ac7&",
             "url_hash": "7ad163b5f1f026441e595da64ea0a25d99308747eb52f20e3c921c4a19d33d7c",
@@ -18262,6 +18295,17 @@
             "last_update": "2026-05-17 19:12:44"
         },
         {
+            "id": 3016,
+            "url": "https://www.tiktok.com/@momentsgang/video/7429348961313508640",
+            "url_hash": "963a7cebce11747bba588bf32bb78fe7e70a1d6c06db5400d9976d607066b55a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-03 02:11:34"
+        },
+        {
             "id": 1844,
             "url": "https://blog.adafruit.com/2026/02/08/any-user-who-has-a-3d-printer-would-have-this-software-installed-printgos-plan-to-become-the-drm-of-3d-printing/",
             "url_hash": "963d97f95cc1239058680e633de0a3095da50bfda945e20e86ea3b41d478de9e",
@@ -21232,6 +21276,17 @@
             "last_update": "2025-11-07 02:11:53"
         },
         {
+            "id": 3017,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1511609687395532950/My_Movie_19.mov?ex=6a2113b9&is=6a1fc239&hm=be16ed5390b7b98d5b8ce479c5f2bec362bdb0eeee4625b144da1c8b7a913b4e&",
+            "url_hash": "ac0858b362296a71093bc15a4dd4686d3d545debaed520881cf5e09a680bfd10",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-03 05:57:14"
+        },
+        {
             "id": 2643,
             "url": "https://tenor.com/view/reza-auditore-gif-3484781624072545434",
             "url_hash": "ac0a06932c407e3487d2d8f324ed5e5aaff2ceca6b55f05a1c148161d8edda0d",
@@ -22049,12 +22104,12 @@
             "id": 503,
             "url": "https://tenor.com/view/electroboom-mehdi-fail-shock-shocked-gif-23833246",
             "url_hash": "b2703270ad8dfd6c86ef9f9e0b5e146fed1ded4bbf3c97491b22c0e2eaec8b9b",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2025-10-03 00:52:39"
+            "last_update": "2026-06-03 11:44:22"
         },
         {
             "id": 867,
@@ -23078,6 +23133,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-10 19:34:44"
+        },
+        {
+            "id": 3022,
+            "url": "https://x.com/ShowWatch_/status/2061970114518597833?s=20",
+            "url_hash": "bb7de36d6499ee2cb6ee31673fbfd5453f455f39299f9f1a494a4a719297e67d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-03 11:44:08"
         },
         {
             "id": 228,
@@ -29700,6 +29766,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-16 17:14:41"
+        },
+        {
+            "id": 3014,
+            "url": "https://youtu.be/gOLYmmXH90c?t=433",
+            "url_hash": "eef03d4cce4cd9d839fadf0ba6263bf769ec9f9032e1afa525e21fa78afbc148",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-02 23:40:34"
         },
         {
             "id": 2249,

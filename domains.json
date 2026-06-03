@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 297,
+    "num_of_entries": 299,
     "domains": [
         {
             "domain": "9cache.com",
@@ -42,6 +42,14 @@
             "last_update": "2025-12-06 12:10:09"
         },
         {
+            "domain": "alexymetals.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2026-06-03 07:59:31"
+        },
+        {
             "domain": "alibaba.com",
             "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
@@ -51,11 +59,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 126,
+            "times_seen": 127,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-05-30 09:01:50"
+            "last_update": "2026-06-01 09:29:03"
         },
         {
             "domain": "aliexpress.us",
@@ -435,11 +443,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 731,
+            "times_seen": 735,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-05-30 16:03:05"
+            "last_update": "2026-06-03 05:57:14"
         },
         {
             "domain": "discordapp.net",
@@ -451,11 +459,11 @@
         },
         {
             "domain": "dontasktoask.com",
-            "times_seen": 8,
+            "times_seen": 10,
             "scan_result": "[DATA REDACTED]",
             "typing": "Blog",
             "is_whitelisted": 1,
-            "last_update": "2026-04-24 05:23:24"
+            "last_update": "2026-06-02 06:09:08"
         },
         {
             "domain": "dumbermini.com",
@@ -691,11 +699,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 287,
+            "times_seen": 288,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-05-31 09:07:42"
+            "last_update": "2026-06-01 16:59:25"
         },
         {
             "domain": "fixvx.com",
@@ -1642,6 +1650,14 @@
             "last_update": "2025-10-17 10:29:54"
         },
         {
+            "domain": "pentalabs.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-06-03 10:31:49"
+        },
+        {
             "domain": "pimoroni.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1747,11 +1763,11 @@
         },
         {
             "domain": "reddit.com",
-            "times_seen": 45,
+            "times_seen": 46,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-05-21 14:22:58"
+            "last_update": "2026-05-31 15:26:18"
         },
         {
             "domain": "renesas.com",
@@ -1923,11 +1939,11 @@
         },
         {
             "domain": "spotify.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
-            "typing": null,
-            "is_whitelisted": 0,
-            "last_update": "2026-04-25 18:38:59"
+            "typing": "Entertainment",
+            "is_whitelisted": 1,
+            "last_update": "2026-05-31 15:09:45"
         },
         {
             "domain": "stackexchange.com",
@@ -1987,11 +2003,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 749,
+            "times_seen": 759,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-30 06:23:04"
+            "last_update": "2026-06-03 11:44:22"
         },
         {
             "domain": "tensorflow.org",
@@ -2027,11 +2043,11 @@
         },
         {
             "domain": "tiktok.com",
-            "times_seen": 17,
+            "times_seen": 18,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-03-17 04:48:41"
+            "last_update": "2026-06-03 02:11:34"
         },
         {
             "domain": "tinkercad.com",
@@ -2235,11 +2251,11 @@
         },
         {
             "domain": "vxtwitter.com",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-04-17 03:02:44"
+            "last_update": "2026-06-03 02:03:58"
         },
         {
             "domain": "w140.com",
@@ -2307,11 +2323,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 131,
+            "times_seen": 132,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-05-31 07:28:59"
+            "last_update": "2026-06-03 11:44:08"
         },
         {
             "domain": "xda-developers.com",
@@ -2347,19 +2363,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 159,
+            "times_seen": 161,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-29 07:16:34"
+            "last_update": "2026-06-02 23:40:34"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 243,
+            "times_seen": 245,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-05-31 02:45:19"
+            "last_update": "2026-06-02 05:43:05"
         },
         {
             "domain": "yxtwitter.com",

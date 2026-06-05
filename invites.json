@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 32,
+    "num_of_entries": 33,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$K9UXpkZzNoQO5O2RCOj9EQ$i/nOe/Mdom9asCl8rogKq42xtPcyoT1QxoSrMDM666o",
@@ -7,6 +7,13 @@
             "categorization": "Malicious",
             "resolution": "\ud83d\udc45 \ud835\uddd8\ud835\uddf4\ud835\uddf6\ud835\uddff\ud835\uddf9\ud835\ude00*******",
             "last_update": "2026-04-21 09:01:26"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$wu4ARePRpRAl5SHRrFW9dg$K0hlhiJqfZjn3684KinOXs+ELAuTBs6uI3ohQJIMNtM",
+            "times_seen": 1,
+            "categorization": "Harmless",
+            "resolution": "Liquid AI Com*************",
+            "last_update": "2026-06-04 21:28:40"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$7gHQJB+DQIFGl9Ku6a70dg$0Reme85y0ULMvWyAIIhqu5x39pKA8RhrRYVcDCFjPjY",

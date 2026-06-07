@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2943,
+    "num_of_entries": 2948,
     "links": [
         {
             "id": 1292,
@@ -1463,6 +1463,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-04 16:54:36"
+        },
+        {
+            "id": 3058,
+            "url": "https://circuitdigest.com/microcontroller-projects/interfacing-mpu6050-module-with-arduino",
+            "url_hash": "0c1952a3bf4cb20550dce3677095478d13e415f02884349af3bc1d157be97c7f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://circuitdigest.com/microcontroller-projects/interfacing-mpu6050-module-with-arduino",
+            "last_update": "2026-06-06 15:26:27"
         },
         {
             "id": 2785,
@@ -4433,6 +4444,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-13 09:29:10"
+        },
+        {
+            "id": 3059,
+            "url": "https://fixupx.com/P0Eproductions/status/2063386245615751588?s=20",
+            "url_hash": "238a4915ddb8607c2d5ad46d81cd8f36207aaeb6a3721a92c6070385d26a37f9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-07 02:16:37"
         },
         {
             "id": 1573,
@@ -15963,6 +15985,17 @@
             "last_update": "2026-05-11 21:39:44"
         },
         {
+            "id": 3061,
+            "url": "https://www.youtube.com/shorts/t4Ce6WYW9Bw",
+            "url_hash": "841c53aa9d58755b97b5c66117f6dd4a6c314bc4f02798f0fd7541b5c7613093",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-07 04:27:49"
+        },
+        {
             "id": 1164,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1443580728410505237/20251127_173253.mp4?ex=692996d2&is=69284552&hm=d6e1263995d73c1080802dba4bc60140052bf04c0494350a6ca12cd0225b99ca&",
             "url_hash": "843b49965651d4a4e6ff2ee389177f4774572a903b6d4a2f3184fa212e383e8a",
@@ -25456,6 +25489,17 @@
             "last_update": "2026-04-25 13:47:46"
         },
         {
+            "id": 3062,
+            "url": "https://a.aliexpress.com/_EujuwH0",
+            "url_hash": "cb8f146eb7e01d3b5c7653e5160a871f4c9ec5fccc0bc0c2acaaae2f30390f1e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-07 05:44:45"
+        },
+        {
             "id": 2463,
             "url": "https://tenor.com/view/baby-hippo-shower-cute-wash-gif-5744567428133534223",
             "url_hash": "cb924c71f5303973316eabf16cd2a2f384a7540ff39f208d891fccc88f03fe10",
@@ -28633,6 +28677,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-08 14:56:00"
+        },
+        {
+            "id": 3060,
+            "url": "https://tenor.com/view/plane-memes-meme-animals-brainrot-gif-4980906455793060286",
+            "url_hash": "e257755e0d2991c4ce4e45eb4d8a47290a7ad70d60ced75e86564ecc26c214c8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-07 02:16:49"
         },
         {
             "id": 1011,

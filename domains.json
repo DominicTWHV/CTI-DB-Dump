@@ -451,11 +451,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 752,
+            "times_seen": 756,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-06-07 16:14:13"
+            "last_update": "2026-06-09 14:44:03"
         },
         {
             "domain": "discordapp.net",
@@ -707,11 +707,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 292,
+            "times_seen": 293,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-06-07 02:16:37"
+            "last_update": "2026-06-09 14:11:35"
         },
         {
             "domain": "fixvx.com",
@@ -1227,11 +1227,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 91,
+            "times_seen": 92,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-06-07 14:40:06"
+            "last_update": "2026-06-10 07:41:16"
         },
         {
             "domain": "klipper3d.org",
@@ -2027,11 +2027,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 770,
+            "times_seen": 775,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-08 09:00:23"
+            "last_update": "2026-06-09 14:44:55"
         },
         {
             "domain": "tensorflow.org",
@@ -2347,11 +2347,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 134,
+            "times_seen": 136,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-06-05 23:16:37"
+            "last_update": "2026-06-09 13:44:16"
         },
         {
             "domain": "xda-developers.com",
@@ -2387,11 +2387,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 166,
+            "times_seen": 167,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-07 14:54:33"
+            "last_update": "2026-06-08 21:12:47"
         },
         {
             "domain": "youtube.com",

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2961,
+    "num_of_entries": 2975,
     "links": [
         {
             "id": 1292,
@@ -7438,6 +7438,17 @@
             "last_update": "2025-09-23 04:17:06"
         },
         {
+            "id": 3084,
+            "url": "https://fixupx.com/jonnygerow/status/2064303194721669284?s=20",
+            "url_hash": "3a414c426c829b8b82ba668e0351b02db0a385bb72a3c9c2d3f03266f992e0db",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 14:11:36"
+        },
+        {
             "id": 2020,
             "url": "https://tenor.com/view/brain-swag-theosw-brain-moving-gif-23012986",
             "url_hash": "3a5b8c828accf22b17863645aa64bdee9ab2200e6836f5497bb8d8106f9c7f96",
@@ -8879,6 +8890,17 @@
             "last_update": "2026-04-07 00:31:05"
         },
         {
+            "id": 3087,
+            "url": "https://tenor.com/view/ishowspeed-watches-watches-speed-gif-11188016245055018266",
+            "url_hash": "4657f2e3ed1f5f97b7bc72dba9f1b1cec3262966e83c078a097cf482471c5dbc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 14:14:51"
+        },
+        {
             "id": 2764,
             "url": "https://cdn.discordapp.com/attachments/306558535469367317/1400948350802595911/4_6010280154876613827.mp4?ex=69fbadd3&is=69fa5c53&hm=029f0e89e9d9647716ca08456044768972dcfedfe24dbe1fa9c32c5e05b72db0&",
             "url_hash": "465d5277c623cd1da2670f43bdf7140fa8baa9e259de5b56228e07235cc8a28a",
@@ -9724,6 +9746,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-27 12:04:09"
+        },
+        {
+            "id": 3086,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1513909002608709783/Voltage.mov?ex=6a297121&is=6a281fa1&hm=8dd9f73c8c0f4988a239242c73aa4e5d2c4295350e3459bb81b5b423709364e6&",
+            "url_hash": "4d20f43bc2f9c630cfa13be7ccb8bcda86b320f7425aaff9f37a3e2f17012dd6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 14:13:54"
         },
         {
             "id": 2222,
@@ -11002,6 +11035,17 @@
             "last_update": "2026-01-11 03:16:26"
         },
         {
+            "id": 3079,
+            "url": "https://x.com/cth_tyler/status/2063985868357152905?s=20",
+            "url_hash": "5873ec23dc50db7d3a0fb06ad645f79d0d7bcbbc00aa74080b23923f6e694c24",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-08 14:51:51"
+        },
+        {
             "id": 1688,
             "url": "https://tenor.com/view/gigachad-chad-gif-20773266",
             "url_hash": "589142f9e514d88c5822c4e1185d73e16ef9692b32f3c3608eb6080693ad4642",
@@ -11132,6 +11176,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-16 15:18:22"
+        },
+        {
+            "id": 3083,
+            "url": "https://tenor.com/view/ba-dum-tsss-drum-band-gif-7320811",
+            "url_hash": "5990aeff844edc1308965e0080ab78a33e87d51c1bd9090d1f57ff9b90dd07a5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 14:04:49"
         },
         {
             "id": 622,
@@ -11484,6 +11539,17 @@
             "is_redirect": 0,
             "downstream_target": "https://flipdots.com/en/products-services/control-units-for-7-segment-displays-and-xy5-boards/",
             "last_update": "2026-05-26 01:18:02"
+        },
+        {
+            "id": 3088,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1513915014577393856/Gay.mov?ex=6a2976ba&is=6a28253a&hm=41116a46318ec05721e34d28a5f8f5fc19c7a75a1e4f6678f8139b322a0a73f7&",
+            "url_hash": "5d4bf87fc02da34c0e692c027ff8d560d9bac8c4983fdc17f09cefb5dbbe5ce8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 14:37:47"
         },
         {
             "id": 2641,
@@ -12672,6 +12738,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.turbosquid.com/3d-models/golden-eagle-animated-1442542",
             "last_update": "2025-09-14 03:04:01"
+        },
+        {
+            "id": 3090,
+            "url": "https://tenor.com/view/sammyclassicsonicfan-thesammyclassicsonicfan-sammy-the-imperishable-sammy-zenith-scsfproductions-gif-333381107026803871",
+            "url_hash": "6783fd3359a22514d4a8bb0506975aeccaf1edaa09943c8a37c7b4ade4d7a1e3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 14:44:55"
         },
         {
             "id": 2447,
@@ -15587,6 +15664,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-16 18:26:58"
+        },
+        {
+            "id": 3080,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1513649037205835856/ScreenRecording_03-27-2026_04-23-00_1.mov?ex=6a287f04&is=6a272d84&hm=e432011c8e9c5031fd558cb892e1acc0a3d35830e018ba4c076c1c068b54aa35&",
+            "url_hash": "7fde9b29fb9194dceb0775b591c137196c434d612722e197e9180e8311dea0a7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-08 21:00:53"
         },
         {
             "id": 592,
@@ -20372,6 +20460,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/stockpiledclay/status/1999557792256905332?s=20",
             "last_update": "2025-12-13 11:07:46"
+        },
+        {
+            "id": 3078,
+            "url": "https://tenor.com/view/kermit-the-frog-mistakes-were-made-regret-gif-12023658",
+            "url_hash": "a3092de10155f605b916d28d72436b92a01a22177f959acf8346702381c4642a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-08 12:54:51"
         },
         {
             "id": 1766,
@@ -27315,6 +27414,17 @@
             "last_update": "2025-10-16 04:56:22"
         },
         {
+            "id": 3085,
+            "url": "https://tenor.com/view/gfy-go-fuck-yourself-gif-12366013",
+            "url_hash": "d5d22f468650d23b9aeb7ec70f55d927fa8eef275d1b12076743e3a33ffcb5e9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 14:12:18"
+        },
+        {
             "id": 23,
             "url": "https://en.wikipedia.org/wiki/Betavoltaic_device",
             "url_hash": "d5f34634a5e0a7a092fe42324bac2412de6bcfd536b93add7732c438b08c54ec",
@@ -27821,6 +27931,17 @@
             "last_update": "2025-09-30 20:19:28"
         },
         {
+            "id": 3081,
+            "url": "https://youtu.be/5Sty5upsadY?si=Yqozw6rAcNkmr2Ey",
+            "url_hash": "d9bf6e679854439279e82410bd0cc1a75471cb87e45e6f949a752786adc5c80d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-08 21:12:47"
+        },
+        {
             "id": 2699,
             "url": "https://tenor.com/view/your-mom-mother-mom-your-moms-a-hoe-hoe-gif-15868816",
             "url_hash": "d9da428a381d126cebc04cd2ff2a2316c89d835c9ea27518423b274531ea36c4",
@@ -27896,6 +28017,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.renesas.com/en/document/apn/cm-410-voltmeter-3-digit-7-segment-indicator?srsltid=AfmBOoqZb_BXsJKPrf1YXjahnfl1cmDnoawCMYfwIEKxWslbi2IRUZKI",
             "last_update": "2025-08-16 11:36:52"
+        },
+        {
+            "id": 3089,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1513916592340205768/ScreenRecording_06-04-2026_10-44-22_1.mov?ex=6a297832&is=6a2826b2&hm=b1616fdb0095ceb113ff825194858b470b74b6f07e825f0d3e5e637c6d164897&",
+            "url_hash": "da33ec591601eb0ebadf13c860946c46d428717021564d9c0aedc4a07ce8772d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 14:44:03"
         },
         {
             "id": 2931,
@@ -29647,6 +29779,17 @@
             "last_update": "2026-01-24 20:02:11"
         },
         {
+            "id": 3082,
+            "url": "https://x.com/thekitze/status/2064103511969919245?s=20",
+            "url_hash": "ea24220c409ceb13505b0370aaf6ec47a67f7f48f2d0221b83b4468954768b54",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-09 13:44:16"
+        },
+        {
             "id": 643,
             "url": "https://github.com/pdcook/nRFMicro-Arduino-Core",
             "url_hash": "ea523c4f0aa14253e7f051329f7277af37cabc7f5977d500c4134f2da28daf41",
@@ -30085,6 +30228,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/jj_talking/status/1994485042761089300",
             "last_update": "2025-11-30 01:02:52"
+        },
+        {
+            "id": 3091,
+            "url": "https://www.kkinstagram.com/reel/DZOgaueM-Xq/?igsh=YXMzMmJpa3lmYWQ4",
+            "url_hash": "ed56b8610897bb85393928b79375117897ef879d8b5544ec8455e06178464b4e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-10 07:41:16"
         },
         {
             "id": 2718,

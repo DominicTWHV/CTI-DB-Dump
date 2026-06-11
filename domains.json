@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 302,
+    "num_of_entries": 303,
     "domains": [
         {
             "domain": "9cache.com",
@@ -83,11 +83,11 @@
         },
         {
             "domain": "alldatasheet.com",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Information Provider",
             "is_whitelisted": 0,
-            "last_update": "2026-02-09 03:44:03"
+            "last_update": "2026-06-10 18:08:19"
         },
         {
             "domain": "amazon.ca",
@@ -451,11 +451,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 756,
+            "times_seen": 768,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-06-09 14:44:03"
+            "last_update": "2026-06-11 08:31:15"
         },
         {
             "domain": "discordapp.net",
@@ -1586,6 +1586,14 @@
             "last_update": "2025-11-10 19:59:26"
         },
         {
+            "domain": "omnicalculator.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-06-10 18:05:22"
+        },
+        {
             "domain": "onshape.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -2027,11 +2035,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 775,
+            "times_seen": 776,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-09 14:44:55"
+            "last_update": "2026-06-10 14:54:14"
         },
         {
             "domain": "tensorflow.org",
@@ -2395,11 +2403,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 246,
+            "times_seen": 247,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-07 04:27:49"
+            "last_update": "2026-06-10 15:12:44"
         },
         {
             "domain": "yxtwitter.com",

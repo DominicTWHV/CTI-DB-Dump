@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 303,
+    "num_of_entries": 304,
     "domains": [
         {
             "domain": "9cache.com",
@@ -768,6 +768,14 @@
             "typing": "Unknown",
             "is_whitelisted": 0,
             "last_update": "2026-04-04 23:12:25"
+        },
+        {
+            "domain": "freecad.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Knowledge",
+            "is_whitelisted": 0,
+            "last_update": "2026-06-12 04:52:42"
         },
         {
             "domain": "freedium.cfd",
@@ -2035,11 +2043,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 776,
+            "times_seen": 780,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-10 14:54:14"
+            "last_update": "2026-06-12 08:00:56"
         },
         {
             "domain": "tensorflow.org",

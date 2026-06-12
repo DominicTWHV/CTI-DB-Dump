@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2989,
+    "num_of_entries": 2992,
     "links": [
         {
             "id": 1292,
@@ -7966,6 +7966,17 @@
             "last_update": "2025-10-11 21:05:45"
         },
         {
+            "id": 3108,
+            "url": "https://tenor.com/view/meowl-owl-cat-owlcat-spring-excited-gif-9638611985122140704",
+            "url_hash": "3ea68ad963d24aa25fbd54b87ddebb8309c8315dafd360fafa54dec572c03396",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-11 11:20:35"
+        },
+        {
             "id": 2958,
             "url": "https://www.aliexpress.com/item/1005003472117545.html?spm=a2g0o.productlist.main.5.1934f189flZIp7&algo_pvid=bdd5efe6-d184-4089-82a9-d17dcf2fb9cd&algo_exp_id=bdd5efe6-d184-4089-82a9-d17dcf2fb9cd-4&pdp_ext_f=%7B%22order%22%3A%2211164%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21AUD%219.39%219.39%21%21%216.63%216.63%21%40210319b717797587632182721e518e%2112000025941403902%21sea%21AU%213005601947%21X%211%210%21n_tag%3A-29919%3Bd%3Accdb75c3%3Bm03_new_user%3A-29895&curPageLogUid=siRwEqNPkqUl&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003472117545%7C_p_origin_prod%3A",
             "url_hash": "3eb52addc8058a66a979b5451476531ce98c082cb76a274f45a678dcf8d578f7",
@@ -14470,12 +14481,12 @@
             "id": 3075,
             "url": "https://tenor.com/view/sono-bisque-doll-wa-koi-wo-suru-royalmale-anime-my-dress-up-darling-jump-gif-25253656",
             "url_hash": "742a1f78ce7f42a5908dbfd1401439eb20dcd710cc60d6f8c5637f014306fc1b",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-06-08 03:47:05"
+            "last_update": "2026-06-11 17:21:40"
         },
         {
             "id": 2476,
@@ -18942,6 +18953,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-04 14:00:26"
+        },
+        {
+            "id": 3109,
+            "url": "https://www.freecad.org/",
+            "url_hash": "9747ccd7fa905b61311de2420fcc2d7d27976c91563bf8924f9fc369153cfa3a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.freecad.org/",
+            "last_update": "2026-06-12 04:52:42"
         },
         {
             "id": 1006,
@@ -28844,6 +28866,17 @@
             "last_update": "2025-11-04 00:28:46"
         },
         {
+            "id": 3110,
+            "url": "https://tenor.com/view/ez-get-tf-out-cat-kratos-god-of-war-gif-4827313512397508571",
+            "url_hash": "dfec75a6dcfc2d91fe3873b6c3f857f5da444cc992411e41845251e65caebd88",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-12 08:00:56"
+        },
+        {
             "id": 1381,
             "url": "https://www.printables.com/model/305980-din-en-iso-527-2-typ-1b-tensile-test-zugprobe/files",
             "url_hash": "dffcbab31fe74ba58ddd9d735c4fdb4397b1a873c9cf98a15ea9df0b3ca4c55c",
@@ -31531,12 +31564,12 @@
             "id": 2843,
             "url": "https://tenor.com/view/spammer-gif-8416738828200890433",
             "url_hash": "f641d0bd9652833f99a5776c8d7c9b474dfb6d5963f9a78ae0413ae543b6a6dc",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-05-15 01:02:21"
+            "last_update": "2026-06-11 21:07:14"
         },
         {
             "id": 125,

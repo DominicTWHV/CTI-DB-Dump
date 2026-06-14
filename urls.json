@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 2996,
+    "num_of_entries": 3001,
     "links": [
         {
             "id": 1292,
@@ -3201,6 +3201,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 16:41:54"
+        },
+        {
+            "id": 3119,
+            "url": "https://tenor.com/view/china-kawaii-social-credit-yume-yume-kawaii-gif-11488185430108622776",
+            "url_hash": "19cdf4f7939662275c190c9ed7d376dcf11158a3a0050397f8cf9dc188abe77b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-14 02:56:14"
         },
         {
             "id": 1942,
@@ -10120,6 +10131,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/omu_sobaa/status/1987883982147735823?s=20",
             "last_update": "2025-11-11 05:55:42"
+        },
+        {
+            "id": 3117,
+            "url": "https://fixupx.com/shitpost_game/status/2065671758393364883?s=20",
+            "url_hash": "4f1fd0daea6dc69015658552ec8f32e701188bea5b9dc59ff2dd84371da20fbd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-14 00:21:59"
         },
         {
             "id": 3099,
@@ -18911,6 +18933,17 @@
             "last_update": "2026-04-16 14:17:10"
         },
         {
+            "id": 3115,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1515315726418837635/ScreenRecording_06-12-2026_22-41-09_1.mov?ex=6a2e8f3e&is=6a2d3dbe&hm=b029d1c8520f9f18dae3c0198db4b855735c50c5be4b035a905601844bc4e56d&",
+            "url_hash": "970201b341d2560ae9a08e727a24ac22e7748eb5ffde4413decac6ba95632011",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-13 11:23:43"
+        },
+        {
             "id": 1845,
             "url": "https://fixupx.com/i/status/2020863471550927243",
             "url_hash": "9707cff205a7da9c6fe90f7e57192781a2f62cde933c87c27d8d2e3f46605c34",
@@ -20306,6 +20339,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-12 11:52:58"
+        },
+        {
+            "id": 3118,
+            "url": "https://www.aliexpress.com/item/1005001510749744.html",
+            "url_hash": "a0753fd961c6cd821ec616743fb0be282bc2a4bc8b49bdd4aa6eae86b4757adc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-14 02:33:39"
         },
         {
             "id": 1828,
@@ -26367,6 +26411,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-13 16:50:03"
+        },
+        {
+            "id": 3116,
+            "url": "https://fixupx.com/gnshnor/status/2065538103255667151?s=20",
+            "url_hash": "cee1db1ae670d2c647154ecff61fe67782625bb89bc920eea1c8f272abee20e0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-13 11:57:50"
         },
         {
             "id": 505,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3001,
+    "num_of_entries": 3009,
     "links": [
         {
             "id": 1292,
@@ -1309,6 +1309,17 @@
             "is_redirect": 0,
             "downstream_target": "https://asana.com/resources/sunk-cost-fallacy",
             "last_update": "2025-09-22 12:38:01"
+        },
+        {
+            "id": 3127,
+            "url": "https://www.amazon.ca/dp/B0DT437CP4",
+            "url_hash": "0aec2385e92bed20b98646538c979326ff6b86f034b26ef4c273d62617076cbb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-15 02:56:39"
         },
         {
             "id": 1212,
@@ -2882,6 +2893,17 @@
             "is_redirect": 0,
             "downstream_target": "https://giphy.com/gifs/konosuba-zj0BxstyhGufC",
             "last_update": "2026-05-02 23:32:29"
+        },
+        {
+            "id": 3122,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1515688836057792623/ScreenRecording_05-30-2026_19-46-35_1.mov?ex=6a2feaba&is=6a2e993a&hm=86337688f680a6de56ab30b810eff299329da9c16adbf6f9120aed0eb44ad92c&",
+            "url_hash": "16e54a1f9582dd34851a03143d12cda55c8412bddd76d85647395969cf429fe5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-14 12:06:19"
         },
         {
             "id": 1678,
@@ -7634,6 +7656,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-06-07 22:40:19"
+        },
+        {
+            "id": 3120,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1515642107715653722/signal-2026-06-14-10-50-40-546.mp4?ex=6a2fbf35&is=6a2e6db5&hm=caa8b57690675b19d30aa5093be9859ef07cd382b344647b4bf5d9547df94372&",
+            "url_hash": "3b5507ceca191d11a050a79ffc5333111a757e48929094206e88e6af44a5c470",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-14 09:00:38"
         },
         {
             "id": 761,
@@ -16326,6 +16359,17 @@
             "last_update": "2026-06-07 04:27:49"
         },
         {
+            "id": 3121,
+            "url": "https://x.com/abhijitwt/status/2066002405913973177?s=20",
+            "url_hash": "842f32d38f6ecd54f477afccbfddd26ca5a8d08b48b7c88822d49a9e8637df74",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-14 11:51:54"
+        },
+        {
             "id": 1164,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1443580728410505237/20251127_173253.mp4?ex=692996d2&is=69284552&hm=d6e1263995d73c1080802dba4bc60140052bf04c0494350a6ca12cd0225b99ca&",
             "url_hash": "843b49965651d4a4e6ff2ee389177f4774572a903b6d4a2f3184fa212e383e8a",
@@ -20344,12 +20388,12 @@
             "id": 3118,
             "url": "https://www.aliexpress.com/item/1005001510749744.html",
             "url_hash": "a0753fd961c6cd821ec616743fb0be282bc2a4bc8b49bdd4aa6eae86b4757adc",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-06-14 02:33:39"
+            "last_update": "2026-06-15 02:39:38"
         },
         {
             "id": 1828,
@@ -22638,6 +22682,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-27 09:53:53"
+        },
+        {
+            "id": 3123,
+            "url": "https://www.youtube.com/watch?v=7xfU1MKQqcQ",
+            "url_hash": "b1864143503a1d932fad56c826d377ed2aa343938b14f214194a57be156d4dc8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-14 21:03:07"
         },
         {
             "id": 1548,
@@ -25852,6 +25907,17 @@
             "last_update": "2025-08-24 01:30:41"
         },
         {
+            "id": 3125,
+            "url": "https://cdn.discordapp.com/attachments/761264702797119528/1515907448945250354/InShot_20260615_031140821.mp4?ex=6a30b654&is=6a2f64d4&hm=6eee413e14245b2b774e7574ec425cd309a133a61cbb09acd65f09197a8005d2&",
+            "url_hash": "cb3b2468ea06a1ab6e576e31dc0454c8d9e8656c965a2d36b8f158223663337e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-15 02:35:00"
+        },
+        {
             "id": 2911,
             "url": "https://cdn.discordapp.com/attachments/1077231960381984889/1506824730332889129/OP1-Test___FPS__59_TPS__48_2026-05-21_03-02-08.mp4?ex=6a0fab63&is=6a0e59e3&hm=de04e95d42720c54728d8d4cba2bfb7da9413f8e67acf8b4fada91b4236344cc&",
             "url_hash": "cb4cfaa14cde027a5220da0ec05aea2865ab41c8d206a494d822a2f22f00a7fb",
@@ -27637,12 +27703,12 @@
             "id": 3085,
             "url": "https://tenor.com/view/gfy-go-fuck-yourself-gif-12366013",
             "url_hash": "d5d22f468650d23b9aeb7ec70f55d927fa8eef275d1b12076743e3a33ffcb5e9",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-06-09 14:12:18"
+            "last_update": "2026-06-14 12:03:50"
         },
         {
             "id": 23,
@@ -28556,6 +28622,17 @@
             "is_redirect": 1,
             "downstream_target": "https://imgur.com/",
             "last_update": "2025-11-10 04:49:33"
+        },
+        {
+            "id": 3126,
+            "url": "https://www.aliexpress.com/item/1005001510749744.html?spm=a2g0o.order_list.order_list_main.55.76d71802VKEURh",
+            "url_hash": "dcbb8557342102d791a81d21edbd742614d5eb53f37eeb475eda968c9aad3067",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-15 02:39:35"
         },
         {
             "id": 2444,
@@ -30789,6 +30866,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/carldemaio/status/1974156739181490548",
             "last_update": "2025-10-04 08:52:08"
+        },
+        {
+            "id": 3124,
+            "url": "https://www.kkinstagram.com/reel/DZftRLWMWkh/?igsh=MTI4dTJ0bms0bjF4MQ==",
+            "url_hash": "efbdb9b609b5f55881807a9ddc94e3f138a90df1155e301cd37fc6b37fae2c14",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-15 01:29:44"
         },
         {
             "id": 673,

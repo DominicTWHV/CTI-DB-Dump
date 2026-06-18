@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3025,
+    "num_of_entries": 3032,
     "links": [
         {
             "id": 1292,
@@ -968,6 +968,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-04 07:40:36"
+        },
+        {
+            "id": 3149,
+            "url": "https://cdn.discordapp.com/attachments/358752811657330700/1513420654752432308/go.mp4?ex=6a32df12&is=6a318d92&hm=f90bd3ef71932f97d66c1e6bcbe21e144fba1579a477e283a6c94884d879daea&",
+            "url_hash": "07c7fa0e4c0393a60b4adbffeb6306204fc4dd286f85a13a31579fa865bfdc08",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-17 22:30:44"
         },
         {
             "id": 2571,
@@ -2761,6 +2772,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/shorts/0ESEkNHLy_s",
             "last_update": "2025-08-16 07:36:33"
+        },
+        {
+            "id": 3150,
+            "url": "https://tenor.com/view/time-to-drink-tyrion-lannister-got-gif-14558986",
+            "url_hash": "15db8aebe33aea704064ace049ecec83cdb5982f763800db55e14ea12f436857",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-17 22:43:25"
         },
         {
             "id": 3144,
@@ -7559,6 +7581,17 @@
             "last_update": "2026-02-27 17:35:00"
         },
         {
+            "id": 3147,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1516859610122817616/Voltage.mov?ex=6a342d18&is=6a32db98&hm=132ea1673375af6a853c47448ec0a34dcfcb33ae626c89106c0e59c417ef9bb7&",
+            "url_hash": "39da7d66bac201e77700de578d530658385f6e9a069647ae9aa4d10e1558afcf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-17 17:38:33"
+        },
+        {
             "id": 3023,
             "url": "https://youtu.be/3KPYIaks1UY?si=31BZyCXu3808LqyO",
             "url_hash": "39e95c91fa5982fc59ce4234f29a7908b80093c8127ebabde76967ed7c6f23c4",
@@ -7766,6 +7799,17 @@
             "is_redirect": 0,
             "downstream_target": "https://cdn.discordapp.com/attachments/1074993070174638162/1405327725140377700/ScreenRecording_08-13-2025_19-08-49_1.mov?ex=689e6cef&is=689d1b6f&hm=f916b457bd2e86d4724c02543417d6cccc9eca65a5153ad5ea83653c5b028577&",
             "last_update": "2025-08-13 23:11:00"
+        },
+        {
+            "id": 3146,
+            "url": "https://a.aliexpress.com/_EwsFhj4",
+            "url_hash": "3bc298e7ded631d0186f7993946cdbac7aa5b2bad871ab0d7ae03046e8e60d13",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-17 15:36:18"
         },
         {
             "id": 1258,
@@ -20553,12 +20597,12 @@
             "id": 3130,
             "url": "https://youtu.be/YP-hdsrOYo8",
             "url_hash": "a102d0af13a2fdfe2da7d4a59f07faf1772bf05c7e196f50628effe69f194d2d",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-06-15 15:43:03"
+            "last_update": "2026-06-17 13:55:53"
         },
         {
             "id": 1929,
@@ -24827,6 +24871,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 18:19:03"
+        },
+        {
+            "id": 3145,
+            "url": "https://tenor.com/view/skeletor-jokes-on-you-im-into-that-he-man-gif-19093194",
+            "url_hash": "c1c5a9b36c57e9e66a6e13483396d26408c3bce33f647930d5ce90909e3b5fdf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-17 12:50:51"
         },
         {
             "id": 1738,
@@ -31330,6 +31385,17 @@
             "last_update": "2026-04-19 20:17:01"
         },
         {
+            "id": 3151,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1514792598152286248/SnapVideo.app_AQNSSXns9Kw6u0RR-pkbzxR8t5km7XLpbP6CKB3ToojtPzrZe84f8fxePdOAQ2zfE6_TYThpSiYmohRQE2vUrOlKrPE-PEaYPxjq8zs.mp4?ex=6a34910a&is=6a333f8a&hm=f8766cc394b44ec1f816cda9261051ccd62d73840b06551fd6d8bea63f926722&",
+            "url_hash": "f1c3df533a313a2afd134616dd970b4444443cc8b719fe68d79bbad5f4bf276d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-18 01:15:05"
+        },
+        {
             "id": 1044,
             "url": "https://x.com/Suffragent_/status/1989984788027986181",
             "url_hash": "f1d46a1563507f48b27ce51971b83df984b1073acc9e6c78257b14ccc8051f95",
@@ -31669,6 +31735,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-14 07:03:20"
+        },
+        {
+            "id": 3148,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1514946813835219056/RDT_20260612_121908.mp4?ex=6a33cf2a&is=6a327daa&hm=2b9b7ab03ffdb8cac2d0799df3a4f5c19cec5bb0525cc6891fb57af2e4054ab6&",
+            "url_hash": "f45b434d012454db7d1250bf9afee7467e7c75f83fca67573e6859663b93abf8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-17 22:30:33"
         },
         {
             "id": 86,

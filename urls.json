@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3032,
+    "num_of_entries": 3037,
     "links": [
         {
             "id": 1292,
@@ -2530,6 +2530,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/CrazyFuckingVideos/comments/1onppi5/crossway_blunder/?share_id=s2fXjk-B9mM37mACvJVpJ&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
             "last_update": "2025-11-04 04:39:47"
+        },
+        {
+            "id": 3156,
+            "url": "https://cdn.discordapp.com/attachments/1278480441309003860/1517110240422793286/DZpUJolC9ct.mp4?ex=6a351683&is=6a33c503&hm=cd6599bcc9779071e693335ae84cbbba85d76d0ca3a513215f3a41f64e94007c&",
+            "url_hash": "1394bc2257b006616b844d7a6b808d4dc0baeed895f953a451e8cb485d4f0d9d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-18 21:17:11"
         },
         {
             "id": 2086,
@@ -14060,6 +14071,17 @@
             "last_update": "2025-08-21 22:12:10"
         },
         {
+            "id": 3153,
+            "url": "https://cdn.discordapp.com/attachments/986022159631671307/1517208161348485382/20260618_212233.mp4?ex=6a3571b6&is=6a342036&hm=a806b40f3ab86185921fc5deb94704137832917213e3a016c09c28984b6cfa82&",
+            "url_hash": "6f0d51a9ef364448bdfa8cee3a8947bf513238c7d5fc6c264cf9cb252dacef8d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-18 16:43:35"
+        },
+        {
             "id": 1328,
             "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1448642881437962323/manul_life_could_be_dream_s0qc130R55Y.webm?ex=693c0151&is=693aafd1&hm=8153b1590e7d5f51d1e1bca617b331c9d97473f396e2901549b4cc58830e9f4e&",
             "url_hash": "6f1d0acd8370e309bcafb0a7b9649cb9408a078d8f61d3cf8321e39af8eb65df",
@@ -14322,6 +14344,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 08:19:13"
+        },
+        {
+            "id": 3155,
+            "url": "https://tenor.com/view/vhs-glitch-gif-25891045",
+            "url_hash": "7180a3b253937024bbcde25ea3d57e7184c55436e4cd2ae161c99e283eaf9a12",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-18 19:16:17"
         },
         {
             "id": 391,
@@ -14971,6 +15004,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-03 13:40:32"
+        },
+        {
+            "id": 3152,
+            "url": "https://tenor.com/view/yuimetal-gif-2236335851178412850",
+            "url_hash": "76ca9d2e751af44f6ec1f6e93a9fccd38470ef94e7c719df0cf4a20af8ee6920",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-18 15:11:03"
         },
         {
             "id": 3112,
@@ -17864,6 +17908,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.reddit.com/r/computers/comments/1ngc0z7/what_do_i_do/",
             "last_update": "2025-09-18 02:36:46"
+        },
+        {
+            "id": 3154,
+            "url": "https://cdn.discordapp.com/attachments/986022159631671307/1517208162086949006/20260618_212316_1.mp4?ex=6a3571b6&is=6a342036&hm=23bf909b952dc9936f7045da8462e973ade2896f78c171fedeae8accc4727d1c&",
+            "url_hash": "8d8cd5051e70a5cb36db82290e33b61a105a682e073a71667bb24b19bdc4bdcc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-06-18 16:43:35"
         },
         {
             "id": 2318,

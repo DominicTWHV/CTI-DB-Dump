@@ -1,6 +1,14 @@
 {
-    "num_of_entries": 306,
+    "num_of_entries": 307,
     "domains": [
+        {
+            "domain": "3dash.in",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-06-23 21:22:00"
+        },
         {
             "domain": "9cache.com",
             "times_seen": 1,
@@ -451,11 +459,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 802,
+            "times_seen": 806,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-06-23 07:24:32"
+            "last_update": "2026-06-23 23:18:49"
         },
         {
             "domain": "discordapp.net",
@@ -2051,11 +2059,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 805,
+            "times_seen": 808,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-23 10:11:11"
+            "last_update": "2026-06-24 10:00:47"
         },
         {
             "domain": "tensorflow.org",
@@ -2419,11 +2427,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 172,
+            "times_seen": 173,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-23 10:46:03"
+            "last_update": "2026-06-23 13:43:34"
         },
         {
             "domain": "youtube.com",

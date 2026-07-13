@@ -1,14 +1,6 @@
 {
-    "num_of_entries": 307,
+    "num_of_entries": 304,
     "domains": [
-        {
-            "domain": "3dash.in",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "typing": null,
-            "is_whitelisted": 0,
-            "last_update": "2026-06-23 21:22:00"
-        },
         {
             "domain": "9cache.com",
             "times_seen": 1,
@@ -67,11 +59,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 137,
+            "times_seen": 134,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-06-22 16:28:26"
+            "last_update": "2026-06-17 15:36:18"
         },
         {
             "domain": "aliexpress.us",
@@ -459,11 +451,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 806,
+            "times_seen": 796,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-06-23 23:18:49"
+            "last_update": "2026-06-22 01:14:43"
         },
         {
             "domain": "discordapp.net",
@@ -827,11 +819,11 @@
         },
         {
             "domain": "fxtwitter.com",
-            "times_seen": 8,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-06-23 02:39:18"
+            "last_update": "2026-05-02 14:38:36"
         },
         {
             "domain": "gadgetcity.com.au",
@@ -867,11 +859,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 57,
+            "times_seen": 54,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-06-23 09:41:19"
+            "last_update": "2026-05-29 07:57:48"
         },
         {
             "domain": "github.io",
@@ -883,11 +875,11 @@
         },
         {
             "domain": "githubassets.com",
-            "times_seen": 7,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 0,
-            "last_update": "2026-06-23 09:37:56"
+            "last_update": "2026-04-07 10:29:14"
         },
         {
             "domain": "githubusercontent.com",
@@ -952,14 +944,6 @@
             "typing": "Shopping",
             "is_whitelisted": 0,
             "last_update": "2026-01-07 06:48:31"
-        },
-        {
-            "domain": "graphwar.com",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "typing": "Gaming",
-            "is_whitelisted": 0,
-            "last_update": "2026-06-23 10:24:14"
         },
         {
             "domain": "gteek.com",
@@ -1251,11 +1235,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 97,
+            "times_seen": 94,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-06-23 08:46:53"
+            "last_update": "2026-06-15 01:29:44"
         },
         {
             "domain": "klipper3d.org",
@@ -2059,11 +2043,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 808,
+            "times_seen": 801,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-24 10:00:47"
+            "last_update": "2026-06-21 21:04:20"
         },
         {
             "domain": "tensorflow.org",
@@ -2120,14 +2104,6 @@
             "typing": "Shopping",
             "is_whitelisted": 0,
             "last_update": "2025-11-18 07:00:33"
-        },
-        {
-            "domain": "toffeeshare.com",
-            "times_seen": 1,
-            "scan_result": "[DATA REDACTED]",
-            "typing": "Internet Services",
-            "is_whitelisted": 0,
-            "last_update": "2026-06-23 09:21:03"
         },
         {
             "domain": "tomshardware.com",
@@ -2427,11 +2403,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 173,
+            "times_seen": 171,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-06-23 13:43:34"
+            "last_update": "2026-06-21 15:00:06"
         },
         {
             "domain": "youtube.com",

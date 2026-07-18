@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 308,
+    "num_of_entries": 309,
     "domains": [
         {
             "domain": "9cache.com",
@@ -160,6 +160,14 @@
             "typing": null,
             "is_whitelisted": 0,
             "last_update": "2025-12-06 12:08:39"
+        },
+        {
+            "domain": "analog.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Unknown",
+            "is_whitelisted": 1,
+            "last_update": "2026-07-18 06:46:46"
         },
         {
             "domain": "androidpolice.com",
@@ -459,11 +467,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 810,
+            "times_seen": 815,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-07-17 07:17:40"
+            "last_update": "2026-07-17 21:40:12"
         },
         {
             "domain": "discordapp.net",
@@ -1251,11 +1259,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 96,
+            "times_seen": 97,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-07-16 00:38:46"
+            "last_update": "2026-07-18 00:40:35"
         },
         {
             "domain": "klipper3d.org",
@@ -1267,11 +1275,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 8,
+            "times_seen": 10,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2026-07-16 17:12:13"
+            "last_update": "2026-07-17 21:02:57"
         },
         {
             "domain": "kmart.com.au",

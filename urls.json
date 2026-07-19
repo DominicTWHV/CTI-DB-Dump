@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3105,
+    "num_of_entries": 3112,
     "links": [
         {
             "id": 1292,
@@ -8582,6 +8582,17 @@
             "last_update": "2025-11-15 18:43:59"
         },
         {
+            "id": 3229,
+            "url": "https://a.aliexpress.com/_EJInuXy",
+            "url_hash": "40dace83a18e8ce644e013501cb158d1542ae25a5f19285d508dfddc28a79c84",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-18 18:38:34"
+        },
+        {
             "id": 677,
             "url": "https://x.com/libsoftiktok/status/1977176526274658332",
             "url_hash": "410a611dae8c0d7bde566aaaa30c83ce48ce8c41cad70aa99ad2dc72385927c4",
@@ -13026,6 +13037,17 @@
             "last_update": "2026-03-27 16:06:21"
         },
         {
+            "id": 3233,
+            "url": "https://karooza.net/how-to-interface-a-ps2-keyboard",
+            "url_hash": "6534615b33892dbf10754deaec81c878ede1bdc3e04da06544e9e5352e601d62",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://karooza.net/how-to-interface-a-ps2-keyboard",
+            "last_update": "2026-07-19 08:47:22"
+        },
+        {
             "id": 1273,
             "url": "https://www.mdpi.com/2073-4360/15/12/2585/",
             "url_hash": "65408e354762a73188e2f3cbe1637841e61575f859b9f1c649bbee05ff959ee8",
@@ -16447,6 +16469,17 @@
             "last_update": "2025-08-17 02:45:56"
         },
         {
+            "id": 3226,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1528004148128252004/VID_20260718_141321.mp4?ex=6a5cb841&is=6a5b66c1&hm=dd8fb020098011642aad97da4ef355d011e2cb06a975a5c152211a04e3f31e8d&",
+            "url_hash": "80e49e745344422375a309b712033644038e80bef92032aaf053c9f582b2606f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-18 11:42:58"
+        },
+        {
             "id": 2336,
             "url": "https://youtu.be/RGGHyY2mN7o?si=LKexcN-RbeSNklE5&t=699",
             "url_hash": "80f0046ef1b79348c15d066eb9d40f8fbc2a10d1b3cd48e99a649b35771e1766",
@@ -18612,6 +18645,17 @@
             "is_redirect": 1,
             "downstream_target": "https://m.youtube.com/watch?v=lbFKDNOYW3w",
             "last_update": "2025-08-16 02:01:32"
+        },
+        {
+            "id": 3231,
+            "url": "https://www.youtube.com/shorts/vp8t38UQC0s",
+            "url_hash": "8f5b17e5242a2a67da8451a227ed739ee13a3f3a037a8a367e55b111e1bdc69e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-19 04:35:26"
         },
         {
             "id": 1456,
@@ -23507,6 +23551,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-05 09:56:01"
+        },
+        {
+            "id": 3227,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1528082668754047058/VID20260718184638.mp4?ex=6a5d0162&is=6a5bafe2&hm=1e69856cfa7806bfe4d51c8296a69e113845d2cb3d7b4d87058d1f906d86d3b1&",
+            "url_hash": "b1de3532bed03eea71f40b8c50d6038e491390c6303082542af05b67e56b130a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-18 16:54:59"
         },
         {
             "id": 931,
@@ -31825,6 +31880,17 @@
             "last_update": "2026-04-08 18:15:57"
         },
         {
+            "id": 3232,
+            "url": "https://klipy.com/gifs/fugorg-fugorgian",
+            "url_hash": "ef98a1bb4b6fa8278b11103968ee1fd7c04f9f77454f736fdbb64e9850d13dd8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/fugorg-fugorgian",
+            "last_update": "2026-07-19 07:11:33"
+        },
+        {
             "id": 519,
             "url": "https://fixupx.com/carldemaio/status/1974156739181490548",
             "url_hash": "efb8e70ba5f61e7091fd565505c8d0396ab8696448e621d4d8344d7ce0460404",
@@ -33176,6 +33242,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/ShitpostGate/status/2014525996183982563?s=20",
             "last_update": "2026-01-23 12:27:20"
+        },
+        {
+            "id": 3230,
+            "url": "https://klipy.com/gifs/yippee-cat-kitty",
+            "url_hash": "f91dd14774d6255f0257f820d8121c621a3979456cf143c8d3ae356ea46e99b2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/yippee-cat-kitty",
+            "last_update": "2026-07-18 20:11:21"
         },
         {
             "id": 1736,

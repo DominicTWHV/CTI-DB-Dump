@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3112,
+    "num_of_entries": 3116,
     "links": [
         {
             "id": 1292,
@@ -4611,6 +4611,17 @@
             "last_update": "2026-01-14 23:40:27"
         },
         {
+            "id": 3237,
+            "url": "https://fixupx.com/BannedVids/status/2078857458400014729?s=20",
+            "url_hash": "23100d188e0865917a08ae90f95d9048384ff867f8ef7d91b8bccd8ae1ef5ce9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-20 04:37:47"
+        },
+        {
             "id": 663,
             "url": "https://tenor.com/view/megamind-gif-26070434",
             "url_hash": "23137869f04fd55cbd3462b7d5e17d3bba487793802b7b1caf9828b463185349",
@@ -8206,6 +8217,17 @@
             "is_redirect": 0,
             "downstream_target": "https://gitlab.com/ubports/porting/community-ports/android12/samsung-galaxy-a33-a53/samsung-exynos1280",
             "last_update": "2026-05-17 10:40:20"
+        },
+        {
+            "id": 3235,
+            "url": "https://a.aliexpress.com/_EuuPECI",
+            "url_hash": "3de89048609d61b903a528bdbe10161864b7ed803c1afbd279bc19139d6f7ca1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-19 14:18:56"
         },
         {
             "id": 2891,
@@ -13266,6 +13288,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-22 16:10:48"
+        },
+        {
+            "id": 3234,
+            "url": "https://github.com/joilg/x88pro",
+            "url_hash": "66d655cb22c9f7670577dd594e763a206b628fed6b600496f49dd98a1955f15e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-19 11:40:44"
         },
         {
             "id": 3035,
@@ -28963,6 +28996,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-01 10:44:58"
+        },
+        {
+            "id": 3236,
+            "url": "https://youtu.be/1k6PlKaNI-c",
+            "url_hash": "d842f0277d37339331301009c05141ac2748dc891a1501e8f996976bcc36c1de",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-19 14:57:18"
         },
         {
             "id": 1329,

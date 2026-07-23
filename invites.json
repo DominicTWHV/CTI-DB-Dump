@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 33,
+    "num_of_entries": 34,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$K9UXpkZzNoQO5O2RCOj9EQ$i/nOe/Mdom9asCl8rogKq42xtPcyoT1QxoSrMDM666o",
@@ -154,6 +154,13 @@
             "categorization": "Harmless",
             "resolution": "MINEC****",
             "last_update": "2026-01-18 16:30:24"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$+H6MUWypCvw5BjRnpwFoyA$V5mH+waL6njbr5ZCiVBV2k8hsk579aCiBOq7u8WETxI",
+            "times_seen": 1,
+            "categorization": "unknown",
+            "resolution": "Rastanar*******",
+            "last_update": "2026-07-22 20:18:46"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$+Do5itJSFCufYCHRDXquLA$81n4x0LYpsu0hx9JJYMpJ5FhBqXzj9A0avZKDrUCZ7w",

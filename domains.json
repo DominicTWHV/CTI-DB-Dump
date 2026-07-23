@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 313,
+    "num_of_entries": 317,
     "domains": [
         {
             "domain": "9cache.com",
@@ -16,6 +16,14 @@
             "typing": "Shopping",
             "is_whitelisted": 0,
             "last_update": "2026-01-08 14:59:10"
+        },
+        {
+            "domain": "abb.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-07-22 14:04:11"
         },
         {
             "domain": "adafruit.com",
@@ -483,11 +491,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 825,
+            "times_seen": 833,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-07-22 01:04:51"
+            "last_update": "2026-07-23 07:40:37"
         },
         {
             "domain": "discordapp.net",
@@ -504,6 +512,14 @@
             "typing": "Blog",
             "is_whitelisted": 1,
             "last_update": "2026-06-02 06:09:08"
+        },
+        {
+            "domain": "dreamittech.com.ng",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-07-22 19:18:12"
         },
         {
             "domain": "dumbermini.com",
@@ -891,11 +907,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 56,
+            "times_seen": 57,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-07-19 11:40:44"
+            "last_update": "2026-07-22 20:18:48"
         },
         {
             "domain": "github.io",
@@ -1906,6 +1922,14 @@
             "last_update": "2026-02-24 18:36:36"
         },
         {
+            "domain": "rockwellautomation.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-07-22 14:03:56"
+        },
+        {
             "domain": "ros.org",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -2128,6 +2152,14 @@
             "typing": "Education",
             "is_whitelisted": 1,
             "last_update": "2025-10-19 06:07:42"
+        },
+        {
+            "domain": "theage.com.au",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-07-22 12:15:59"
         },
         {
             "domain": "theverge.com",
@@ -2483,11 +2515,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 259,
+            "times_seen": 260,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-07-21 21:14:44"
+            "last_update": "2026-07-22 20:30:06"
         },
         {
             "domain": "yxtwitter.com",

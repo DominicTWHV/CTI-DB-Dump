@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3189,
+    "num_of_entries": 3192,
     "links": [
         {
             "id": 1292,
@@ -6583,12 +6583,12 @@
             "id": 1884,
             "url": "https://tenor.com/view/ahri-ahri-rise-ahri-mains-league-of-legends-gif-6205956779525896719",
             "url_hash": "31218f9f412e2267ad721f7de928d8a18992a39cb68a4d64951d6353381f7961",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-04-01 20:03:09"
+            "last_update": "2026-07-29 05:20:10"
         },
         {
             "id": 1031,
@@ -16907,6 +16907,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-26 15:59:32"
+        },
+        {
+            "id": 3328,
+            "url": "https://youtube.com/shorts/stcaVxdWYI8?si=ZniYxpN-lNcXxcja",
+            "url_hash": "80f218c572ad7871aeaf315f1fb72cbfe0d9559cc7cca57d00dda77b029026ea",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-28 19:02:52"
         },
         {
             "id": 2837,
@@ -33772,6 +33783,17 @@
             "last_update": "2026-05-16 13:15:29"
         },
         {
+            "id": 3329,
+            "url": "https://cdn.discordapp.com/attachments/835645409765621761/1530876899990175844/VID_20260726_055650_392.mp4?ex=6a6a7777&is=6a6925f7&hm=392e88ee10a99102af82b138bcfbb7fa4045875ca5f7ef06c49c6eebf1dde400&",
+            "url_hash": "f703a7b9c2c3003face3b35c45cb2d20f399308bb3128748031929590c5765c5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-29 01:32:16"
+        },
+        {
             "id": 507,
             "url": "https://www.youtube.com/shorts/GfgxG3rypGo",
             "url_hash": "f7041169f1e129b8e9497a36ad7bb35c281a83f7df8c962add5f23e00bc90e44",
@@ -34892,6 +34914,17 @@
             "is_redirect": 1,
             "downstream_target": "https://photos.google.com/share/AF1QipPE7xfoXZb1deiQkbKOU15OOxT1qC6gRBXxQowE-NgJFcoITwAlY7BWHmcafP7NWw?key=elRpUEQtUmJKQXFqcU5IaHZSMWRuNnh3UFhpcUhB",
             "last_update": "2025-11-25 05:06:07"
+        },
+        {
+            "id": 3330,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1530940333104566355/Engineer-highly-trained-with-many-skills-Roof-repair-tutorial.mp4?ex=6a6ab28a&is=6a69610a&hm=e76016036a283dbe634704ed3e87af61ac24964b63785ddd48b9c2c9b5fd4215&",
+            "url_hash": "feb6fa8f35512d1cbb2767533cbbf6935e58461b8c739d6525451e9cfb9eb555",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-07-29 02:56:51"
         },
         {
             "id": 1848,

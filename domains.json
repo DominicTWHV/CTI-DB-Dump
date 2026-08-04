@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 320,
+    "num_of_entries": 322,
     "domains": [
         {
             "domain": "9cache.com",
@@ -467,11 +467,11 @@
         },
         {
             "domain": "digikey.com",
-            "times_seen": 4,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-05-19 13:38:12"
+            "last_update": "2026-08-03 23:47:09"
         },
         {
             "domain": "digikey.com.au",
@@ -491,11 +491,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 869,
+            "times_seen": 870,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-08-03 10:14:16"
+            "last_update": "2026-08-03 23:05:04"
         },
         {
             "domain": "discordapp.net",
@@ -763,11 +763,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 307,
+            "times_seen": 309,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-08-01 22:45:55"
+            "last_update": "2026-08-04 03:34:06"
         },
         {
             "domain": "fixvx.com",
@@ -1323,11 +1323,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 41,
+            "times_seen": 43,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-08-03 08:40:55"
+            "last_update": "2026-08-03 21:05:31"
         },
         {
             "domain": "kmart.com.au",
@@ -1568,6 +1568,14 @@
             "typing": null,
             "is_whitelisted": 0,
             "last_update": "2026-01-16 04:32:49"
+        },
+        {
+            "domain": "modcase.com.au",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-08-03 19:51:43"
         },
         {
             "domain": "mouser.com",
@@ -2224,6 +2232,14 @@
             "typing": "Education",
             "is_whitelisted": 1,
             "last_update": "2025-10-09 04:20:27"
+        },
+        {
+            "domain": "tme.eu",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-08-03 18:33:32"
         },
         {
             "domain": "toby.co.uk",

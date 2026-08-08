@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3273,
+    "num_of_entries": 3280,
     "links": [
         {
             "id": 1292,
@@ -2092,6 +2092,17 @@
             "last_update": "2026-01-03 07:43:53"
         },
         {
+            "id": 3421,
+            "url": "https://cdn.discordapp.com/attachments/1160679483943174205/1535467931125678151/20260807_220013.mp4?ex=6a77df72&is=6a768df2&hm=03b06820606e54f46542e5d4bc1f752628007e91535e5e05670dbe87d314b9bd&",
+            "url_hash": "0f8ff6c6d90dc96289f237a8d33da1a0103ba1edaa4babab4a45b3d978b6614e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-08-08 02:01:23"
+        },
+        {
             "id": 820,
             "url": "https://tenor.com/view/death-stare-black-snake-moan-samuel-l-jackson-shocked-wide-eye-gif-7922961204564264622",
             "url_hash": "0f983671f988735579c6377707ff5a3bdfce8c331416950333bdfc4cb61b6edd",
@@ -2629,6 +2640,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-14 18:11:49"
+        },
+        {
+            "id": 3420,
+            "url": "https://cdn.discordapp.com/attachments/835645409765621761/1535316849594466374/RDT_20260807_112757.mp4?ex=6a7752bd&is=6a76013d&hm=17509e488e9bd3b063855dddd07fa958b3d1958c15fb05bb166cbe325bab3a4c&",
+            "url_hash": "12fd109fc7dcf764e560f925d68c8f203f3d542097a8ed39467b2ac437b98c7f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-08-07 21:58:05"
         },
         {
             "id": 3404,
@@ -3927,6 +3949,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-26 00:27:23"
+        },
+        {
+            "id": 3419,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1535354493695426712/ai_instructions.mp4?ex=6a7775cc&is=6a76244c&hm=3c4cda023ee9d9818485206fca8862c8137b5fdd0a269e380a31985ba34489ff&",
+            "url_hash": "1c19d65fca4a0d28b41e8129a218558592193fbaf70f1ae26ef5d21f367b7d43",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-08-07 18:30:37"
         },
         {
             "id": 729,
@@ -13332,6 +13365,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-25 14:51:17"
+        },
+        {
+            "id": 3417,
+            "url": "https://youtu.be/sOgKdzm6mK0?si=wvrkhuAr3hJjuH4e",
+            "url_hash": "613f87554d26df07d6dfe6ad4040cd7ee91fc46ede74641629cbae9dcf351b2b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-08-07 13:16:06"
         },
         {
             "id": 594,
@@ -26523,6 +26567,17 @@
             "last_update": "2026-02-20 12:50:40"
         },
         {
+            "id": 3418,
+            "url": "https://x.com/MemoryOffline/status/2085214283194061059?s=20",
+            "url_hash": "be5b05c2c35419e106e9d259ea9620dbcd2cc841e73e004d3a53899d3eeedd70",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-08-07 13:35:08"
+        },
+        {
             "id": 2238,
             "url": "https://x.com/PcPhilanthropy/status/2033497099317232025?s=20",
             "url_hash": "be61b748cd49455474f801f9c1898572f84f01276cddd503b462f7b7f5e237d5",
@@ -33288,6 +33343,17 @@
             "last_update": "2026-02-03 22:37:56"
         },
         {
+            "id": 3423,
+            "url": "https://x.com/shapoco/status/2085970884259692654?s=20",
+            "url_hash": "edada4766f4bdafc88e18936d7d8c7cdad4e9857fab1df529e15b34b10dda49b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-08-08 11:21:04"
+        },
+        {
             "id": 429,
             "url": "https://www.youtube.com/shorts/HnhGhl0DLHk",
             "url_hash": "edc2567b364f2d1dd88ba0f6cc4d51b983d00edc94e1d13b4d797cdcf59eeed2",
@@ -34210,6 +34276,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-06 14:46:55"
+        },
+        {
+            "id": 3422,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1535468977244082226/AQOP8UAvdntjVl3oGf9uIEtjyQZYbGn03szlUY_-JYQZ9DQTMaYPw4kf2muCTx9kGv2wgbseKNji8QEMYttX3lAAJXtbPJ3RIiOyY7sszqLZBg.mp4?ex=6a77e06b&is=6a768eeb&hm=6ba5a2097825b237c5342aac640d88f2356b0fac1ed913f1975cba64ea0b73b4&",
+            "url_hash": "f3ab0492d43e11839e7a7d44dd42e9a47f464c1c162db8b213469559b8777ef9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-08-08 02:05:32"
         },
         {
             "id": 100,

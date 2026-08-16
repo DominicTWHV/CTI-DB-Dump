@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3321,
+    "num_of_entries": 3322,
     "links": [
         {
             "id": 1292,
@@ -3140,12 +3140,12 @@
             "id": 959,
             "url": "https://spoo.me/AD8uLH",
             "url_hash": "16a6ed065c9eab9766878c9a810363308c7c237b9fb7356fcec3aa3ce0425a29",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Malicious",
             "is_redirect": 0,
             "downstream_target": "https://spoo.me/AD8uLH",
-            "last_update": "2025-11-11 04:58:13"
+            "last_update": "2026-08-15 19:37:56"
         },
         {
             "id": 1780,
@@ -35706,6 +35706,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.quora.com/What-is-the-difference-between-operation-at-ALT-and-CHOP-modes-of-the-CRO",
             "last_update": "2026-03-08 18:36:48"
+        },
+        {
+            "id": 3469,
+            "url": "https://youtu.be/VITeuc9cguY",
+            "url_hash": "fa77b0ea2ae2f8f4320712481caa37a14ce959772f6fd0451b2fee8f2e5709d8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-08-16 10:53:06"
         },
         {
             "id": 232,

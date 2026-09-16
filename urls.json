@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3557,
+    "num_of_entries": 3563,
     "links": [
         {
             "id": 3653,
@@ -20682,6 +20682,17 @@
             "last_update": "2026-05-10 10:07:29"
         },
         {
+            "id": 3800,
+            "url": "https://github.com/wgbowley/OpenLSM",
+            "url_hash": "8acdb2f37646b8c44fca9e2948f9d72dbf9d86a33ae72deebd8e7bf9732da751",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-15 11:30:48"
+        },
+        {
             "id": 2908,
             "url": "https://youtu.be/hNFAQzrjNEs?si=J_azrJ08tF23G2gW",
             "url_hash": "8ad8f8808de59ad9a393a474ae81db6fa3b8a179350d016047582a995c1ff0d8",
@@ -21472,6 +21483,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-04 17:46:52"
+        },
+        {
+            "id": 3803,
+            "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1549459141431525546/ScreenRecording_08-23-2026_15-47-20_1.mov?ex=6aaac5c6&is=6aa97446&hm=af210bb5362a19cd7db63786e651d74ebab70e679c7be6875b16e9585dadbc5f&",
+            "url_hash": "8f4dd76544590237297ed605da38cb6442665ec9021978ec3342da8c4a14018d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-15 16:37:27"
         },
         {
             "id": 66,
@@ -26235,6 +26257,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-28 12:59:08"
+        },
+        {
+            "id": 3805,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1549498475815768084/selfrelfection.mov?ex=6aaaea68&is=6aa998e8&hm=ca812234755f84acfaa526609801fd126e39188b6e299acc6779abbcad067679&",
+            "url_hash": "ad3f6ac28b63dc63478e78bda4df57f99459c90503bc3067d62bc399fb97a426",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-15 19:13:45"
         },
         {
             "id": 3403,
@@ -32177,6 +32210,17 @@
             "last_update": "2026-03-28 16:56:35"
         },
         {
+            "id": 3807,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1549583809568178296/SnapVideo.app_AQMJHRxKV-g8rM-ckdTNoPfXsBNqUhh0FHZ65TnttAHRK0g67bQ-WP5VSz6NS8GveDbqf63kTtFJRaTQAgVt0_HNeHOvXHzL9WM-Vz8.mp4?ex=6aab39e2&is=6aa9e862&hm=b19eac3388909c65c97e8e2499f44b5e9b75e2b475c861ce94975e4e29f94b25&",
+            "url_hash": "d3303590f76134638b7b46ec1aef95dc90c7fb298a993c9e395f748669fb3e18",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-16 01:10:00"
+        },
+        {
             "id": 1393,
             "url": "https://en.wikipedia.org/wiki/Germicidal_lamp",
             "url_hash": "d33715467d69d3eeb4d226a22f621779dfec0862eab4b5810c6e02c6a81e322c",
@@ -33495,6 +33539,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-08 11:17:14"
+        },
+        {
+            "id": 3802,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1549444951459233965/ScreenRecording_09-13-2026_14-34-39_1.mov?ex=6aaab88f&is=6aa9670f&hm=91df454da09ec25187bfbe5b7d4efda154cf9f47dea585985ab3fc4d59c151cd&",
+            "url_hash": "db1e4482ca315f318a9c56f313b56f00b07f56b019aa971ec934380e8f989ce1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-15 15:41:04"
         },
         {
             "id": 3034,
@@ -36344,6 +36399,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-28 14:12:49"
+        },
+        {
+            "id": 3806,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1549500006568820806/mad2.mov?ex=6aaaebd5&is=6aa99a55&hm=5f96d587c5eb1510d06b3989878b5b672bdd1c7a37bf81643cb5ac411d2260ff&",
+            "url_hash": "ef3bd5efa27032ff3ba69ff3a4f02c640f4cd7387947e4787dc23a268b4ebc35",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-15 19:19:51"
         },
         {
             "id": 3217,

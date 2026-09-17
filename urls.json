@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3563,
+    "num_of_entries": 3565,
     "links": [
         {
             "id": 3653,
@@ -11365,6 +11365,17 @@
             "last_update": "2026-04-17 18:53:27"
         },
         {
+            "id": 3808,
+            "url": "https://www.youtube.com/watch?v=kX_-MFbJp_g",
+            "url_hash": "49a4cf2a2005e2e55204551fd3552786ad16963a15a38a2aaa2ecde43757e157",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-16 06:23:35"
+        },
+        {
             "id": 3431,
             "url": "https://www.kkinstagram.com/reel/DbobRGEOKA7/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
             "url_hash": "49a50b61df5ab41463cdd2750f8ecc16ce929ca4a15a72c939ef37ca924312b2",
@@ -11440,6 +11451,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-28 22:20:12"
+        },
+        {
+            "id": 3810,
+            "url": "https://cdn.discordapp.com/attachments/835645409765621761/1549828548603412601/VID_20260916_123008_815.mp4?ex=6aac1dd0&is=6aaacc50&hm=eccb663cdae9c41f7ebbd6663929f4637195680e55ad691badd31f1e6deee2f1&",
+            "url_hash": "49f99c2e4c8b978e832ea5bd1e4ffa67ea0ed843c7cbdfb4e35e2d6eb1ecf5a7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-16 21:23:45"
         },
         {
             "id": 50,

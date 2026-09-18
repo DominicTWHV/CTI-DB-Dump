@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 341,
+    "num_of_entries": 342,
     "domains": [
         {
             "domain": "9cache.com",
@@ -515,11 +515,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1003,
+            "times_seen": 1009,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-09-14 23:54:48"
+            "last_update": "2026-09-16 21:23:45"
         },
         {
             "domain": "discordapp.net",
@@ -528,6 +528,14 @@
             "typing": "Chatting",
             "is_whitelisted": 1,
             "last_update": "2026-08-30 03:41:15"
+        },
+        {
+            "domain": "donald.cat",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Blog",
+            "is_whitelisted": 0,
+            "last_update": "2026-09-17 17:41:46"
         },
         {
             "domain": "dontasktoask.com",
@@ -939,11 +947,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 65,
+            "times_seen": 66,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-09-13 13:10:54"
+            "last_update": "2026-09-15 11:30:48"
         },
         {
             "domain": "github.io",
@@ -1379,11 +1387,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 136,
+            "times_seen": 143,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-09-14 16:50:28"
+            "last_update": "2026-09-17 22:55:43"
         },
         {
             "domain": "kmart.com.au",
@@ -1875,11 +1883,11 @@
         },
         {
             "domain": "pe-basics.com",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Education",
             "is_whitelisted": 0,
-            "last_update": "2026-02-20 09:29:47"
+            "last_update": "2026-09-17 01:48:33"
         },
         {
             "domain": "peb.rs",
@@ -2659,11 +2667,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 152,
+            "times_seen": 153,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-09-12 07:37:34"
+            "last_update": "2026-09-17 23:50:42"
         },
         {
             "domain": "xda-developers.com",
@@ -2707,11 +2715,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 294,
+            "times_seen": 295,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-09-14 13:26:55"
+            "last_update": "2026-09-16 06:23:35"
         },
         {
             "domain": "yxtwitter.com",

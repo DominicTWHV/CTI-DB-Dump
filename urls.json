@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3565,
+    "num_of_entries": 3571,
     "links": [
         {
             "id": 3653,
@@ -9660,6 +9660,17 @@
             "last_update": "2026-04-02 05:59:13"
         },
         {
+            "id": 3816,
+            "url": "https://klipy.com/gifs/deal-with-it-steve-jobs",
+            "url_hash": "3ec5137cfc262db798d42e5080de39089407f04133d52b86ec56e4e70f456040",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/deal-with-it-steve-jobs",
+            "last_update": "2026-09-17 22:56:11"
+        },
+        {
             "id": 974,
             "url": "https://fixupx.com/Dapper_Det/status/1988383295525253433",
             "url_hash": "3ef6b49c63d3a1e3357b3621d6ecc0653741ea67e228e1ad9bc0732dc6d4b38b",
@@ -10813,6 +10824,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/U5cIjhv",
             "last_update": "2026-02-24 03:41:24"
+        },
+        {
+            "id": 3815,
+            "url": "https://klipy.com/gifs/get-out-of-here-throw-1",
+            "url_hash": "4635ba07dd1b166bb7f06f3ccfbdc7343dce988cab4d4f8312a7c0a5f0d9254c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/get-out-of-here-throw-1",
+            "last_update": "2026-09-17 18:39:23"
         },
         {
             "id": 749,
@@ -18834,6 +18856,17 @@
             "last_update": "2025-12-03 00:05:22"
         },
         {
+            "id": 3813,
+            "url": "https://donald.cat/why-im-never-using-a-smartphone-again/",
+            "url_hash": "7f23b010897f58ac78752dbbc5125a9ac639399bd198d018d70a7ad8ea9cb172",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://donald.cat/why-im-never-using-a-smartphone-again/",
+            "last_update": "2026-09-17 17:41:46"
+        },
+        {
             "id": 671,
             "url": "https://capnkernel.github.io/chatgpt-is-almost-useful-for-whole-picture-coding.html",
             "url_hash": "7f2f3e6a36893ea1f1859cd581de3920c8ceabf241874044b559d53ef16e464e",
@@ -24147,6 +24180,17 @@
             "last_update": "2026-05-29 12:48:49"
         },
         {
+            "id": 3814,
+            "url": "https://klipy.com/gifs/zias-b-lou",
+            "url_hash": "9fd5853f0b8ffcc85b4d6af2a98a67cc30d3e4e74e34672e802d4da655245d9d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/zias-b-lou",
+            "last_update": "2026-09-17 18:23:32"
+        },
+        {
             "id": 2256,
             "url": "https://www.tiktok.com/@dailywire/video/7612360461752814862",
             "url_hash": "9fe020d66179ccd4ee5331fc1b20e1e125752c316b141762ced99a475c463d76",
@@ -24629,6 +24673,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-12 10:35:58"
+        },
+        {
+            "id": 3817,
+            "url": "https://x.com/harmlesshamCQ/status/2100670208939819238?s=20",
+            "url_hash": "a2bf3ba9a764bd450bd36c6107190849b7356f98b48c3e7dcafecfce1f1561ec",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-17 23:50:42"
         },
         {
             "id": 3068,
@@ -29788,6 +29843,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-05 17:56:47"
+        },
+        {
+            "id": 3812,
+            "url": "https://klipy.com/gifs/oh-thats-ai-spongebob",
+            "url_hash": "c4ef116a65f8c118d00eaa191337f3b0791e95d51e6ae8477f5c3c9ab0ea3a07",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/oh-thats-ai-spongebob",
+            "last_update": "2026-09-17 12:18:20"
         },
         {
             "id": 804,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3571,
+    "num_of_entries": 3580,
     "links": [
         {
             "id": 3653,
@@ -3984,6 +3984,17 @@
             "last_update": "2025-10-17 10:30:53"
         },
         {
+            "id": 3824,
+            "url": "https://tenor.com/view/anime-zero-two-smug-cute-chill-gif-13451416",
+            "url_hash": "1a7f34e5efddf09ca0526537ec99930fdc40246d811c809eebcdbef8a45c9dea",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-18 12:05:28"
+        },
+        {
             "id": 2625,
             "url": "https://www.youtube.com/watch?v=CGuP_cxuM1I",
             "url_hash": "1a816c7e8f87c3b3c6595b8fb2fff4e67c41ec79da9b7ddee63890640b4fbd4a",
@@ -6316,6 +6327,17 @@
             "last_update": "2026-07-27 20:31:26"
         },
         {
+            "id": 3830,
+            "url": "https://www.youtube.com/watch?v=9hCi17Qe0no",
+            "url_hash": "2a3c4604d4544952762f20b1c0adb23a76657874f19dc48bff660f8243d3c657",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-18 23:40:22"
+        },
+        {
             "id": 1379,
             "url": "https://tenor.com/view/fancy-man-the-nutcracker-nutcracker-suit-meme-lethal-company-gif-17916863546850547184",
             "url_hash": "2a5bcb72f2ff4cf5a849d8bb789e1cc7034e8e62772e01f078c6ec4263f073fc",
@@ -6666,6 +6688,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-05 13:51:10"
+        },
+        {
+            "id": 3828,
+            "url": "https://www.youtube.com/watch?v=2aw3MF8pY3w",
+            "url_hash": "2cf0514a0ec0d66897b478acee50b04ef4bb756b0f4c368794724eaa21294586",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-18 17:07:04"
         },
         {
             "id": 1686,
@@ -7172,6 +7205,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.tiktok.com/@marianamegyeri/video/7524394405692706079",
             "last_update": "2025-08-11 08:07:35"
+        },
+        {
+            "id": 3831,
+            "url": "https://www.youtube.com/watch?v=c3EEs-O3bGE",
+            "url_hash": "3048ab84c5c9998923be08f2cdeca04711a6fbe53c0a9e71e68135b439263efb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-18 23:41:23"
         },
         {
             "id": 3752,
@@ -12553,6 +12597,17 @@
             "last_update": "2026-05-29 23:04:25"
         },
         {
+            "id": 3829,
+            "url": "https://discord.com/channels/1074967630357725204/1114699489320644728/1550517258777010208",
+            "url_hash": "5235160de7ae9d478c4e637e81818a9fe7439d2eb1ad18c8322ef8b001e5eee6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-18 17:27:33"
+        },
+        {
             "id": 2546,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1492499435434020938/IMG_5532.mov?ex=69db8dea&is=69da3c6a&hm=f029c6c99ba3bd826dcf30528efc3fdea81b6be5dbea4109f693e198a583dfa2&",
             "url_hash": "524890bae3d75dc33832ef8c2543b01372d134c4acce684b5f930c524e68cddf",
@@ -15994,6 +16049,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-01 17:13:30"
+        },
+        {
+            "id": 3832,
+            "url": "https://klipy.com/gifs/short-fight",
+            "url_hash": "6b9577c2c15b01854a95c213d674ab142f242b3d79d91d9d74697a25b5f762f1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/short-fight",
+            "last_update": "2026-09-19 00:06:55"
         },
         {
             "id": 1564,
@@ -27590,6 +27656,17 @@
             "last_update": "2025-12-10 00:53:30"
         },
         {
+            "id": 3823,
+            "url": "https://tenor.com/view/no-i-dont-think-i-will-captain-america-old-capt-gif-17162888",
+            "url_hash": "b55640356d5d7538d89127201c0ec35f022cede1df033d9724cd414c5770807f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-18 12:02:54"
+        },
+        {
             "id": 3705,
             "url": "https://klipy.com/gifs/jail-no",
             "url_hash": "b567ceac7a2b9c77e427150d8d7643e5cac8cb3f7067a334823c86f86ebaf705",
@@ -28646,6 +28723,17 @@
             "last_update": "2026-05-14 20:16:09"
         },
         {
+            "id": 3822,
+            "url": "https://klipy.com/gifs/murica-17",
+            "url_hash": "bc73022ace810dedf615d71892dee4377d87acb45c6390357a19eb8c0fd68ab3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/murica-17",
+            "last_update": "2026-09-18 12:01:16"
+        },
+        {
             "id": 218,
             "url": "https://www.lcsc.com/search?q=mcp1640&s_z=n_mcp1640",
             "url_hash": "bcdd82e0b09d247d3ae9402be27577cf230ab5a3bb4d615a30fae74918949d95",
@@ -28952,6 +29040,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-12 11:14:00"
+        },
+        {
+            "id": 3826,
+            "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1550520688891396116/RPReplay_Final1724158030.mov?ex=6aaea26b&is=6aad50eb&hm=1c1df27470154bfd446a604a5e87e8d6222e66eccc87874bea05d00c2385ccd8&",
+            "url_hash": "be98df59865e4deea22b2f1b68b376609fef78ed31bdd40d1fea16dc069f6d6b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-18 14:55:40"
         },
         {
             "id": 1469,
@@ -35535,12 +35634,12 @@
             "id": 1655,
             "url": "https://tenor.com/view/zzz-zenless-zone-zero-zhao-zzz-zhao-zenless-zone-zero-zhao-gif-10407145312478275856",
             "url_hash": "e8e60b6f9807a8ac24e09f51f64c94a515592799b55be14bb96d03c6e219f874",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-06-21 08:44:13"
+            "last_update": "2026-09-18 11:54:51"
         },
         {
             "id": 1793,

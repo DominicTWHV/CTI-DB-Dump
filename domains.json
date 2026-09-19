@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 342,
+    "num_of_entries": 344,
     "domains": [
         {
             "domain": "9cache.com",
@@ -208,6 +208,14 @@
             "typing": "Shopping",
             "is_whitelisted": 1,
             "last_update": "2026-05-17 19:16:31"
+        },
+        {
+            "domain": "archive.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-09-18 12:22:28"
         },
         {
             "domain": "arduino.cc",
@@ -507,19 +515,19 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 50,
+            "times_seen": 51,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-09-05 01:16:40"
+            "last_update": "2026-09-18 17:27:33"
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1009,
+            "times_seen": 1010,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-09-16 21:23:45"
+            "last_update": "2026-09-18 14:55:40"
         },
         {
             "domain": "discordapp.net",
@@ -1387,11 +1395,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 143,
+            "times_seen": 148,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-09-17 22:55:43"
+            "last_update": "2026-09-19 00:05:14"
         },
         {
             "domain": "kmart.com.au",
@@ -1883,11 +1891,11 @@
         },
         {
             "domain": "pe-basics.com",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "typing": "Education",
             "is_whitelisted": 0,
-            "last_update": "2026-09-17 01:48:33"
+            "last_update": "2026-09-18 11:56:40"
         },
         {
             "domain": "peb.rs",
@@ -2307,11 +2315,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 841,
+            "times_seen": 844,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-09-14 14:36:09"
+            "last_update": "2026-09-18 12:05:28"
         },
         {
             "domain": "tensorflow.org",
@@ -2392,6 +2400,14 @@
             "typing": null,
             "is_whitelisted": 0,
             "last_update": "2026-08-03 18:33:32"
+        },
+        {
+            "domain": "tmog.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-09-18 17:06:53"
         },
         {
             "domain": "toby.co.uk",
@@ -2715,11 +2731,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 295,
+            "times_seen": 298,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-09-16 06:23:35"
+            "last_update": "2026-09-18 23:41:23"
         },
         {
             "domain": "yxtwitter.com",

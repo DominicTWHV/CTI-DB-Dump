@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3599,
+    "num_of_entries": 3608,
     "links": [
         {
             "id": 3653,
@@ -1155,6 +1155,17 @@
             "is_redirect": 0,
             "downstream_target": "https://icubesmart.com/products/icubesmart-3d16rgb-led-cube-kit-full-color-16x16x16rgb-cube-diy-electronic-kits",
             "last_update": "2025-10-08 02:40:37"
+        },
+        {
+            "id": 3858,
+            "url": "https://cdn.discordapp.com/attachments/1200785349669048390/1431699848599699557/nom.gif",
+            "url_hash": "081bb0c89b3818df3d3a869a5fed5617265d54bc4301aeb1bcf2b349bb1a20fc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-21 16:51:14"
         },
         {
             "id": 2570,
@@ -5755,6 +5766,17 @@
             "last_update": "2026-09-12 03:24:05"
         },
         {
+            "id": 3856,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1551583383937884350/ScreenRecording_08-23-2026_15-47-20_1.mov?ex=6ab28021&is=6ab12ea1&hm=d4aeafd80b43854270eff9e4c2c7d0b0bd7bbc8eef680c8d978294b4b03d42d8&",
+            "url_hash": "2609205ec2ed31f791a577f2bc7049f900895cdfba5d9827d47c5add343fa717",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-21 13:18:26"
+        },
+        {
             "id": 2982,
             "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1510200441974165565/YouCut_20260530_102803086.mp4?ex=6a1bf343&is=6a1aa1c3&hm=36be850270cc458df2f05c0f3bbf7ea3457f56f846b62e2b7fe671836bb8343c&",
             "url_hash": "26122f5af4d13e6b2eb57778e4a7ad9eb84128e4ea47a6abfe1182f06fd11fc5",
@@ -5808,6 +5830,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-07 15:03:10"
+        },
+        {
+            "id": 3860,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1551641915991269488/RDT_20260921_134552.mp4?ex=6ab2b6a4&is=6ab16524&hm=4ffefdcd7f98b14cef01c347b4de42ec4884788a7716b165b2c9088ae8500bcf&",
+            "url_hash": "2686101746c37af51fb3f075166bbb0c237235f8144af0a14cd271f06c9e4c6b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-21 17:11:02"
         },
         {
             "id": 520,
@@ -15303,6 +15336,17 @@
             "last_update": "2025-09-11 15:16:12"
         },
         {
+            "id": 3857,
+            "url": "https://www.youtube.com/watch?v=AjIOUWbSEio",
+            "url_hash": "65705eb6a74223286bc7c4a3d866d6d8dbe0b70c74a1b09c17c8e079aa812139",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-21 15:33:58"
+        },
+        {
             "id": 296,
             "url": "https://tenor.com/view/dark-souls-praise-gif-25000256",
             "url_hash": "65751a36b0947b5821fd9f04814d6dd1d2d92b59174c64010090bf392c929721",
@@ -17864,6 +17908,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-01 20:34:15"
+        },
+        {
+            "id": 3859,
+            "url": "https://klipy.com/gifs/lebron-point-orbital-laser",
+            "url_hash": "769be1ffa268c59b8c17f1d4302f1775335946119dc0e7913880b87df80b7f05",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/lebron-point-orbital-laser",
+            "last_update": "2026-09-21 17:12:08"
         },
         {
             "id": 2422,
@@ -24059,6 +24114,17 @@
             "last_update": "2025-11-23 13:33:54"
         },
         {
+            "id": 3861,
+            "url": "https://klipy.com/gifs/star-wars-death-star-3",
+            "url_hash": "9d35abee125cb23137a3bd038014e69ce8e1866d87cf75489a887b94423e36ff",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/star-wars-death-star-3",
+            "last_update": "2026-09-21 17:28:45"
+        },
+        {
             "id": 2506,
             "url": "https://fixupx.com/brainrotpostig/status/2041147486983598583?s=20",
             "url_hash": "9d430166a41d03d90a53dc47459a3381a945b4ad7792b07266da6d41e4b81871",
@@ -24337,12 +24403,12 @@
             "id": 3541,
             "url": "https://klipy.com/gifs/bane-no",
             "url_hash": "9fa8d9e5e964f9789fd793d66f96c70ab1e7dfe6416827fdd3d4c2f5206103da",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/bane-no",
-            "last_update": "2026-08-24 13:17:18"
+            "last_update": "2026-09-21 18:29:15"
         },
         {
             "id": 2975,
@@ -25962,6 +26028,17 @@
             "last_update": "2025-11-12 07:27:47"
         },
         {
+            "id": 3862,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1551653507352891533/IMG_2787.mov?ex=6ab2c170&is=6ab16ff0&hm=25f3dcdcbe34e85473d64e88f806486ec133f2c6cc3c16851160d64cf60030d8&",
+            "url_hash": "aa0f647a70004ca8d21a55bfed9dbb2e1adb5e1e97f3e5c3bdf55462b2e02a90",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-21 17:57:06"
+        },
+        {
             "id": 158,
             "url": "https://www.youtube.com/shorts/NkPPum6_kGo",
             "url_hash": "aa525211073d464f793838807719519458af1729b6d5c687d877b9c21982e526",
@@ -27324,6 +27401,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-11 16:21:13"
+        },
+        {
+            "id": 3863,
+            "url": "https://cdn.discordapp.com/attachments/333182463885049856/1550955940449230998/SnapInsta.to_AQNhsNcJyQgAB3xhxDmSn1jgdZEKNglYxrhuOo86qcXADDUMa3ntZ2U-Uj3L9A2sfkf9nmBEmXJoQXDox-eSsMSiaB8cfit9Kmct9Y4.mov?ex=6ab2dac7&is=6ab18947&hm=de2d6930339af96fa046a8a4487c4b9ea60ef9aa1ef2fe4d15d08b278d7679a1&",
+            "url_hash": "b258c2ad337ec53ea0a7d7709e5cac1ee96011a93ddc5511dc5cbfefb2d9aa7d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-21 22:07:35"
         },
         {
             "id": 503,
@@ -36190,6 +36278,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-10 17:56:39"
+        },
+        {
+            "id": 3855,
+            "url": "https://youtu.be/Gs069dndIYk?si=AqHil6L3QjRfoQbJ",
+            "url_hash": "eb572f287f8e3ff84ecbcc97139e855fffab1984aa75c17daf899a53112f0aad",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-21 13:18:10"
         },
         {
             "id": 1188,

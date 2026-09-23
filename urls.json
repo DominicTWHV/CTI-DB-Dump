@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3608,
+    "num_of_entries": 3614,
     "links": [
         {
             "id": 3653,
@@ -16832,6 +16832,17 @@
             "last_update": "2026-03-17 04:13:26"
         },
         {
+            "id": 3865,
+            "url": "https://youtube.com/shorts/AfBgZhg8zNM",
+            "url_hash": "6f2896d622213f06e5a690edc8a3c5b0305a8aef6cd0de93d406de7378ebd90a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-22 08:52:14"
+        },
+        {
             "id": 3006,
             "url": "https://tenor.com/view/ersatz-ascetic-cat-clownsaint-greaver-gif-13760823601977580459",
             "url_hash": "6f3e24a9a87aa126f0ef02ef42299b487abf133695d1af25f88324110f8a4a9e",
@@ -26853,6 +26864,17 @@
             "last_update": "2026-03-08 15:00:06"
         },
         {
+            "id": 3872,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1550861601257824357/anotherDBClassic.mp4?ex=6ab282eb&is=6ab1316b&hm=615bdc56b5d0915658e93f9d3a746e180ef82383ab7fbc74380099d1cea4c2ad&",
+            "url_hash": "af375855b66579956f3862e402fafbcf2e04628e3955799af587bf377ea0d950",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-22 21:27:43"
+        },
+        {
             "id": 3394,
             "url": "https://fixupx.com/DailyDarkWeb/status/2084271309102485602?s=20",
             "url_hash": "af382b87aae60f4c0898d4c9c97ce69ab6164cb300044883865d4b70a339052b",
@@ -28096,6 +28118,17 @@
             "last_update": "2025-10-05 12:49:54"
         },
         {
+            "id": 3868,
+            "url": "https://www.instagram.com/reel/Ddk2aY3um6i/?stkn=eWNzYWZscGc4d2gw",
+            "url_hash": "b77be043b2069aa759503f4af871b03307e680ccb17b930efc359d044b9a2cde",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-22 14:31:15"
+        },
+        {
             "id": 2971,
             "url": "https://x.com/reraku/status/2059814284109164564/photo/1",
             "url_hash": "b7bcbf5569293321f97098e396650880dc1197d481fe770daad198692ef1b125",
@@ -29315,6 +29348,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-07-23 13:23:25"
+        },
+        {
+            "id": 3864,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1551854998277722132/RDT_20260922_084900.mp4?ex=6ab37d17&is=6ab22b97&hm=d6be4b69c95af3b0657a94a234515f0386f704102bedb48a36cf7808bd7c42d2&",
+            "url_hash": "bf089e6bf9207864485cd7f8983c1d3342792ba01b9b92a0ef20cf1e4ccaead6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-22 07:17:44"
         },
         {
             "id": 2329,
@@ -33970,6 +34014,17 @@
             "last_update": "2025-11-26 20:23:22"
         },
         {
+            "id": 3867,
+            "url": "https://cdn.discordapp.com/attachments/1551952851633307708/1551952852149215312/vvs85hh7hzbxvxpf3h40rvpsp17kfj9z1ppkdm4h5wh58jjb6k81n6r8k5d30mqstmh9676vqxx0j3k9r92spsmbnvjmqr8dvpnxvkpvx48sn1tkmz6vftzqzqq0hv4wdx4vmvqtzqdrvj84z6d3m321t12ppzqhm9vk4wv3mvpx9r2817tnd0p9zsx53j9ftb208p9n.mp4?ex=6ab3d839&is=6ab286b9&hm=ca932a6a92a26858800cce69c2aadf5b7fa10c1875fc6515ec5a9de8ebb2783d&",
+            "url_hash": "dace95e2998263430d55c8c893ec1f962ab8e70782a1392ab362aa121600feb2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-22 13:46:34"
+        },
+        {
             "id": 485,
             "url": "https://fixupx.com/poibotta/status/1971452986032521256",
             "url_hash": "dad3aea231a689ab9a6d786810bff059739c74f11e6b7d9135a9e8bdb861e23a",
@@ -38621,6 +38676,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-05 15:02:35"
+        },
+        {
+            "id": 3871,
+            "url": "https://www.youtube.com/watch?v=ztL2LKBDjcs",
+            "url_hash": "f9ce79d3e4b86e71942ea9db132147819da1a903f2b182c90c0c738671be3d0f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-22 20:04:36"
         },
         {
             "id": 2046,

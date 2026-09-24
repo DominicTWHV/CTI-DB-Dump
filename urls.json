@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3614,
+    "num_of_entries": 3618,
     "links": [
         {
             "id": 3653,
@@ -5502,6 +5502,17 @@
             "last_update": "2025-10-08 16:54:42"
         },
         {
+            "id": 3874,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1552405078944653493/VID_20260923_060634_673.mp4?ex=6ab57d65&is=6ab42be5&hm=a518ce40f9d84e97bb33098f09af4735351bb219fbad57a24fae50a91750ad12&",
+            "url_hash": "23e778483c9e26f36472abb008c1a8aa4e4d6c265c0d3e8f2eba2f207d070308",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-23 22:24:03"
+        },
+        {
             "id": 1463,
             "url": "https://tenor.com/view/tv-simpsons-cloud-fist-grandpa-gif-12082744756246344299",
             "url_hash": "23ef3d4998bd861fdfdbd43e34c41084933d89cbba4d43502e3651d30522f1fa",
@@ -10340,6 +10351,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-22 11:39:26"
+        },
+        {
+            "id": 3873,
+            "url": "https://fixupx.com/AWeirdPhysicist/status/2102401143154368840?s=20",
+            "url_hash": "4280cc8d56db609b070996cf5914d78a544dc180eaceea33eb93d9622710b95b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-23 15:13:47"
         },
         {
             "id": 401,
@@ -24312,6 +24334,17 @@
             "last_update": "2026-05-25 12:29:39"
         },
         {
+            "id": 3875,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1552448245412794398/ScreenRecording_09-13-2026_14-34-39_1.mov?ex=6ab5a598&is=6ab45418&hm=b74bf3f46b10e24d5f06b10221a2aa3dd35e344d37e53be1945f72f3c5644b21&",
+            "url_hash": "9ee2f6fc961a851166afe9634bb2281de0863b8a7817df92d7c468994a02d5bd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-23 22:35:05"
+        },
+        {
             "id": 2499,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1490842675459522620/It_woke_me_up_from_my_sleep_and_i_dont_like_it.mov?ex=69d586f0&is=69d43570&hm=e840ff916afb1aebd96e8c0f0d17cf6635d28720e7ac1d894e17c95e7b3b4c85&",
             "url_hash": "9efaccebe6a3b290bd825f50dff8e6c50a9c90a90d2b09b63b0ff42c2c2addee",
@@ -28248,6 +28281,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-31 08:57:15"
+        },
+        {
+            "id": 3876,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1552515362493308948/moth.mp4?ex=6ab5e41a&is=6ab4929a&hm=ddd88c5447e2d4e0fa84e0cc7552dc9a41ef426a30b18b703df3c7e790039359&",
+            "url_hash": "b860672d33b0269ddb76e790632b1832a48dda04c3620dbc91b0f8b8e1a1e2d3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-24 03:03:33"
         },
         {
             "id": 2390,

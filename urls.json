@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3628,
+    "num_of_entries": 3631,
     "links": [
         {
             "id": 3653,
@@ -9218,6 +9218,17 @@
             "is_redirect": 0,
             "downstream_target": "https://top500.org/lists/top500/2025/06/",
             "last_update": "2025-10-01 06:06:57"
+        },
+        {
+            "id": 3891,
+            "url": "https://klipy.com/gifs/catjam-disco",
+            "url_hash": "3b094aec6568e6c6288d7a77f67c57b834e44b13973c5c4cb17a39c4b9766648",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/catjam-disco",
+            "last_update": "2026-09-25 13:33:07"
         },
         {
             "id": 150,
@@ -27359,6 +27370,17 @@
             "last_update": "2025-09-21 14:52:21"
         },
         {
+            "id": 3894,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1553215434281451571/RPReplay_Final1716812412.mov?ex=6ab87018&is=6ab71e98&hm=05ac3c402d293e8b7c1b9ee187e2e50c1b584d8a71307e6c04f4b5f42dfd02e3&",
+            "url_hash": "b14876a630a19ecfcfe14c54e7347689670bea447eff55695ad9630b962cf2cf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-26 01:23:37"
+        },
+        {
             "id": 1219,
             "url": "https://discord.com/channels/986011010295025754/1213279926296387624",
             "url_hash": "b172109cca57581195ed7786781765584e16f0bea254092bd944f872086954b1",
@@ -30343,12 +30365,12 @@
             "id": 3812,
             "url": "https://klipy.com/gifs/oh-thats-ai-spongebob",
             "url_hash": "c4ef116a65f8c118d00eaa191337f3b0791e95d51e6ae8477f5c3c9ab0ea3a07",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/oh-thats-ai-spongebob",
-            "last_update": "2026-09-17 12:18:20"
+            "last_update": "2026-09-26 01:20:26"
         },
         {
             "id": 804,
@@ -34386,6 +34408,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/libsoftiktok/status/2031762774901031019",
             "last_update": "2026-03-11 17:15:08"
+        },
+        {
+            "id": 3892,
+            "url": "https://www.youtube.com/watch?v=y-j40p3TKt4",
+            "url_hash": "dbfb28603f59c9912c11753d37f8ea39e29b3a62a0324dedf6d0f6f2d503256d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-25 14:35:39"
         },
         {
             "id": 610,

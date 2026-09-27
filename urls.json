@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3631,
+    "num_of_entries": 3638,
     "links": [
         {
             "id": 3653,
@@ -2574,6 +2574,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/funny-4289",
             "last_update": "2026-07-26 13:57:59"
+        },
+        {
+            "id": 3895,
+            "url": "https://klipy.com/gifs/mr-beast-discord",
+            "url_hash": "112990680febbef7b125ff457d5ff0465c51191dd3bc140a3b64010c4a89c2ea",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/mr-beast-discord",
+            "last_update": "2026-09-26 13:59:21"
         },
         {
             "id": 1325,
@@ -10100,6 +10111,17 @@
             "last_update": "2026-01-30 08:12:21"
         },
         {
+            "id": 3898,
+            "url": "https://klipy.com/gifs/ishowspeed-my-mom-is-kinda-homeless-2",
+            "url_hash": "4031efd80e64d7a520f19643aa4a245f551535fc28e7e60ed2279df46fc9e3d3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/ishowspeed-my-mom-is-kinda-homeless-2",
+            "last_update": "2026-09-26 18:08:26"
+        },
+        {
             "id": 1957,
             "url": "https://a.aliexpress.com/_EvgyjZW",
             "url_hash": "40643b0c6a991ffcbe906d01f375f4eafef385c98b96ae5a13a60af861f16b92",
@@ -11473,6 +11495,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-29 15:10:32"
+        },
+        {
+            "id": 3897,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1553413721534111864/ScreenRecording_01-01-2026_08-31-10_1.mov?ex=6ab928c4&is=6ab7d744&hm=21d5671295201c60ad7939ed5073403f063122031a34d0d63aa11c995048d8b5&",
+            "url_hash": "48da5c8a4a65d05c9362656488494b1e83308fd37c3c99cf5ffa39c4e70a1c0a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-26 14:31:32"
         },
         {
             "id": 623,
@@ -18183,6 +18216,17 @@
             "is_redirect": 0,
             "downstream_target": "https://yxtwitter.com",
             "last_update": "2025-10-26 21:44:35"
+        },
+        {
+            "id": 3899,
+            "url": "https://youtube.com/shorts/fNSHNXCeir8?si=jadwpertZWyGlOpD",
+            "url_hash": "77e947e9af0e6f23d72d3afa6aea46042f00cb7b3d14c3adf6acb79487675946",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-26 20:37:29"
         },
         {
             "id": 3604,
@@ -35092,6 +35136,17 @@
             "last_update": "2025-08-17 03:08:54"
         },
         {
+            "id": 3901,
+            "url": "https://www.instagram.com/reel/Ddv3ynCIN_d/?stkn=MTl0d2VxcG50c3o3cA==",
+            "url_hash": "e08c3e6cb157f291339fc424573798fc487a93cd0609e784bb97d94b585e372d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-27 02:05:03"
+        },
+        {
             "id": 121,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1407440070738186350/20250819_2159241.mp4?ex=68a61c35&is=68a4cab5&hm=b6ce59d717f18c3c630b2aa363f53ca28e056d340bf5cefeae4870a01c69b7a4&",
             "url_hash": "e0982030a7b1a09e5a3ba0d05c62b083b72bd9bc96b7d8ffd1df1ef9cc401279",
@@ -35838,6 +35893,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-06-04 20:15:03"
+        },
+        {
+            "id": 3896,
+            "url": "https://klipy.com/gifs/mrbeast-discord-scam",
+            "url_hash": "e73874307d919ee4e84d339cf7297a9e98fe9919bb7ffbce8378abe70fcc3c4b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/mrbeast-discord-scam",
+            "last_update": "2026-09-26 13:59:14"
         },
         {
             "id": 2391,
@@ -39534,6 +39600,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-06 20:21:50"
+        },
+        {
+            "id": 3900,
+            "url": "https://klipy.com/gifs/steven-he-3",
+            "url_hash": "fd697319bab3bcab87278eef6775a502e0c2fc8d4bf360c4c584fa58d56579b6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Suspicious",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/steven-he-3",
+            "last_update": "2026-09-26 21:06:20"
         },
         {
             "id": 3479,

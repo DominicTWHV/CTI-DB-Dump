@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3638,
+    "num_of_entries": 3646,
     "links": [
         {
             "id": 3653,
@@ -7196,6 +7196,17 @@
             "last_update": "2025-08-21 09:47:56"
         },
         {
+            "id": 3905,
+            "url": "https://youtu.be/uDfdo2zfs88",
+            "url_hash": "2f74e78b9437ab81853b219c1eb5c84397e43bb83a0fc6baf2b162aed596c8aa",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-27 14:50:05"
+        },
+        {
             "id": 2790,
             "url": "https://cdn.discordapp.com/attachments/358752811657330700/1502068045244272671/ScreenRecording_05-07-2026_15-59-44_1.mov?ex=69fe5d61&is=69fd0be1&hm=e364fbb950e7e90609382bc2f3d08f8d7537de3f403c49f56ba0dcf1a664c99a&",
             "url_hash": "2f93c2bafc94fa2d1a137d16a95258936bcd482d0c519fc7ea04afdb1b40eade",
@@ -13433,6 +13444,17 @@
             "last_update": "2026-02-17 06:35:08"
         },
         {
+            "id": 3906,
+            "url": "https://klipy.com/gifs/ishowspeed-reverse-smile-ishowspeed-confused",
+            "url_hash": "5656dea498be886b0f3bbb0a41fc1323da54eea49bc512430f24361f4aab33d4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/ishowspeed-reverse-smile-ishowspeed-confused",
+            "last_update": "2026-09-27 16:30:38"
+        },
+        {
             "id": 545,
             "url": "https://www.reddit.com/r/PrintedCircuitBoard/s/U0YUEd6HeO",
             "url_hash": "566e9e79402d0f1fed0e279fa1c2bf07281adfd41cb3cd2594d6de0fcbee1896",
@@ -15433,6 +15455,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-02 19:48:37"
+        },
+        {
+            "id": 3904,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1553769434471206922/ScreenRecording_06-16-2026_12-36-06_1.mov?ex=6aba740c&is=6ab9228c&hm=2b7d7c25810ce7adb61b31ab8ab423629b89d729cc7965f3358f7e02c2fc0e2b&",
+            "url_hash": "654aca593431b55b7dbc627a858d99997a74ac4a97520dbf712428a5f4b4cb47",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-27 14:05:02"
         },
         {
             "id": 3324,
@@ -20814,6 +20847,17 @@
             "last_update": "2026-05-26 01:02:06"
         },
         {
+            "id": 3902,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1553712032795197522/VID-20260926-WA0016.mp4?ex=6aba3e97&is=6ab8ed17&hm=d2ec9ce9ae7215b2c5085a9a37a6a2769c78933f67fc43a843834fb09450cfcc&",
+            "url_hash": "88e99080b8047d1657dd5df0eca9317060036f908e2f40c651e419896f758095",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-27 10:16:55"
+        },
+        {
             "id": 1706,
             "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1466086273088225464/ScreenRecording_03-14-2025_07-14-39_1.mov?ex=697b76be&is=697a253e&hm=ca4022570d606d9fe42b0931d76115eeaf0d3fbdcf3b20784e2758726be33fa5&",
             "url_hash": "88f611c62ccb21eafd9dc7556d457feba63a806f9a6d6cb841775c58f2d9fb88",
@@ -23861,6 +23905,17 @@
             "last_update": "2025-10-08 13:27:39"
         },
         {
+            "id": 3908,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1553808733488939199/RPReplay_Final1634389154.mov?ex=6aba98a6&is=6ab94726&hm=244cd6740a7eaa0b009ea7af6547441aace06c3c1ded4cdea2a11f9dc2ca42d0&",
+            "url_hash": "9b25ca66cfb29d026e6571801eb50c056cee6a505b4c24741d945f84089d9d20",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-09-27 16:41:11"
+        },
+        {
             "id": 1922,
             "url": "https://fixupx.com/slater57649/status/2023059904555016532?s=20",
             "url_hash": "9b394f344f4ef2c2445f97e0a5d823626355d25efe67ec8738b1901da1e849b1",
@@ -26290,6 +26345,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-11 23:15:11"
+        },
+        {
+            "id": 3910,
+            "url": "https://klipy.com/gifs/curse-of-ra",
+            "url_hash": "aa970a031e6ec2f3dd4112ced0c6b9641cd3f4fb770e37aae3ea2dc96bb9cde7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/curse-of-ra",
+            "last_update": "2026-09-27 19:11:44"
         },
         {
             "id": 1952,
@@ -32661,6 +32727,17 @@
             "last_update": "2025-11-18 00:55:15"
         },
         {
+            "id": 3907,
+            "url": "https://klipy.com/gifs/blinking-eyes-white-guy-2",
+            "url_hash": "d21e5e050d8885d3b9120c12538baf53987a2ea829ae6dcfcbbef886f66d568b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/blinking-eyes-white-guy-2",
+            "last_update": "2026-09-27 16:33:21"
+        },
+        {
             "id": 2802,
             "url": "https://tenor.com/view/grape-pakistan-great-awesome-wonderful-gif-22524551",
             "url_hash": "d221e0ddab036848cb5a333687b35cc1650f510ccabe29ef0a0274012875bf87",
@@ -34905,6 +34982,17 @@
             "last_update": "2026-03-28 15:55:42"
         },
         {
+            "id": 3903,
+            "url": "https://ddd7e5076a1a21d3.en.made-in-china.com/product/rFfaZXxlbqRV/China-SILICON-BIDIRECTIONAL-diode-Diac-DB3-DC34-DB4-DB6-DO-35.html",
+            "url_hash": "df34bacc45283bff5ec69da4e383d0c13a0511515d91c11b6126e1913df98a94",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://ddd7e5076a1a21d3.en.made-in-china.com/product/rFfaZXxlbqRV/China-SILICON-BIDIRECTIONAL-diode-Diac-DB3-DC34-DB4-DB6-DO-35.html",
+            "last_update": "2026-09-27 13:40:46"
+        },
+        {
             "id": 3345,
             "url": "https://cdn.discordapp.com/attachments/828757482717315162/1532615479116435676/b40c04dafce9a2343e821f6328410dc66379e30830ce3293536fceb9769646cd_1.mp4?ex=6a6d7ee4&is=6a6c2d64&hm=583e22610fae65fc0f01aca8c1b41a42f3b9730dc5d048147d613ca18df79c6a&",
             "url_hash": "df42d61b6a0f48708e410620acbfbcf41ba33b3ec72e539fd8be9e328ca0e44f",
@@ -36712,12 +36800,12 @@
             "id": 84,
             "url": "https://dontasktoask.com/",
             "url_hash": "ec645379d1e8a99616bc977b8a73defd58718bb5c12b57e14fa4e045eabdb039",
-            "times_seen": 5,
+            "times_seen": 6,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://dontasktoask.com/",
-            "last_update": "2026-06-02 06:09:08"
+            "last_update": "2026-09-27 05:31:57"
         },
         {
             "id": 2485,

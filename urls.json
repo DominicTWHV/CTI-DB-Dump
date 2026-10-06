@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3694,
+    "num_of_entries": 3696,
     "links": [
         {
             "id": 3653,
@@ -3135,6 +3135,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-10 19:02:13"
+        },
+        {
+            "id": 3965,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1556853847035748463/ScreenRecording_10-05-2026_21-11-11_1.mov?backend=b2&ex=6ac5aca2&is=6ac45b22&hm=84655552ba84377a51c0ddd2ad84ed6b322e8aa4e96b5a5b9dbe357baeaad364&",
+            "url_hash": "141a3f8f27e361a3e5a3ead6d065db5b5955ddc8f36d3fb4ed5adc15ecfb378d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-06 02:21:23"
         },
         {
             "id": 2798,
@@ -13651,6 +13662,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-28 13:52:25"
+        },
+        {
+            "id": 3966,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1556429232933044304/go-14.mp4?backend=b2&ex=6ac572ae&is=6ac4212e&hm=3163d6963548c3e776383ee458938778587a0e6b26f07253d1571cd3379d6e9f&",
+            "url_hash": "5688afe338e2204a1595b0d8cabeb209b2fa0c90bcd95f3dfe9c9c0e5a12ad67",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-06 02:28:56"
         },
         {
             "id": 491,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3716,
+    "num_of_entries": 3721,
     "links": [
         {
             "id": 3653,
@@ -9495,6 +9495,17 @@
             "last_update": "2026-09-07 17:32:18"
         },
         {
+            "id": 3992,
+            "url": "https://www.youtube.com/watch?v=gUeK7nQVsX8",
+            "url_hash": "3b45c7c79c57101042899a2b44d4a5cff16acf77d8cbe7ece83abd40fed12a87",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-07 23:26:07"
+        },
+        {
             "id": 1502,
             "url": "https://youtu.be/ny2S_jYomUw?si=M4vRnzEX7vO-LJVh",
             "url_hash": "3b4c21eecf229746a2c5ba66fca15cfde9ca410628f90567b18c8e2a695698ef",
@@ -12421,6 +12432,17 @@
             "last_update": "2026-02-08 01:30:50"
         },
         {
+            "id": 3988,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1557411797881987214/IMG_3413.mov?ex=6ac7b443&is=6ac662c3&hm=a64e00303a0b4d1b9922fb4930a85d19ef718363dd44bec54d2796ed2fcbfdb4&",
+            "url_hash": "4d3e50d5029ba057b0f59da40a53b52be4cc7c37079263123ada6f31c45e6d29",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-07 15:18:29"
+        },
+        {
             "id": 1814,
             "url": "https://fixupx.com/BasilTheGreat/status/2019799923483382200",
             "url_hash": "4d66a4c32c763b44b3ab3b9166f40e4068828a79bdb20618420a0441878b2e1b",
@@ -14399,6 +14421,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-04 11:34:35"
+        },
+        {
+            "id": 3994,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1557632882518790214/ytp.mp4?ex=6ac8822a&is=6ac730aa&hm=c33a218fcfb67abc4934124b2cd9f7bcc9339179af2b969020fe0d4a41219963&",
+            "url_hash": "5ba219281e3a5b3290522f3cd1690db34cdf405ecb88bbc58b39c2dc16d78f7d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-08 05:56:59"
         },
         {
             "id": 1978,
@@ -20374,6 +20407,17 @@
             "last_update": "2026-05-11 21:39:44"
         },
         {
+            "id": 3991,
+            "url": "https://www.kkinstagram.com/reel/DeIEd8qSvXX/",
+            "url_hash": "83fd50c1479e189c0270b25a5a24be6858cec1b9262f397988bb5c4c839df06f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-07 22:09:57"
+        },
+        {
             "id": 3061,
             "url": "https://www.youtube.com/shorts/t4Ce6WYW9Bw",
             "url_hash": "841c53aa9d58755b97b5c66117f6dd4a6c314bc4f02798f0fd7541b5c7613093",
@@ -25663,6 +25707,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/haha_girrrl/status/2030617403986682336?s=20",
             "last_update": "2026-03-15 21:33:45"
+        },
+        {
+            "id": 3990,
+            "url": "https://pl.aliexpress.com/item/1005009639534925.html?spm=a2g0o.home.pcJustForYou.38.300a405fSKYFe5&gps-id=pcJustForYou&scm=1007.13562.416251.0&scm_id=1007.13562.416251.0&scm-url=1007.13562.416251.0&pvid=36ded0d8-11b1-4d70-a7d2-7e69e468df62&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A36ded0d8-11b1-4d70-a7d2-7e69e468df62%2Ctpp_buckets%3A668%232846%238115%232000&pdp_ext_f=%7B%22order%22%3A%22461%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%223562%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21PLN%21277.20%21271.16%21%21%21465.64%21455.51%21%400b8848bf17913946915512154e0e08%2112000049727176874%21rec%21PL%214896210465%21XZ%211%210%21n_tag%3A-29919%3Bbm%3A1%3Bd%3A544c0a43%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005009639534925%7C_p_origin_prod%3A",
+            "url_hash": "a2fca933bbd3edcd672746f5cb9d70bba8efa012dda1ef4d1b2ce6597e877890",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-07 17:44:35"
         },
         {
             "id": 1350,

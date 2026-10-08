@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 995,
+    "num_of_entries": 997,
     "files": [
         {
             "sha256": "00211cc0421bfe4462c2da7331bb1d78e4c86bc19f7816b048e4964d08ed6cf8",
@@ -6454,6 +6454,20 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Malicious",
             "last_update": "2025-11-04 08:35:09"
+        },
+        {
+            "sha256": "ea0a08e48d60a539e420d60a55386cc38d55d7d725ef127d9cc78914d4c93709",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-10-07 23:27:14"
+        },
+        {
+            "sha256": "ea236a4b846e2e71328e63b26fd801a99d023da6c02d41066826682129a71149",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-10-07 04:29:59"
         },
         {
             "sha256": "ea356443439ae664da112636d6d325cc2aa9f370a4194cda9558621b4fc0cbac",

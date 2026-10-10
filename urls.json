@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3723,
+    "num_of_entries": 3727,
     "links": [
         {
             "id": 3653,
@@ -12652,6 +12652,17 @@
             "last_update": "2026-10-06 23:57:21"
         },
         {
+            "id": 4007,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1558234558363734066/ScreenRecording_10-09-2026_16-45-23_1.mov?ex=6acab285&is=6ac96105&hm=fdec57fb0d7fa58602ccfa4bd8a45015c91ff26e1187cd50aa0b0d1fd9d44130&",
+            "url_hash": "4ed08eb9c1cc3dd711863ddf895af2b16221da1558ae61d618bad106fada473e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-09 21:47:49"
+        },
+        {
             "id": 3285,
             "url": "https://klipy.com/gifs/the-orville-500-cigarettes-2",
             "url_hash": "4ed689c6d3ac3133aaf3c90b1f440f6beacda684db32e5732966d450f53c0998",
@@ -21034,6 +21045,17 @@
             "last_update": "2025-12-09 14:38:54"
         },
         {
+            "id": 4004,
+            "url": "https://klipy.com/gifs/yoda-star-wars-110",
+            "url_hash": "8765a34a3775f980cc22150563688dea5d6ca959e818b8ab593003306d97dbdd",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/yoda-star-wars-110",
+            "last_update": "2026-10-09 19:24:24"
+        },
+        {
             "id": 1903,
             "url": "https://www.tiktok.com/@jonardtools/video/6982740477514730757",
             "url_hash": "876f5d93dbea2ccc5f9abf4865fbe00edb1d213656b92311fc8afd328ba75d61",
@@ -28866,6 +28888,17 @@
             "last_update": "2026-05-19 19:05:31"
         },
         {
+            "id": 4005,
+            "url": "https://klipy.com/gifs/michael-scott-the-office-42",
+            "url_hash": "b6ade0e2180af3d7eb5f3dbdc91322ec01d0ebdc2decd3107fe55dfc4a19dc22",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/michael-scott-the-office-42",
+            "last_update": "2026-10-09 21:24:02"
+        },
+        {
             "id": 112,
             "url": "https://drive.google.com/drive/folders/1rdwypYFoP7Ytl7oKWhqTIJ9o86fpRF3z",
             "url_hash": "b6c3b769e05ba9d2489096713e2b15a9768018eedc60e03054c69522f30f65fd",
@@ -33594,6 +33627,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-19 18:05:52"
+        },
+        {
+            "id": 4006,
+            "url": "https://cdn.discordapp.com/attachments/1077234878166347887/1558229847417815182/90sadas.mp4?ex=6acaae22&is=6ac95ca2&hm=b55895ecf95dedba0df5b73e17cca0c1be7500abd1ae4d86ab8186d2a46db3bd&",
+            "url_hash": "d2e167f1a5d0b8d780ea37b211341a96582866b769ec1965d4a8309b5e081892",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-09 21:29:06"
         },
         {
             "id": 850,

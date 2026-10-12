@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3727,
+    "num_of_entries": 3734,
     "links": [
         {
             "id": 3653,
@@ -2950,6 +2950,17 @@
             "last_update": "2026-01-25 16:43:28"
         },
         {
+            "id": 4009,
+            "url": "https://fixupx.com/i2cjak/status/2109004770099012075",
+            "url_hash": "12a76dfa08c3e321185ce693fd3e358969d6b15ec8228ad780598edfc1d1abad",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-11 01:42:41"
+        },
+        {
             "id": 2303,
             "url": "https://www.youtube.com/watch?v=IAoVDOkNq3k",
             "url_hash": "12b8600e9c363fc8b525fdf3f64b6ed3f0c393016a1b84ba4e8689398af07cbd",
@@ -4609,6 +4620,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/sus-cat-discord-ping-why-ping",
             "last_update": "2026-08-25 22:09:46"
+        },
+        {
+            "id": 4012,
+            "url": "https://tenor.com/view/shrew-yawn-yawning-tired-tired-af-gif-20447243",
+            "url_hash": "1d547ef5f71ac26031e5d71b3f5d52acc04f9b29a586b56f08124872bf2ac757",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-11 17:41:50"
         },
         {
             "id": 15,
@@ -7548,6 +7570,17 @@
             "last_update": "2026-05-16 15:24:38"
         },
         {
+            "id": 4008,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1558493352704610457/ScreenRecording_10-09-2026_17-51-21_1.mov?ex=6acba38a&is=6aca520a&hm=c5d811802e662378737cd9eb8078ea5ec9aaef615a24f9700dd959cf43a5fad2&",
+            "url_hash": "30c4b017f69c3fd185d30d0e8530b6c86a7c82e0cb5fbfe0fe0129b140fda89d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-10 14:56:15"
+        },
+        {
             "id": 1427,
             "url": "https://cdn.discordapp.com/attachments/835645409765621761/1457509846629880002/VID_20260103_234225_711.mp4?ex=695d94d2&is=695c4352&hm=8afbc604bae304da8c33a6b5087a68d09fbf0370b612040735811b59cee30f0a&",
             "url_hash": "30dd86519d75bc4f449864009a53051eefef93a7aa0bec5dcc8e34039f9c663b",
@@ -9454,12 +9487,12 @@
             "id": 3891,
             "url": "https://klipy.com/gifs/catjam-disco",
             "url_hash": "3b094aec6568e6c6288d7a77f67c57b834e44b13973c5c4cb17a39c4b9766648",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/catjam-disco",
-            "last_update": "2026-09-25 13:33:07"
+            "last_update": "2026-10-11 11:04:17"
         },
         {
             "id": 150,
@@ -9768,6 +9801,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-23 18:12:16"
+        },
+        {
+            "id": 4011,
+            "url": "https://youtu.be/jfjyx1GvrJk",
+            "url_hash": "3c8f22dc05d3456c0d8d27bc5914bbca63ed4eeb9aca0981555ea02b73852724",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-11 14:52:47"
         },
         {
             "id": 922,
@@ -17063,6 +17107,17 @@
             "last_update": "2026-03-08 17:19:22"
         },
         {
+            "id": 4010,
+            "url": "https://klipy.com/gifs/allen-haff-allen-lee-haff-15",
+            "url_hash": "6d74be9b78f1844c3b94550b1b6efda0c90a572c16193b247ea074e5b1961a75",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/allen-haff-allen-lee-haff-15",
+            "last_update": "2026-10-11 12:58:41"
+        },
+        {
             "id": 3644,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1543995504700948601/ScreenRecording_08-31-2026_00-45-04_1.mov?ex=6a96e55e&is=6a9593de&hm=bed0ccd92acbe9570eefba14697f40c87d93382d703d02f5424a00cfbe19f4d8&",
             "url_hash": "6d7b50b21280c58e2afd38fe3677a56ef76d13dfe95a5ef4d2d8a6b0071e39bf",
@@ -18955,6 +19010,17 @@
             "last_update": "2025-11-06 12:35:14"
         },
         {
+            "id": 4013,
+            "url": "https://cdn.discordapp.com/attachments/1160679483943174205/1558898508986060990/doc_2026-10-11_22-41-28.mp4?ex=6acd1cdf&is=6acbcb5f&hm=14b4bc7f5599800747d552b828c13083c008981b94c6851454f789fca06786dc&",
+            "url_hash": "7a5b4fe6f9bf9127c1c7aa8e570191c6cc4b5ddb49e8cf438e3c15f7b2f8a19d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-11 17:46:08"
+        },
+        {
             "id": 2581,
             "url": "https://www.mouser.com/ProductDetail/Diodes-Incorporated/AP63205WU-7?qs=u16ybLDytRZtkj8PzdWCOw%3D%3D",
             "url_hash": "7a73ae675a03dfa0e8403569c13f07edc34a97374d4050a176760e0fc42392ca",
@@ -19525,6 +19591,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.sunrom.com/p/dc-socket-suitable-for-55x21mm-dc-pins-with-square-head-slit-panelpcb-mounting",
             "last_update": "2025-11-18 07:01:15"
+        },
+        {
+            "id": 4014,
+            "url": "https://www.reddit.com/r/hardwaregore/s/sZQLXHZv6c",
+            "url_hash": "7de96a0240e7d6d66b5566a5054586b6240c01947799b622f529adc88ab3bb67",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/hardwaregore/s/sZQLXHZv6c",
+            "last_update": "2026-10-11 17:46:47"
         },
         {
             "id": 3513,

@@ -531,11 +531,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1083,
+            "times_seen": 1087,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-08 18:01:29"
+            "last_update": "2026-10-11 17:46:08"
         },
         {
             "domain": "discordapp.net",
@@ -811,11 +811,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 322,
+            "times_seen": 323,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-09-29 01:12:02"
+            "last_update": "2026-10-11 01:42:41"
         },
         {
             "domain": "fixvx.com",
@@ -1403,11 +1403,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 187,
+            "times_seen": 193,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-10-08 17:46:05"
+            "last_update": "2026-10-11 12:58:10"
         },
         {
             "domain": "kmart.com.au",
@@ -1819,11 +1819,11 @@
         },
         {
             "domain": "oginstagram.com",
-            "times_seen": 12,
+            "times_seen": 13,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-10-08 15:48:48"
+            "last_update": "2026-10-12 04:35:24"
         },
         {
             "domain": "omc-stepperonline.com",
@@ -2067,11 +2067,11 @@
         },
         {
             "domain": "reddit.com",
-            "times_seen": 52,
+            "times_seen": 53,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-10-04 15:00:00"
+            "last_update": "2026-10-11 17:46:08"
         },
         {
             "domain": "renesas.com",
@@ -2347,11 +2347,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 848,
+            "times_seen": 849,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-02 22:36:06"
+            "last_update": "2026-10-11 17:41:50"
         },
         {
             "domain": "tensorflow.org",
@@ -2763,11 +2763,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 214,
+            "times_seen": 216,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-06 17:32:52"
+            "last_update": "2026-10-11 14:52:47"
         },
         {
             "domain": "youtube.com",

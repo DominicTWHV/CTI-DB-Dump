@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 349,
+    "num_of_entries": 350,
     "domains": [
         {
             "domain": "9cache.com",
@@ -346,6 +346,14 @@
             "last_update": "2026-01-23 08:00:11"
         },
         {
+            "domain": "chipdip.ru",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Shopping",
+            "is_whitelisted": 0,
+            "last_update": "2026-10-12 10:58:33"
+        },
+        {
             "domain": "circuitbasics.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -531,11 +539,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1087,
+            "times_seen": 1090,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-11 17:46:08"
+            "last_update": "2026-10-13 02:18:20"
         },
         {
             "domain": "discordapp.net",
@@ -1403,11 +1411,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 193,
+            "times_seen": 194,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-10-11 12:58:10"
+            "last_update": "2026-10-13 01:05:07"
         },
         {
             "domain": "kmart.com.au",
@@ -2763,11 +2771,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 216,
+            "times_seen": 218,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-11 14:52:47"
+            "last_update": "2026-10-12 19:42:44"
         },
         {
             "domain": "youtube.com",

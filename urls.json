@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3734,
+    "num_of_entries": 3741,
     "links": [
         {
             "id": 3653,
@@ -7700,6 +7700,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-23 12:53:32"
+        },
+        {
+            "id": 4020,
+            "url": "https://youtu.be/Sc9H0aCIrmU?si=PqmwAHi0RndUmauD",
+            "url_hash": "31a052e53235ce521e14a8fb1dca4b87f22f98e6531162ef18466783e658d974",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-12 19:42:44"
         },
         {
             "id": 373,
@@ -18339,6 +18350,17 @@
             "last_update": "2025-11-16 05:17:12"
         },
         {
+            "id": 4018,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1559227010692157470/RPReplay_Final1609657829.mov?ex=6ace4ed0&is=6accfd50&hm=9301725512ac5dce04efb707f335b7c3aac13c3bb3620f12ff86aa8e2e3834e8&",
+            "url_hash": "74f336b017deae4e65e407b95cab1daeb0a9a960edc2d3c671070d5a42c11403",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-12 15:31:29"
+        },
+        {
             "id": 3563,
             "url": "https://cdn.discordapp.com/attachments/1077234878166347887/1541453104711471164/grafik.png?ex=6a8da592&is=6a8c5412&hm=a8b1809326c24fb76613a609c94f0c1fb4810afab857bcd8df0964bf64a9b001&",
             "url_hash": "74f6ff35b751bf4ae362046465fed19098090e07be6a6fd0ec29a46cc9f28edb",
@@ -21417,6 +21439,17 @@
             "is_redirect": 0,
             "downstream_target": "https://forum.arduino.cc/t/flip-dot-project-issue-with-reversing-flip-using-tpic6b595-and-udn2981-drivers/1343577",
             "last_update": "2026-05-26 01:02:06"
+        },
+        {
+            "id": 4021,
+            "url": "https://klipy.com/gifs/rookie-numbers-1",
+            "url_hash": "88d6fbe7a9fdf559c2e3bb0b62a28f9987df329721fde84dc6e603768118da9c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/rookie-numbers-1",
+            "last_update": "2026-10-13 01:06:03"
         },
         {
             "id": 3902,
@@ -24596,6 +24629,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-11 01:24:39"
+        },
+        {
+            "id": 4019,
+            "url": "https://youtu.be/9bq-wU41vmU?si=_fbuwW2JoZDJmbPb",
+            "url_hash": "9baa0235e36f105a81f69b64e06efc790e8fdfdf94cb1dd1441d87cee3b61a16",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-12 15:35:48"
         },
         {
             "id": 1975,
@@ -27786,6 +27830,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-08 15:00:06"
+        },
+        {
+            "id": 4017,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1559219230535061524/You_cant.mov?ex=6ace4791&is=6accf611&hm=3d918d2c9418303529a904700bf1bb9c58c455444a88fb9ff108f84dfd00e256&",
+            "url_hash": "af2f1ec49cfba505336e222853f0563c1ec7b432f6d70363b2eb035e95494f6d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-12 15:00:34"
         },
         {
             "id": 3872,
@@ -39041,6 +39096,17 @@
             "last_update": "2026-06-17 22:30:33"
         },
         {
+            "id": 4022,
+            "url": "https://cdn.discordapp.com/attachments/1325615431230296169/1558873171384602654/v15044gf0000cqsvci7og65l30s11fj0.mp4?ex=6ace56c6&is=6acd0546&hm=8d7dca0ac24e0bbe92490fb3e4afd0d8bcda2fb5c1ed9f365c09888d4507c025&",
+            "url_hash": "f4665fa4e48718538b05e670db11ad611b255fe54fbfdee2d06fad5f5e0c2e4f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-13 02:18:20"
+        },
+        {
             "id": 86,
             "url": "https://tenor.com/view/kamome-kashima-key-vn-visual-gif-6745700368704999412",
             "url_hash": "f472413a0054231e9899c0ce228a17d73e7abfd312bbf5745b0724587c75b5d6",
@@ -39765,6 +39831,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-08-18 05:32:57"
+        },
+        {
+            "id": 4016,
+            "url": "https://www.chipdip.ru/",
+            "url_hash": "f8cd2a6c9fa87c9a699c5be72864e69c289c2d8bcd422e41a2bb54256ee77fe6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.chipdip.ru/",
+            "last_update": "2026-10-12 10:58:33"
         },
         {
             "id": 501,

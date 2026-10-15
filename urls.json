@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3753,
+    "num_of_entries": 3757,
     "links": [
         {
             "id": 3653,
@@ -6413,6 +6413,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.thingiverse.com/thing:6248226",
             "last_update": "2026-04-30 17:05:14"
+        },
+        {
+            "id": 4037,
+            "url": "https://www.kkinstagram.com/reel/Debslass-Yo/?dlrf=YTkxYjdhZGV0MGVt",
+            "url_hash": "2875bcc86bd927e95cb50162ac88e07fdf39a5e8ee017d2c3359e3635c459b1e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-14 15:45:32"
         },
         {
             "id": 1648,
@@ -15625,12 +15636,12 @@
             "id": 3675,
             "url": "https://github.com/rmit-wgbowley/APU",
             "url_hash": "62d5bd82cc7386ce105ad696ee399b132539a89c6338814365062941394193c3",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-09-02 17:24:14"
+            "last_update": "2026-10-14 09:58:28"
         },
         {
             "id": 2946,
@@ -18394,6 +18405,17 @@
             "last_update": "2025-10-21 11:51:38"
         },
         {
+            "id": 4039,
+            "url": "https://cdn.discordapp.com/attachments/426116061415342080/1558561606005424188/Crashing_your_CNC.mp4?ex=6acfd79b&is=6ace861b&hm=7c95a64e595dabee500f13c8551457e60d3d49561a96ddbe877dd5a6de575463&",
+            "url_hash": "74ad5f27664bbb7427add3ffc560be6be70938c6a935d6d42d3f8f0696e9e42f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-15 00:06:04"
+        },
+        {
             "id": 2006,
             "url": "https://tenor.com/view/cool-gif-5111338745644474401",
             "url_hash": "74d634ba953cabf0d425812fbf77c81be7f1213c18357dd3966b8853829dcd41",
@@ -20064,6 +20086,28 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/an-iq-too-high-1",
             "last_update": "2026-07-26 01:10:11"
+        },
+        {
+            "id": 4038,
+            "url": "https://projecthub.arduino.cc/Arduino_Genuino/uno-q-arcade-bundle-b272c5",
+            "url_hash": "80506e53d9efaf5a4af87e703ef2f3d452afc9b321883f356924a06d2adc3a0a",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-14 17:56:24"
+        },
+        {
+            "id": 4040,
+            "url": "https://klipy.com/gifs/oh-wow-you-dont-say-1",
+            "url_hash": "8063417deb691c6deff49e70dc3ff8eec3cdd788f06bf88d389d42718da2be36",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/oh-wow-you-dont-say-1",
+            "last_update": "2026-10-15 00:28:02"
         },
         {
             "id": 335,

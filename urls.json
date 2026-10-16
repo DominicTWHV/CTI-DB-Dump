@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3757,
+    "num_of_entries": 3760,
     "links": [
         {
             "id": 3653,
@@ -17655,6 +17655,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-22 14:12:35"
+        },
+        {
+            "id": 4041,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1560399123482411098/1032806.mp4?ex=6ad2926d&is=6ad140ed&hm=f2355b961fc07314837b2fbcf82ede54e38bef3eecaff936e9e2162be45e8f7a&",
+            "url_hash": "704356cea4e2f488b1dbedd66e26872b82bf24797cfbbd18604716fe49eba6ae",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-15 21:09:02"
         },
         {
             "id": 254,
@@ -36808,6 +36819,17 @@
             "last_update": "2025-12-01 05:28:35"
         },
         {
+            "id": 4042,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1560400168514232462/1034914.mp4?ex=6ad29367&is=6ad141e7&hm=c10abe38acd92f650806d57046df4ba661a3c84c49fbed72293969ec3df45255&",
+            "url_hash": "e520300368600d37b4ec00c91d39e9674cb74390050e771dfbeebd50a35678b4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-15 21:13:13"
+        },
+        {
             "id": 2983,
             "url": "https://a.aliexpress.com/_c38PLIID",
             "url_hash": "e5271a8602c208273c4621ef3ea81683c78d6aae94791c2af5078dc16307faa1",
@@ -38555,6 +38577,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-25 22:53:26"
+        },
+        {
+            "id": 4044,
+            "url": "https://cdn.discordapp.com/attachments/1077234787447742565/1560451202083192872/NewSong11112024_Demo10152026-1910.mp4?ex=6ad2c2ee&is=6ad1716e&hm=8d7877939a6c5b4c499b699a0e3983df1556550f3c130b763c490c9cafa91b4a&",
+            "url_hash": "f004d0efedbe097c0b5e231615a88495b9b09ee66fa59f6a93465a58de12c59c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-16 00:36:05"
         },
         {
             "id": 3681,

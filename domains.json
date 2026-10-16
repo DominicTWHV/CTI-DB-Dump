@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 353,
+    "num_of_entries": 354,
     "domains": [
         {
             "domain": "9cache.com",
@@ -219,11 +219,11 @@
         },
         {
             "domain": "arduino.cc",
-            "times_seen": 3,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Education",
             "is_whitelisted": 1,
-            "last_update": "2026-09-07 15:43:32"
+            "last_update": "2026-10-14 17:56:24"
         },
         {
             "domain": "asana.com",
@@ -539,11 +539,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1093,
+            "times_seen": 1097,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-13 22:14:20"
+            "last_update": "2026-10-16 00:36:05"
         },
         {
             "domain": "discordapp.net",
@@ -979,11 +979,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 70,
+            "times_seen": 71,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-10-14 06:43:15"
+            "last_update": "2026-10-14 09:58:28"
         },
         {
             "domain": "github.io",
@@ -995,11 +995,11 @@
         },
         {
             "domain": "githubassets.com",
-            "times_seen": 8,
+            "times_seen": 9,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 0,
-            "last_update": "2026-09-24 15:45:33"
+            "last_update": "2026-10-14 09:58:12"
         },
         {
             "domain": "githubusercontent.com",
@@ -1395,11 +1395,19 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 121,
+            "times_seen": 122,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-10-07 22:09:57"
+            "last_update": "2026-10-14 15:45:32"
+        },
+        {
+            "domain": "kktiktok.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-10-15 21:23:17"
         },
         {
             "domain": "klipper.cn",
@@ -1419,11 +1427,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 196,
+            "times_seen": 197,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-10-13 21:03:07"
+            "last_update": "2026-10-15 00:27:24"
         },
         {
             "domain": "kmart.com.au",

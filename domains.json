@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 354,
+    "num_of_entries": 355,
     "domains": [
         {
             "domain": "9cache.com",
@@ -83,11 +83,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 153,
+            "times_seen": 154,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-10-07 17:44:35"
+            "last_update": "2026-10-16 17:37:01"
         },
         {
             "domain": "aliexpress.us",
@@ -539,11 +539,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1097,
+            "times_seen": 1106,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-16 00:36:05"
+            "last_update": "2026-10-17 01:29:45"
         },
         {
             "domain": "discordapp.net",
@@ -979,11 +979,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 71,
+            "times_seen": 72,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-10-14 09:58:28"
+            "last_update": "2026-10-16 16:32:05"
         },
         {
             "domain": "github.io",
@@ -1338,6 +1338,14 @@
             "last_update": "2025-10-10 05:16:50"
         },
         {
+            "domain": "jtyj.top",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-10-16 14:59:23"
+        },
+        {
             "domain": "kaizerpowerelectronics.dk",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1427,11 +1435,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 197,
+            "times_seen": 201,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-10-15 00:27:24"
+            "last_update": "2026-10-16 21:40:03"
         },
         {
             "domain": "kmart.com.au",
@@ -2435,11 +2443,11 @@
         },
         {
             "domain": "threads.com",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-02-25 14:03:00"
+            "last_update": "2026-10-16 09:34:48"
         },
         {
             "domain": "tiktok.com",

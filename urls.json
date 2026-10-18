@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3771,
+    "num_of_entries": 3774,
     "links": [
         {
             "id": 3653,
@@ -13444,6 +13444,17 @@
             "last_update": "2026-01-26 06:41:54"
         },
         {
+            "id": 4061,
+            "url": "https://www.youtube.com/shorts/lBMBuTMw2_0",
+            "url_hash": "5341b56d47a38fd35dbd36c53820b659c11951cc3014755e44a66e04ac249e60",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-17 19:32:15"
+        },
+        {
             "id": 1231,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1445793650406723717/VID_20251201_214919.mp4?ex=6931a3c3&is=69305243&hm=7687890daa6e7367afc12eebaf39b91d5b5c010499a172ba75a22369c8a8fbfe&",
             "url_hash": "5377e9c6c6d4ac22d089e01d5063b179f7ffac85997929bffeaa99c188130650",
@@ -22022,6 +22033,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-22 19:00:44"
+        },
+        {
+            "id": 4062,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1561239479010857061/get_the_L.mp4?ex=6ad5a112&is=6ad44f92&hm=63c145dedc9a07577d473b5f6631f9d0017de031c69f280255878e20b5c6b6c8&",
+            "url_hash": "8affb6caeb44365154ccdf5a16454f68023eadb104ed253e98db3722ccafe753",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-18 04:48:18"
         },
         {
             "id": 3178,
@@ -32714,6 +32736,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-05 08:55:06"
+        },
+        {
+            "id": 4060,
+            "url": "https://cdn.discordapp.com/attachments/771109552858202173/1561011246109696000/ScreenRecording_10-05-2026_21-11-11_1.mov?ex=6ad4cc83&is=6ad37b03&hm=6582018d69a0b6b848a71cc0c03d71aba6d87ca00ee789b782e1ebc8b7f7d49a&",
+            "url_hash": "cca233972b44f9a7e23f795b2c0ab96cb837e8178dab7c2d79e45417a1f5b403",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-17 13:41:23"
         },
         {
             "id": 476,

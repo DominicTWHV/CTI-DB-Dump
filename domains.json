@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 355,
+    "num_of_entries": 356,
     "domains": [
         {
             "domain": "9cache.com",
@@ -531,19 +531,19 @@
         },
         {
             "domain": "discord.com",
-            "times_seen": 52,
+            "times_seen": 53,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-06 15:44:08"
+            "last_update": "2026-10-18 14:20:21"
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1106,
+            "times_seen": 1112,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-17 01:29:45"
+            "last_update": "2026-10-19 12:04:59"
         },
         {
             "domain": "discordapp.net",
@@ -776,6 +776,14 @@
             "typing": "Unknown",
             "is_whitelisted": 1,
             "last_update": "2026-10-06 20:04:30"
+        },
+        {
+            "domain": "fastapply.co",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 0,
+            "last_update": "2026-10-19 08:29:31"
         },
         {
             "domain": "fccid.io",
@@ -1435,11 +1443,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 201,
+            "times_seen": 205,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2026-10-16 21:40:03"
+            "last_update": "2026-10-18 23:59:02"
         },
         {
             "domain": "kmart.com.au",
@@ -2819,11 +2827,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 317,
+            "times_seen": 319,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-13 10:26:24"
+            "last_update": "2026-10-18 20:07:48"
         },
         {
             "domain": "yxtwitter.com",

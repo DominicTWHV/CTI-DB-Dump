@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3774,
+    "num_of_entries": 3782,
     "links": [
         {
             "id": 3653,
@@ -5775,6 +5775,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-09 14:42:38"
+        },
+        {
+            "id": 4066,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1561414479256748082/Heart_and_Soul_Take_8M-30_FPS_H264.mov?ex=6ad6440d&is=6ad4f28d&hm=17ec764f4b3624897d0a0a8576a61aafe66ea01eab3db7e989478225e1a45cfb&",
+            "url_hash": "23f2a754ac6a0b41d84e8fcdaea7ad527e2c90a70c27ebeffa7327e63864bd48",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-18 16:23:42"
         },
         {
             "id": 983,
@@ -12003,6 +12014,17 @@
             "last_update": "2026-04-27 06:35:19"
         },
         {
+            "id": 4065,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1561414275384213554/video_for_those_whose_day_is_of_birth.mov?ex=6ad643dc&is=6ad4f25c&hm=4f003714b3f7e86e9ea9395f31602caeda073f98a6190677fc0ab660f6cd7324&",
+            "url_hash": "4975166bb351e59ced896f8785621b7da0bad59e41e2609800463c44527a6035",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-18 16:22:54"
+        },
+        {
             "id": 4053,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1560685570102001754/IMG_6835.mov?ex=6ad39d34&is=6ad24bb4&hm=ccae4bc80a0a220cb3ba91be02c40b866c7bc17d3fbc42ceec3b13e6f8dfda4f&",
             "url_hash": "4996460b8597d4c433857d7a1c8f49d520995bc6319b6e3ed33d00bf923abbdb",
@@ -14179,6 +14201,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-12 15:47:34"
+        },
+        {
+            "id": 4072,
+            "url": "https://fastapply.co/au",
+            "url_hash": "58021207ae5c593b6e0527eb4f7301c3bd39f29aca9224471b2d48b1d7698d5d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://fastapply.co/au",
+            "last_update": "2026-10-19 08:29:31"
         },
         {
             "id": 341,
@@ -25478,6 +25511,17 @@
             "last_update": "2025-10-31 11:50:26"
         },
         {
+            "id": 4069,
+            "url": "https://www.youtube.com/watch?v=BMggqTyldCw",
+            "url_hash": "9f1558dd4b685d1f5638f45fcafe2e7422bf30d8e9c991670d7662e813aff7d1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-18 20:07:48"
+        },
+        {
             "id": 2583,
             "url": "https://fxtwitter.com/YippYappWear/status/2043777403705602052?s=20",
             "url_hash": "9f3fcb14ff01a942b1d09125315d1e24317a145eb165f70e9185d57cdbc1445b",
@@ -33178,6 +33222,17 @@
             "last_update": "2025-09-14 13:29:57"
         },
         {
+            "id": 4071,
+            "url": "https://klipy.com/gifs/the-square-hole-shapes",
+            "url_hash": "ceb709617cc880b691e1565f5a0fd5f29ba2b2e5fd902c5aa63f0e13fdb117db",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/the-square-hole-shapes",
+            "last_update": "2026-10-18 23:59:02"
+        },
+        {
             "id": 662,
             "url": "https://cdn.discordapp.com/attachments/1425538458994213016/1426878044118974514/ouput.txt?ex=68ecd33b&is=68eb81bb&hm=cd0e6c7581df26227d259dbf49436329841bac41acd3a800ad44401a5e0c7366&",
             "url_hash": "ceb747feb5552100bde1443c202dab0a28c479cb57b47b187de9d61ca2302efe",
@@ -35189,6 +35244,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-08-24 14:47:22"
+        },
+        {
+            "id": 4063,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1561336540355895346/1035853.mp4?ex=6ad5fb77&is=6ad4a9f7&hm=847e339a6feb835d66ceb1dcf73d4cea6579bd01ab33b29ec01f5bc6f1719350&",
+            "url_hash": "d99a7a8023c2a52d90348e86fb3b3ccac1df150a9ac3da7be81e95f0709342ec",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-18 11:14:00"
         },
         {
             "id": 495,
@@ -38381,6 +38447,17 @@
             "last_update": "2026-04-25 12:58:47"
         },
         {
+            "id": 4073,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1561711752889110528/m2-vp9-res_1280p.mp4?ex=6ad758e9&is=6ad60769&hm=77bc349319d92c51cc6c67471d7e048e66abaf745ff1d46c5449d8c1a356b48c&",
+            "url_hash": "ee60864606ad82e19e78793c5e53d8708bafda057bb6f906a7dfa909603a0b53",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-19 12:04:59"
+        },
+        {
             "id": 1323,
             "url": "https://x.com/SamanthaTaghoy/status/1998064260769800512",
             "url_hash": "ee85034c7f79dd7143f97e7ad52315e30587c7a1150cff66e97f679d76025275",
@@ -40337,6 +40414,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-06-01 19:50:47"
+        },
+        {
+            "id": 4064,
+            "url": "https://discord.com/channels/1074967630357725204/1077231862025551903/1559690782846484563",
+            "url_hash": "f970f41801e1e99d908bb3e19ed853ed7eb98d068a9d4162720d0a7d7f2fbc00",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-18 14:20:21"
         },
         {
             "id": 3952,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3782,
+    "num_of_entries": 3785,
     "links": [
         {
             "id": 3653,
@@ -6039,6 +6039,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-12 03:24:05"
+        },
+        {
+            "id": 4074,
+            "url": "https://designer.ziroeda.com/gh/OpenDrone-hw/OpenFC-Lite-Mini",
+            "url_hash": "26010ebfc04af1fe19a856d0962712a8cb966891bc60f88eec79766dc5f569f6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://designer.ziroeda.com/gh/OpenDrone-hw/OpenFC-Lite-Mini",
+            "last_update": "2026-10-20 13:18:10"
         },
         {
             "id": 3856,
@@ -22651,6 +22662,17 @@
             "last_update": "2026-03-08 15:35:39"
         },
         {
+            "id": 4076,
+            "url": "https://youtube.com/shorts/HiiC9WvmhdQ?si=w78-oukpOe6xcHo4",
+            "url_hash": "8e53bd70bda40194b38f7e2ae29925f48072fef24c67fa21dc40e13e813d7390",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-20 14:33:09"
+        },
+        {
             "id": 2801,
             "url": "https://cdn.discordapp.com/attachments/1166189164971163729/1502667801738088590/VID_20260506_171754w.mp4?ex=6a008bf2&is=69ff3a72&hm=dabdfb98b3bf8ae73c2fec19125cdac5f160f91c95eb17ccbe4a5b61b6f0f406&",
             "url_hash": "8e548bd1502560f9224c43d7e3561f8b788f8c2e744df473b86d2fa2e5d2951f",
@@ -38093,6 +38115,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-29 19:27:26"
+        },
+        {
+            "id": 4075,
+            "url": "https://github.com/ZiroEDA/ziro-designer",
+            "url_hash": "ec3dcc1b5493779f7f26b1e43934f3be75c2cfca3d622ca0e77d8355548a86d2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-20 13:18:10"
         },
         {
             "id": 84,

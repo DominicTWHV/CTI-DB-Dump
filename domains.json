@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 356,
+    "num_of_entries": 357,
     "domains": [
         {
             "domain": "9cache.com",
@@ -987,11 +987,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 72,
+            "times_seen": 73,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-10-16 16:32:05"
+            "last_update": "2026-10-20 13:18:10"
         },
         {
             "domain": "github.io",
@@ -2827,11 +2827,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 319,
+            "times_seen": 320,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-18 20:07:48"
+            "last_update": "2026-10-20 14:33:09"
         },
         {
             "domain": "yxtwitter.com",
@@ -2848,6 +2848,14 @@
             "typing": "Knowledge",
             "is_whitelisted": 1,
             "last_update": "2025-09-07 01:23:28"
+        },
+        {
+            "domain": "ziroeda.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 0,
+            "last_update": "2026-10-20 13:18:10"
         }
     ]
 }

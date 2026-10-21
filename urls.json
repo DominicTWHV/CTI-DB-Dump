@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3785,
+    "num_of_entries": 3793,
     "links": [
         {
             "id": 3653,
@@ -1408,6 +1408,17 @@
             "is_redirect": 0,
             "downstream_target": "https://str1x3vo.xyz/how-i-set-up-my-website",
             "last_update": "2026-05-05 20:41:57"
+        },
+        {
+            "id": 4078,
+            "url": "https://x.com/hsm_mum/status/2112175346426814617",
+            "url_hash": "0952bdc51135239c4a58d697652f44e4da122332a4f4b5e0c01d980b96f980b2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-20 22:17:50"
         },
         {
             "id": 1643,
@@ -15204,6 +15215,17 @@
             "last_update": "2025-10-01 08:35:42"
         },
         {
+            "id": 4081,
+            "url": "https://tenor.com/view/erm-aksuali-veli-vel-nerd-nerd-emoji-gif-11908435316515627035",
+            "url_hash": "5f687accdc95a3ac5d022609fe884c12f4f1318302cdbfd3823716cb5912cf60",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-21 12:45:36"
+        },
+        {
             "id": 2894,
             "url": "https://www.digikey.com/en/products/detail/anysolar-ltd/SM700K10L/9990472",
             "url_hash": "5f6f69fd5828d4123ad6ebdb8cd21c796249b84f3d98f2b40860ac3971fe4043",
@@ -18425,6 +18447,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-28 02:28:42"
+        },
+        {
+            "id": 4077,
+            "url": "https://x.com/i2cjak/status/2112575823513546966?s=20",
+            "url_hash": "73caf7b5cf862a9c6b6e74dc0274bc07ecd6e5b2a2be956c6549cb8349aff039",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-20 21:54:54"
         },
         {
             "id": 2564,
@@ -22165,6 +22198,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-04 16:45:52"
+        },
+        {
+            "id": 4080,
+            "url": "https://media1.tenor.com/m/pUNC06ehYBsAAAAC/erm-aksuali-veli.gif",
+            "url_hash": "8b685c2f31f65a242dc2bc36c6b45c2c074d12054344258325b0848caaea4761",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-21 12:45:35"
         },
         {
             "id": 62,
@@ -29119,6 +29163,17 @@
             "last_update": "2026-06-07 16:14:13"
         },
         {
+            "id": 4079,
+            "url": "https://fixvx.com/opla_tech/status/1535231815526805504/en",
+            "url_hash": "b49deaa92d2752ae9f8a5f5645387f1109fccbe1255fd71097ed84e155b54f34",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://vxtwitter.com/opla_tech/status/1535231815526805504/en",
+            "last_update": "2026-10-20 23:30:03"
+        },
+        {
             "id": 339,
             "url": "https://cdn.discordapp.com/attachments/849031301087494148/1417243920227631247/PXL_20250915_202022556.mp4?ex=68c9c6c1&is=68c87541&hm=aaa8c99a3be9914dcfeaf0bb6b40b70bf838775389e8baad76af2a18b5087428&",
             "url_hash": "b4a6159f4c499a664054741f3e1993684827039a4a07b9b68e6af425d391fcb4",
@@ -30780,6 +30835,17 @@
             "last_update": "2026-03-09 16:59:39"
         },
         {
+            "id": 4082,
+            "url": "https://klipy.com/gifs/the-scope-of-my-engineering-genius-literally-knows-no-bounds",
+            "url_hash": "bfb436a3376edf826e480d6affba5dae7f3b7e2208ad1c1704fb36a8c6700335",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/the-scope-of-my-engineering-genius-literally-knows-no-bounds",
+            "last_update": "2026-10-21 12:48:44"
+        },
+        {
             "id": 1553,
             "url": "https://tenor.com/view/wait-that-thats-is-illegal-gif-18393263",
             "url_hash": "bfbc25704481c99d393f233383eab80ae86d29d17016f5dad897c5a7e8e1a8ce",
@@ -31152,6 +31218,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-02 11:37:24"
+        },
+        {
+            "id": 4083,
+            "url": "https://klipy.com/gifs/idiots-no-intelligent-life-vEn",
+            "url_hash": "c26dd93b994d6787df53a9ee23444e7aecc78355eef8c7428827a33031aa2290",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/idiots-no-intelligent-life-vEn",
+            "last_update": "2026-10-21 14:27:08"
         },
         {
             "id": 1721,
@@ -40711,6 +40788,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-14 17:37:51"
+        },
+        {
+            "id": 4084,
+            "url": "https://cdn.discordapp.com/attachments/1101584541505830993/1562482655965085747/ScreenRecording_07-13-2026_12-31-51_1.mov?ex=6ada26de&is=6ad8d55e&hm=b5ecb64e52b2e8ec18913c0e6faa844cff1463847e311cb1ec48f7bd44af2af2&",
+            "url_hash": "fa91aeee5ec39b3c9e91516b03b968c2d818a37a403dfd4ccf4f2f8472741fdb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-21 15:08:15"
         },
         {
             "id": 998,

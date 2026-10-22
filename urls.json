@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3793,
+    "num_of_entries": 3799,
     "links": [
         {
             "id": 3653,
@@ -2530,6 +2530,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/BasilTheGreat/status/1993932398216577269",
             "last_update": "2025-12-08 13:28:16"
+        },
+        {
+            "id": 4086,
+            "url": "https://fixupx.com/CaptainInsightX/status/2112914767438590062?s=20",
+            "url_hash": "1002b190fb67f2932191f95005e3c339e334814bc13594d6e647742a8db97d91",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-22 01:45:54"
         },
         {
             "id": 2042,
@@ -12256,6 +12267,17 @@
             "last_update": "2026-02-20 09:13:26"
         },
         {
+            "id": 4088,
+            "url": "https://www.facebed.com/reel/2941596506211050",
+            "url_hash": "4a4ce6ba831af77f32b2fbd7d96445d77edc88663778e7b140070e2ca319e28f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Suspicious",
+            "is_redirect": 1,
+            "downstream_target": "https://www.facebook.com/reel/2941596506211050",
+            "last_update": "2026-10-22 01:50:19"
+        },
+        {
             "id": 1760,
             "url": "https://fixupx.com/Bubblebathgirl/status/1901458640797655291",
             "url_hash": "4a6f78717a143dd968e155aedc965cae2f28d24399a3ae99b35e8217cfc7c596",
@@ -12804,6 +12826,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-04 17:49:16"
+        },
+        {
+            "id": 4087,
+            "url": "https://www.facebook.com/share/r/1DcnmdU6sC/",
+            "url_hash": "4e9ceecaf2d99719c387d09afe64782da18b647b759a5f7dfe6e3f4abaf26a82",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-22 01:46:59"
         },
         {
             "id": 1603,
@@ -13387,6 +13420,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.foodnetwork.com/recipes/ree-drummond/spicy-italian-meatballs-2660163",
             "last_update": "2025-11-04 08:41:08"
+        },
+        {
+            "id": 4085,
+            "url": "https://cdn.discordapp.com/attachments/950399917304729651/1560547377947877547/welp.mp4?ex=6ad90b40&is=6ad7b9c0&hm=85b373d80e044975a6fa534a88489a8ffada1218f15bb462f652f0f10d1d3611&",
+            "url_hash": "529da4e1ad6e93a878c7469f8a9648a621748d8a134a3dc13a2c73cd9970a36c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-21 22:21:52"
         },
         {
             "id": 25,
@@ -34674,6 +34718,17 @@
             "last_update": "2026-02-21 14:25:18"
         },
         {
+            "id": 4089,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1562649338373472256/-6151448198957252940.mov?ex=6adac21a&is=6ad9709a&hm=351e3ec99ab90ff2f924792b91017dfe704256948a1df6f14b73f88489c94462&",
+            "url_hash": "d526b714ffb43d3bf6e24ab887d080f1e6b5299afee7955a63ca3b601b80e1a6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-22 02:36:13"
+        },
+        {
             "id": 348,
             "url": "https://cdn.discordapp.com/attachments/749825904519413830/1417605417411809431/v14044g50000d2q46jvog65h4hlcf3mg.mov?ex=68cb176d&is=68c9c5ed&hm=45ec7f1811246117eb0359ac0f9f0c2eee0da4c070fd1f0bf98dcba50a475645&",
             "url_hash": "d53638630f4a89eb1c5b5dc8457fdd5b2bd9c5cf112727b16f2750a2edf5474f",
@@ -35002,6 +35057,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-27 15:06:02"
+        },
+        {
+            "id": 4090,
+            "url": "https://www.facebed.com/share/r/1A1AL2ivHz/",
+            "url_hash": "d7779f69ab57eff792c1b7521a694c774dc826f238cc00cfe45d16075f5b3d9f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.facebook.com/reel/1548144479770016/?rdid=vCwwErL0OBPTLHXH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fr%2F1A1AL2ivHz",
+            "last_update": "2026-10-22 02:41:24"
         },
         {
             "id": 3135,

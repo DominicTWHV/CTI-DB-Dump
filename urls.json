@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3799,
+    "num_of_entries": 3803,
     "links": [
         {
             "id": 3653,
@@ -20374,6 +20374,17 @@
             "last_update": "2026-01-31 10:22:41"
         },
         {
+            "id": 4095,
+            "url": "https://tenor.com/view/pink-guy-filthy-frank-too-bad-never-rad-gif-20461749",
+            "url_hash": "80bf996aac5a7c5ecebaf3bbe8a70900f9015a3dde711ec9acb2d0f71816aa30",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-23 15:15:59"
+        },
+        {
             "id": 56,
             "url": "https://www.raspberrypi.com/products/rp2350/",
             "url_hash": "80c8f6e020debc692218c950db8d67e83cf903d8b19f6b2f69629838c45ee279",
@@ -25168,6 +25179,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-26 20:56:10"
+        },
+        {
+            "id": 4091,
+            "url": "https://www.youtube.com/watch?v=ACAd_w3D-io",
+            "url_hash": "9c2d3bc5c4d616d3ab72089271e5cf261ae436a42a8441c9cb621aad5e8ee05c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-22 17:38:06"
         },
         {
             "id": 1223,
@@ -36632,6 +36654,17 @@
             "last_update": "2026-09-29 06:12:06"
         },
         {
+            "id": 4092,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1562476569577005126/1792045434080536.mp4?ex=6ada2133&is=6ad8cfb3&hm=37513fa20c3d9ea60bb4bd64b49f4b40d61e3ca1b2df886d752a934bc9ee0008&",
+            "url_hash": "e04e11ca153576122cebabb25d876dd6359efe447d20e2ca94374b9e23383b8c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-22 21:38:20"
+        },
+        {
             "id": 82,
             "url": "https://tenor.com/view/kappa-turkishedits-twitch-twitch-emote-emote-gif-19815447",
             "url_hash": "e07d1c5990a3d6cd389c9680ad27f5d3472c4138414ba77df96b860d00672573",
@@ -40568,6 +40601,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/zackdfilms1/status/1995206843186982978?s=20",
             "last_update": "2025-12-01 00:36:52"
+        },
+        {
+            "id": 4094,
+            "url": "https://youtube.com/shorts/mimvwEetY_g",
+            "url_hash": "f93f2bc56a9e4c11cbd9273b0887b2ae9806415c9e6e7f212ead3bfb66327ce0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-23 13:35:23"
         },
         {
             "id": 854,

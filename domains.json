@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 357,
+    "num_of_entries": 358,
     "domains": [
         {
             "domain": "9cache.com",
@@ -539,11 +539,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1112,
+            "times_seen": 1118,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-19 12:04:59"
+            "last_update": "2026-10-23 21:48:13"
         },
         {
             "domain": "discordapp.net",
@@ -739,19 +739,19 @@
         },
         {
             "domain": "facebed.com",
-            "times_seen": 6,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Social Media",
+            "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-06-16 23:41:32"
+            "last_update": "2026-10-22 02:40:43"
         },
         {
             "domain": "facebook.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2025-12-08 17:58:33"
+            "last_update": "2026-10-22 01:46:59"
         },
         {
             "domain": "falstad.com",
@@ -827,19 +827,19 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 323,
+            "times_seen": 324,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-10-11 01:42:41"
+            "last_update": "2026-10-22 01:45:54"
         },
         {
             "domain": "fixvx.com",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-08-12 01:33:23"
+            "last_update": "2026-10-20 23:29:28"
         },
         {
             "domain": "flipdots.com",
@@ -1443,11 +1443,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 205,
+            "times_seen": 209,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Internet Services",
+            "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-10-18 23:59:02"
+            "last_update": "2026-10-24 14:27:20"
         },
         {
             "domain": "kmart.com.au",
@@ -2395,11 +2395,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 850,
+            "times_seen": 853,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-13 09:21:24"
+            "last_update": "2026-10-23 15:15:59"
         },
         {
             "domain": "tensorflow.org",
@@ -2416,6 +2416,14 @@
             "typing": null,
             "is_whitelisted": 0,
             "last_update": "2026-07-22 12:15:59"
+        },
+        {
+            "domain": "theguardian.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-10-24 14:03:51"
         },
         {
             "domain": "thermaltake.com",
@@ -2779,11 +2787,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 154,
+            "times_seen": 156,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-09-24 13:58:24"
+            "last_update": "2026-10-20 22:17:50"
         },
         {
             "domain": "xda-developers.com",
@@ -2795,11 +2803,11 @@
         },
         {
             "domain": "xfixup.com",
-            "times_seen": 7,
+            "times_seen": 8,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-10-13 23:42:24"
+            "last_update": "2026-10-23 00:12:04"
         },
         {
             "domain": "xhscdn.com",
@@ -2827,11 +2835,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 320,
+            "times_seen": 322,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-20 14:33:09"
+            "last_update": "2026-10-23 13:35:23"
         },
         {
             "domain": "yxtwitter.com",

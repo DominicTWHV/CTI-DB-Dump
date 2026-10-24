@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3803,
+    "num_of_entries": 3807,
     "links": [
         {
             "id": 3653,
@@ -15490,6 +15490,17 @@
             "last_update": "2025-08-19 05:54:24"
         },
         {
+            "id": 4098,
+            "url": "https://klipy.com/gifs/kermit-say-what-jzG",
+            "url_hash": "60ae59e1936de785edf50dfc0ba51ed6fa5a90f3b276341bf2f0659453d395bc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/kermit-say-what-jzG",
+            "last_update": "2026-10-23 22:02:16"
+        },
+        {
             "id": 424,
             "url": "https://www.youtube.com/watch?v=0_xGYzWXjmQ",
             "url_hash": "60ca99fea5699f64a2599b5db7e82ab0d4b517f65e370993c2d7ba6e55886aa5",
@@ -29207,6 +29218,17 @@
             "last_update": "2026-05-08 18:30:58"
         },
         {
+            "id": 4096,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1563277083072008353/VID20261023182053.mp4?ex=6add0abc&is=6adbb93c&hm=036d6a606101631fceb02900b21f138fa98e7ade53db265bb6259e255d99eba8&",
+            "url_hash": "b48eaee6831b04647b3fb9782923a56a88303072ffe3f2da9bce48fbe252449f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-23 19:45:01"
+        },
+        {
             "id": 1315,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1448311539143540817/1247283_523882697681439_1058395525_n.mp4?ex=693accbb&is=69397b3b&hm=089136ce7690d4505e5b482aac3a8086b53fd4bb5d9c584d879e316a92f970a1&",
             "url_hash": "b49059eaafb57c0ea2016ab29293593ea3a2d7d1b2c4f4f4272233fbbe5d6423",
@@ -32175,6 +32197,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-29 15:58:04"
+        },
+        {
+            "id": 4097,
+            "url": "https://cdn.discordapp.com/attachments/1278480441309003860/1562730718554099752/rapidsave.com_jobsite_pranks_are_getting_out_of_hand-qn3f3edhtvwh1.mp4?ex=6adbb6a5&is=6ada6525&hm=cbedfb193c69545dd760329b854c7805b35a49a6c09dde2495b9b3f64ee40196&",
+            "url_hash": "c7aa6051444463077900f9aa31d0ad74ebe93c5d19e25fdb05e3dadfd00ec697",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-23 21:48:13"
         },
         {
             "id": 124,
@@ -38170,6 +38203,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/nicksortor/status/1994463716486602760",
             "last_update": "2025-11-30 01:03:09"
+        },
+        {
+            "id": 4100,
+            "url": "https://klipy.com/gifs/this-fine-4",
+            "url_hash": "eb700c03a74b32fa77debe8e72f6595db7e1f17b995519e2d040997aa0fbcad9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/this-fine-4",
+            "last_update": "2026-10-24 14:28:18"
         },
         {
             "id": 1043,

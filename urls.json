@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3820,
+    "num_of_entries": 3831,
     "links": [
         {
             "id": 3653,
@@ -8747,6 +8747,17 @@
             "last_update": "2026-06-07 14:40:06"
         },
         {
+            "id": 4122,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1564152212043866162/ScreenRecording_09-21-2026_08-30-34_1.mov?ex=6ae039c3&is=6adee843&hm=46562c65372604db2f96de6b72e0bfbe87e0531fc18d390da4d1485e605ff0ce&",
+            "url_hash": "36126a632f30312354c008f569fca6178f74c2b84decf627526db041353ae038",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 05:42:28"
+        },
+        {
             "id": 1891,
             "url": "https://www.kkinstagram.com/reel/DUnk-0lEhAi/",
             "url_hash": "365893ea1d15f2748b0ddead5f00cb13406df8c433d3d23dda771aa23fe0d36f",
@@ -10232,6 +10243,17 @@
             "last_update": "2025-10-11 21:03:40"
         },
         {
+            "id": 4117,
+            "url": "https://youtu.be/wiTGuvSBNP4",
+            "url_hash": "3e0835d208449879b826a34f65f8054bbc0d6a1f35f68e805c0a703fe335827a",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-25 15:51:41"
+        },
+        {
             "id": 313,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1416398788993617992/20250913_162239.mp4?ex=68c6b3aa&is=68c5622a&hm=009969b0fed78b1aaabd0bdfa7af4ec91ae99e456269a16190ae07c7c6912667&",
             "url_hash": "3e12908f30dca80f848b17cd52dc4192e2c17b14edf1bd9a2fba64f0f62c9f3d",
@@ -10560,6 +10582,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-19 17:08:43"
+        },
+        {
+            "id": 4123,
+            "url": "https://de.aliexpress.com/item/1005012880253659.html",
+            "url_hash": "4016961537b9b690da58619ca669d03203f71a177ce615a22f72cc5f6b59c25d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 06:46:06"
         },
         {
             "id": 1367,
@@ -21133,6 +21166,17 @@
             "last_update": "2026-03-16 16:38:52"
         },
         {
+            "id": 4121,
+            "url": "https://fixupx.com/Araneafilia/status/2114409373300834406",
+            "url_hash": "84b2eb21ce3062097cdc8eb62ffaa683d1b95962626ec99a80eed0ade19c5a9c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 00:45:16"
+        },
+        {
             "id": 3325,
             "url": "https://www.kkinstagram.com/reel/DXMpn5-kx2w/?igsh=MTB4OG9jNWl5bXJ0OA==",
             "url_hash": "84b3dcb98b8bab298a7a1e8f6e453a6ee45589121c2e3d5389f5cc3db0cae663",
@@ -26369,6 +26413,17 @@
             "last_update": "2026-08-24 22:56:36"
         },
         {
+            "id": 4119,
+            "url": "https://youtube.com/shorts/dXDbss8CnCw",
+            "url_hash": "a27db6438d8f651d32e03e5ff6e3db753b33d5096b0d444f5ff545eb6387771f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-25 21:16:53"
+        },
+        {
             "id": 2147,
             "url": "https://fixupx.com/EricLDaugh/status/2030744197339189273",
             "url_hash": "a2b02077bf3bf10112fd5ce31de093d7eb3290abeb16d5008a5361ca88595fb3",
@@ -28767,6 +28822,17 @@
             "last_update": "2026-08-31 14:38:56"
         },
         {
+            "id": 4126,
+            "url": "https://klipy.com/gifs/head-ache-5",
+            "url_hash": "b116b4091e8074b1535e636d91e45f658df0ebea87e73d30b18ebddd269222f1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/head-ache-5",
+            "last_update": "2026-10-26 15:30:50"
+        },
+        {
             "id": 1753,
             "url": "https://tenor.com/view/screaming-angry-ayfkm-alice-inwonderland-gif-5315115",
             "url_hash": "b11e4cf5d16e5a7cfcb109cb81a196653e6a1e2bee7058d4ee85aa1004b0059e",
@@ -30340,6 +30406,17 @@
             "last_update": "2026-01-01 10:49:17"
         },
         {
+            "id": 4118,
+            "url": "https://klipy.com/gifs/dianna-agron-let-me-watch-this",
+            "url_hash": "bb25bc827957214bd1882a333cb0dc76c47fd61a09eb57465f4937df51ffaea1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/dianna-agron-let-me-watch-this",
+            "last_update": "2026-10-25 15:54:25"
+        },
+        {
             "id": 1055,
             "url": "https://pe-basics.com",
             "url_hash": "bb26f5c843b404d29162cbe7a76854e88cad9397afbc6ef2ea7826039b98fad3",
@@ -30681,6 +30758,17 @@
             "last_update": "2025-11-13 12:03:48"
         },
         {
+            "id": 4120,
+            "url": "https://tenor.com/view/electroboom-electrolytic-capacitor-explosion-electroboom-electrolytic-capacitor-explosion-unexpected-funny-gif-5008529604251770741",
+            "url_hash": "bd5c3b5b53f70cd6053ca41de642bbf856760d39ab6d2efb0c8498139b8f0348",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 00:37:17"
+        },
+        {
             "id": 1893,
             "url": "https://www.youtube.com/watch?v=oA85M9JHsW0",
             "url_hash": "bd63a70ee08d1062e243e9bbb78c918f997659390f07c8a78e19fcd10ff47ebe",
@@ -31020,6 +31108,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-20 11:30:35"
+        },
+        {
+            "id": 4124,
+            "url": "https://klipy.com/gifs/yuji-11",
+            "url_hash": "bf716116ba07cd7fba4f216a442f9b78c35fd431477df7bc8fc120ef7f797726",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/yuji-11",
+            "last_update": "2026-10-26 15:24:58"
         },
         {
             "id": 2844,
@@ -35519,6 +35618,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-04 16:56:54"
+        },
+        {
+            "id": 4125,
+            "url": "https://en.wikipedia.org/wiki/Voyager_Golden_Record",
+            "url_hash": "d913f3065c05c9841c6776cf615d9a01fec46e7789c8f062a19b8218c863d3bf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 15:26:52"
         },
         {
             "id": 3302,
@@ -41943,6 +42053,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-26 10:19:27"
+        },
+        {
+            "id": 4127,
+            "url": "https://klipy.com/gifs/speed-ishowspeed-67",
+            "url_hash": "ff9133cb9f5d3bfab74f45b4ccb1039426342fb036c90afb3e13ba63fc12d320",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/speed-ishowspeed-67",
+            "last_update": "2026-10-26 15:35:29"
         },
         {
             "id": 777,

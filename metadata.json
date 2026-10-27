@@ -1,5 +1,5 @@
 {
-    "last_update": "2026-10-26T15:41:29.759653+00:00",
+    "last_update": "2026-10-27T15:41:31.268326+00:00",
     "remote_update_interval_minutes": 1440,
     "dataset_format": "cockatoo-core",
     "dataset_author": "DominicTWHV",
@@ -17,8 +17,8 @@
         "files": "sha256",
         "domains": "none"
     },
-    "num_of_url_entries": 3831,
-    "num_of_file_entries": 1023,
+    "num_of_url_entries": 3841,
+    "num_of_file_entries": 1025,
     "num_of_domain_entries": 359,
     "num_of_invite_entries": 34,
     "file_mapping": {

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3831,
+    "num_of_entries": 3841,
     "links": [
         {
             "id": 3653,
@@ -1223,6 +1223,17 @@
             "last_update": "2026-06-10 21:04:05"
         },
         {
+            "id": 4130,
+            "url": "https://www.kkinstagram.com/reel/De8QX7ExKlu/?cplk=aXR4dGdobGticzV0",
+            "url_hash": "0805cadaa3daac9fdf5280a3f26636db79f932a218ead746d0016e5021d63238",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 16:00:44"
+        },
+        {
             "id": 564,
             "url": "https://icubesmart.com/products/icubesmart-3d16rgb-led-cube-kit-full-color-16x16x16rgb-cube-diy-electronic-kits",
             "url_hash": "0812c573c00b5a067926106826d7ca80de01205e3fc92f013b105c7f3c482e9c",
@@ -1452,6 +1463,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/clint-eastwood-byebye",
             "last_update": "2026-09-29 14:06:45"
+        },
+        {
+            "id": 4133,
+            "url": "https://cdn.discordapp.com/attachments/849031301087494148/1562986377522712666/Screenshot_20261022-2029272.jpg?ex=6adbfbff&is=6adaaa7f&hm=5afefe1411c43e22222f01c7d05e8d4431f1052e4353ec2d65dcbb9f5be30b6c&",
+            "url_hash": "097d0c8862b3b4ef73d022502daa8e835f3bd3c2a38fd860bc80d3020c510b33",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 22:53:44"
         },
         {
             "id": 129,
@@ -3707,6 +3729,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-26 07:07:31"
+        },
+        {
+            "id": 4131,
+            "url": "https://klipy.com/gifs/chill-guy-my-new-character",
+            "url_hash": "16f6d5ce1e5c714621502bedf5af998360829cc33eebcdcee7098dbafa9ea9be",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/chill-guy-my-new-character",
+            "last_update": "2026-10-26 16:21:25"
         },
         {
             "id": 3933,
@@ -9088,6 +9121,17 @@
             "last_update": "2025-11-03 13:43:25"
         },
         {
+            "id": 4137,
+            "url": "https://fixupx.com/DonJulioFrausto/status/2114566655627927864",
+            "url_hash": "37b7ef6fac23bdc2b461f61537fc1e11a45853a3bf23b802b2194f77cc7f354b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-27 10:49:46"
+        },
+        {
             "id": 3395,
             "url": "https://fixupx.com/tokumi_robo/status/2084230029790306448?s=20",
             "url_hash": "37c7f35539493c9cacd6a1b7bda64c3e83bf71406a6307421d0aff84c9fc0b72",
@@ -13433,6 +13477,17 @@
             "last_update": "2026-03-10 16:29:05"
         },
         {
+            "id": 4132,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1564320762234675251/Minecraft_Theme_10262026-24_FPS_H264.mov?ex=6ae0d6bd&is=6adf853d&hm=512a0a30604d09aba43c9378f737e346a75a3356a958f682135fa4202375ddb8&",
+            "url_hash": "51afdac5bb8e14c50fae19f290a6d8faf8e29c4079c3de496e4424a747e8316b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 16:52:17"
+        },
+        {
             "id": 3335,
             "url": "https://www.youtube.com/watch?v=vEA7i3CGkLA",
             "url_hash": "51b9fcb3e9874bff65527d721e78ca6481e162340460bf9be5c46d74c83da664",
@@ -16909,6 +16964,17 @@
             "last_update": "2025-09-19 02:38:28"
         },
         {
+            "id": 4135,
+            "url": "https://fixupx.com/Tia_Marocas/status/2114792765477310478",
+            "url_hash": "693d4b14dfc8d4e3627ca77a79c3b4ce355332c83d860dbcd122156771e2f129",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-27 00:37:21"
+        },
+        {
             "id": 2140,
             "url": "https://mozelectronics.com/tutorials/esp32-c6-vs-esp32-s3-soc-comparison/",
             "url_hash": "69476acd365a4cdfc967c28f31faaba42f9a19cc5741d81ad1b04fab539799e5",
@@ -18020,6 +18086,17 @@
             "last_update": "2026-01-22 14:12:35"
         },
         {
+            "id": 4134,
+            "url": "https://discord.com/channels/1074967630357725204/1235922456896606278",
+            "url_hash": "701ab48f1501cb231cd9cc847929f6d4bb7f5047a0d7e5bd1eb649c25d4351b2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 23:41:49"
+        },
+        {
             "id": 4041,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1560399123482411098/1032806.mp4?ex=6ad2926d&is=6ad140ed&hm=f2355b961fc07314837b2fbcf82ede54e38bef3eecaff936e9e2162be45e8f7a&",
             "url_hash": "704356cea4e2f488b1dbedd66e26872b82bf24797cfbbd18604716fe49eba6ae",
@@ -18986,6 +19063,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-22 23:10:38"
+        },
+        {
+            "id": 4128,
+            "url": "https://www.kkinstagram.com/reel/De7eyLlTN7i/?vrfl=MnM5a2NicHE4Z2hm",
+            "url_hash": "758dd74f4f5c8d19e33356053e2c3681b771f3373a5bc15bf3688081d00bcd33",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-26 15:47:49"
         },
         {
             "id": 3215,
@@ -20531,12 +20619,12 @@
             "id": 4095,
             "url": "https://tenor.com/view/pink-guy-filthy-frank-too-bad-never-rad-gif-20461749",
             "url_hash": "80bf996aac5a7c5ecebaf3bbe8a70900f9015a3dde711ec9acb2d0f71816aa30",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-10-23 15:15:59"
+            "last_update": "2026-10-27 10:36:54"
         },
         {
             "id": 56,
@@ -22211,6 +22299,17 @@
             "last_update": "2026-04-04 16:55:30"
         },
         {
+            "id": 4129,
+            "url": "https://klipy.com/gifs/joe-rogan-surprised",
+            "url_hash": "8a446a5cd917d48d15524f8c9fd74e11ca1a50d6c5a7185e4032e1d9d16c3988",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/joe-rogan-surprised",
+            "last_update": "2026-10-26 15:56:06"
+        },
+        {
             "id": 3474,
             "url": "https://klipy.com/gifs/twijfel-2",
             "url_hash": "8a46ef710a5172544b314b7154c5eb894db9ca0c4ed01e1825ad0f6821be6fb8",
@@ -23771,6 +23870,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-10 00:14:19"
+        },
+        {
+            "id": 4136,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1563312540262334514/redvid_io_hell_of_a_sewing_machine.mp4?ex=6add2bc2&is=6adbda42&hm=9eb5913d79afb3e516f718628d26106cce69c198b29c0fd8615510f848e59c92&",
+            "url_hash": "936d4cf6261b0773cc85e518306d075689b67e646418b72c41cbec6894650909",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-27 02:00:54"
         },
         {
             "id": 2753,

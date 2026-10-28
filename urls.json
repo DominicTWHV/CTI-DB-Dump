@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3841,
+    "num_of_entries": 3857,
     "links": [
         {
             "id": 3653,
@@ -3071,6 +3071,17 @@
             "last_update": "2026-10-11 01:42:41"
         },
         {
+            "id": 4141,
+            "url": "https://www.notebookcheck.net/Lenovo-Yoga-Slim-7-laptop-with-AMD-Ryzen-7-4800U-to-finally-go-on-sale-on-May-16.463719.0.html",
+            "url_hash": "12ad4bb0299efc7c3c18651323357b295239401a93069721137d6fb82a1c6019",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.notebookcheck.net/Lenovo-Yoga-Slim-7-laptop-with-AMD-Ryzen-7-4800U-to-finally-go-on-sale-on-May-16.463719.0.html",
+            "last_update": "2026-10-27 21:12:07"
+        },
+        {
             "id": 2303,
             "url": "https://www.youtube.com/watch?v=IAoVDOkNq3k",
             "url_hash": "12b8600e9c363fc8b525fdf3f64b6ed3f0c393016a1b84ba4e8689398af07cbd",
@@ -5632,6 +5643,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-05 20:54:00"
+        },
+        {
+            "id": 4142,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1564749576349679696/you_dont_make_my_dreams.mov?ex=6ae2661a&is=6ae1149a&hm=78820477b2c47e089071d90d7de3b29b6ad5138221f16f036710db5786db8e1f&",
+            "url_hash": "22cc7466dc125f99f8cba229a2e407ec0fb5d4d1bd2d35880210b452db9edafe",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-27 21:16:12"
         },
         {
             "id": 1597,
@@ -8450,6 +8472,17 @@
             "last_update": "2025-10-08 11:29:55"
         },
         {
+            "id": 4148,
+            "url": "https://klipy.com/gifs/madagscar-penguins-7",
+            "url_hash": "34223d08b305e5341e42baa43c34defc6916563f31a0fcfdb02bdff9f7e2c7a9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Suspicious",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/madagscar-penguins-7",
+            "last_update": "2026-10-28 00:38:47"
+        },
+        {
             "id": 1785,
             "url": "https://www.tomshardware.com/pc-components/cpus/china-made-loongson-12-core-chip-is-approximately-three-times-slower-than-six-core-ryzen-5-9600x-3b6000-hampered-by-low-clock-speeds-in-linux-benchmarks",
             "url_hash": "344040c4313c55af94407f5b7331091a1c3a4dd23c6785f07e637bd157a74993",
@@ -9740,12 +9773,12 @@
             "id": 3891,
             "url": "https://klipy.com/gifs/catjam-disco",
             "url_hash": "3b094aec6568e6c6288d7a77f67c57b834e44b13973c5c4cb17a39c4b9766648",
-            "times_seen": 3,
+            "times_seen": 4,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/catjam-disco",
-            "last_update": "2026-10-16 16:03:59"
+            "last_update": "2026-10-27 21:11:35"
         },
         {
             "id": 150,
@@ -11387,6 +11420,17 @@
             "last_update": "2025-08-11 07:49:38"
         },
         {
+            "id": 4156,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1564862768665075763/VID_20261013_235850.mp4?ex=6ae2cf85&is=6ae17e05&hm=7a588d139323f73cf9fee8da9547684ad292634756719375eb64a273e3a627e4&",
+            "url_hash": "447a09b52af92923daf067be3c3b45e6d7cc482e1cebd38345f43f7695fd3952",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-28 04:45:58"
+        },
+        {
             "id": 1749,
             "url": "https://cdn.discordapp.com/attachments/1077234878166347887/1467929644249383075/20260201_201955.mp4?ex=69822b84&is=6980da04&hm=42e5d2e3a91c1b6f57f6955c4cf33fea521ed2d14d9917c608831c79951226e2&",
             "url_hash": "448279cd4e8cd795975a2a13fab8fc1bfc5c6330fbaeb741fb9bb84aa1988273",
@@ -11473,6 +11517,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-24 22:44:41"
+        },
+        {
+            "id": 4145,
+            "url": "https://klipy.com/gifs/lock-in-cat-locks-in",
+            "url_hash": "451a67ad18207e5ebc2be7acf6695e7429c5f24f33c46eb69d9d5d10b814eb3a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/lock-in-cat-locks-in",
+            "last_update": "2026-10-27 22:12:09"
         },
         {
             "id": 536,
@@ -12476,6 +12531,17 @@
             "last_update": "2026-09-03 03:43:56"
         },
         {
+            "id": 4151,
+            "url": "https://x.com/malwarebytes/status/2115206474192339322?a=mOIsChaQyZGpdGWkGxo&s=46",
+            "url_hash": "4a8b5897de06df2206cceb0d39492fd1a3f2b391e51ae11d0759c5423f72738c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-28 01:18:21"
+        },
+        {
             "id": 1040,
             "url": "https://www.falstad.com/circuit/circuitjs.html",
             "url_hash": "4aa4c090d618712922326f3b4ed030913452acd50e8db771af2c09bc89e9f768",
@@ -13233,6 +13299,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-08-08 11:42:34"
+        },
+        {
+            "id": 4154,
+            "url": "https://www.facebed.com/share/r/1JjLsoX7wm/",
+            "url_hash": "4f96a224db96b26d9a7035a2c65136575ae67ab03bd79b999d66b91001a31b25",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.facebook.com/reel/1070973205971846/?rdid=KfchnTNkpZiLGxDp&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fr%2F1JjLsoX7wm",
+            "last_update": "2026-10-28 03:41:17"
         },
         {
             "id": 92,
@@ -16788,6 +16865,17 @@
             "last_update": "2025-10-19 07:07:25"
         },
         {
+            "id": 4140,
+            "url": "https://klipy.com/gifs/what-what-the-7",
+            "url_hash": "67f5bc7cccc551cd75622100adb75c8d2fd800309c0ee2cb4087d52e67ec842b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/what-what-the-7",
+            "last_update": "2026-10-27 18:33:55"
+        },
+        {
             "id": 1930,
             "url": "https://fixupx.com/libsoftiktok/status/2014789035672195385/video/1",
             "url_hash": "6802aeb51f555cead8d8225a654a3601a65a2613a30124d06fe4e830932ea36a",
@@ -17204,6 +17292,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-25 14:57:46"
+        },
+        {
+            "id": 4150,
+            "url": "https://huggingface.co/datasets/DominicTWHV/Cockatoo-Moderation-V1",
+            "url_hash": "6abc77e2c5cb06a605a39d1e711949526ab35d236675d37d8856b2aafe08d063",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://huggingface.co/datasets/DominicTWHV/Cockatoo-Moderation-V1",
+            "last_update": "2026-10-28 00:49:32"
         },
         {
             "id": 3271,
@@ -23498,6 +23597,17 @@
             "last_update": "2026-08-28 01:51:34"
         },
         {
+            "id": 4152,
+            "url": "https://media1.tenor.com/m/WIER6M3u4tcAAAAC/peter-thiel-palantir.gif",
+            "url_hash": "90f84ee0a91320ec881078950c6461d579cc259215d371ed2b601e10109a850f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-28 03:28:35"
+        },
+        {
             "id": 2919,
             "url": "https://cdn.discordapp.com/attachments/426116061415342080/1507174829776961587/Air_Horn_Sprayer_downloadfile-23.mp4?ex=6a10f171&is=6a0f9ff1&hm=0d9fc91b90b5684238d0c9c6735029a029ced9f30e179278535e24f20a8446fe&",
             "url_hash": "90feb90f74ab65d9d61dd1df5cd9a7c4195441eb801095fde8c5e8fb425ae166",
@@ -28138,6 +28248,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-11 03:21:41"
+        },
+        {
+            "id": 4149,
+            "url": "https://cdn.discordapp.com/attachments/828757482717315162/1563598133282209872/VID_20261024_041734_174.mp4?ex=6ae0d8bd&is=6adf873d&hm=954f4fbd01830d230134fc72ad38003b60a8769c2928381bd543e5186962ff9d&",
+            "url_hash": "ac89e089d304e129c159e4bd1860c9172419837e78aedfccb6f5c80c9dbe8b1f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-28 00:47:23"
         },
         {
             "id": 1833,
@@ -37193,6 +37314,17 @@
             "last_update": "2025-10-31 19:03:42"
         },
         {
+            "id": 4153,
+            "url": "https://tenor.com/view/peter-thiel-palantir-ai-surveillance-freedom-gif-6377398238918402775",
+            "url_hash": "e19a4acc47c55bab2e51fdeb6ffaee049a87e8a9705ac16da2524dedf51772dc",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-28 03:28:35"
+        },
+        {
             "id": 1725,
             "url": "https://all3dp.com/4/not-just-another-green-prusa-launches-skoda-green-filament-collaboration/",
             "url_hash": "e1bda575184a309f9c020350eea1c110480289dff4e409ba090e7c494e20356f",
@@ -38060,6 +38192,17 @@
             "is_redirect": 0,
             "downstream_target": "https://videocardz.com/newz/colorful-launches-modt-desktop-motherboard-equipped-with-24-core-i9-13900hx-raptor-lake-cpu",
             "last_update": "2026-04-25 04:17:54"
+        },
+        {
+            "id": 4147,
+            "url": "https://klipy.com/gifs/bubbles-finding-nemo-3",
+            "url_hash": "e86b7cf8f2728215aab254bbc2b1152fe25d27498fed6a9b0c5da304f02eebd8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/bubbles-finding-nemo-3",
+            "last_update": "2026-10-28 00:33:13"
         },
         {
             "id": 3622,
@@ -40405,6 +40548,17 @@
             "last_update": "2026-07-23 14:46:25"
         },
         {
+            "id": 4144,
+            "url": "https://cdn.discordapp.com/attachments/426116061415342080/1563952180740755656/Screenshot_20261025-102621-951.png?ex=6ae0d0f8&is=6adf7f78&hm=c60f25a1d3f1abdb46b3852b08da683bc5e8ef11f6731b20114cf99651d3a2b9&",
+            "url_hash": "f63d7aa51b14def9d3c7e6232bb27a825f12bd289dbcb49198676dbc8d79f25d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-27 21:56:52"
+        },
+        {
             "id": 2843,
             "url": "https://tenor.com/view/spammer-gif-8416738828200890433",
             "url_hash": "f641d0bd9652833f99a5776c8d7c9b474dfb6d5963f9a78ae0413ae543b6a6dc",
@@ -40953,6 +41107,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/ShitpostGate/status/2014525996183982563?s=20",
             "last_update": "2026-01-23 12:27:20"
+        },
+        {
+            "id": 4139,
+            "url": "https://youtu.be/XnzkC2q-iGI",
+            "url_hash": "f91cd269736a52dcb67b68ecca6be4cfc3020d1cf6c6d92b5e5816d8aa0a0fc3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-27 18:22:09"
         },
         {
             "id": 3230,
@@ -41877,6 +42042,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-07-13 20:28:55"
+        },
+        {
+            "id": 4155,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1564846520413462578/B.mp4?ex=6ae2c063&is=6ae16ee3&hm=c81068ce24172d29cd41b7be26f4c5d9d96c610c05e5ffbe7177f6074114e5c7&",
+            "url_hash": "fddd6c2ce62524cb71a5776e3d9407ee59a3c8a40dd776b492ce5d7945312902",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-28 03:41:24"
         },
         {
             "id": 243,

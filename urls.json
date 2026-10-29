@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3857,
+    "num_of_entries": 3864,
     "links": [
         {
             "id": 3653,
@@ -2420,6 +2420,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-21 18:54:35"
+        },
+        {
+            "id": 4163,
+            "url": "https://klipy.com/gifs/stranger-things-season4-murray",
+            "url_hash": "0f33696044a7638f6832678c7c92909e266e38e6d83a9686c072019fc24ea97c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/stranger-things-season4-murray",
+            "last_update": "2026-10-29 12:45:50"
         },
         {
             "id": 3914,
@@ -6578,6 +6589,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-16 15:41:38"
+        },
+        {
+            "id": 4157,
+            "url": "https://www.kkinstagram.com/reel/De9lSTLE6mB/?mdxt=MWY2M3gwa2hjd3Z2bw==",
+            "url_hash": "286906a5e2e673a5bbfecebc82cf06fbc22ee2551702027ccc17cab9949c1439",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-28 17:01:29"
         },
         {
             "id": 2716,
@@ -11033,6 +11055,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-06-04 21:54:54"
+        },
+        {
+            "id": 4159,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1565325357517906071/IMG_4181.mov?ex=6ae47e57&is=6ae32cd7&hm=fd39890928b65638192ccced30be58c350fa6712bd8a2f75d5c91d9bc6a7ba62&",
+            "url_hash": "42663bf1a60b1a86775dabfe035d976e7988cd2ad1d94c67cce5e9966f85f81f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-29 11:24:08"
         },
         {
             "id": 936,
@@ -22112,6 +22145,17 @@
             "last_update": "2026-02-17 18:13:31"
         },
         {
+            "id": 4158,
+            "url": "https://fxtwitter.com/MrNoob43/status/2115202493143523658?a=bApq2tT-RPCfc92gjAw&s=20",
+            "url_hash": "888abac1b0032bd62d83ef6002ed4ab598c004bc36032b4a928a21cbecdf5f58",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-28 23:53:23"
+        },
+        {
             "id": 3847,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1550916557964705802/IMG_5409.mov?ex=6ab0131a&is=6aaec19a&hm=74bbb5b4161c0fb688beffb4d50486ce67c3115098b0552c320d5dfafd7d6b07&",
             "url_hash": "889b7d9c2418955229e761824eca40ef716e07762a9098a9bedd3238697ba3d0",
@@ -24970,6 +25014,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-15 08:37:11"
+        },
+        {
+            "id": 4164,
+            "url": "https://x.com/M0ATH/status/2115746284686786727?a=q6n3UfA2DDqGFK_bYQk&s=19",
+            "url_hash": "993679aff12de33fb5c14059a4eaf156d9465e49f3f24f75958a999b7d276558",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-29 15:15:02"
         },
         {
             "id": 994,
@@ -32551,6 +32606,17 @@
             "last_update": "2026-08-02 15:31:28"
         },
         {
+            "id": 4162,
+            "url": "https://www.kkinstagram.com/reel/DfDfkecI0z3/",
+            "url_hash": "c712e4477c0a70edfee985dd54d2a18d01bcbe646b1edc085a5b1b5bfd747906",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-29 12:35:36"
+        },
+        {
             "id": 2608,
             "url": "https://youtu.be/5ax9zW0w_gY",
             "url_hash": "c71605a987e0072d1b7821361c581c5fef71801884d120918a6eb2ba9325419f",
@@ -39127,6 +39193,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-08-08 11:21:04"
+        },
+        {
+            "id": 4161,
+            "url": "https://klipy.com/gifs/iugh-iugh-jobs",
+            "url_hash": "edb6fe7d92139dc3aefb7d08a168ab399239e0a3ad3b0c9929d23e05f2a0a7e5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/iugh-iugh-jobs",
+            "last_update": "2026-10-29 12:28:04"
         },
         {
             "id": 429,

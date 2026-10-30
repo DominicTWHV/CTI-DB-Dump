@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 361,
+    "num_of_entries": 362,
     "domains": [
         {
             "domain": "9cache.com",
@@ -474,6 +474,14 @@
             "last_update": "2025-09-03 04:54:46"
         },
         {
+            "domain": "cunnyx.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-10-29 18:23:25"
+        },
+        {
             "domain": "curseforge.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -547,11 +555,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1136,
+            "times_seen": 1138,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-28 04:45:58"
+            "last_update": "2026-10-30 14:53:47"
         },
         {
             "domain": "discordapp.net",
@@ -947,11 +955,11 @@
         },
         {
             "domain": "fxtwitter.com",
-            "times_seen": 10,
+            "times_seen": 11,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-10-04 03:04:26"
+            "last_update": "2026-10-28 23:53:23"
         },
         {
             "domain": "gadgetcity.com.au",
@@ -1419,11 +1427,11 @@
         },
         {
             "domain": "kkinstagram.com",
-            "times_seen": 124,
+            "times_seen": 126,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-10-26 16:00:44"
+            "last_update": "2026-10-29 12:35:36"
         },
         {
             "domain": "kktiktok.com",
@@ -1451,11 +1459,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 223,
+            "times_seen": 227,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
+            "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2026-10-28 00:38:19"
+            "last_update": "2026-10-30 14:26:30"
         },
         {
             "domain": "kmart.com.au",
@@ -2811,11 +2819,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 157,
+            "times_seen": 159,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-10-28 01:18:21"
+            "last_update": "2026-10-29 23:52:18"
         },
         {
             "domain": "xda-developers.com",
@@ -2827,11 +2835,11 @@
         },
         {
             "domain": "xfixup.com",
-            "times_seen": 8,
+            "times_seen": 9,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Social Media",
+            "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-10-23 00:12:04"
+            "last_update": "2026-10-30 13:58:18"
         },
         {
             "domain": "xhscdn.com",
@@ -2859,11 +2867,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 323,
+            "times_seen": 324,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-25 21:16:53"
+            "last_update": "2026-10-29 22:58:07"
         },
         {
             "domain": "yxtwitter.com",

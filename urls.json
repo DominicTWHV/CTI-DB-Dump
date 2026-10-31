@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3868,
+    "num_of_entries": 3879,
     "links": [
         {
             "id": 3653,
@@ -4510,6 +4510,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/aaronpaul-aaron-1",
             "last_update": "2026-08-15 06:02:12"
+        },
+        {
+            "id": 4175,
+            "url": "https://www.youtube.com/watch?v=1k8QweswoJ4",
+            "url_hash": "1b8c9e01a09810a37501cdd9de75b6c2f58b8f526786799fef3fd6a171990b71",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-30 22:29:42"
         },
         {
             "id": 535,
@@ -17352,12 +17363,12 @@
             "id": 4150,
             "url": "https://huggingface.co/datasets/DominicTWHV/Cockatoo-Moderation-V1",
             "url_hash": "6abc77e2c5cb06a605a39d1e711949526ab35d236675d37d8856b2aafe08d063",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://huggingface.co/datasets/DominicTWHV/Cockatoo-Moderation-V1",
-            "last_update": "2026-10-28 00:49:32"
+            "last_update": "2026-10-31 00:33:31"
         },
         {
             "id": 3271,
@@ -21199,6 +21210,17 @@
             "last_update": "2025-11-02 11:09:06"
         },
         {
+            "id": 4181,
+            "url": "https://tenor.com/view/hikikomari-terakomari-obsessed-photos-pajamas-gif-424130787488817443",
+            "url_hash": "83319bbf9a9695b29ea3109aad5c0170731817958e7287bcbdc555298c4f4af9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-31 11:11:19"
+        },
+        {
             "id": 2415,
             "url": "https://youtu.be/2zpCOYkdvTQ",
             "url_hash": "8340f9bce3a8ae61157bfe8efa89609874370361fbfa2c68dcb49c2e0d5afdc5",
@@ -21285,6 +21307,17 @@
             "is_redirect": 1,
             "downstream_target": "https://imgur.com/gallery/4PfZlkr",
             "last_update": "2026-05-11 21:39:44"
+        },
+        {
+            "id": 4171,
+            "url": "https://cdn.discordapp.com/attachments/1160679483943174205/1565802505110167784/IMG_20261030_195250.jpg?ex=6ae63ab8&is=6ae4e938&hm=f0eaf0b69f98638eac3e3356fc55e237fef3f299a07a7cc834f86af75235bb7d&",
+            "url_hash": "83ea1619d4f4bf08ba52ad529782564feb0ed66b10c32decd2266c53cbc16a4d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-30 19:00:19"
         },
         {
             "id": 3991,
@@ -24618,6 +24651,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-12 14:54:57"
+        },
+        {
+            "id": 4180,
+            "url": "https://kagi.com/",
+            "url_hash": "968134cbec6080bb9ea876c591289a5a3f0fa147369a58d533afea712d1da56f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://kagi.com/",
+            "last_update": "2026-10-31 10:55:02"
         },
         {
             "id": 2793,
@@ -28998,6 +29042,17 @@
             "last_update": "2026-09-20 18:56:37"
         },
         {
+            "id": 4178,
+            "url": "https://klipy.com/gifs/talk-about-slavery-servant",
+            "url_hash": "b02604589520a47292c8e0b09fc9297a37553cd0b79b4271684d08a73eac1dce",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/talk-about-slavery-servant",
+            "last_update": "2026-10-31 00:30:04"
+        },
+        {
             "id": 3139,
             "url": "https://cdn.discordapp.com/attachments/835645409765621761/1512806400018088097/VID_20260606_090900_755.mp4?ex=6a329d40&is=6a314bc0&hm=e7c6272fc006f2d01983d7783422a2efd3e9366a7fefe13357fdeabc964f0fe0&",
             "url_hash": "b02bdc3935be083113e95311460e29128926e02016b481a89daff3819a9e3149",
@@ -30252,6 +30307,17 @@
             "last_update": "2026-03-31 14:12:11"
         },
         {
+            "id": 4176,
+            "url": "https://www.youtube.com/watch?v=5xeXSYTC39M",
+            "url_hash": "b87a4937b96a98a066c6124273473362369e52c501be8f7527d9ed17c57a8ff2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-30 22:38:10"
+        },
+        {
             "id": 286,
             "url": "https://tenor.com/view/patrick-stupid-stupid-town-hey-buddy-spongebob-gif-6574682199670721484",
             "url_hash": "b8b4a795da3c56793c0ab119c58e1b9f8adaf84073f6e30ca25be812db0a726f",
@@ -30998,6 +31064,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/murica-17",
             "last_update": "2026-09-19 16:59:57"
+        },
+        {
+            "id": 4173,
+            "url": "https://cdn.discordapp.com/attachments/877593140922552360/1565598644986581012/SnapVideo.app_AQPGBkpLoa7cL0MOzuS4_GqyB8-g4JjfW-mwYmLNh-zmYTNBGL3vTZMXWSkCRVaikvmVwAeOpTgGl6EJSe2RVxKVW2VZF4Wj4nUwFC4.mp4?ex=6ae6259c&is=6ae4d41c&hm=7bf5202ac11107e65f3954def56bfe1859330d1d91e35335fc4169efca2b8de0&",
+            "url_hash": "bcc1363ee5503663d20f0bee54fb4f54df38ffab6dc49271b22c45afabae5d07",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-30 21:30:46"
         },
         {
             "id": 218,
@@ -33662,6 +33739,17 @@
             "last_update": "2026-09-04 06:48:50"
         },
         {
+            "id": 4174,
+            "url": "https://www.tiktok.com/@dailydosieofmovies/video/7650806999927639318",
+            "url_hash": "cd6475c98dd0befdd72b5b836cf46cd19babc0b46c12e78a560ba2176b749a14",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-30 22:28:38"
+        },
+        {
             "id": 305,
             "url": "https://tenor.com/view/sealyx-naked-gun-the-naked-gun-facepalm-facepalm-meme-gif-11743768702765397589",
             "url_hash": "cd6bd5a72e2c7699d238bd32d240af3a6a7a5e64aa6370e1f7105d7a95b58024",
@@ -33737,6 +33825,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-11 09:27:27"
+        },
+        {
+            "id": 4177,
+            "url": "https://cdn.discordapp.com/attachments/426116061415342080/1565702845024702464/23_163021.mp4?ex=6ae5dde7&is=6ae48c67&hm=6751c9af354442cd445862a36b1b758bf97c4f36422df51dab3842c6c015dac2&",
+            "url_hash": "cd937752975b04fb8b6346603a9dae4b05cfc161279ccb13284c5e327833bff0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-30 23:38:14"
         },
         {
             "id": 1301,
@@ -34826,6 +34925,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-05 18:27:13"
+        },
+        {
+            "id": 4179,
+            "url": "https://fixupx.com/InternetH0F/status/2116342454886465725",
+            "url_hash": "d2cc2871f5971efe0f7728354623457f2d5e8c92aaa4f14dd6a822c7a628227a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-31 03:29:19"
         },
         {
             "id": 380,
@@ -39457,6 +39567,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-06-02 23:40:34"
+        },
+        {
+            "id": 4183,
+            "url": "https://www.aliexpress.com/item/1005012726337983.html?mp=1",
+            "url_hash": "ef1b4dcb1e2fd2313fdede9cd17634839b7d5c0143c43ad5c0218535dc174070",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-10-31 15:35:59"
         },
         {
             "id": 2249,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 362,
+    "num_of_entries": 363,
     "domains": [
         {
             "domain": "9cache.com",
@@ -83,11 +83,11 @@
         },
         {
             "domain": "aliexpress.com",
-            "times_seen": 155,
+            "times_seen": 156,
             "scan_result": "[DATA REDACTED]",
             "typing": "Shopping",
             "is_whitelisted": 1,
-            "last_update": "2026-10-26 06:46:06"
+            "last_update": "2026-10-31 15:35:59"
         },
         {
             "domain": "aliexpress.us",
@@ -555,11 +555,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1138,
+            "times_seen": 1141,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-10-30 14:53:47"
+            "last_update": "2026-10-30 23:38:14"
         },
         {
             "domain": "discordapp.net",
@@ -843,11 +843,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 327,
+            "times_seen": 328,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-10-27 10:49:46"
+            "last_update": "2026-10-31 03:29:19"
         },
         {
             "domain": "fixvx.com",
@@ -1187,11 +1187,11 @@
         },
         {
             "domain": "huggingface.co",
-            "times_seen": 3,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "typing": "Internet Services",
             "is_whitelisted": 0,
-            "last_update": "2026-10-28 00:49:32"
+            "last_update": "2026-10-31 14:55:17"
         },
         {
             "domain": "i2c-doctor.com",
@@ -1370,6 +1370,14 @@
             "last_update": "2026-10-16 14:59:23"
         },
         {
+            "domain": "kagi.com",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 0,
+            "last_update": "2026-10-31 10:55:03"
+        },
+        {
             "domain": "kaizerpowerelectronics.dk",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -1459,11 +1467,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 227,
+            "times_seen": 229,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Internet Services",
+            "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-10-30 14:26:30"
+            "last_update": "2026-10-31 00:30:04"
         },
         {
             "domain": "kmart.com.au",
@@ -2427,11 +2435,11 @@
         },
         {
             "domain": "tenor.com",
-            "times_seen": 857,
+            "times_seen": 858,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-28 03:28:35"
+            "last_update": "2026-10-31 11:11:19"
         },
         {
             "domain": "tensorflow.org",
@@ -2499,11 +2507,11 @@
         },
         {
             "domain": "tiktok.com",
-            "times_seen": 19,
+            "times_seen": 20,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-08-21 20:29:46"
+            "last_update": "2026-10-30 22:28:38"
         },
         {
             "domain": "tiktokcdn-us.com",
@@ -2867,11 +2875,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 324,
+            "times_seen": 326,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-29 22:58:07"
+            "last_update": "2026-10-30 22:38:10"
         },
         {
             "domain": "yxtwitter.com",

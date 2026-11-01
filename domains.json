@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 363,
+    "num_of_entries": 364,
     "domains": [
         {
             "domain": "9cache.com",
@@ -338,6 +338,14 @@
             "last_update": "2026-10-24 23:02:25"
         },
         {
+            "domain": "cambridge.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-11-01 09:22:29"
+        },
+        {
             "domain": "carlsjr.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -563,11 +571,11 @@
         },
         {
             "domain": "discordapp.net",
-            "times_seen": 12,
+            "times_seen": 13,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-08-30 03:41:15"
+            "last_update": "2026-11-01 10:38:30"
         },
         {
             "domain": "donald.cat",
@@ -843,11 +851,11 @@
         },
         {
             "domain": "fixupx.com",
-            "times_seen": 328,
+            "times_seen": 329,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-10-31 03:29:19"
+            "last_update": "2026-11-01 03:21:58"
         },
         {
             "domain": "fixvx.com",
@@ -1003,11 +1011,11 @@
         },
         {
             "domain": "github.com",
-            "times_seen": 75,
+            "times_seen": 76,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-10-25 04:08:55"
+            "last_update": "2026-11-01 09:36:56"
         },
         {
             "domain": "github.io",
@@ -1467,11 +1475,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 229,
+            "times_seen": 230,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-10-31 00:30:04"
+            "last_update": "2026-11-01 10:35:47"
         },
         {
             "domain": "kmart.com.au",
@@ -2803,11 +2811,11 @@
         },
         {
             "domain": "wikipedia.org",
-            "times_seen": 44,
+            "times_seen": 46,
             "scan_result": "[DATA REDACTED]",
             "typing": "Knowledge",
             "is_whitelisted": 1,
-            "last_update": "2026-10-26 15:26:52"
+            "last_update": "2026-11-01 09:39:31"
         },
         {
             "domain": "wireshark.org",
@@ -2827,11 +2835,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 159,
+            "times_seen": 160,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-10-29 23:52:18"
+            "last_update": "2026-10-31 15:43:26"
         },
         {
             "domain": "xda-developers.com",
@@ -2867,19 +2875,19 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 223,
+            "times_seen": 224,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-27 18:22:09"
+            "last_update": "2026-10-31 19:45:11"
         },
         {
             "domain": "youtube.com",
-            "times_seen": 326,
+            "times_seen": 328,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-10-30 22:38:10"
+            "last_update": "2026-11-01 14:51:03"
         },
         {
             "domain": "yxtwitter.com",

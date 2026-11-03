@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3903,
+    "num_of_entries": 3912,
     "links": [
         {
             "id": 3653,
@@ -165,6 +165,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-16 18:09:11"
+        },
+        {
+            "id": 4213,
+            "url": "https://youtu.be/ugdhPKJOSGc?si=Ic916VlyC63nS27m",
+            "url_hash": "00b534d9157852fe5215ee87eae07cf4a4e7b8461f750a5b5d93efc6f6661c00",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-02 22:50:33"
         },
         {
             "id": 2059,
@@ -3630,6 +3641,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-15 17:45:42"
+        },
+        {
+            "id": 4219,
+            "url": "https://wccftech.com/amds-biggest-pcie-graphics-card-surfaces-online-with-four-rx-470-gpus-and-32-gb-gddr5-memory/amp/",
+            "url_hash": "166c5f85dfa14f68235769802bc160641717670dda477672c88c712fc85f4a63",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://wccftech.com/amds-biggest-pcie-graphics-card-surfaces-online-with-four-rx-470-gpus-and-32-gb-gddr5-memory/amp/",
+            "last_update": "2026-11-03 14:24:28"
         },
         {
             "id": 152,
@@ -9883,12 +9905,12 @@
             "id": 3891,
             "url": "https://klipy.com/gifs/catjam-disco",
             "url_hash": "3b094aec6568e6c6288d7a77f67c57b834e44b13973c5c4cb17a39c4b9766648",
-            "times_seen": 4,
+            "times_seen": 5,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/catjam-disco",
-            "last_update": "2026-10-27 21:11:35"
+            "last_update": "2026-11-02 18:29:15"
         },
         {
             "id": 150,
@@ -10054,6 +10076,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-12-06 13:53:25"
+        },
+        {
+            "id": 4217,
+            "url": "https://cdn.discordapp.com/attachments/1114699489320644728/1567069037920518186/VID_20261103_145145.mp4?ex=6aead645&is=6ae984c5&hm=e50e2092c1a1b9d527a98f19d7a597dc657cd30c0b2e6e9802178d310676af9c&",
+            "url_hash": "3bdd810e90b0b269f25029a73cc8de866a87b866433b1973350e8a9b1a37fd80",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-03 06:52:54"
         },
         {
             "id": 526,
@@ -13103,6 +13136,17 @@
             "last_update": "2026-05-30 11:45:34"
         },
         {
+            "id": 4215,
+            "url": "https://klipy.com/gifs/the-office-cool",
+            "url_hash": "4e20c31aa59c1d34f2603e1ac5be8462af0ac6160d0adfa0ba593ea9b8f5afaa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/the-office-cool",
+            "last_update": "2026-11-03 00:29:23"
+        },
+        {
             "id": 1195,
             "url": "https://tenor.com/view/meme-what-the-hell-is-this-elephant-penguin-noah-gif-19238575",
             "url_hash": "4e36475ee19b7c8b225b14f4eb970a13a8337de81781e582d7b7b4fff9cff14b",
@@ -13871,6 +13915,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/john-lennon-5",
             "last_update": "2026-08-01 11:56:27"
+        },
+        {
+            "id": 4210,
+            "url": "https://www.youtube.com/watch?v=4nRgEmdwtJo&t=1486s",
+            "url_hash": "52bdf1fa1d4fcd01b238972cb4eeebec4cf4507023ddae5f2d74d3fd880434b6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-02 15:59:43"
         },
         {
             "id": 1860,
@@ -17875,6 +17930,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-25 07:49:17"
+        },
+        {
+            "id": 4211,
+            "url": "https://www.youtube.com/watch?v=g26ASthCzvs",
+            "url_hash": "6d1033913b0dc0e0122a28d11fe6db01d025b602ed31004c16f1590a2850d81a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-02 15:59:43"
         },
         {
             "id": 2024,
@@ -22077,6 +22143,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-13 23:14:37"
+        },
+        {
+            "id": 4212,
+            "url": "https://circuitdigest.com/wiki/litewing/",
+            "url_hash": "87215e0f1a04b30efb83efce37c65873fd27d1c8efba4f30640e23de557d2d4a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://circuitdigest.com/wiki/litewing/",
+            "last_update": "2026-11-02 16:08:08"
         },
         {
             "id": 1923,
@@ -38227,6 +38304,17 @@
             "last_update": "2026-09-30 18:50:59"
         },
         {
+            "id": 4214,
+            "url": "https://klipy.com/gifs/smart-car-drag-race",
+            "url_hash": "e53dab3a0f19e16f27bc3256c5b6d8749bb511d889fcfdd07fe42f25b701d04c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/smart-car-drag-race",
+            "last_update": "2026-11-03 00:27:23"
+        },
+        {
             "id": 1907,
             "url": "https://tenor.com/view/captain-price-gif-11163798864566121593",
             "url_hash": "e54e077e25c37a61055f24ab837c3d8e78a06ef66cd967f121a9b4de8183a4e4",
@@ -39677,6 +39765,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-10-19 12:04:59"
+        },
+        {
+            "id": 4216,
+            "url": "https://youtu.be/_WheLp0RdLQ",
+            "url_hash": "ee70eac284464545e1a32e87f68a1366e0341c3a4ec1c06556c625ae92b3cd42",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-03 01:35:56"
         },
         {
             "id": 1323,

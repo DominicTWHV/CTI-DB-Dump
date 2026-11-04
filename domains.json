@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 365,
+    "num_of_entries": 366,
     "domains": [
         {
             "domain": "9cache.com",
@@ -1475,11 +1475,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 236,
+            "times_seen": 238,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-11-03 08:16:21"
+            "last_update": "2026-11-03 19:46:44"
         },
         {
             "domain": "kmart.com.au",
@@ -2096,6 +2096,14 @@
             "typing": "Gaming",
             "is_whitelisted": 1,
             "last_update": "2026-03-15 00:11:27"
+        },
+        {
+            "domain": "pypi.org",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": "Internet Services",
+            "is_whitelisted": 1,
+            "last_update": "2026-11-04 09:01:36"
         },
         {
             "domain": "qidi3d.com",

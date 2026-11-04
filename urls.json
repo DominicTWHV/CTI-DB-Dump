@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3912,
+    "num_of_entries": 3915,
     "links": [
         {
             "id": 3653,
@@ -3553,6 +3553,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-06-17 22:43:25"
+        },
+        {
+            "id": 4220,
+            "url": "https://klipy.com/gifs/do-not-redeem",
+            "url_hash": "15f88f2d041eb339bd770d2f614bab4a26269c2b53ace01b5ec115b7880679d5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/do-not-redeem",
+            "last_update": "2026-11-03 17:47:38"
         },
         {
             "id": 3144,
@@ -24334,6 +24345,17 @@
             "last_update": "2026-04-04 23:46:16"
         },
         {
+            "id": 4221,
+            "url": "https://klipy.com/gifs/wtf-192",
+            "url_hash": "9360c2af8a4cceeb7375965992e5b8512a5d08f58a2daad369e323dac74346aa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/wtf-192",
+            "last_update": "2026-11-03 19:47:09"
+        },
+        {
             "id": 3743,
             "url": "https://cdn.discordapp.com/attachments/849031301087494148/1547194693706588273/SnapVideo.app_AQOlTxR3ArfGUCyGKEPZI7TpCf8H3iOw-_PbNHMNM4iaEzt7iIjxGAhouA1yUYqOdnZHtdjQdLl5MOFZ7YOpb7dX2KxHO3YPJIbmrsg.mp4?ex=6aa288d8&is=6aa13758&hm=885cf4bd279116702f6c87a695e6ab5b37344802f38878b20d318871a744767e&",
             "url_hash": "936b2396e9d48fbfbf1dfa8fc41ac137163553b47f2189797cc060c3f919eae9",
@@ -24761,6 +24783,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-06-15 21:33:09"
+        },
+        {
+            "id": 4222,
+            "url": "https://pypi.org/project/puyaisp/",
+            "url_hash": "95a1a4f3f8ed7f3c858c9bb0c1a71986880e9aacb65b46b9b340b95c0408a59b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://pypi.org/project/puyaisp/",
+            "last_update": "2026-11-04 09:01:36"
         },
         {
             "id": 2445,

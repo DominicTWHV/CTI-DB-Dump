@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3927,
+    "num_of_entries": 3936,
     "links": [
         {
             "id": 3653,
@@ -1947,6 +1947,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-08-22 08:19:11"
+        },
+        {
+            "id": 4236,
+            "url": "https://fixupx.com/svishnevskiy/status/2118753826815742254",
+            "url_hash": "0bfc9d8892798b0176dd61c99d5502c9ed09a31387722f8aa19d12b20585ae53",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-06 18:44:47"
         },
         {
             "id": 1213,
@@ -9011,6 +9022,17 @@
             "last_update": "2026-10-26 05:42:28"
         },
         {
+            "id": 4238,
+            "url": "https://klipy.com/gifs/no-proof-funny",
+            "url_hash": "36131893dabd932bb90b4f17cb8d1521565bb207c0d3c183d42dd6493e5ead80",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/no-proof-funny",
+            "last_update": "2026-11-06 23:05:28"
+        },
+        {
             "id": 1891,
             "url": "https://www.kkinstagram.com/reel/DUnk-0lEhAi/",
             "url_hash": "365893ea1d15f2748b0ddead5f00cb13406df8c433d3d23dda771aa23fe0d36f",
@@ -12234,6 +12256,17 @@
             "last_update": "2025-08-17 07:22:45"
         },
         {
+            "id": 4244,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1568650162480484483/go-13.mp4?ex=6af096ce&is=6aef454e&hm=7b9cfb0189738b5ea16af33599dd459c66bb9169615c6eb48e07876cf51f600a&",
+            "url_hash": "47d716ea8acd04d7701a28ef28b0f08c942d63168dc7724507b0655585bd6a43",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-07 15:35:44"
+        },
+        {
             "id": 2401,
             "url": "https://tenor.com/view/scoobydoo-gif-622972956672831224",
             "url_hash": "47e6f22cdb0c099f2ac08db18878aa4fb41276813dc33f5b6e1de844fb0ea81c",
@@ -13145,6 +13178,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-04 16:56:36"
+        },
+        {
+            "id": 4239,
+            "url": "https://klipy.com/gifs/first-of-all-how-dare-you-rupaul",
+            "url_hash": "4da484c8949281f7b77dee6cc8e83a672b6b02b6b92d767b4f30c99ac297ae53",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/first-of-all-how-dare-you-rupaul",
+            "last_update": "2026-11-06 23:12:02"
         },
         {
             "id": 3886,
@@ -19470,6 +19514,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-08-31 14:38:57"
+        },
+        {
+            "id": 4241,
+            "url": "https://klipy.com/gifs/kyaru-princess-connect-2",
+            "url_hash": "755b9fa897c349c2c0dcef3c074fb737263bb2ae943b8e014cb2bf24cc366c2f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/kyaru-princess-connect-2",
+            "last_update": "2026-11-06 23:30:06"
         },
         {
             "id": 1275,
@@ -28657,6 +28712,17 @@
             "last_update": "2025-11-03 00:33:50"
         },
         {
+            "id": 4242,
+            "url": "https://cdn.discordapp.com/attachments/771109314059305002/1568608405462061066/My_Movie_32.mov?ex=6af06feb&is=6aef1e6b&hm=788aaca1bb0c84a9fd007c95a0c091c421cdba98a74313190fc8c640a5cb87b0&",
+            "url_hash": "abedd640cdf6c80a40d0f7cac00f9c17131a1361fdec86679de78a4e30143483",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-07 12:49:47"
+        },
+        {
             "id": 1066,
             "url": "https://tenor.com/view/the-office-steve-carell-no-please-no-god-no-gif-5938426",
             "url_hash": "abef8ddbd1db568e0e46e6cc21c1cd1807e48e59457f3b030cec87ec8d30d760",
@@ -30393,6 +30459,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-13 03:48:15"
+        },
+        {
+            "id": 4243,
+            "url": "https://www.reddit.com/r/dankmemes/comments/1xnsnug/tale_as_old_as_time/",
+            "url_hash": "b5e912dd60bc07b909f0eaa852058b7b6786fa3b4f89989101a62d2f07a96508",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/dankmemes/comments/1xnsnug/tale_as_old_as_time/",
+            "last_update": "2026-11-07 13:15:42"
         },
         {
             "id": 1086,
@@ -34531,6 +34608,17 @@
             "last_update": "2025-10-12 10:23:56"
         },
         {
+            "id": 4240,
+            "url": "https://github.com/fluxerapp/fluxer",
+            "url_hash": "ced4c0764832803901676908cfcca41f9a928a83f5680259afcee20369546daa",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-06 23:14:59"
+        },
+        {
             "id": 997,
             "url": "https://tenor.com/view/kermit-falling-building-fall-woodz-gif-24715383",
             "url_hash": "cee0e4017ce62596991f5f45ed81d8ed2916b001053ce2eb33922ce60b44d46a",
@@ -37972,6 +38060,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-14 14:36:52"
+        },
+        {
+            "id": 4237,
+            "url": "https://fxtwitter.com/USUS295262/status/2115801521388749212",
+            "url_hash": "e11f13fc25ce6b2f19b8ec1a14a41b5a04692347961c561f92a31dfa8a5b5e58",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-06 22:25:58"
         },
         {
             "id": 3216,

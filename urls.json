@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3936,
+    "num_of_entries": 3945,
     "links": [
         {
             "id": 3653,
@@ -572,6 +572,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-07 15:25:01"
+        },
+        {
+            "id": 4247,
+            "url": "https://war-sanctions.gur.gov.ua/en/page-iskander-k",
+            "url_hash": "03b1f1f69e5772db3978246f1d80a1c4e86af33ecdd25feb6802598158033ef1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://war-sanctions.gur.gov.ua/en/page-iskander-k",
+            "last_update": "2026-11-07 20:41:37"
         },
         {
             "id": 977,
@@ -6019,6 +6030,17 @@
             "last_update": "2025-11-11 01:50:26"
         },
         {
+            "id": 4250,
+            "url": "https://www.reddit.com/r/UkraineWarVideoReport/comments/1x86z0n/russian_ministry_of_defense_caught_using_ai_to/",
+            "url_hash": "23b29158c560047a6e37629542271bb34e2647852e33bfb8f9b8aa467e6ad142",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/UkraineWarVideoReport/comments/1x86z0n/russian_ministry_of_defense_caught_using_ai_to/",
+            "last_update": "2026-11-07 21:07:31"
+        },
+        {
             "id": 1165,
             "url": "https://tenor.com/view/mercy-overwatch-come-here-gif-14280244",
             "url_hash": "23cef9f928303a0926ca47fa1246af82ea748b1eebbd6284188a293cb36b689f",
@@ -6569,6 +6591,17 @@
             "last_update": "2026-02-11 12:09:58"
         },
         {
+            "id": 4245,
+            "url": "https://youtube.com/shorts/diUAlEQGlGQ",
+            "url_hash": "26f88ded1c78097c6579bcfe904bd179066754913449b3b3f4598c62bda536b5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-07 16:51:59"
+        },
+        {
             "id": 2969,
             "url": "https://github.com/GiorgosXou/MLPico**",
             "url_hash": "27304c7f497c15611e48eed8f4f4abca678202630176cdf2ffc17e155f9c8563",
@@ -6776,6 +6809,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-10-14 15:45:32"
+        },
+        {
+            "id": 4253,
+            "url": "https://www.youtube.com/watch?v=y1Yn6x0iG7E",
+            "url_hash": "28844eea5d0d79a1b5b0e40c8881ce0867c9c485067f35ca3dfea3247d8129ed",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-08 06:55:00"
         },
         {
             "id": 1648,
@@ -7755,6 +7799,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-29 13:15:31"
+        },
+        {
+            "id": 4251,
+            "url": "https://supercollidercomputers.wordpress.com/2010/04/16/diy-imac-g5-power-supply-atx-external/",
+            "url_hash": "2f2587d2ebfdc44d89c7f6d39b7c3fa7fd8f4973982314ddba627dee8d00f743",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://supercollidercomputers.wordpress.com/2010/04/16/diy-imac-g5-power-supply-atx-external/",
+            "last_update": "2026-11-07 21:46:17"
         },
         {
             "id": 4228,
@@ -10615,6 +10670,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-11 21:05:45"
+        },
+        {
+            "id": 4252,
+            "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+            "url_hash": "3e7a55394fafeb578cdc9ebe920fc4dcd36705813abb3d777a41d33c202597c5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-08 00:57:45"
         },
         {
             "id": 3108,
@@ -36104,6 +36170,17 @@
             "last_update": "2025-10-28 11:41:42"
         },
         {
+            "id": 4249,
+            "url": "https://klipy.com/gifs/trump-china-5",
+            "url_hash": "d62c601d8671f4d3019cd4ab19a3bd630a76ff808dc29f1fa4e367bb6ebc7ef8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/trump-china-5",
+            "last_update": "2026-11-07 20:49:25"
+        },
+        {
             "id": 3094,
             "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1514269779588812830/Octopuss_Moog_Voice.mov?ex=6a2ac121&is=6a296fa1&hm=c047214f04934b844a848cc488d0ce21700250cf507f209f1b3ca6521c155c44&",
             "url_hash": "d638ec4ce1194e1f7ec0b4fb557f24e863c838ff89599fcd86b9d262584695ae",
@@ -41065,6 +41142,17 @@
             "last_update": "2025-09-16 10:03:38"
         },
         {
+            "id": 4246,
+            "url": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+            "url_hash": "f40b0f7f7298337ac4aa64f850719101e46c71de3c5cc634cd4be0785a17556b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-07 19:44:50"
+        },
+        {
             "id": 1318,
             "url": "https://shop.industrialshields.com/producto/m-duino-ethernet-plc-arduino-21/)",
             "url_hash": "f411428fffa4dbe3889f84d67e21454e1fa3892e8ea08e16653ec7a4ca85f58b",
@@ -43109,6 +43197,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/memes/comments/1r1139p/discord_thats_not_the_solution_youre_looking_for/?share_id=3rd5AomlvSRDRP5DLXY-G&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=13",
             "last_update": "2026-02-10 18:04:58"
+        },
+        {
+            "id": 4254,
+            "url": "https://ram-altman.lol/",
+            "url_hash": "ff0d15e1f83b9cacdd4eb6e7410019a7d46533c52597c908d24f23f8eec3e1db",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://ram-altman.lol/",
+            "last_update": "2026-11-08 12:37:58"
         },
         {
             "id": 2394,

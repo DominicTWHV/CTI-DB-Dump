@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 369,
+    "num_of_entries": 370,
     "domains": [
         {
             "domain": "9cache.com",
@@ -563,11 +563,11 @@
         },
         {
             "domain": "discordapp.com",
-            "times_seen": 1156,
+            "times_seen": 1159,
             "scan_result": "[DATA REDACTED]",
             "typing": "Chatting",
             "is_whitelisted": 1,
-            "last_update": "2026-11-07 15:35:44"
+            "last_update": "2026-11-09 12:37:10"
         },
         {
             "domain": "discordapp.net",
@@ -2210,6 +2210,14 @@
             "last_update": "2026-02-24 18:36:36"
         },
         {
+            "domain": "robu.in",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-11-09 12:06:15"
+        },
+        {
             "domain": "rockwellautomation.com",
             "times_seen": 1,
             "scan_result": "[DATA REDACTED]",
@@ -2891,11 +2899,11 @@
         },
         {
             "domain": "xfixup.com",
-            "times_seen": 9,
+            "times_seen": 10,
             "scan_result": "[DATA REDACTED]",
-            "typing": "Unknown",
+            "typing": "Social Media",
             "is_whitelisted": 0,
-            "last_update": "2026-10-30 13:58:18"
+            "last_update": "2026-11-09 05:57:40"
         },
         {
             "domain": "xhscdn.com",
@@ -2915,11 +2923,11 @@
         },
         {
             "domain": "youtu.be",
-            "times_seen": 226,
+            "times_seen": 228,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-11-03 01:35:56"
+            "last_update": "2026-11-08 15:49:07"
         },
         {
             "domain": "youtube.com",

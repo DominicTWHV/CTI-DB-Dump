@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3945,
+    "num_of_entries": 3950,
     "links": [
         {
             "id": 3653,
@@ -14291,6 +14291,17 @@
             "last_update": "2026-04-24 18:35:48"
         },
         {
+            "id": 4260,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1569329999461486684/IMG_3584.mp4?ex=6af30ff4&is=6af1be74&hm=e52678e6873f3fc0bccb5d2c19fd746a21530847836a02c6a080a217b0516d48&",
+            "url_hash": "54018c02a42a1ca035724eb07ce28ec2d9f8f6a64af307a3040e1bde606e0bf5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-09 12:37:10"
+        },
+        {
             "id": 2395,
             "url": "https://www.youtube.com/shorts/w5NFfGFj74Q",
             "url_hash": "542011aee40de7304833bca82b0cdc56f6f72e7b1a4733a5d146419396f6caa0",
@@ -16390,6 +16401,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-21 18:04:53"
+        },
+        {
+            "id": 4255,
+            "url": "https://youtu.be/N15lYh-jwaA",
+            "url_hash": "6205810fe2b5d26425ef676673946b7ee205ea82d59ad4eb5e3871e42b8e9ae0",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-08 15:49:07"
         },
         {
             "id": 674,
@@ -20517,6 +20539,17 @@
             "last_update": "2025-10-08 16:46:34"
         },
         {
+            "id": 4258,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1569238255851929721/20261109_133003.mp4?ex=6af2ba83&is=6af16903&hm=394d3c40402ea6abe888190790afe28476085f87b41b3f2da0e2b91ea0edcb66&",
+            "url_hash": "7c11101501083605029dcdcc3248430d2c54c3f06510599712ee36dd8b3bac24",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-09 06:32:35"
+        },
+        {
             "id": 1120,
             "url": "https://github.com/DerSpatz/PCB-reflow-solder-heat-plate/tree/main",
             "url_hash": "7c154974abf14f6fca224a374b7ceee901da08d465ad76adb6a66ae6b28ebb02",
@@ -20658,6 +20691,17 @@
             "is_redirect": 0,
             "downstream_target": "https://outbuyer.com/products/bak-21700-battery-n21700cg-50-5-mah-1-25-cell",
             "last_update": "2025-11-21 00:31:53"
+        },
+        {
+            "id": 4256,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1569064656570421298/vn6330z.jpg?ex=6af218d5&is=6af0c755&hm=9fdb2ae361f8969b04f46a6e927c98f8b2918e86591043ec8623256cdd12ab01&",
+            "url_hash": "7d35bc7dbd373beeb052bde12a44fbcd022fb0f8f17ef05c617605d2bf281deb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-08 19:02:46"
         },
         {
             "id": 1069,
@@ -27951,6 +27995,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-08 14:50:04"
+        },
+        {
+            "id": 4257,
+            "url": "https://xfixup.com/PerfectlyWeird/status/2119444839192289696",
+            "url_hash": "a7315d86326097a2436d607e0985a97fd38a42fbd7b185d30e0837a3dbc18089",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://xfixup.com/PerfectlyWeird/status/2119444839192289696",
+            "last_update": "2026-11-09 05:57:40"
         },
         {
             "id": 1161,

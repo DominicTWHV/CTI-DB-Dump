@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3950,
+    "num_of_entries": 3952,
     "links": [
         {
             "id": 3653,
@@ -1201,6 +1201,17 @@
             "last_update": "2026-06-17 22:30:44"
         },
         {
+            "id": 4261,
+            "url": "https://www.youtube.com/shorts/ilg8chZPWp8",
+            "url_hash": "07d802e5c4e4c9751b76c96e8d9c8c0d9ebf78374f1b932fb81a3f1e2f794cc0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-09 20:18:35"
+        },
+        {
             "id": 2571,
             "url": "https://tenor.com/view/ayy-gtfo-outta-here-doggo-gif-20198009",
             "url_hash": "07de19d7b928dfdf2ec1d41194c815f5bb76ceaaeb7d2c689c55ca854299da63",
@@ -1661,6 +1672,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-28 21:19:54"
+        },
+        {
+            "id": 4262,
+            "url": "https://www.instagram.com/p/Dfh97v_tqGc/?obrf=MWp1dGFkcjB4OWdqMQ==",
+            "url_hash": "0a6ce372526f6ab380c7201f78cd46fa8e52c1aeb27f42354ce7525ad11f1ef1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-10 00:12:49"
         },
         {
             "id": 3369,

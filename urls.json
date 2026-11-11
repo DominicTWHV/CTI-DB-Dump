@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3952,
+    "num_of_entries": 3954,
     "links": [
         {
             "id": 3653,
@@ -2068,6 +2068,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-03 00:59:19"
+        },
+        {
+            "id": 4265,
+            "url": "https://gitlab.com/cpki-gmbh/v7multiplikator",
+            "url_hash": "0c665f48599bea8c948b046af2859fa780e72a349b8192e0d01b3fe8e52c7d45",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-11 10:41:02"
         },
         {
             "id": 1995,
@@ -25575,6 +25586,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-01 12:31:16"
+        },
+        {
+            "id": 4266,
+            "url": "https://x.com/evclinic/status/2120266814693274078/photo/1",
+            "url_hash": "98a53e1361412edfcfaeec1b7f83a31063f9db45d5e3b6fe81b14dc89254b865",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-11 13:48:41"
         },
         {
             "id": 1403,

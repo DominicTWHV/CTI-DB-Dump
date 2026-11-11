@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 370,
+    "num_of_entries": 371,
     "domains": [
         {
             "domain": "9cache.com",
@@ -256,6 +256,14 @@
             "typing": "Internet Services",
             "is_whitelisted": 0,
             "last_update": "2026-03-14 18:24:38"
+        },
+        {
+            "domain": "avokahlegal.com.au",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "typing": null,
+            "is_whitelisted": 0,
+            "last_update": "2026-11-10 23:56:30"
         },
         {
             "domain": "b23.tv",
@@ -1043,11 +1051,11 @@
         },
         {
             "domain": "gitlab.com",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "typing": "Internet Services",
             "is_whitelisted": 1,
-            "last_update": "2026-05-17 10:40:20"
+            "last_update": "2026-11-11 10:41:02"
         },
         {
             "domain": "gofund.me",
@@ -1291,11 +1299,11 @@
         },
         {
             "domain": "instagram.com",
-            "times_seen": 9,
+            "times_seen": 10,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-09-27 02:05:03"
+            "last_update": "2026-11-10 00:12:49"
         },
         {
             "domain": "instructables.com",
@@ -1483,11 +1491,11 @@
         },
         {
             "domain": "klipy.com",
-            "times_seen": 244,
+            "times_seen": 245,
             "scan_result": "[DATA REDACTED]",
             "typing": "Unknown",
             "is_whitelisted": 0,
-            "last_update": "2026-11-07 20:49:07"
+            "last_update": "2026-11-10 15:33:28"
         },
         {
             "domain": "kmart.com.au",
@@ -2883,11 +2891,11 @@
         },
         {
             "domain": "x.com",
-            "times_seen": 163,
+            "times_seen": 164,
             "scan_result": "[DATA REDACTED]",
             "typing": "Social Media",
             "is_whitelisted": 1,
-            "last_update": "2026-11-05 12:37:16"
+            "last_update": "2026-11-11 13:48:41"
         },
         {
             "domain": "xda-developers.com",
@@ -2931,11 +2939,11 @@
         },
         {
             "domain": "youtube.com",
-            "times_seen": 333,
+            "times_seen": 334,
             "scan_result": "[DATA REDACTED]",
             "typing": "Entertainment",
             "is_whitelisted": 1,
-            "last_update": "2026-11-08 06:55:00"
+            "last_update": "2026-11-09 20:18:35"
         },
         {
             "domain": "yxtwitter.com",

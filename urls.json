@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3954,
+    "num_of_entries": 3962,
     "links": [
         {
             "id": 3653,
@@ -11794,6 +11794,17 @@
             "last_update": "2026-07-14 23:29:33"
         },
         {
+            "id": 4270,
+            "url": "https://guthib.com/",
+            "url_hash": "4499842b2e30795251c3f73c15cbc93e7070c6b0b06a2efbeedc607567c4146f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://guthib.com/",
+            "last_update": "2026-11-12 09:54:02"
+        },
+        {
             "id": 562,
             "url": "https://tweekgeek.com/products/quantum-science-audio-gold-ac-receptacle?_pos=1&_psq=gold+AC+recept&_ss=e&_v=1.0",
             "url_hash": "44ae82e2554297ca4d1f7e07ba12d8dfd1ae52c0c0f73c352c8e125346e0c847",
@@ -15004,6 +15015,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Libs_OfChicago/status/2018544445814157539",
             "last_update": "2026-02-03 11:30:04"
+        },
+        {
+            "id": 4272,
+            "url": "https://media1.tenor.com/m/6_GLLEJXXlQAAAAC/bunny-rabbit.gif",
+            "url_hash": "58529d4ded1cb900705bbef426a831588bae154ef37b7209e9a9fb785ea425b8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-12 11:55:21"
         },
         {
             "id": 1499,
@@ -22332,6 +22354,17 @@
             "last_update": "2026-02-24 09:31:04"
         },
         {
+            "id": 4268,
+            "url": "https://www.oginstagram.com/reel/DfkjMQhBZTV/?mdxt=MXMwMWs5NWV5ZnBscA==",
+            "url_hash": "86b2e093e02a9d1991cee4b5142e9a884e9df08f0c81758bbf3e5280dd66f44e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://www.oginstagram.com/reel/DfkjMQhBZTV/?mdxt=MXMwMWs5NWV5ZnBscA==",
+            "last_update": "2026-11-12 00:51:57"
+        },
+        {
             "id": 304,
             "url": "https://tenor.com/view/spongebob-technology-patrick-hung-gif-5567497",
             "url_hash": "86c1ca2ccee55c2c888e085a664e7954bf3d7c2dead4e1c03fc6a05b374b6cd4",
@@ -23958,6 +23991,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-07-29 14:58:11"
+        },
+        {
+            "id": 4274,
+            "url": "https://www.aliexpress.com/item/1005011818349422.html",
+            "url_hash": "8f073f084ecaf3f7569abe6100dbc8d0f96c58794c6f87abc9f5550a9bbea10a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-12 13:50:32"
         },
         {
             "id": 3455,
@@ -30780,6 +30824,17 @@
             "last_update": "2026-03-12 10:07:43"
         },
         {
+            "id": 4269,
+            "url": "https://www.oginstagram.com/reel/DfkjMQhBZTV/",
+            "url_hash": "b765353999c86d2b5c3c4ecfd57e135db68ecc359971120d1d30376d0c75e95c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Malicious",
+            "is_redirect": 0,
+            "downstream_target": "https://www.oginstagram.com/reel/DfkjMQhBZTV/",
+            "last_update": "2026-11-12 00:55:54"
+        },
+        {
             "id": 533,
             "url": "https://share.redd.it/preview/post/1nyegf8",
             "url_hash": "b779070ba8c42f2abfdff4d0a590557a479573d794ac5eabffc338177ff75dec",
@@ -31801,6 +31856,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-13 22:39:15"
+        },
+        {
+            "id": 4273,
+            "url": "https://klipy.com/gifs/misery-12",
+            "url_hash": "bd720f69086b504cd111eabe173666966c7d2dedfcb075d7f9d9006d4bcce423",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/misery-12",
+            "last_update": "2026-11-12 13:03:18"
         },
         {
             "id": 1810,
@@ -35975,12 +36041,12 @@
             "id": 2403,
             "url": "https://tenor.com/view/bunny-rabbit-angry-pistol-pistol-gun-gif-17001523090508176980",
             "url_hash": "d452ca33ca8fea2d8ee2abf8508be2f8dabde8c04010c0bdfc422ec45ce0d457",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-04-01 20:44:05"
+            "last_update": "2026-11-12 11:55:22"
         },
         {
             "id": 2175,
@@ -37545,6 +37611,17 @@
             "last_update": "2025-10-17 11:50:19"
         },
         {
+            "id": 4267,
+            "url": "https://cdn.discordapp.com/attachments/1077231960381984889/1570192596284739715/ScreenRecording_08-23-2026_15-47-20_1.mov?ex=6af6334f&is=6af4e1cf&hm=24209abcf3ce3a5319a5a578b16a15c19cb4640b49a53aa5af453e8602b274d6&",
+            "url_hash": "dd4b99af81cdb656c83711644815f33e497f6b6ca6ae03ce287be0c2ea625854",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-11 21:44:48"
+        },
+        {
             "id": 1457,
             "url": "https://cdn.discordapp.com/attachments/1078035386217017504/1458787808536952912/IMG_4417.mov?ex=6960e984&is=695f9804&hm=248f628b57aa1bb5fec6833393441ed45678aa1600caeee267c4c9efcedabf71&",
             "url_hash": "dd4e2c34b5a9bf35c17fb2e94c4284d18bddd8ac66cfd0d8f37a83d7665ad17b",
@@ -38467,6 +38544,17 @@
             "is_redirect": 0,
             "downstream_target": "https://thelastoutpostworkshop.github.io/microcontroller_devkit/espconnect/",
             "last_update": "2025-11-24 12:15:48"
+        },
+        {
+            "id": 4271,
+            "url": "https://youtube.com/shorts/4ZnfU3_sErw",
+            "url_hash": "e3890b773fe87f8d63d432a716a3e90f2f3e2397fc99e487fd56ccb1aa81f2b6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-12 10:32:53"
         },
         {
             "id": 2898,

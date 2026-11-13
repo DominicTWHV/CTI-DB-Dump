@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3962,
+    "num_of_entries": 3967,
     "links": [
         {
             "id": 3653,
@@ -11200,6 +11200,17 @@
             "last_update": "2026-10-06 10:21:03"
         },
         {
+            "id": 4279,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1570694820731691008/RDT_20261113_085951.mp4?ex=6af8070b&is=6af6b58b&hm=ab27cde959cfd9208c9b28931fb521725d33e5fae4dfc730ee4c2a3c1c3b22e7&",
+            "url_hash": "418728ed6b72649649de0d861d23df69a1922365c1eee94bc1510f0ed6664dc4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-13 07:00:28"
+        },
+        {
             "id": 1020,
             "url": "https://youtu.be/f1RlHjUq2iE?si=Bo7x-y-zszW-kqtp",
             "url_hash": "4187fae6eb767741d038439445d39d8e4d8e96cf5a6749c6e4cad71321a3b1ac",
@@ -11286,6 +11297,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 11:32:59"
+        },
+        {
+            "id": 4278,
+            "url": "https://klipy.com/gifs/xayah-eye-roll",
+            "url_hash": "41fc88f5eb46102e11b55f60af2a706165aa1ace72950562256f659a6861e914",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/xayah-eye-roll",
+            "last_update": "2026-11-13 01:25:45"
         },
         {
             "id": 524,
@@ -12221,6 +12243,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-08 00:40:01"
+        },
+        {
+            "id": 4277,
+            "url": "https://cdn.discordapp.com/attachments/732040806491357184/1570276041568551053/4A3ECB5D-716C-4FCA-BF5E-046857E12D99.mov?ex=6af68106&is=6af52f86&hm=575067011967f2256fe92dc3d347bc4d6471a724fa7883e9cf1e51ba35740fa7&",
+            "url_hash": "47100fae087cd5130cbdb8ad74d30d22334dedb9042c67c3b9abf186c9565d7a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-13 01:18:07"
         },
         {
             "id": 2654,
@@ -13884,6 +13917,17 @@
             "last_update": "2026-05-14 12:07:27"
         },
         {
+            "id": 4280,
+            "url": "https://klipy.com/gifs/peter-thiel-live-peter-thiel-reaction",
+            "url_hash": "5132463088ba1d7778aa7d6954ffc0c19518b275e8dd437f6e6fd2bdf86a5f1d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/peter-thiel-live-peter-thiel-reaction",
+            "last_update": "2026-11-13 11:03:19"
+        },
+        {
             "id": 1737,
             "url": "https://tenor.com/view/jeremy-clarkson-sometimes-my-genius-almost-frightening-driving-car-ride-gif-16463163",
             "url_hash": "514dd69ab03246116dcd4d16072fba9181d7de65eb08d4b25876bc93cab60f3c",
@@ -15356,6 +15400,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-07 18:17:51"
+        },
+        {
+            "id": 4275,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1570476961573376111/ScreenRecording_11-12-2026_10-31-06_1.mov?ex=6af73c25&is=6af5eaa5&hm=fcc7d1f50e2a695f54061f7c7f769a74271cb9dd05f660d9f79c047c477b301d&",
+            "url_hash": "5b1af0819425601389e0fb0538e2bb54711d76c635fac7cc470639a534d76622",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-12 16:34:46"
         },
         {
             "id": 3437,
@@ -30057,12 +30112,12 @@
             "id": 2496,
             "url": "https://tenor.com/view/the-universe-tim-and-eric-mind-blown-mind-blown-meme-mind-explosion-mind-explosion-meme-gif-18002878",
             "url_hash": "b224eb2a6301b2986468b7474d01341dce435872ba1d373de58f7ac1e10ae9dc",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-04-08 18:50:57"
+            "last_update": "2026-11-13 01:16:48"
         },
         {
             "id": 1185,
@@ -38351,12 +38406,12 @@
             "id": 4153,
             "url": "https://tenor.com/view/peter-thiel-palantir-ai-surveillance-freedom-gif-6377398238918402775",
             "url_hash": "e19a4acc47c55bab2e51fdeb6ffaee049a87e8a9705ac16da2524dedf51772dc",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-10-28 03:28:35"
+            "last_update": "2026-11-13 11:01:50"
         },
         {
             "id": 1725,

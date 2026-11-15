@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3978,
+    "num_of_entries": 3983,
     "links": [
         {
             "id": 3653,
@@ -3465,6 +3465,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-16 00:43:53"
+        },
+        {
+            "id": 4293,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1571230352650014872/VID_20261114_212449_755.mp4?ex=6af9f9cc&is=6af8a84c&hm=865b702350abb99cf233d7a97357f6add5175dcab80d648262d03f725a8acee6&",
+            "url_hash": "14b796640bccacdf3284025b9f58894ec29fd56ff46533cfbd811d72eb65729f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-14 18:28:29"
         },
         {
             "id": 2246,
@@ -31209,6 +31220,17 @@
             "last_update": "2026-03-31 14:09:10"
         },
         {
+            "id": 4295,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1571322026097119292/ScreenRecording_08-27-2026_20-38-46_1.mov?ex=6afa4f2c&is=6af8fdac&hm=210f004409bf7d7edacc604c29710da402c30e1800cc2ef395f1f3af7b857c7c&",
+            "url_hash": "b926fe14f40bf5f6222056718b8f4fbf9fe251de2c630bd9ae8087b09d17c5b8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-15 00:32:45"
+        },
+        {
             "id": 3451,
             "url": "https://tenor.com/view/%D0%B7%D1%80%D1%8F-%D1%822%D1%852-%D1%82%D0%BE%D1%85%D0%B0-zrya-%D0%B6%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-gif-10694117490339087669",
             "url_hash": "b9276770bb6a48ac71455e68122d441edafc0dcfbcebd6cb68a9c72c6cef13dd",
@@ -31922,6 +31944,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-07 03:55:39"
+        },
+        {
+            "id": 4297,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1571512717557108827/RDT_20261115_150832.mp4?ex=6afb00c5&is=6af9af45&hm=e67b7fab7042348db2674e22a3564517083b8dd953567b3c818014efabc8a429&",
+            "url_hash": "bd3e3ac1645efe86b9cb281ca832d29117b71160f2cd8a6d0063ae3923fddd6e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-15 13:10:29"
         },
         {
             "id": 384,
@@ -35543,6 +35576,17 @@
             "last_update": "2025-12-03 13:46:01"
         },
         {
+            "id": 4296,
+            "url": "https://backplaneworks.com/",
+            "url_hash": "d196c9c9684f70da05104d27d6bbc0ada5592b5e494062129c474a71d22f125b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://backplaneworks.com/",
+            "last_update": "2026-11-15 12:02:43"
+        },
+        {
             "id": 3406,
             "url": "https://github.com/Velocet/iown-homecontrol",
             "url_hash": "d196eed273a59bbbc76c6bcefccc984ae0ee1b12cddbe182023c027e136c512b",
@@ -36344,6 +36388,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/teortaxesTex/status/1977909836806291696",
             "last_update": "2025-10-15 02:28:37"
+        },
+        {
+            "id": 4294,
+            "url": "https://discord.com/channels/1074967630357725204/1229323330331480094/1571260769524252799",
+            "url_hash": "d4f524e0d767f04614a489df342dbd3228bb535a4e1a99ec08f546284be41621",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-14 20:31:01"
         },
         {
             "id": 1967,

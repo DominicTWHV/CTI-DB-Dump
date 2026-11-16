@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 3983,
+    "num_of_entries": 3991,
     "links": [
         {
             "id": 3653,
@@ -2444,6 +2444,17 @@
             "last_update": "2026-07-26 13:51:44"
         },
         {
+            "id": 4298,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1571590984012144804/RDT_20261115_201838.mp4?ex=6afb49a9&is=6af9f829&hm=78838544eb6150d36484bf958489b3222522d5219032d77c4ab8afc035ba0af7&",
+            "url_hash": "0e7d8aaab20f38c06875f75e7b11a66f17f56f87d288c0de237f3b6b9431d161",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-15 18:21:29"
+        },
+        {
             "id": 3577,
             "url": "https://tenor.com/view/ping-discord-gif-19353336",
             "url_hash": "0e93797f3c619e0f98ba228ade6f45270b1dc626c23e746626d5f8bbd3720678",
@@ -3300,6 +3311,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-07 04:17:26"
+        },
+        {
+            "id": 4299,
+            "url": "https://klipy.com/gifs/hp-hingeproblem",
+            "url_hash": "134a6cd91f997a4b5f69d071e9160d61a99cecf20a1034f50446ace80f941c3c",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/hp-hingeproblem",
+            "last_update": "2026-11-16 03:12:58"
         },
         {
             "id": 2732,
@@ -9022,6 +9044,17 @@
             "last_update": "2026-10-03 12:07:15"
         },
         {
+            "id": 4304,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1571902411214291024/Seal_Babble.mov?ex=6afc6bb3&is=6afb1a33&hm=6d61485f55ca4dbc0368e2fc6db24b836560f6c43b09a92681ee938782ba8d39&",
+            "url_hash": "357376633f51e69439d87021be7f41af369eba9a0a05c4387357300c96c0f5a5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-16 14:59:00"
+        },
+        {
             "id": 2512,
             "url": "https://a.aliexpress.com/_EILpBZO",
             "url_hash": "3575f134ec05d9a1c62e3cb75129abbf2f72884c6d0bc0881d6e31ead8b27edc",
@@ -14522,6 +14555,17 @@
             "last_update": "2026-10-17 01:29:45"
         },
         {
+            "id": 4301,
+            "url": "https://klipy.com/gifs/eating-eating-ice-1",
+            "url_hash": "54fee87127c83d288770a6bc3be83e2ad09dd37ed3e7a4474090773d6da6771f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/eating-eating-ice-1",
+            "last_update": "2026-11-16 13:27:28"
+        },
+        {
             "id": 179,
             "url": "https://tenor.com/view/oof-monsters-inc-sully-meme-gif-24167879",
             "url_hash": "54ff13479c7c2586f152f1d17f62f7dd1be563ab7dcb3ce7de0e79613bf7ab8c",
@@ -15314,6 +15358,17 @@
             "last_update": "2026-08-16 14:58:51"
         },
         {
+            "id": 4305,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1571911995773558844/IMG_4740.jpg?ex=6afc74a0&is=6afb2320&hm=fb70f428202f552de93bd2552993c1ea2222359d3b01f101ac06a0c798c6272c&",
+            "url_hash": "59a687fa480c145518f66aa7f604c0cd9a92ef43be03a5aba1e37b7f2c86e7d0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-16 15:37:04"
+        },
+        {
             "id": 330,
             "url": "https://www.espressif.com/en/products/modules",
             "url_hash": "59e37fe4a2965c5937f1424864152a62a85d8861b9af507d1ddd51c0778f22b8",
@@ -15477,6 +15532,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-06-07 15:04:15"
+        },
+        {
+            "id": 4303,
+            "url": "https://klipy.com/gifs/oops-292",
+            "url_hash": "5b575cd47a19ea9aaeb07951a2ce4a498c0729dd31c6a0b2950e73797a353089",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/oops-292",
+            "last_update": "2026-11-16 14:59:06"
         },
         {
             "id": 207,
@@ -25311,6 +25377,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-10 08:41:16"
+        },
+        {
+            "id": 4302,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1571879782721921044/RDT_20261116_152539.mp4?ex=6afc56a0&is=6afb0520&hm=dc502edbca075943a8bc9757145f8e75018824bbdd43b5aec42966fd803663bb&",
+            "url_hash": "9654cf8f4e0a507c25d7a8bdeda025451099362083b63bfbc424f9040e9757d9",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-16 13:29:05"
         },
         {
             "id": 2609,
@@ -39239,6 +39316,17 @@
             "last_update": "2026-06-04 20:15:03"
         },
         {
+            "id": 4300,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1571807158293495828/RPReplay_Final1573106945.mov?ex=6afc12fd&is=6afac17d&hm=a42439308669b6b508ea5bbf2e9d8de0e542c5a8bd1cc782df8ab6a1b26f15d3&",
+            "url_hash": "e728ac466685558530eabc171dfb0f026726d09a4b338374d01ecaeb405c17a4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-16 08:40:29"
+        },
+        {
             "id": 3896,
             "url": "https://klipy.com/gifs/mrbeast-discord-scam",
             "url_hash": "e73874307d919ee4e84d339cf7297a9e98fe9919bb7ffbce8378abe70fcc3c4b",
@@ -40122,12 +40210,12 @@
             "id": 84,
             "url": "https://dontasktoask.com/",
             "url_hash": "ec645379d1e8a99616bc977b8a73defd58718bb5c12b57e14fa4e045eabdb039",
-            "times_seen": 6,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://dontasktoask.com/",
-            "last_update": "2026-09-27 05:31:57"
+            "last_update": "2026-11-15 21:57:15"
         },
         {
             "id": 2485,

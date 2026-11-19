@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 1057,
+    "num_of_entries": 1058,
     "files": [
         {
             "sha256": "00211cc0421bfe4462c2da7331bb1d78e4c86bc19f7816b048e4964d08ed6cf8",
@@ -7147,6 +7147,13 @@
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "last_update": "2026-01-24 15:12:46"
+        },
+        {
+            "sha256": "f6faeb2c93515a0bc770690a24bbe94df2e4ed26284403d8caed5b1fb26b259e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "last_update": "2026-11-19 13:27:30"
         },
         {
             "sha256": "f7244b19cb5daee2dfa8943f8990c7724cd6ac6e8c1821246baf2dad505be914",

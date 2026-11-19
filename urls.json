@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4004,
+    "num_of_entries": 4010,
     "links": [
         {
             "id": 3653,
@@ -726,6 +726,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/lopezdoriga/status/1989895952480583998",
             "last_update": "2025-11-16 17:18:02"
+        },
+        {
+            "id": 4320,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1572849022027178084/Joel_from_Vinesauce_singing_Photograph_by_Nickelback_GGxkGaGjKRw.mp4?ex=6affdd4c&is=6afe8bcc&hm=92f93b1b0d1999a637fdbfeb8df71f13d8daf3eb4edaa441880107592d77bc92&",
+            "url_hash": "047104e4cb985a7f7c6094528b596445c46225b0be9c09a33e31f97ed14cfa12",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-19 05:40:29"
         },
         {
             "id": 2345,
@@ -7713,6 +7724,17 @@
             "last_update": "2026-03-15 06:48:29"
         },
         {
+            "id": 4324,
+            "url": "https://youtube.com/shorts/sjTCGkq7PRk",
+            "url_hash": "2e13b9fa5d19a5edc99007e4b9c710a70801fca563f4b1313e58bb29fceeecd5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-19 12:57:31"
+        },
+        {
             "id": 1486,
             "url": "https://cdn.discordapp.com/attachments/1101586623206019223/1459680682656923931/cb66cf56ffd7d89fddd09c109569e5d317e28bf669370c5d2117fa1cd7c8f8da_1.mp4?ex=69642912&is=6962d792&hm=a4bc9dc35f65d2d9495e940d19cf927d0de8279f799274bd9deea3387988eb5d&",
             "url_hash": "2e16b9096fc935cd81758ecb5cbf19fc3d0f6d83787e6ff49a73442a85a5f6a7",
@@ -13015,6 +13037,17 @@
             "last_update": "2026-10-22 01:50:19"
         },
         {
+            "id": 4323,
+            "url": "https://i.imgur.com/Z57RJyf.png",
+            "url_hash": "4a62ab923bd0edfa3a4d50c06b40d7166390f3092c1081ae95aeead341448c9e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://i.imgur.com/Z57RJyf.png",
+            "last_update": "2026-11-19 10:12:51"
+        },
+        {
             "id": 1760,
             "url": "https://fixupx.com/Bubblebathgirl/status/1901458640797655291",
             "url_hash": "4a6f78717a143dd968e155aedc965cae2f28d24399a3ae99b35e8217cfc7c596",
@@ -16500,6 +16533,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-23 18:54:34"
+        },
+        {
+            "id": 4322,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1572901499023917076/RDT_20261119_110827.mp4?ex=6b000e2c&is=6afebcac&hm=5288a44f0a0f39e6cb857a307b0619223aba46c0e415eebbe0816d159a5d858d&",
+            "url_hash": "60d0aaafad340d943d0f52a48cc07493064670f05d36df5517b41c27d50be7f1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-19 09:09:02"
         },
         {
             "id": 3413,
@@ -30167,12 +30211,12 @@
             "id": 4126,
             "url": "https://klipy.com/gifs/head-ache-5",
             "url_hash": "b116b4091e8074b1535e636d91e45f658df0ebea87e73d30b18ebddd269222f1",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/head-ache-5",
-            "last_update": "2026-10-26 15:30:50"
+            "last_update": "2026-11-19 13:42:06"
         },
         {
             "id": 1753,
@@ -36720,6 +36764,17 @@
             "last_update": "2026-06-14 12:03:50"
         },
         {
+            "id": 4319,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1572792310629146644/ScreenRecording_08-29-2026_08-59-25_1.mov?ex=6affa87b&is=6afe56fb&hm=0237fd9fc65be012749293a23db470e77753f0d8e8d311df443cc994b124b005&",
+            "url_hash": "d5defd78d47b7f621b6beac15e5091f0c6a399079c5001a0d5937f1b9ec7ecf8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-19 01:55:08"
+        },
+        {
             "id": 23,
             "url": "https://en.wikipedia.org/wiki/Betavoltaic_device",
             "url_hash": "d5f34634a5e0a7a092fe42324bac2412de6bcfd536b93add7732c438b08c54ec",
@@ -40535,6 +40590,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/jj_talking/status/1994485042761089300",
             "last_update": "2025-11-30 01:02:52"
+        },
+        {
+            "id": 4321,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1572881575589314631/VID-20261119-WA0008.mp4?ex=6afffb9e&is=6afeaa1e&hm=9673b0c85ad91feddafff50495a93d946abf7666b7115ddfc01e52bd830e7a68&",
+            "url_hash": "ed3d71486adb2554d986e22b07f1ffeea02b6dc71e79182f3f28591b5cf44e7b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-19 07:49:51"
         },
         {
             "id": 3396,

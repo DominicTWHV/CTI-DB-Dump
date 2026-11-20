@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4010,
+    "num_of_entries": 4012,
     "links": [
         {
             "id": 3653,
@@ -13598,6 +13598,17 @@
             "last_update": "2026-08-24 14:47:19"
         },
         {
+            "id": 4326,
+            "url": "https://klipy.com/gifs/elmo-burn-2",
+            "url_hash": "4e76eb93000e5b957374d8bdfdf512154bb3d4203097a40c72c4b064936575fe",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/elmo-burn-2",
+            "last_update": "2026-11-20 12:41:05"
+        },
+        {
             "id": 2085,
             "url": "https://youtu.be/ySx84Ca7BFQ?si=qIf78NxPn6evcDB-",
             "url_hash": "4e8d82fed0bdc47c90e8a502aefa76312b89581a9e521bd0c2dcf2e6ac0ab1bc",
@@ -14949,6 +14960,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-17 06:35:08"
+        },
+        {
+            "id": 4327,
+            "url": "https://youtu.be/t1_xFcuphBs",
+            "url_hash": "562d596e42f25cb7297b0e18bef6cce0cb2a3ddc1b19085c71fd4c0bdf09df9f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-20 13:06:26"
         },
         {
             "id": 3906,

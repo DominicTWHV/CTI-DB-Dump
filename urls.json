@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4012,
+    "num_of_entries": 4021,
     "links": [
         {
             "id": 3653,
@@ -561,6 +561,17 @@
             "is_redirect": 0,
             "downstream_target": "https://imgur.com/sKvEFi4",
             "last_update": "2025-08-20 09:09:10"
+        },
+        {
+            "id": 4331,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1573464043807703110/IMG_4835.mov?ex=6b021a15&is=6b00c895&hm=8a44f48cf9f23793f53fcbae68d22693c62165fe6d67e19ec592d347dcb6dfee&",
+            "url_hash": "038cc771013440013500e2fe482fb17259f683afe14f7d8d49489cdbb6921fe1",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-20 22:24:22"
         },
         {
             "id": 3725,
@@ -2211,6 +2222,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-19 21:45:18"
+        },
+        {
+            "id": 4332,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1573494648415064174/ScreenRecording_08-23-2026_15-47-20_1.mov?ex=6b023696&is=6b00e516&hm=39aac559ef6041bc23497cc4594342265d3e0ab68e1c4faaa65451d6de498434&",
+            "url_hash": "0d5c79f30b4f03c6985c7da6977177c979afa4fd4a618d52445ab5562ba0662f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-21 00:25:58"
         },
         {
             "id": 1085,
@@ -7040,6 +7062,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.researchgate.net/publication/395804578_Davidane_a_polycyclic_alkane_of_significant_chemical_and_notable_iconic_interest_a_computational_study",
             "last_update": "2026-02-24 18:36:36"
+        },
+        {
+            "id": 4335,
+            "url": "https://fixupx.com/MrV1277380/status/2123849626075697637",
+            "url_hash": "2970168777b0111cbf7db45025bfca425c17666902626a0721b4dc78099a263b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-21 13:42:19"
         },
         {
             "id": 1312,
@@ -18746,6 +18779,17 @@
             "last_update": "2025-08-09 18:44:47"
         },
         {
+            "id": 4336,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1573699284837072936/RDT_20261121_155627.mp4?ex=6b02f52b&is=6b01a3ab&hm=3c32069f4f7609f2a77e5df4b11873326de1b3e4b0c55862812bbc0530b3d5cf&",
+            "url_hash": "6e197ef040468bb9af577e653bce8d84f50a5e85c3567a3475f66ae17ac9f9b7",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-21 13:59:08"
+        },
+        {
             "id": 3294,
             "url": "https://klipy.com/gifs/michael-scott-34",
             "url_hash": "6e24141ef9d436b0b552a0b8640c3bcf4e2643c395a870dd63e12ce04d1e85cd",
@@ -28140,6 +28184,17 @@
             "last_update": "2026-01-05 19:30:43"
         },
         {
+            "id": 4333,
+            "url": "https://www.ti.com/product/TDEL1G533",
+            "url_hash": "a45c7f0ffb7249261faf2750a300f1c96ebb010b548827c8b18c674ed486c67e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.ti.com/product/TDEL1G533",
+            "last_update": "2026-11-21 01:39:21"
+        },
+        {
             "id": 3114,
             "url": "https://www.kkinstagram.com/reel/DZeH-IzROeU/",
             "url_hash": "a489530fcc96717a12bb3fd354526c738a95e1494dcf284a81e110594aa584f3",
@@ -28534,6 +28589,17 @@
             "is_redirect": 0,
             "downstream_target": "https://www.adafruit.com/product/4694",
             "last_update": "2025-10-16 16:46:49"
+        },
+        {
+            "id": 4328,
+            "url": "https://klipy.com/gifs/snapping-fingers-angie-wilson",
+            "url_hash": "a78b2ab5a9f0c16c258e44b02eb7ad6a3f4aab89f06f737b792ed02f0bd81fa4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/snapping-fingers-angie-wilson",
+            "last_update": "2026-11-20 17:50:57"
         },
         {
             "id": 2937,
@@ -29491,6 +29557,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/YossiBenYakar/status/1970322114545959226",
             "last_update": "2025-09-27 20:33:05"
+        },
+        {
+            "id": 4334,
+            "url": "https://discord.com/channels/1074967630357725204/1229323330331480094/1573351190622900264",
+            "url_hash": "acdf53933a00c7e1f6c6706cd5571722636b9ccbc12adbbf266b1b7de45f27f3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-21 05:18:38"
         },
         {
             "id": 2791,
@@ -37688,6 +37765,17 @@
             "last_update": "2025-11-26 20:23:22"
         },
         {
+            "id": 4330,
+            "url": "https://auxbeam.com/products/%F0%9F%86%95-3-inch-triple-direct-bi-led-projector-headlight-gd002791",
+            "url_hash": "dabed6b9b94e779ea1ab2d0009c36bf375e54cbdad1dfe4916e0fb83ab20b0f4",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://auxbeam.com/products/%F0%9F%86%95-3-inch-triple-direct-bi-led-projector-headlight-gd002791",
+            "last_update": "2026-11-20 19:39:54"
+        },
+        {
             "id": 3867,
             "url": "https://cdn.discordapp.com/attachments/1551952851633307708/1551952852149215312/vvs85hh7hzbxvxpf3h40rvpsp17kfj9z1ppkdm4h5wh58jjb6k81n6r8k5d30mqstmh9676vqxx0j3k9r92spsmbnvjmqr8dvpnxvkpvx48sn1tkmz6vftzqzqq0hv4wdx4vmvqtzqdrvj84z6d3m321t12ppzqhm9vk4wv3mvpx9r2817tnd0p9zsx53j9ftb208p9n.mp4?ex=6ab3d839&is=6ab286b9&hm=ca932a6a92a26858800cce69c2aadf5b7fa10c1875fc6515ec5a9de8ebb2783d&",
             "url_hash": "dace95e2998263430d55c8c893ec1f962ab8e70782a1392ab362aa121600feb2",
@@ -43043,6 +43131,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-23 17:40:52"
+        },
+        {
+            "id": 4329,
+            "url": "https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282",
+            "url_hash": "f9fcf541528baca91a6ee4da0f236525b13dec4420f90154246d26e4113fbac6",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-20 18:30:40"
         },
         {
             "id": 3745,

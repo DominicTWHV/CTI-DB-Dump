@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4021,
+    "num_of_entries": 4041,
     "links": [
         {
             "id": 3653,
@@ -473,6 +473,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-04 16:48:19"
+        },
+        {
+            "id": 4356,
+            "url": "https://www.reddit.com/r/samsunggalaxy/comments/1r2rq84/how_to_get_this_watermark_on_photos/",
+            "url_hash": "02f7e2b4dd6586f2c78c442f201d7daf78bab21359669966f4843df4b5b668d8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/samsunggalaxy/comments/1r2rq84/how_to_get_this_watermark_on_photos/",
+            "last_update": "2026-11-22 15:59:09"
         },
         {
             "id": 2119,
@@ -2816,6 +2827,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-11-29 16:32:03"
+        },
+        {
+            "id": 4353,
+            "url": "https://youtu.be/Ds0qNMiMrrQ",
+            "url_hash": "103a2f9a8a577bb8ba3a9912527bc2f2bea12a27ad7fd2912b5c8b8b5fa21512",
+            "times_seen": 2,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-22 15:52:41"
         },
         {
             "id": 360,
@@ -6138,6 +6160,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-16 21:04:23"
+        },
+        {
+            "id": 4345,
+            "url": "https://cdn.discordapp.com/attachments/1074969871080767549/1573775949118570716/IMG_20261121_130031.jpg?ex=6b033c91&is=6b01eb11&hm=f5867b14980095f3144c257a4daefc734ade0da38a78c00f9dda3161a9eae9c4&",
+            "url_hash": "23abadd304d468a8f76f1fb32b97af7a0b228d1842e1ffe1afde492a6d358366",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-21 19:03:46"
         },
         {
             "id": 958,
@@ -10727,6 +10760,17 @@
             "last_update": "2026-05-17 10:40:20"
         },
         {
+            "id": 4346,
+            "url": "https://klipy.com/gifs/tom-delonge-blink182-1",
+            "url_hash": "3dbf3f4234e057ad1bf6bdf74aec5f4917d5781d4f0c270271a750bacb891f65",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/tom-delonge-blink182-1",
+            "last_update": "2026-11-21 19:06:15"
+        },
+        {
             "id": 3486,
             "url": "https://youtube.com/shorts/9AnydQCk7PU",
             "url_hash": "3dd9e43633b9b0b13efd6597883af63b810956db19dfcb98ac610776cfc96c9e",
@@ -14984,6 +15028,17 @@
             "last_update": "2026-09-09 17:23:41"
         },
         {
+            "id": 4338,
+            "url": "https://klipy.com/gifs/fuck-microsoft",
+            "url_hash": "56269923c35a26b3f128fac2fdfc5f8b4257a1dfd6eb59cbf0547579a0f269b5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/fuck-microsoft",
+            "last_update": "2026-11-21 17:38:21"
+        },
+        {
             "id": 1928,
             "url": "https://www.youtube.com/shorts/KVP_X5lF_dw",
             "url_hash": "5628998179de5c96f80fb10d0f651c6637bdec771fc5918a63589865c9064179",
@@ -15026,6 +15081,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.reddit.com/r/PrintedCircuitBoard/comments/1nx23iu/review_request_audio_dsp_board_with_codec_chip/?share_id=nLC8vG6FwxRekXz6vFyeA&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1",
             "last_update": "2025-10-06 16:06:51"
+        },
+        {
+            "id": 4341,
+            "url": "https://www.adafruit.com/product/5291",
+            "url_hash": "5679c7594183c50d2ed5a8cf2ece4ea09eba55ab145cbd65d69059e07f650a3e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-21 18:42:39"
         },
         {
             "id": 2359,
@@ -17028,6 +17094,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.gofundme.com/f/angelo-afford-his-back-surgery/cl/s?attribution_id=sl:34aeb862-e2d9-4d5c-a788-fd190c219061&lang=en_US&ts=1759055118&utm_campaign=fp_sharesheet&utm_content=amp13_t1&utm_medium=customer&utm_source=copy_link",
             "last_update": "2025-09-28 10:31:20"
+        },
+        {
+            "id": 4350,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1574032304551108799/RDT_20261122_135720.mp4?ex=6b042b51&is=6b02d9d1&hm=ba06b42a44242b7d4b00a42f890225ea3c8640899110114fc1432daee32ae6a0&",
+            "url_hash": "63a7f64cd806074bd075389231b7397922a50fa9d9afbd56373e49e719537e54",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-22 12:02:26"
         },
         {
             "id": 3532,
@@ -21274,6 +21351,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.aliexpress.com/p/error/404.html",
             "last_update": "2025-08-13 18:15:45"
+        },
+        {
+            "id": 4355,
+            "url": "https://www.reddit.com/r/galaxys10/comments/1jd8pkv/finding_watermark_optiin/",
+            "url_hash": "7e2170c1e87c9e92053e18b3e8c4f1d236f46492bfd538a1f26712c56862b861",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/galaxys10/comments/1jd8pkv/finding_watermark_optiin/",
+            "last_update": "2026-11-22 15:58:59"
         },
         {
             "id": 3346,
@@ -27491,6 +27579,17 @@
             "last_update": "2026-07-21 05:37:12"
         },
         {
+            "id": 4354,
+            "url": "https://www.reddit.com/r/S22Ultra/comments/16yvxh2/how_to_add_watermark/",
+            "url_hash": "a0bce4f29935529680438b1ad1c6878a70150fe89add8e7360f2e60cba3aa235",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://www.reddit.com/r/S22Ultra/comments/16yvxh2/how_to_add_watermark/",
+            "last_update": "2026-11-22 15:58:36"
+        },
+        {
             "id": 2467,
             "url": "https://tenor.com/view/fish-fishing-cooking-hacks-incredible-cooking-hacks-toothpaste-gif-1741589522690440249",
             "url_hash": "a0c00d795884d967826ae9d06cd288dda9243447fad3331cceb5a9292dad479e",
@@ -28809,6 +28908,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-21 00:04:15"
+        },
+        {
+            "id": 4352,
+            "url": "https://www.mouser.com/catalog/specsheets/KYOCERA_910_00016_WF_KyoceraSLDLaser_Data_Sheet_SMD_White_IR_1kh_14SEP22.pdf",
+            "url_hash": "a8fb00d243cbb6541f00a089323162ba0aa83d26d0d0eb85619fab2bd5201af5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-22 15:03:36"
         },
         {
             "id": 1407,
@@ -30659,6 +30769,17 @@
             "last_update": "2025-10-29 00:03:46"
         },
         {
+            "id": 4348,
+            "url": "https://klipy.com/gifs/discordia-goofy-ahh",
+            "url_hash": "b2a9f82346d1e5b28d424d8d0f40e634c377aa3fcf4f834b3e5c644c92a10d27",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/discordia-goofy-ahh",
+            "last_update": "2026-11-22 01:37:04"
+        },
+        {
             "id": 916,
             "url": "https://cdn.discordapp.com/attachments/426116061415342080/1435651489489223880/VID_20251105_102525_527.mp4?ex=690cbe24&is=690b6ca4&hm=433ce96e3696a835f20ce6151fc9459557a5f8860169dbe9ec5576d6089db442&",
             "url_hash": "b2ac90628bfb6fa55eb18a6ec01e8fb0165a2a2ed67da590133ce611bac8f526",
@@ -31198,6 +31319,17 @@
             "last_update": "2025-08-18 15:01:10"
         },
         {
+            "id": 4343,
+            "url": "https://klipy.com/gifs/wallet-2",
+            "url_hash": "b6c4e1fed8a0f9afcacdc30a0c6cbdb6eecdcaf7f2dac491656e8f63b545d244",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/wallet-2",
+            "last_update": "2026-11-21 18:59:32"
+        },
+        {
             "id": 2398,
             "url": "https://www.ebay.ca/itm/183831699245",
             "url_hash": "b6ce414532cdb7bab6d59940cfc133709e387f8fb801985cd4655c814ed76e80",
@@ -31473,6 +31605,17 @@
             "last_update": "2026-10-30 22:38:10"
         },
         {
+            "id": 4351,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1574043535420948510/ScreenRecording_11-22-2026_06-46-14_1.mov?ex=6b0435c7&is=6b02e447&hm=d67b3bce146741fa1902430e19c2462333828c1ffccff9c4f28e4b45b5faf0b4&",
+            "url_hash": "b87e50b8314eacf3ed157272447521e725f79a438f7e2790dcb241447e10dbca",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-22 12:47:03"
+        },
+        {
             "id": 286,
             "url": "https://tenor.com/view/patrick-stupid-stupid-town-hey-buddy-spongebob-gif-6574682199670721484",
             "url_hash": "b8b4a795da3c56793c0ab119c58e1b9f8adaf84073f6e30ca25be812db0a726f",
@@ -31559,6 +31702,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-31 14:09:10"
+        },
+        {
+            "id": 4342,
+            "url": "https://klipy.com/gifs/shifu-i-dont-know",
+            "url_hash": "b91e4c075fc5db6e5c6a0f85ad9b08c7ea15a8623d44add6b9aa94e80a4cb9e5",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/shifu-i-dont-know",
+            "last_update": "2026-11-21 18:46:40"
         },
         {
             "id": 4295,
@@ -32936,6 +33090,17 @@
             "last_update": "2025-10-08 11:29:03"
         },
         {
+            "id": 4349,
+            "url": "https://klipy.com/gifs/what-the-the",
+            "url_hash": "c1406ef5f089e23a5eb1549698a8e2c97a4367044fba22cb61365e1f7b84ca74",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/what-the-the",
+            "last_update": "2026-11-22 03:10:17"
+        },
+        {
             "id": 2806,
             "url": "https://tenor.com/view/gem-finding-gem-gem-alert-jasswa-looking-for-gem-gif-4573895384736430461",
             "url_hash": "c15d9fb4a925fb1d507a663dcfab60890a60433ab85d639e6268d922ee032a4c",
@@ -33143,6 +33308,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/cat-thumbs-up-cat-thumbs-up-meme",
             "last_update": "2026-11-13 23:51:53"
+        },
+        {
+            "id": 4357,
+            "url": "https://cdn.discordapp.com/attachments/1074993070174638162/1574093045463515186/Screenrecording_20261122_180309.mp4?ex=6b0463e3&is=6b031263&hm=7c759db329afa277f0a18c8a2be545959bc1c762461512a9b685b357491fb10c&",
+            "url_hash": "c29217f225e6cac322139db8fb607d1b8a21742632081a24b6dab47afd222d9e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-22 16:03:47"
         },
         {
             "id": 707,
@@ -34828,6 +35004,17 @@
             "last_update": "2026-04-01 20:56:49"
         },
         {
+            "id": 4337,
+            "url": "https://youtu.be/LSKthw2AbeU",
+            "url_hash": "cc72a99bb59eee04108f2d398bb5e1699eb3c218b2a6ba7c018612df5883e708",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-21 17:20:14"
+        },
+        {
             "id": 51,
             "url": "https://tenor.com/view/big-brain-markiplier-gif-14835823",
             "url_hash": "cc77ed6b430ba445372d3535d3ab88485d97d03f876c8784d85a651f58b436d1",
@@ -35134,6 +35321,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-08-15 05:34:55"
+        },
+        {
+            "id": 4339,
+            "url": "https://radicalmotorsport.com/cars/sr3",
+            "url_hash": "cdde10e2184c6d6fc375090322bb31106044f8afeaacdac624aa362d3425f7cf",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://radicalmotorsport.com/cars/sr3",
+            "last_update": "2026-11-21 17:53:48"
         },
         {
             "id": 1601,
@@ -43078,6 +43276,17 @@
             "last_update": "2026-09-02 17:06:46"
         },
         {
+            "id": 4340,
+            "url": "https://www.amazon.co.uk/sspa/click?ie=UTF8&spc=MToxNjYxMzY0NzQzMTI4NTA6MTc5NTI4NDM2NTpzcF9hdGY6MzAwNDYxMTgyNDMwMjMyOjowOjo&url=%2FNOVSIGHT-H11-LED-Headlight-Bulbs%2Fdp%2FB0DR1RYHP4%2Fref%3Dsr_1_1_sspa%3Fadgrpid%3D1185275897010780%26dib%3DeyJ2IjoiMSJ9.cOJv0FFxW8Dqc6tmRhCNdtNXJoukuAsGWdiJPMSUTI0qJRsMi6SC0BnnghSl2bZAEOgkYWBTA032kl2E-S1WP-_qjxlJoHcBaF4_tH47_aKptnXxwk-fd2iGxr3ht4WLvsbaDITocjUHkSzbG1ZC7H3jyB3P29AFpWT5Njgh8k0Z2Y5FKSJKc3oCq4q7VuaU1E4joZd9lvzLNi5TYWNrDZvHvI8DEOh4IGG-l7_OTsM.2Y6wu0XyVE31SCQneJjpwVLJZgtUKcbSCkdfXzo_b1w%26dib_tag%3Dse%26gb%3D2%26hvadid%3D74079972971818%26hvbmt%3Dbe%26hvdev%3Dc%26hvexpln%3D0%26hvlocphy%3D41684%26hvnetw%3Ds%26hvocijid%3D16635269219531514399--%26hvqmt%3De%26hvtargid%3Dkwd-74080527313012%253Aloc-188%26hydadcr%3D6845_2403929_313099%26keywords%3Dlaser%2Bheadlight%2Bbulb%26mcid%3D9315f0e4ef983a9f8ab720eb82621a22%26qid%3D1795284365%26sr%3D8-1-spons%26aref%3DsgdStmvdPc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=sgdStmvdPc&sp_cr=ZAZ",
+            "url_hash": "f9ddf7a917be8318451566e549e9b4f090f7efb94a8b47c3b5ab3749d4b9fe27",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-21 18:06:18"
+        },
+        {
             "id": 762,
             "url": "https://tenor.com/view/demon-core-beloved-locket-nonagon-gif-26043045",
             "url_hash": "f9e0bbdc861f7c2b47d0bce6cb8d2281279942c0310a01b57fdca865319954bb",
@@ -43725,6 +43934,17 @@
             "is_redirect": 1,
             "downstream_target": "https://www.facebook.com/photo/?fbid=122297998862242470&set=a.122100852548242470",
             "last_update": "2026-05-30 01:07:54"
+        },
+        {
+            "id": 4347,
+            "url": "https://klipy.com/gifs/turning-it-off-and-on-again-1",
+            "url_hash": "fd38609ed11e983cefc8e00a31607517b1fefe99852e7ecbd30d9f4345e08219",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/turning-it-off-and-on-again-1",
+            "last_update": "2026-11-21 19:14:54"
         },
         {
             "id": 2829,

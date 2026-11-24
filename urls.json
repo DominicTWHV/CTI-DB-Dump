@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4041,
+    "num_of_entries": 4049,
     "links": [
         {
             "id": 3653,
@@ -2860,6 +2860,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-10-08 00:13:59"
+        },
+        {
+            "id": 4361,
+            "url": "https://klipy.com/gifs/oxy-minecraft",
+            "url_hash": "1075ebe78ff9f4a7bcf4af42f9b9a21ffb481bf9a93a200fa25e6d335283c7f2",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/oxy-minecraft",
+            "last_update": "2026-11-23 14:52:06"
         },
         {
             "id": 1426,
@@ -6149,6 +6160,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-01-17 14:58:06"
+        },
+        {
+            "id": 4360,
+            "url": "https://klipy.com/gifs/robots-soccer",
+            "url_hash": "23913f96af67aa21927d83a5b6b76adb6ca6878bf96fd16a4e868cd66511e641",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/robots-soccer",
+            "last_update": "2026-11-23 12:44:11"
         },
         {
             "id": 1925,
@@ -15625,12 +15647,12 @@
             "id": 4282,
             "url": "https://klipy.com/gifs/anakin-liar",
             "url_hash": "5a3ec6d116e634272081b02efdd5302a3cede268f7faad11365057ee16e1eeda",
-            "times_seen": 1,
+            "times_seen": 2,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/anakin-liar",
-            "last_update": "2026-11-13 17:44:41"
+            "last_update": "2026-11-23 15:41:31"
         },
         {
             "id": 2432,
@@ -16280,6 +16302,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-03-08 07:12:21"
+        },
+        {
+            "id": 4364,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1574465912822694039/IMG_4118.mp4?ex=6b05bf25&is=6b046da5&hm=fec6b856733e34aa6e3a5d1ef3389e81a271d7e2a7a09c81bf76d5c33de82fae&",
+            "url_hash": "5ecd8a0b2149cb9c0390ec3636fc1785a026e1ecf4f979fca1bb03b16afa31d8",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-23 16:45:26"
         },
         {
             "id": 2766,
@@ -28415,6 +28448,17 @@
             "last_update": "2025-11-25 07:29:58"
         },
         {
+            "id": 4362,
+            "url": "https://klipy.com/gifs/funny-funny-memes-9",
+            "url_hash": "a547ddcf660d3a27b774cb88ec20a413255718a0e2564fb2be79b8c47f2b957e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/funny-funny-memes-9",
+            "last_update": "2026-11-23 15:20:37"
+        },
+        {
             "id": 2214,
             "url": "https://www.youtube.com/watch?v=Nd8jgjQ1bwk",
             "url_hash": "a54d8f58e47730ad57a72593a4907f11b2ef98e6a5f5cfd05457165821bebd49",
@@ -32378,12 +32422,12 @@
             "id": 3822,
             "url": "https://klipy.com/gifs/murica-17",
             "url_hash": "bc73022ace810dedf615d71892dee4377d87acb45c6390357a19eb8c0fd68ab3",
-            "times_seen": 2,
+            "times_seen": 3,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/murica-17",
-            "last_update": "2026-09-19 16:59:57"
+            "last_update": "2026-11-23 10:42:43"
         },
         {
             "id": 4173,
@@ -34045,6 +34089,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/nicksortor/status/1994848774305587579",
             "last_update": "2025-11-30 01:04:57"
+        },
+        {
+            "id": 4363,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1574450319285288991/ScreenRecording_11-21-2026_15-42-15_1.mov?ex=6b05b09f&is=6b045f1f&hm=84c861ca9202025ca9ed9e0e73fd8272eecbf141dca7153a35040f615600e332&",
+            "url_hash": "c653478c08e5e1913853e2c6894e2cdfa128ef8879465487a631f6856308dc73",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-23 15:43:29"
         },
         {
             "id": 1145,
@@ -36159,6 +36214,17 @@
             "last_update": "2025-10-15 14:26:22"
         },
         {
+            "id": 4359,
+            "url": "https://www.youtube.com/watch?v=8s9TjRz01fo",
+            "url_hash": "d1a58909d771f12371ca88c85243a7360db3cafa1aeeeaaba3a7bba149e638e0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-23 01:30:17"
+        },
+        {
             "id": 2185,
             "url": "https://tenor.com/view/guaton-computadora-enojado-computer-rage-gif-14480338",
             "url_hash": "d1c1b1e91838c824ea995f2cbae8122a087ae5669bcd964227a4323a7c4d25fa",
@@ -37136,6 +37202,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-30 16:33:50"
+        },
+        {
+            "id": 4365,
+            "url": "https://klipy.com/gifs/fake-news-16",
+            "url_hash": "d665cb506c628d6bc142aed80e96a9469dcef89c707e7694e07fb24fe21afd8b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/fake-news-16",
+            "last_update": "2026-11-23 17:35:12"
         },
         {
             "id": 2028,
@@ -43681,6 +43758,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-08-18 14:31:56"
+        },
+        {
+            "id": 4358,
+            "url": "https://www.youtube.com/watch?v=6iZg_NbQ3vc",
+            "url_hash": "fb906127f3dc63add8a0e8f378148608a7f9b2bde4131def3c0d980eae7ad75d",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-23 01:13:17"
         },
         {
             "id": 2845,

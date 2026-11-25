@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4049,
+    "num_of_entries": 4050,
     "links": [
         {
             "id": 3653,
@@ -19800,6 +19800,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-02-28 02:28:42"
+        },
+        {
+            "id": 4366,
+            "url": "https://www.facebed.com/reel/1704008851112832",
+            "url_hash": "739cdf6f4793a3802e4a4e5b9e3f2848106c9a459b835a91731a5ed59f385076",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 1,
+            "downstream_target": "https://www.facebook.com/reel/1704008851112832",
+            "last_update": "2026-11-24 13:27:01"
         },
         {
             "id": 4077,
@@ -40683,12 +40694,12 @@
             "id": 390,
             "url": "https://dontasktoask.com",
             "url_hash": "eb9abc4c5374bc37205b845a14a57f81a619028164de4c9df636201e42b187f9",
-            "times_seen": 6,
+            "times_seen": 7,
             "scan_result": "[DATA REDACTED]",
             "categorization": "Harmless",
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
-            "last_update": "2026-11-06 06:42:27"
+            "last_update": "2026-11-24 05:54:23"
         },
         {
             "id": 708,

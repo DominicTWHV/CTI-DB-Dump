@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 34,
+    "num_of_entries": 35,
     "invites": [
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$K9UXpkZzNoQO5O2RCOj9EQ$i/nOe/Mdom9asCl8rogKq42xtPcyoT1QxoSrMDM666o",
@@ -38,10 +38,10 @@
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$zR1CL0EQeF3XR/hZRaseVQ$3S5YH+TyJ1Jf2WIWDSH7bGhZoYLqgpeoT3sj6lZyDz0",
-            "times_seen": 1,
+            "times_seen": 2,
             "categorization": "Malicious",
             "resolution": "Love Gir********",
-            "last_update": "2026-04-13 10:07:56"
+            "last_update": "2026-11-24 04:30:21"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=2,p=4$Qb8F6tlYngxARJFe3DVQHA$VZqpnrfKayFdovbwmw5Ee8thc6HBrwJB6VBdoNEjAXU",
@@ -126,6 +126,13 @@
             "categorization": "Harmless",
             "resolution": "Jell****",
             "last_update": "2026-01-18 16:30:24"
+        },
+        {
+            "invite": "$argon2id$v=19$m=65536,t=2,p=4$oP8KIzwsu7aRaN8Wyw2QCQ$jyTlIVHEc5kzdYCH0cDJjWAzRdqSVqOvRls1kXp+CE0",
+            "times_seen": 2,
+            "categorization": "Harmless",
+            "resolution": "A CHILL T*********",
+            "last_update": "2026-11-24 03:37:48"
         },
         {
             "invite": "$argon2id$v=19$m=65536,t=3,p=4$SsD/11+FniPzRkE1esgCbg$UgLsfk7fDxYgI4i/mCnvK5fhgn9Xz/beHYCVSHba4DM",

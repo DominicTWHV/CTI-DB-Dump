@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4050,
+    "num_of_entries": 4053,
     "links": [
         {
             "id": 3653,
@@ -23432,6 +23432,17 @@
             "last_update": "2026-03-31 08:56:35"
         },
         {
+            "id": 4369,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1574955071806906478/ScreenRecording_11-24-2026_18-38-16_1.mov?ex=6b0786b6&is=6b063536&hm=382a411ddb5256a4153fc2ffa231301b947c33f7727f23706812eb84036c9e35&",
+            "url_hash": "895bc78764b82e8ca0512536cde684a1a919e5078f523f85714c984307433d0b",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-25 01:09:11"
+        },
+        {
             "id": 984,
             "url": "https://tenor.com/view/dance-old-man-dancing-disco-stepping-step-gif-1787924727892494944",
             "url_hash": "89793af948f31f47978227d2fdd3f9c5c68c83997076ef9198c2b46cfc2c95fc",
@@ -34993,6 +35004,17 @@
             "last_update": "2026-03-05 06:21:07"
         },
         {
+            "id": 4370,
+            "url": "https://klipy.com/gifs/mic-gain-gain-increase",
+            "url_hash": "cc1414fd31a544c0a2c4723dcd446cb740631c7ccdb05635c6d3fade52064675",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/mic-gain-gain-increase",
+            "last_update": "2026-11-25 11:05:17"
+        },
+        {
             "id": 3948,
             "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1555910743990468688/video_2026-10-03_14-53-24.mp4?ex=6ac23e4c&is=6ac0eccc&hm=2e519b54c232a86ee5add6ee26bed14058d4a5620f23f9e01bb5dc795bd2c1a6&",
             "url_hash": "cc15a982c959953fa51cbe7e0d5cae76bb7450aeb5805d63d012c007ae4c07f7",
@@ -42658,6 +42680,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-09-29 14:31:02"
+        },
+        {
+            "id": 4371,
+            "url": "https://www.youtube.com/shorts/qzmFs4NoUDA",
+            "url_hash": "f680af3190163b3bb0fd78fb802fc3e1dab215516048ddaa630385c8cd3ab49a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-25 18:13:22"
         },
         {
             "id": 939,

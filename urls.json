@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4053,
+    "num_of_entries": 4056,
     "links": [
         {
             "id": 3653,
@@ -8613,6 +8613,17 @@
             "is_redirect": 0,
             "downstream_target": "https://fixupx.com/Tablesalt13/status/2033001223704527003",
             "last_update": "2026-03-15 09:01:46"
+        },
+        {
+            "id": 4372,
+            "url": "https://klipy.com/gifs/on-the-road-motorcyclist-vxJ",
+            "url_hash": "32b33df7b4ad770f8062b6ede1809ebc43a9ddd36747cade3532553dd99d1a4f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/on-the-road-motorcyclist-vxJ",
+            "last_update": "2026-11-26 10:42:01"
         },
         {
             "id": 70,
@@ -29207,6 +29218,17 @@
             "last_update": "2026-09-21 17:57:06"
         },
         {
+            "id": 4373,
+            "url": "https://turkey2nap.org/",
+            "url_hash": "aa4317e5687a7dd230a8bff1005d01111192fdd61aba863d3570e41df74254fb",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Suspicious",
+            "is_redirect": 0,
+            "downstream_target": "https://turkey2nap.org/",
+            "last_update": "2026-11-26 15:30:03"
+        },
+        {
             "id": 158,
             "url": "https://www.youtube.com/shorts/NkPPum6_kGo",
             "url_hash": "aa525211073d464f793838807719519458af1729b6d5c687d877b9c21982e526",
@@ -44231,6 +44253,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-13 15:29:26"
+        },
+        {
+            "id": 4374,
+            "url": "https://a.aliexpress.com/_EzrgcWE",
+            "url_hash": "fe001af67b793b9a7f59c6c5a69122d86279688840eda96c677faee5264ea3c3",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-26 20:31:24"
         },
         {
             "id": 2191,

@@ -1,5 +1,5 @@
 {
-    "num_of_entries": 4056,
+    "num_of_entries": 4064,
     "links": [
         {
             "id": 3653,
@@ -2431,6 +2431,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-19 13:34:51"
+        },
+        {
+            "id": 4378,
+            "url": "https://media1.tenor.com/m/SG0YhQcldrkAAAAC/zero-two-thinking.gif",
+            "url_hash": "0e4df713c17617503cc73de9da394835499aee37a8b8147620c03e25e0760e8f",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-27 08:22:20"
         },
         {
             "id": 2406,
@@ -8747,6 +8758,17 @@
             "last_update": "2026-05-20 00:30:03"
         },
         {
+            "id": 4377,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1575772640717840384/RDT_20261127_091647.mp4?ex=6b0a8021&is=6b092ea1&hm=ff0f4ddc1df59c13deb3fe57f4de2024c09b4c628b2c35a8764bf06430fa5212&",
+            "url_hash": "335690141b68ff0ed63a41592a782f1935ee32a6efa18883f35111a7eb7afd5e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-27 07:17:54"
+        },
+        {
             "id": 3433,
             "url": "https://klipy.com/gifs/juegos-zuma-deluxe",
             "url_hash": "3361a0c41764bff451442c9601f99d3af76c2f9f6840010951cdf0576ff6e2f0",
@@ -10989,6 +11011,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/deal-with-it-steve-jobs",
             "last_update": "2026-09-17 22:56:11"
+        },
+        {
+            "id": 4381,
+            "url": "https://klipy.com/gifs/1984-24",
+            "url_hash": "3ed3c1ae6788ce46b529344b44aba31cf2f9d626c511fa0cb684080628d13d52",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/1984-24",
+            "last_update": "2026-11-27 14:58:44"
         },
         {
             "id": 4024,
@@ -13717,6 +13750,17 @@
             "is_redirect": 0,
             "downstream_target": "https://klipy.com/gifs/elmo-burn-2",
             "last_update": "2026-11-20 12:41:05"
+        },
+        {
+            "id": 4380,
+            "url": "https://cdn.discordapp.com/attachments/1077231862025551903/1575875325231890582/-8973372766845445937.mp4?ex=6b0adfc3&is=6b098e43&hm=c029921c0bab20611658ac70b17fee9dffdb473338a2f788ef16125db5fd8375&",
+            "url_hash": "4e88393888f75774a47593aee64ff0931b6f296eac0bc522939e8d9c9ba532db",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-27 14:05:56"
         },
         {
             "id": 2085,
@@ -17710,6 +17754,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-05-02 14:54:08"
+        },
+        {
+            "id": 4375,
+            "url": "https://x.com/whatdoesphmean/status/2125702617817092565",
+            "url_hash": "673eef7a45539ff08e09bf59db4e33d9a34bac7628585eb3a575465e33b1a2f0",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-27 05:58:00"
         },
         {
             "id": 319,
@@ -26281,6 +26336,17 @@
             "last_update": "2025-08-31 10:16:36"
         },
         {
+            "id": 4379,
+            "url": "https://tenor.com/view/zero-two-thinking-think-hmm-anime-gif-25548409",
+            "url_hash": "997016626c58a814a30c9406343a0663c8bd7a9f2d328c81cb2555067b28a18e",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-27 08:22:20"
+        },
+        {
             "id": 563,
             "url": "https://fixupx.com/CollinRugg/status/1975677470956528128",
             "url_hash": "9986e66adcb660572fe33f5137bda247bd3b201d8c828efdc4c20ae95c96299e",
@@ -27247,6 +27313,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2025-09-27 00:07:59"
+        },
+        {
+            "id": 4376,
+            "url": "https://fixupx.com/whatdoesphmean/status/2125702617817092565",
+            "url_hash": "9e59f10e2cb2afb42426d29025e9c64057fad82a135d1b116d0e97bd2a20435a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "N/A - Domain Whitelisted",
+            "last_update": "2026-11-27 05:58:33"
         },
         {
             "id": 1146,
@@ -31889,6 +31966,17 @@
             "is_redirect": 0,
             "downstream_target": "N/A - Domain Whitelisted",
             "last_update": "2026-04-29 14:46:47"
+        },
+        {
+            "id": 4383,
+            "url": "https://klipy.com/gifs/doubt-press-x-3",
+            "url_hash": "b9c4400cfb302e7eeac822c5806ad94156fb028091ea7ec6469e839e8f0f2d5a",
+            "times_seen": 1,
+            "scan_result": "[DATA REDACTED]",
+            "categorization": "Harmless",
+            "is_redirect": 0,
+            "downstream_target": "https://klipy.com/gifs/doubt-press-x-3",
+            "last_update": "2026-11-27 22:40:52"
         },
         {
             "id": 2170,
